@@ -1,0 +1,1223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/bavaria2.1.1.1.2.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Bavaria</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.2</unitid>
+			<unittitle>Bavaria</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1173 -->
+			<c01>
+				<note>Box 1173</note>
+				<did>
+					<unitid>2.1.1.1.2</unitid>
+					<unittitle>Bavaria</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Promenade along the Isar showing bicycle path and bridle path, Munich</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10031</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Chiemsee from a distance</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10109</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Königs-See, southern end of lake</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10120</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Chalet on the southwest bank of the lake, Königs-See</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10121</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Königs-See, Obersee in the distance</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10122</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Frank R. Roberson and Mrs. Jessie W. Roberson in front of fountain, Schloss Linderhof gardens</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10125</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Fountain in play, Schloss Linderhof gardens</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10126</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Looking toward chateau from the Monopteros, Schloss Linderhof</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10131</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Front view of chateau and grape arbors taken from below the Monopteros, Schloss Linderhof</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10132</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>General view of chateau and gardens from Monopteros, Schloss Linderhof</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10133</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Looking toward the Monopteros, Linderhof gardens</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10134</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Schloss Linderhof, taken from hill behind chateau and showing rear of building and formal gardens</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10135</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Formal gardens and rear of chateau looking toward mountains, Schloss Linderhof</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10136</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Rear of chateau showing trees and mountains, taken from grape arbor, Schloss Linderhof</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10137</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Rear view of chateau with Louis XV garden, Schloss Linderhof</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10138</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Looking down on grape arbor, Schloss Linderhof gardens</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">10140</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Moorish kiosk, Schloss Linderhof, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Silver cabinet, Schloss Linderhof, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Hall of mirrors, Schloss Linderhof, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Kiosk, Schloss Linderhof, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Dining room, Schloss Linderhof, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Pink cabinet, Schloss Linderhof, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Blue cabinet, Schloss Linderhof, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Bedchamber, Schloss Linderhof, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Audience chamber, Schloss Linderhof, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Western tapestry chamber, Schloss Linderhof, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1173 -->
+			<!-- Box 1174 -->
+			<c01>
+				<note>Box 1174</note>
+				<did>
+					<unitid>2.1.1.1.2</unitid>
+					<unittitle>Bavaria</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Painting, Schloss Linderhof[?], copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Tannhäuser in Venus Grotto, Schloss Linderhof, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Venus Grotto, Schloss Linderhof, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Detail of the Feldherrnhalle, Munich</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10142</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Woman tending street can switch, Munich</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10147</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Playground of children, Munich</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10148</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Ox cart, Fern Pass Road</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10163</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Near Fern Pass</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10168</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Steep road near Fern Pass</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10169</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Road to Ober-Ammergan</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10170</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Little church near Füssen</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10171</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Pastoral scene near Füssen</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10178</materialspec>
+						<materialspec label="negativenumber">974</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Valley near Füssen</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10179</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Tree avenue near Füssen</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10183</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Stock waiting for the Clumee[?] boat</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10191</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Boat with Frank R. Roberson and party on the lake, Königs-See</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10193</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Saint Bartholomew in the chapel[?] of S.S. John and Paul, Königs-See</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10194</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Motorboat on Königs-See</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10195</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Mrs. Jessie W. Roberson and peasant girl at Königs-See</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10196</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Mrs. Jessie W. Roberson on rock at southern end of Königs-See</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10198</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Bavaria’s country church</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10201</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Hotel at Schongau</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10202</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Little village with quaint church</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10203</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Country church</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10205</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Showing German architecture in residences, Munich</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10206</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Wittlesbader Brühe[?] (statue of Otho von Wittlesbach), Munich</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10207</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Bridges over the Isar, Munich</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10208</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Church of Saint Luke, Munich</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index">10209</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Fish fountain, Munich, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Ruhmeshalle, Hall of Fame, Munich, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Hofbräuhaus beer hall, Munich, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>New town hall, Munich, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Frauenkirch towers, Munich, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Bedchamber, Schloss Neuschwanstein, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Salon, Schloss Neuschwanstein, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Schloss Neuschwanstein, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Corridor on the first floor, Schloss Neuschwanstein, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Throne Hall, Schloss Neuschwanstein, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Throne Hall, Schloss Neuschwanstein, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Town scene, clock tower and statue, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Small gallery, Schloss Herrenchiemsee, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>State staircase, Schloss Herrenchiemsee, copy</unittitle>
+						<unitdate label="Date">1910 June</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Great Hall of Mirrors, Schloss Herrenchiemsee, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>State bedchamber, Schloss Herrenchiemsee, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Writing room, Schloss Herrenchiemsee, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Bedroom, Schloss Herrenchiemsee, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Albrecht Dürer’s house, Nuremberg, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Topplerhaus, Nuremberg, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Schnitzerschule, Oberammergau, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Stilfserjoch Strasse, Franzenshöhe, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>View of town, mountains in background, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>König Ludwig, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Old man, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Photograph of man by E. Bieber, copy</unittitle>
+						<unitdate label="Date">1915 March 2</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Daily feeding of children in Berlin whose fathers are at the front, copy</unittitle>
+						<unitdate label="Date">1915 March 2</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>View of town, mountains in background, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1174 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

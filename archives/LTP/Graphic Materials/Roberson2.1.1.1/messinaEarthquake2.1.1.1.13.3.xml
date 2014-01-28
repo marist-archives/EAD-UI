@@ -1,0 +1,1933 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/messinaEarthquake2.1.1.1.13.3.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Messina earthquake</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.13.3</unitid>
+			<unittitle>Messina earthquake</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1193 -->
+			<c01>
+				<note>Box 1193</note>
+				<did>
+					<unitid>2.1.1.1.13.3</unitid>
+					<unittitle>Mesina earthquake</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Map of Messina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7001</materialspec>
+						<materialspec label="negativenumber">1243</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Panorama of Messina before the earthquake (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7130</materialspec>
+						<materialspec label="negativenumber">1234</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Lives lost reading slide (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7005</materialspec>
+						<materialspec label="negativenumber">1137</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Earthquake casualty reading slide (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7006</materialspec>
+						<materialspec label="negativenumber">1165</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Refugee children</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7034</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Refugees</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7035</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Refugees</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7036</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Ruins</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7037</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Italian doctors</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7038</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Picture of skulls (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7058</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Old man taken from ruins</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7064</materialspec>
+						<materialspec label="negativenumber">1113</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Clock stopped at 5:20</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7065</materialspec>
+						<materialspec label="negativenumber">1114</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Taken from remains of American Consulate</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7066</materialspec>
+						<materialspec label="negativenumber">1115</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Refugees wash on hospital ship Savoy</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7067</materialspec>
+						<materialspec label="negativenumber">1116</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Fire engine rescued from ruins</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7068</materialspec>
+						<materialspec label="negativenumber">1117</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Frank R. Roberson and old woman</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7069</materialspec>
+						<materialspec label="negativenumber">1118</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Two refugee women</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7070</materialspec>
+						<materialspec label="negativenumber">1119</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Digging for the dead</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7071</materialspec>
+						<materialspec label="negativenumber">1120</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Old man with son’s coat</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7072</materialspec>
+						<materialspec label="negativenumber">1121</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>American relief ship Celtic</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7073</materialspec>
+						<materialspec label="negativenumber">1122</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Refugees hunting for effects</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7074</materialspec>
+						<materialspec label="negativenumber">1123</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Singer sewing machine</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7075</materialspec>
+						<materialspec label="negativenumber">1112</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Waiting for bread</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7078</materialspec>
+						<materialspec label="negativenumber">1111</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Quarters of soldiers</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7079</materialspec>
+						<materialspec label="negativenumber">1104</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Temporary homes</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7080</materialspec>
+						<materialspec label="negativenumber">1105</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Leaning church tower</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7081</materialspec>
+						<materialspec label="negativenumber">1107</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Barber from New York in ruins</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7082</materialspec>
+						<materialspec label="negativenumber">1103</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Digging for the dead</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7083</materialspec>
+						<materialspec label="negativenumber">1102</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Carrying the dead</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7084</materialspec>
+						<materialspec label="negativenumber">1101</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Vegetable shop</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7085</materialspec>
+						<materialspec label="negativenumber">1100</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Ruined Messina from the sea</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7087</materialspec>
+						<materialspec label="negativenumber">1221</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Refugees hunting in the ruins</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7088</materialspec>
+						<materialspec label="negativenumber">1249</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Refugee woman and child in Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7089</materialspec>
+						<materialspec label="negativenumber">1264</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Brooklyn boy, refugee from Messina, in Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7090</materialspec>
+						<materialspec label="negativenumber">1263</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Ruined fountain near cathedral</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7091</materialspec>
+						<materialspec label="negativenumber">1184</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Messina from the harbor</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7092</materialspec>
+						<materialspec label="negativenumber">1169</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Dead baby</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1193" type="box">1193</container>
+						<materialspec label="index">7094</materialspec>
+						<materialspec label="negativenumber">1194</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1193 -->
+			<!-- Box 1194 -->
+			<c01>
+				<note>Box 1194</note>
+				<did>
+					<unitid>2.1.1.1.13.3</unitid>
+					<unittitle>Mesina earthquake</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Refugee cart and household effects</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7095</materialspec>
+						<materialspec label="negativenumber">1193</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Digging for the dead</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7096</materialspec>
+						<materialspec label="negativenumber">1192</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Minissale family who were in ruins 19 days</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7098</materialspec>
+						<materialspec label="negativenumber">1186</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Minissale family who were in ruins 19 days</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7098A</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Sealing up a coffin</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7099</materialspec>
+						<materialspec label="negativenumber">1188</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Ruins of railroad station</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7102</materialspec>
+						<materialspec label="negativenumber">1187</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Messina refugee man at Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7103</materialspec>
+						<materialspec label="negativenumber">1170</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Refugee woman and child at Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7104</materialspec>
+						<materialspec label="negativenumber">1168</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>A Messina victim (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7106</materialspec>
+						<materialspec label="negativenumber">1224</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Earthquake victim (copy)</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7107</materialspec>
+						<materialspec label="negativenumber">1248</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Carrying the dead (copy)</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7108</materialspec>
+						<materialspec label="negativenumber">1246</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Found in the ruins (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7109</materialspec>
+						<materialspec label="negativenumber">1245</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Carrying the dead (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7110</materialspec>
+						<materialspec label="negativenumber">1244</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7111</materialspec>
+						<materialspec label="negativenumber">1241</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>An earthquake victim (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7112</materialspec>
+						<materialspec label="negativenumber">1240</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Ruins at Messina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7113</materialspec>
+						<materialspec label="negativenumber">1235</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Taking body from window (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7114</materialspec>
+						<materialspec label="negativenumber">1261</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Hospital ward (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7115</materialspec>
+						<materialspec label="negativenumber">1260</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Messina ruins (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7117</materialspec>
+						<materialspec label="negativenumber">1258</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Dead at Messina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7118</materialspec>
+						<materialspec label="negativenumber">1256</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Girl caught in ruins (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7119</materialspec>
+						<materialspec label="negativenumber">1255</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Crack in rock (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7121</materialspec>
+						<materialspec label="negativenumber">1252</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>The king in the ruins at Messina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index">7132</materialspec>
+						<materialspec label="negativenumber">1229</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Ruins at Messina (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">2</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Ruins at Messina (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">3</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">4</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Street in ruins, copy</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">8</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Digging people from ruins, copy</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">12</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Ruined road (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">26</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Soldiers in ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">27</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">28</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Carrying the dead (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">29</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Dead at Messina (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">30</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Messina waterfront (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">31</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Carrying the dead (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">32</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Ruins at Messina (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">33</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">34</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">35</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">36</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Ruins through archway (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">37</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Carrying the dead (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">38</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">39</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">40</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Digging in the ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">41</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Carrying the dead (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">42</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">43</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">44</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">45</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">46</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Ruins of a building (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">47</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Ruins (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">48</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Ruined buildings (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1194" type="box">1194</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">49</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1194 -->
+			<!-- Box 1195 -->
+			<c01>
+				<note>Box 1195</note>
+				<did>
+					<unitid>2.1.1.1.13.3</unitid>
+					<unittitle>Mesina earthquake</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Destroyed building (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">50</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>The strait from a wrecked street</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7134</materialspec>
+						<materialspec label="negativenumber">1250</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Fine ruined houses</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7135</materialspec>
+						<materialspec label="negativenumber">1251</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Ruined house</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7136</materialspec>
+						<materialspec label="negativenumber">1265</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Temporary houses and ruins</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7137</materialspec>
+						<materialspec label="negativenumber">1267</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Ruins and ox cart</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7138</materialspec>
+						<materialspec label="negativenumber">1268</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Earthquake wreckage</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7139</materialspec>
+						<materialspec label="negativenumber">1269</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Fine ruined house</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7140</materialspec>
+						<materialspec label="negativenumber">1270</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Looking into ruined house</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7141</materialspec>
+						<materialspec label="negativenumber">1271</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Narrow street choked with ruins</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7142</materialspec>
+						<materialspec label="negativenumber">1272</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>School teacher and his wife in the ruins</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7143</materialspec>
+						<materialspec label="negativenumber">1139</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Grave in the street</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7144</materialspec>
+						<materialspec label="negativenumber">1140</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Part of ruined cathedral</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7145</materialspec>
+						<materialspec label="negativenumber">1150</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Interior of ruined cathedral</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7147</materialspec>
+						<materialspec label="negativenumber">1146</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Church of Saint Maria Jesu in background</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7149</materialspec>
+						<materialspec label="negativenumber">1148</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Bank of Sicily and Church of Purgatory in background</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7150</materialspec>
+						<materialspec label="negativenumber">1151</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Ruins in street</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7151</materialspec>
+						<materialspec label="negativenumber">1152</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Narrow street</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7152</materialspec>
+						<materialspec label="negativenumber">1153</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Houses standing amidst ruins</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7153</materialspec>
+						<materialspec label="negativenumber">1158</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>The only uninjured building in the city</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7154</materialspec>
+						<materialspec label="negativenumber">1157</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>At the rear of the sea wall, homes of the poor</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7155</materialspec>
+						<materialspec label="negativenumber">1156</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Debris in street</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7156</materialspec>
+						<materialspec label="negativenumber">1155</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Church of the Magdalene</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7157</materialspec>
+						<materialspec label="negativenumber">1159</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>French graves in the street</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7159</materialspec>
+						<materialspec label="negativenumber">1161</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>A mass of ruins</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7160</materialspec>
+						<materialspec label="negativenumber">1162</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>U.S. Consulate</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7161</materialspec>
+						<materialspec label="negativenumber">1163</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Wreckage piled in streets</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7162</materialspec>
+						<materialspec label="negativenumber">1164</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>A freak of the earthquake</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7163</materialspec>
+						<materialspec label="negativenumber">1132</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>The marina after the earthquake</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7164</materialspec>
+						<materialspec label="negativenumber">1133</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Battleship Regina Elena at Messina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7165</materialspec>
+						<materialspec label="negativenumber">1171</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Campo Santo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7166</materialspec>
+						<materialspec label="negativenumber">1173</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>General view from the Campo Santo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7167</materialspec>
+						<materialspec label="negativenumber">1174</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Houses of the refugees</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7168</materialspec>
+						<materialspec label="negativenumber">1130</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Frank R. Roberson among the dead</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7169</materialspec>
+						<materialspec label="negativenumber">1131</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Temporary dwellings</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7170</materialspec>
+						<materialspec label="negativenumber">1176</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Soldiers “at work”</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7171</materialspec>
+						<materialspec label="negativenumber">1177</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Ruined houses at Messina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7172</materialspec>
+						<materialspec label="negativenumber">1178</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Spectacular earthquake effects</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7173</materialspec>
+						<materialspec label="negativenumber">1179</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Cleaning up the wreckage in the streets</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7174</materialspec>
+						<materialspec label="negativenumber">1180</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Frank R. Roberson and a pile of coffins</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7175</materialspec>
+						<materialspec label="negativenumber">1181</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Body found in ruins</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7176</materialspec>
+						<materialspec label="negativenumber">1182</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Refugees waiting for food, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7210</materialspec>
+						<materialspec label="negativenumber">1154</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Refugees from Messina, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7211</materialspec>
+						<materialspec label="negativenumber">1145</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1195 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

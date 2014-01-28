@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.4.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Hammersley Hill</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.4.1</unitid>
+		<unittitle>Hammersley Hill</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	<arrangement><p></p></arrangement>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		 <!-- Start the new box from component no. 1 -->
+		 <!-- Items within the box in component no. 2 -->
+<!-- Box 1566 -->
+<c01>
+<note>Box 1566</note>
+<did>
+<unitid>2.1.4.1</unitid>
+<unittitle>Hammersley Hill</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Clover Brook Estate - panoramic views	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1566" type="box">1566</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Clover Brook Estate - main house	
+</unittitle>
+<unitdate label="Date">1938 - 1940	
+</unitdate>
+<container id="1566" type="box">1566</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Clover Brook Estate - buildings on estate	
+</unittitle>
+<unitdate label="Date">circa 1935 - 1940	
+</unitdate>
+<container id="1566" type="box">1566</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Clover Brook Estate - grounds around house	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1566" type="box">1566</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Clover Brook Estate - farm scenes [negative image distorted]	
+</unittitle>
+<unitdate label="Date">circa 1935 - 1940 	
+</unitdate>
+<container id="1566" type="box">1566</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Clover Brook Estate - visitors at Clover Brook	
+</unittitle>
+<unitdate label="Date">1938 - 1940	
+</unitdate>
+<container id="1566" type="box">1566</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Clover Brook Estate - visitors at Clover Brook	
+</unittitle>
+<unitdate label="Date">1938 - 1940	
+</unitdate>
+<container id="1566" type="box">1566</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Clover Brook Estate - fur farm	
+</unittitle>
+<unitdate label="Date">1938 - 1939 	
+</unitdate>
+<container id="1566" type="box">1566</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Clover Brook Estates - sports - softball - celebs	
+</unittitle>
+<unitdate label="Date">1936 - 1941	
+</unitdate>
+<container id="1566" type="box">1566</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Clover Brook Estates - sports - softball - boys 	
+</unittitle>
+<unitdate label="Date">1936 - 1940 	
+</unitdate>
+<container id="1566" type="box">1566</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1566 -->
+<!-- Box 1567 -->
+<c01>
+<note>Box 1567</note>
+<did>
+<unitid>2.1.4.1</unitid>
+<unittitle>Hammersley Hill</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Clover Brook Estate - sports - softball - debtors and creditors	
+</unittitle>
+<unitdate label="Date">1936 - 1940	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Clover Brook Estate - sports - softball - girls	
+</unittitle>
+<unitdate label="Date">1937 - 1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Clover Brook Estate - sports - softball - barbecue	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Clover Brook Estate - sports - softball - spectators	
+</unittitle>
+<unitdate label="Date">1937 - 1938 	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Clover Brook Estate - sports - softball - action shots	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Clover Brook Estate - sports - football [negative images distorted]	
+</unittitle>
+<unitdate label="Date">circa 1939 - 1940	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Clover Brook Estate - sports - swimming [negative images distorted]	
+</unittitle>
+<unitdate label="Date">circa 1935 - 1940 	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Clover Brook Estate - sports - swimming [negative images distorted]	
+</unittitle>
+<unitdate label="Date">circa 1935 - 1940	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Clover Brook Estate - sports - riding	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Quaker Lake (French) - French house	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Quaker Lake (French) - lake scenes	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Quaker Lake (French) - buildings at Quaker Lake estate	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Quaker Lake (French) - activities at Quaker Lake - fishing 	
+</unittitle>
+<unitdate label="Date">circa 1935 - 1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Quaker Lake (French) - activities at Quaker Lake - boating (all kinds)	
+</unittitle>
+<unitdate label="Date">circa 1935 - 1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Quaker Lake (French) - activities at Quaker Lake - paper chase	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Quaker Lake (French) - activities at Quaker Lake - nature hunt	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Quaker Lake (French) - activities at Quaker Lake - events held at Quaker Lake - softball and barbecue	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Quaker Lake (French) - activities at Quaker Lake - lumberjacks and groups	
+</unittitle>
+<unitdate label="Date">1937 - 1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Quaker Lake (French) - activities at Quaker Lake - visitors at Quaker Lake	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Quaker Lake (French) activities at Quaker Lake - gymkana (summer 1939)	
+</unittitle>
+<unitdate label="Date">1939	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Quaker Lake (French) - activities at Quaker Lake - skiing (winter 1938-1939)	
+</unittitle>
+<unitdate label="Date">1938 - 1939 	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Quaker Lake (French) - miscellaneous scenes at Quaker Lake	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Quaker Hill - homes and buildings	
+</unittitle>
+<unitdate label="Date">circa late 1930s	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Quaker Hill - scenes (scenes from tower in Quaker Lake group)	
+</unittitle>
+<unitdate label="Date">circa late 1930s	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Quaker Hill - activities - scavenger hunt	
+</unittitle>
+<unitdate label="Date">circa late 1930s	
+</unitdate>
+<container id="1567" type="box">1567</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1567 -->
+<!-- Box 1568 -->
+<c01>
+<note>Box 1568</note>
+<did>
+<unitid>2.1.4.1</unitid>
+<unittitle>Hammersley Hill</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Quaker Hill - activities - softball game [negative image distorted]	
+</unittitle>
+<unitdate label="Date">circa late 1930s	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>L. T. [Lowell Thomas] personal [negative images distorted]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Mrs. L. T. (Mrs. Frances Ryan Thomas) personal [negative images distorted]	
+</unittitle>
+<unitdate label="Date">circa 1935 - 1940 	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Sonny [Lowell Thomas, Jr.]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Pawling - homes	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Pawling - activities	
+</unittitle>
+<unitdate label="Date">1938 - 1939	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Relatives	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Lumberjacks with celebs [celebrities]	
+</unittitle>
+<unitdate label="Date">1937 - 1938	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Lumberjacks - miscellaneous 	
+</unittitle>
+<unitdate label="Date">1937 - 1938	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Lawrence Smith School - teams [negative images distorted]	
+</unittitle>
+<unitdate label="Date">circa 1938 	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Lawrence Smith School - outing	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Miscellaneous family pictures [negative images distorted] 	
+</unittitle>
+<unitdate label="Date">circa late 1930s	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Snake hunt pictures	
+</unittitle>
+<unitdate label="Date">circa late 1930s	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Miscellaneous activities	
+</unittitle>
+<unitdate label="Date">1939	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Recreation barn	
+</unittitle>
+<unitdate label="Date">circa late 1930s	
+</unitdate>
+<container id="1568" type="box">1568</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1568 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

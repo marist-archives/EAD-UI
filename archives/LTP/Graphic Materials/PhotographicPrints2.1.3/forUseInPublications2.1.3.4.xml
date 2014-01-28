@@ -1,0 +1,1130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.3.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="" url="http://www.marist.edu"></eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>For Use in Publications</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="">2.1.3.4</unitid>
+			<unittitle>For Use in Publications</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract"></abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p></p>
+		</scopecontent>
+		<accessrestrict>
+			<p></p>
+		</accessrestrict>
+		<userestrict>
+			<p></p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1532 -->
+			<c01>
+				<note>Box 1532</note>
+				<did>
+					<unitid>2.1.3.4</unitid>
+					<unittitle>For Use in Publications</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>For use in publications: Lowell Thomas (alone)</unittitle>
+						<unitdate label="Date">circa 1915 - early 1930s</unitdate>
+						<container id="1532" type="box">1532</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Lowell Thomas- the world traveler and explorer - photographed on one of his expeditions into the Arctic. His most recent journey was to the Tropics and he has just returned from a [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Thomas- the world traveler and explorer - photographed on one of his expeditions into the Arctic. His most recent journey was to the Tropics and he has just returned from a [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>L.T. in the Arctic before he was 21</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: L.T. in the Arctic before he was 21</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Please return to Frances Ryan, 1315 Milwaukee St., Denver</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Please return to Frances Ryan, 1315 Milwaukee St., Denver</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>A new photograph of Lowell Thomas, author of "Count Luckner, the Sea Devil ," whose new book of the exploits of the U-Boats during the war, "Raiders of the Deep ," has just been published by Doubleday Doran Verso: 1928</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note: A new photograph of Lowell Thomas, author of "Count Luckner, the Sea Devil ," whose new book of the exploits of the U-Boats during the war, "Raiders of the Deep ," has just been published by Doubleday Doran Verso: 1928</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Photograph of Lowell Thomas] [4 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: Kindly credit photo: Lewis F. Nathan</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso: Camera portrait by Hal Phyfe, 50 W 56, 1508 Circle</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso: Lowell Thomas; Kindly credit Phyfe, 867 Madison Ave., New York</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>For use in publications: Lowell Thomas (alone)</unittitle>
+						<unitdate label="Date">1930s</unitdate>
+						<container id="1532" type="box">1532</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Photograph of Lowell Thomas reading a book]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Photograph of Lowell Thomas next to a large globe]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Photograph of Lowell Thomas at a typewriter] [3 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Photograph of Lowell Thomas] [7 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Fox(?), 1938]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Fox(?), 1938</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Photograph of Lowell Thomas on the telephone]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>For use in publications: Lowell Thomas (alone)</unittitle>
+						<unitdate label="Date">circa 1930s - 1950s</unitdate>
+						<container id="1532" type="box">1532</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Photograph of Lowell Thomas in front of a snow-covered tree]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>L.T. going places on Blue Sunoco!</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: L.T. going places on Blue Sunoco!</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Photograph of Lowell Thomas with the head of a hippo mounted on the wall]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Photograph of Lowell Thomas dressed for cold weather]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Photograph of Lowell Thomas standing on a boat floating on icey waters (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Looking over a New Jersey development, hunting for ideas. C.E. Engelbrecht, Lake Mohawk, Sparta, N.J.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: Looking over a New Jersey development, hunting for ideas. C.E. Engelbrecht, Lake Mohawk, Sparta, N.J.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Note: Subject: Lowell Thomas On Air: Mon. Thru Fri., 6:45-7:00 PM, EDT 8/1/50</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Photograph of Lowell Thomas next to a CBS microphone] [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Copyright 1952, Samuel Goldwyn Productions, Inc.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso: Copyright 1952, Samuel Goldwyn Productions, Inc.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Photograph of Lowell Thomas sitting on a "radiation" barricade]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>May 1955; Original Photograph by Hal Phyfe</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso: May 1955; Original Photograph by Hal Phyfe</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Photograph of Lowell Thomas during a broadcast (?)] [4 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>For use in publications: Lowell Thomas (alone)</unittitle>
+						<unitdate label="Date">circa 1950s - 1970s</unitdate>
+						<container id="1532" type="box">1532</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Hi Hansom- Remember I had a 1.00 dollar camera and wanted to prove that we didn't need a 1000.00 [?] to take good pictures Regards and best to Fran, [Ben?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Hi Hansom- Remember I had a 1.00 dollar camera and wanted to prove that we didn't need a 1000.00 [?] to take good pictures Regards and best to Fran, [Ben?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Photograph of Lowell Thomas] [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Photograph of Lowell Thomas] [11 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Photograph of Lowell Thomas holding a microphone] [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Photograph of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Done for Minneapolis, 1966</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: Done for Minneapolis, 1966</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Air France - Relations Exteriures, 2 Rue Marbeuf - Paris; Reproduction Autorisee Sans Droits contre envoi de 2 justificatifs; Mention Obligatoire: Collection Air-France</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Air France - Relations Exteriures, 2 Rue Marbeuf - Paris; Reproduction Autorisee Sans Droits contre envoi de 2 justificatifs; Mention Obligatoire: Collection Air-France</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Irving Kaufman Studios, 222 E. 44th ST., N.Y. 17, N.Y., Murray Hill 7-8343</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: Irving Kaufman Studios, 222 E. 44th ST., N.Y. 17, N.Y., Murray Hill 7-8343</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Verso: Dec 19, 1961</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso: Dec 19, 1961</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Photograph of Lowell Thomas standing in front of the Sphynx in Egypt (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Photograph of Lowell Thomas with head of a tiger]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Photograph of Lowell Thomas in front of a microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>LT as MC at Apr '72 Explorers Annual Banquet holding N.G. gourd</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16-verso</unitid>
+							<unittitle>Verso: LT as MC at Apr '72 Explorers Annual Banquet holding N.G. gourd</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Said to be where it happened, in Woodington. Pic taken at nite. Oct. 19 1977; Compliments of Greenville Daily Advocate</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso: Said to be where it happened, in Woodington. Pic taken at nite. Oct. 19 1977; Compliments of Greenville Daily Advocate</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>John Dornes, The Edwardian Photographer, Box 398 Monroe, N.Y.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18-verso</unitid>
+							<unittitle>Verso: John Dornes, The Edwardian Photographer, Box 398 Monroe, N.Y.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Photograph of Lowell Thomas posing with a bust]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Robert G. Elliott, 1227 Oakwood Ave., Daytona Beach, Fla. 32014; 4-22-76</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20-verso</unitid>
+							<unittitle>Verso: Robert G. Elliott, 1227 Oakwood Ave., Daytona Beach, Fla. 32014; 4-22-76</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Please credit Bill Mark, Park Sheraton Hotel [3 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21-verso</unitid>
+							<unittitle>Verso: Please credit Bill Mark, Park Sheraton Hotel</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>For use in publications: Lowell Thomas with President Franklin Delano Roosevelt</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1532" type="box">1532</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Lowell Thomas and President Franklin D. Roosevelt at one of the annual games between the White House Correspondents and Lowell Thomas's Nine Old Men team</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Thomas and President Franklin D. Roosevelt at one of the annual games between the White House Correspondents and Lowell Thomas's Nine Old Men team</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Beginning of novalty; L.T. and President Franklin Delano Roosevelt [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Beginning of novalty; L.T. and President Franklin Delano Roosevelt</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: Lowell Thomas and President Franklin D. Roosevelt shared the same stomping ground, the Mid-Hudson Valley. Mr. Thomas lived in Pawling, New York, and President Roosevelt, in Hyde Park, New York, some 20 miles away. Verso: Beginning of rivalry; Gonzalez Studio, 515 Madison Ave.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Lowell Thomas and President Franklin D. Roosevelt [close-up, 5 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>President Franklin D. Roosevelt in car and sitting ballplayers</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>For use in publications: Frances Ryan Thomas with Lowell Thomas, Jr.</unittitle>
+						<unitdate label="Date">1940s</unitdate>
+						<container id="1532" type="box">1532</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Man (?) getting into the cockpit of a plane] [4 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Man and woman with dog]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>For use in publications: Afghanistan</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1532" type="box">1532</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note: L.T. welcomed by Afridi chiefs in the mountains of Waziristan, the No Man's Land of Central Asia Verso: Afghanistan-No. 61. Persian Minister and Mr. Lowell Thomas, on a balcony at the palace of the Persian legation in Kabul</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Afghanistan-No.61. Persian Minister and Mr. Lowell Thomas, on a balcony at the palace of the Persian legation in Kabul.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Afghanistan-No.61. Persian Minister and Mr. Lowell Thomas, on a balcony at the palace of the Persian legation in Kabul.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[same photo as 7.2 with L.T. cutout]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>For use in publications: Artwork</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1532" type="box">1532</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Painting of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Painting of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Painting of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Painting of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Painting of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Painting of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Painting of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Painting of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Painting of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Painting of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Richard S. Debo 200 Moross Road Grosse Point Farms Michigan 48236</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Note: Richard S. Debo 200 Moross Road Grosse Point Farms Michigan 48236</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Painting of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Drawing of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Painting of Lowell Thomas] [17 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>For use in publications: Potential posters</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1532" type="box">1532</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Lowell Thomas (Advertising Club News), 6/1/37</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Thomas (Advertising Club News), 6/1/37</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[mounted portrait of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[red plastic L.T. silhouette]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[red plastic L.T. silhouette]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>For use in publications: Tibet</unittitle>
+						<unitdate label="Date">1949</unitdate>
+						<container id="1532" type="box">1532</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note: The Potala Palace, or "The Palace of the Gods,"  rises 900 feet above the Lhasa Plain. From street level, this is approximately two-thirds the height of the Empire State Building. The photograph was taken by Lowell Thomas, Jr. on his journey to Tibet with his father in 1949.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Photograph of The Potala Palace]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas riding a donkey along a stone pathway]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas receiving a gift from a man (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas eating with other people]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Lowell Thomas posing with three women and a man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas holding a child, posing with several other people]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Lowell Thomas sitting at a table looking at a box]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>For use in publications: World War I</unittitle>
+						<unitdate label="Date">1917 - 1918</unitdate>
+						<container id="1532" type="box">1532</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>L.T. operating an anti-aircraft gun on the Italian front</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: L.T. operating an anti-aircraft gun on the Italian front</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>L.T. shaking hands with Major Baracca, Italy's Number One flying ace in the World War</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note: L.T. shaking hands with Major Baracca, Italy's Number One flying ace in the World War</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>L.T. interviewing a Jewish colonist in the Holy Land during the war</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Note: L.T. interviewing a Jewish colonist in the Holy Land during the war</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>A curious contrivance called a steel otter. L.T. and an officer in the royal Naval Reserve are having a look at this monster which was used in the Mediterranean by the British to sweep up mines. This picture was taken on board a British munitions ship that was making its way through the mine fields and submarine-infested waters of the Mediterranean. Verso: An otter on board British merchant vessel in Mediterranean. These otters were to sweep up mines</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Note: A curious contrivance called a steel otter. L.T. and an officer in the royal Naval Reserve are having a look at this monster which was used in the Mediterranean by the British to sweep up mines. This picture was taken on board a British munitions ship that was making its way through the mine fields and submarine-infested waters of the Mediterranean. Verso: An otter on board British merchant vessel in Mediterranean. These otters were to sweep up mines</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>L.T. wearing army campaign hat, accompanied by two members of his staff, rowing down one of the canals of Venice, during the war when Venice was almost a deserted city. The Austrians and Germans were pounding away with their artillery just fourteen miles across the lagoons [Major Piero Tozzi on left, Theodore Roosevelt, Jr. on right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Note: L.T. wearing army campaign hat, accompanied by two members of his staff, rowing down one of the canals of Venice, during the war when Venice was almost a deserted city. The Austrians and Germans were pounding away with their artillery just fourteen miles across the lagoons [Major Piero Tozzi on left, Theodore Roosevelt, Jr. on right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>L.T. and two of his colleagues, on a journey along the canals of Venice at a time when the City of Canals was almost deserted. The Austrians were banging away with their artillery just fourteen miles distant and nearly the entire population had fled [Major Piero Tozzi on left, Theodore Roosevelt, Jr. on right] [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Note: L.T. and two of his colleagues, on a journey along the canals of Venice at a time when the City of Canals was almost deserted. The Austrians were banging away with their artillery just fourteen miles distant and nearly the entire population had fled [Major Piero Tozzi on left, Theodore Roosevelt, Jr. on right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Mr. and Mrs. L.T. and Major Piero Tozzi, at the Leaning Tower of Pisa.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Note: Mr. and Mrs. L.T. and Major Piero Tozzi, at the Leaning Tower of Pisa.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>L.T. on the first passenger aeroplane flight from Egypt to Palestine</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso: L.T. on the first passenger aeroplane flight from Egypt to Palestine</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>L.T. as an aviator movie man ready to start over the lines in the World War.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16-verso</unitid>
+							<unittitle>Verso: L.T. as an aviator movie man ready to start over the lines in the World War.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>L.T. and T. E. Lawrence in Arab garments</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso: L.T. and T. E. Lawrence in Arab garments</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Lowell Thomas on right, in trench with soldiers]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[autographed by Lowell Thomas: "With best wishes for a long life crammed with high adventure. Lowell Thomas"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Lowell Thomas sitting on a sled pulled by dogs]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Lowell Thomas with a guide pointing out to the mountains]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>For use in publications: Miscellaneous photographs</unittitle>
+						<unitdate label="Date">circa 1920s - 1960s</unitdate>
+						<container id="1532" type="box">1532</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>IN 25th RADIO YEAR Lowell Thomas, CBS Radio newscaster who has become a "friend of the family"  to millions of American listeners, has just entered his 25th broadcasting year. Here the adventurous newsman, who has reported from far-flung exploring posts around the globe, does some research in his vast library for his current activities with the Monday-thru-Friday evening "Lowell Thomas and the News"  and with his Cinerama project [circa 1954]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: IN 25th RADIO YEAR Lowell Thomas, CBS Radio newscaster who has become a "friend of the family"  to millions of American listeners, has just entered his 25th broadcasting year. Here the adventurous newsman, who has reported from far-flung exploring posts around the globe, does some research in his vast library for his current activities with the Monday-thru-Friday evening "Lowell Thomas and the News"  and with his Cinerama project [circa 1954]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[circa 1954]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[from left to right: Lowell Thomas, Jr., Frances Ryan Thomas, Pherbia Thomas Thornburg, Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>L.T. with son, Lowell, Jr. Pawling, NY</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: L.T. with son, Lowell, Jr. Pawling, NY</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Cap Cities file- Murphy, Frank Smith, LT went on Big Board</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Note: Cap Cities file- Murphy, Frank Smith, LT went on Big Board</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Major "Hap"  Arnold when he was L.T.'s pilot, in 1922. Later he became a 5 star general with 2.5 million men in his command</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: Major "Hap"  Arnold when he was L.T.'s pilot, in 1922. Later he became a 5 star general with 2.5 million men in his command</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[from right to left: Sam Pryor, Will Hays, Frances Ryan Thomas, President Herbert Hoover, Mrs. Will Hays]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Lowell Thomas riding an elephant]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Lowell Thomas shaking hands with a man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Lowell Thomas with two other men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Photograph of a notebook]</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1532 -->
+		</dsc>
+	</archdesc>
+</ead>

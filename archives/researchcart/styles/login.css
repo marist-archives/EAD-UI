@@ -1,0 +1,36 @@
+@import url("main.css");
+
+div#loginForm
+{
+	display: block;
+    height: 200px;
+    width: 200px;
+}
+
+label
+{
+    color: black;
+    font-family: "Lucida Sans Unicode","Lucida Grande",Sans-Serif;
+    font-size: 20px;
+    margin-right: 40px;
+}    
+
+input[type="text"], input[type="password"]
+{
+    color: #828E8A;
+    font-family: "Lucida Sans Unicode","Lucida Grande",Sans-Serif;
+    font-size: 20px;
+    margin-right: 40px;
+}    
+
+
+input[type="submit"]
+{
+    background: none repeat scroll 0 0 #808182;
+    border-bottom: 1px solid #2382C5;
+    color: White;
+    font-family: "Lucida Sans Unicode","Lucida Grande",Sans-Serif;
+    font-size: 17px;
+    padding: 6px 27px;
+    margin-top: 10px;
+}

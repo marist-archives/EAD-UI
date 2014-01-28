@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/sscoronia2.1.1.1.27.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>S.S. Coronia</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.27</unitid>
+			<unittitle>S.S. Coronia</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1245 -->
+			<c01>
+				<note>Box 1245</note>
+				<did>
+					<unitid>2.1.1.1.27</unitid>
+					<unittitle>S.S. Coronia</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Looking forward from lower deck</unittitle>
+						<unitdate label="Date">1912 June 4</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22059</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Crow’s nest</unittitle>
+						<unitdate label="Date">1912 Just 6</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22044</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Purser office and staff</unittitle>
+						<unitdate label="Date">1912 June 7</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22050</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Wireless operator and machinery</unittitle>
+						<unitdate label="Date">1912 June 7</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22054</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Promenade deck</unittitle>
+						<unitdate label="Date">1912 June 8</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22045</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Looking at aft from prow y boat</unittitle>
+						<unitdate label="Date">1912 June 8</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22046</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Upper deck and life boats</unittitle>
+						<unitdate label="Date">1912 June 8</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22049</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Looking aft from bridge</unittitle>
+						<unitdate label="Date">1912 June 16</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22060</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Shuffle board</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Frank R. Roberson on upper deck</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22061</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Air funnels and tusitanie[?]</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22071</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Bridge of tusetanie[?]</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22068</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Mr. Cubbin, purser, at Genoa Italy</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22036</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Top deck, Frank R. Roberson on smoke stack</unittitle>
+						<unitdate label="Date">1912 June 5</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22051</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Automative engine director</unittitle>
+						<unitdate label="Date">1912 June 5</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22058</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Captain Barr by wheelhouse</unittitle>
+						<unitdate label="Date">1912 June 6</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22056</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Chief officer</unittitle>
+						<unitdate label="Date">1912 June 8</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22055</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Mr. Lister</unittitle>
+						<unitdate label="Date">1912 June 9</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22040</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Mr. Murus and Mr. Lister</unittitle>
+						<unitdate label="Date">1912 June 9</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22041</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Chief Officer Gronow</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22066</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Chief Officer Gronow</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22069</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Captain Barr</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22070</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Ship at Naples</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22020</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Fishguard Harbor, Wales</unittitle>
+						<unitdate label="Date">1912 June 8</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22052</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Fishguard Harbor, Wales</unittitle>
+						<unitdate label="Date">1912 June 8</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22053</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Coronia at Princess Street Landing and public buildings of Liverpool England</unittitle>
+						<unitdate label="Date">1912 June 9</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22047</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Public buildings in Liverpool, England</unittitle>
+						<unitdate label="Date">1912 June 9</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22048</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Public buildings in Liverpool, England from deck</unittitle>
+						<unitdate label="Date">1912 June 9</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22057</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>The crowd at pier in Liverpool, England, ship docking</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22067</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Ship in Hus Kisson dock, Liverpool, England</unittitle>
+						<unitdate label="Date">1912 June 11</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22072</materialspec>
+						<materialspec label="negativenumber">31</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Rigby docks and flour mills, Liverpool England</unittitle>
+						<unitdate label="Date">1912 June 11</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">22073</materialspec>
+						<materialspec label="negativenumber">32</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Funchal woman and child</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">23000</materialspec>
+						<materialspec label="negativenumber">1288</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Funchal men carrying hammock</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">23003</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Serving tea on deck</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Island, taken from ship</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>City and water in distance, through trees</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1245 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>General</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.13.1</unitid>
+			<unittitle>General</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1192 -->
+			<c01>
+				<note>Box 1192</note>
+				<did>
+					<unitid>2.1.1.1.13.1</unitid>
+					<unittitle>General</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Sunrise over Vesuvius in the Bay of Naples</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8000</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Sunrise over the Bay of Naples</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8001</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Sunrise over Vesuvius</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8002</materialspec>
+						<materialspec label="negativenumber">1167</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Head sea, Caronia</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8004</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Heavy head sea, Caronia</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8005</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Sunset</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8006</materialspec>
+						<materialspec label="negativenumber">1302</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Spray from head sea on Caronia</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8007</materialspec>
+						<materialspec label="negativenumber">1305</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Spray from head sea on Caronia</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8008</materialspec>
+						<materialspec label="negativenumber">1304</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Sunset</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8009</materialspec>
+						<materialspec label="negativenumber">1300</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Sunset at sea</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8010</materialspec>
+						<materialspec label="negativenumber">1299</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Sunset</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8013</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Sunset and ships</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8014</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Sunset</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8015</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Sunset picture</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8016</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Sunset picture</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8018</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Sunset picture</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8019</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Boys at Genoa</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8020</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Shipping at Genoa</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8021</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Vesuvius, Naples</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8026</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Eruption of Vesuvius 1905 (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">9</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Vesuvius in eruption (copy)</unittitle>
+						<unitdate label="Date">1909 February</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">10</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Victor Emmanuel, King of Italy (copy)</unittitle>
+						<unitdate label="Date">circa 1909</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index">8029</materialspec>
+						<materialspec label="negativenumber">1253</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Limone, Lago di Garda, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Riva, Lago di Garda, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Malcesine, Lago di Garda, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Riva, Vista dalla Strada del Ponale, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Riva sur Garda, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Lago di Loppio, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Isola di Garda, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Display of skulls, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1192 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

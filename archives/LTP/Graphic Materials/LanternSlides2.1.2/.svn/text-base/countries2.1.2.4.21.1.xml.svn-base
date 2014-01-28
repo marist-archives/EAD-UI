@@ -1,0 +1,5669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Countries</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.4.21.1</unitid>
+		<unittitle>Countries</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+<!-- Box 1384 -->
+<c01>
+<note>Box 1384</note>
+<did>
+<unitid>2.1.2.4.21.1</unitid>
+<unittitle>Countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Panorama from dome of St. Peter’s Basilica, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">11273	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Capuchin crypt wall decorations, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13131	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Dome of St. Peter’s Basilica, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13200	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>North corridor, St. Peter’s Basilica, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13217	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Chair of St. Peter, St. Peter’s Basilica, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13224	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Tomb of Clement XIII, St. Peter’s Basilica, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13233	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Roman forum via Sacra near Temple Saturn, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13336	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Grave of Percy Bysshe Shelley, Rome, Italy 	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13482	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Hall of busts, Vatican museum, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13547	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Gallery of Candelabra, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13549	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Victor Emanuel monument, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13719	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>High altar, without wall, St. Peter’s Basilica, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">15185	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Panorama from French Academy, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">25100	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Panorama from San Angelo, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">25101	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Castle San Angelo, near view, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">25116	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>St. John Lateran Cloister, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">25128	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>St. Paul’s Basilica, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">25136	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>The Acqua Paola fountain, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">25164	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Farnesina Palace, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">25176	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Palace of Justice, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">25178	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Scala Sancta corridor, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">25199	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Obelisk and fountain, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">25210	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Ox team drawing hay, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">25219	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Door for the dead, coliseum, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Basilica di Santa Maria del Fiore, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13952	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>The Baptistry of St. John and Giotto’s Campanile in the Piazza del Duomo, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13957	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Corner of cathedral, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13959	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>San Lorenzo Chapel of the Medici, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">13978	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>House of Michelangelo, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">14010	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>House of Galileo, interior view, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">14013	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>A monk at prayer, Certosa di Val d’Ema, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1384" type="box">1384</container>
+<materialspec label="index">14037	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1384 -->
+<!-- Box 1385 -->
+<c01>
+<note>Box 1385</note>
+<did>
+<unitid>2.1.2.4.21.1</unitid>
+<unittitle>Countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>View of the Baptistry of St. John and Giotto’s Campanile in the Piazza del Duomo, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Old houses and Ponte Vecchio, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">24806	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Uffizi gallery from across the Arno, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">24815	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Bargello Castle, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">24826	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Newsstand, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">24836	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Washing clothes in the Arno, Florence, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">24838	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>St. Mark’s cathedral, Venice, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">11477	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>St. Mark’s cathedral, Venice, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Santa Maria della Salute, Venice, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">15071	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Museo Civico, Venice, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">19930	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Torricella Court, Doge’s Palace (Ducal Palace), Venice, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">25060	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Breaking a dried fish, Venice, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">25086	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Neapolitan house, Naples, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">24238	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Tomb of Virgil, Naples, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">24954	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>View of base, Leaning tower of Pisa, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">24320	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Baptistry, Pisa, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">24978	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Leaning tower of Pisa, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">90497	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Lake Maggiore, Isola Bella, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">11799	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Campo Santo Catacombs, Genoa, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">14060	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Tomb of Dante, Ravenna, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">14435	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Cathedral Shire, Milan, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">24930	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Veiled person, Misericordia, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">24989	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Temple of Sybil, Tivoli, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">25279	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Cathedral of Notre Dame, doors, Paris, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">850	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Cathedral of Notre Dame, Paris, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">15038	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Cathedral of Notre Dame, figures on roof, Paris, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">15046	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Porte, St. Denis, Paris, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">15345	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>St. Denis Cathedral, Paris, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">15460	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Maison Diane de Portiers, Rouen, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">11873	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Porte Guillaume, Rouen, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">11876	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Place Jeanne D’Arc, Rouen, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">11879	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Chapelle de la Vierge, Rouen Cathedral, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">11894	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>St. Ouen, Tower, Rouen, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">15613	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>St. Ouen, roof pinnacles, Rouen, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">15614	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Interior view, Rouen Cathedral (Cathedrale Notre-Dame de Rouen), France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Bed chamber of Pius VI, Chateau of Fountainebleau, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">5578	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Maria Antoinette’s bedroom, Chateau of Fountainebleau	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1385" type="box">1385</container>
+<materialspec label="index">9676	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1385 -->
+<!-- Box 1386 -->
+<c01>
+<note>Box 1386</note>
+<did>
+<unitid>2.1.2.4.21.1</unitid>
+<unittitle>Countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>West front, Amiens Cathedral, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">11301	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>West doors, Amiens Cathedral, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">11302	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Amiens Cathedral, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">11305	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Amiens[?] Cathedral, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">11306	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Amiens Cathedral, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">11321	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Mont Saint-Michel, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">29537	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Cloister, Mont Saint-Michel, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">29550	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Rubens Gallery, the Louvre, Paris, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">14164	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>A vista of Venuses, the Louvre, Paris, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">15180	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Venus de Milo, front view, the Louvre, Paris, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">15231	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Palace of the Luxembourg, Museum of Statuary, interior, Paris, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">15281	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Holiday, Versailles, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">15527	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Carriages of Napoleon I, Palace of Versailles, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">15550	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Street, Marseilles, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">15615	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Palace of Justice, Lyon, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">18210	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Statue of Jeanne D’Arc and bridge of Tournelles, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">22512	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Orleans Hotel, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">22516	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Chateau D’Usse, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">25910	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Chateau de Pierrefonds, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Chartres Cathedral, interior, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Tower, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Interior, unidentified cathedral, France[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">11892	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Sacristy, unidentified cathedral, France[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">13643	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Interior, unidentified cathedral, France[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">13993	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Alhambra, Granada, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">13559	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Alhambra, Granada, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">13560	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Detail of the room of Justice, Alhambra, Granada, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">13572	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>View of Granada from Generalife Palace, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">20900	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Archway, Burgos Cathedral, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">14128	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Burgos Cathedral, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">14154	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Chapelle de la Presentation, Burgos Cathedral, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">16168	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Burgos Cathedral, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">75128	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Panorama, Madrid, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">75287	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Royal Palace, Madrid, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">75307	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Seville Cathedral, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">73719	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Interior, Seville Cathedral, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">73731	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>View of Gibraltar from East, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1386" type="box">1386</container>
+<materialspec label="index">10918	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1386 -->
+<!-- Box 1387 -->
+<c01>
+<note>Box 1387</note>
+<did>
+<unitid>2.1.2.4.21.1</unitid>
+<unittitle>Countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>A shepherd and his flock, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">10941	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>General view of the Escorial, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">14319	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Monument to Christopher Columbus, Barcelona, Spain	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Bridge over Lake Lucerne, Switzerland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">16291	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Lake Lucerne and Axenstrasse, Switzerland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">16303	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Tunnel on Axenstrasse, Lucerne, Switzerland 	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">16304	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Covered bridge, Lucerne, Switzerland 	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Street arcade, Bern, Switzerland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">16029	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Lower glacier, front view, Grindelwald, Bern, Switzerland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">16239	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Panorama of Old Bern from the Munster, Switzerland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">20976	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>In the grotto, Chamonix Valley, Glacier des Bossons, Switzerland[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">16097	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Lauterbrunnen Valley, Switzerland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">16283	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Simplon Pass from highest point, Switzerland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">16388	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Mount Pilates from the Rigi Kulm, Switzerland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">20897	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Route to the great St. Bernard Pass, Switzerland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">21061	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Royal Museum, Antwerp, Belgium	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">22497	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Statue of Jordaens, Antwerp, Belgium	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">22506	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Canal scene, Bruges, Belgium	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">22523	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Watchtower, Bruges, Belgium	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">22524	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Flag, Belgium	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Panorama, Austria	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">27950	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Cathedral, exterior, Throndhjem, Norway	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">7436	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Group of men and women, Norway[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Women, Norway[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>The nave, Westminster Abbey, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">46	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Tomb of Henry VII, Westminster Abbey, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">61	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Bust of Henry Wadsworth Longfellow, Westminster Abbey, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">799	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>The Nightingale tomb, Westminster Abbey, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Beefeaters, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">504	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Queen Elizabeth’s armory, Tower of London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">526	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>St. Stephen’s Hall, Houses of Parliament, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">628	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Effigy of Henry VIII in armor, on horseback, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">532	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Figure of Queen Elizabeth on horseback, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">533	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Lichfield Cathedral, west front, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">5710	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Inscriptions on William Shakespeare’s grave, Stratford-on-Avon, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">6539	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Rosetta Stone, British Museum, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">6801	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Frogmore House, Windsor, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1387" type="box">1387</container>
+<materialspec label="index">7067	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1387 -->
+<!-- Box 1388 -->
+<c01>
+<note>Box 1388</note>
+<did>
+<unitid>2.1.2.4.21.1</unitid>
+<unittitle>Countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Big Ben, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Throne room, Windsor Castle, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Room in which William Shakespeare was born, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Edward VII of England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>North aisle of nave, Canterbury Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">1882	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Scene on lake, Killarney, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">3118	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Entrance, Gap of Dunloe, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">3123	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Gap of Dunloe, Wishing Bridge, lakes, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">3127	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Black Valley, Gap of Dunloe, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">3129	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Cataract at Ballyshannon, Donegal, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">8327	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Statue of Goldsmith, Dublin, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">8416	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Howth Castle, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">8444	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Kylemore Castle, Galway, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">8474	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>St. Columba’s Church, Londonderry, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">8672	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Ancient cross in cemetery, Kells, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">8746	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Sligo Abbey, interior, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">8773	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>The Fan, Giant’s Causeway, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Flag, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Panorama northwest from the Acropolis, Athens, Greece	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24502                            	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Hermes Street, Athens, Greece	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24506	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Northeast panorama from Parthenon, Athens, Greece	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">25252	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Temple of Jupiter, Capitals, Greece	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">5331	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Farm woman, Greece	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24610	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Sublime Porte, Constantinople, Turkey	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">167	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Galata Bridge, Constantinople, Turkey	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">5509	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Persian Embassy, Constantinople, Turkey	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">5537	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>The Obelisk, Heliopolis, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24125	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Ostrich, Heliopolis, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24126	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Karnak Lotus column, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24175	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Karnak obelisks, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24176	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Karnak sphinxes, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24177	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Birch house, Dendera, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24078	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>East gate, Dendera, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24080	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>East gate from roof of temple, Dendera, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24081	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Interior columns, Dendera, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">29484	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Statue of Ferdinand de Lessups, Port Said, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">22310	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>View of village, Abydos, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24009	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 38	
+</unitid>
+<unittitle>Nile River barrage, general view, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1388" type="box">1388</container>
+<materialspec label="index">24045	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1388 -->
+<!-- Box 1389 -->
+<c01>
+<note>Box 1389</note>
+<did>
+<unitid>2.1.2.4.21.1</unitid>
+<unittitle>Countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Canal scene, Cairo, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">24063	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Temple of Hathor from gate, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">24075	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Great Pylon, Temple of Horus, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">24092	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Great Pylon, Temple of Horus, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">24094	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Temple of Horus at Edfu, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">24095	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Sphinx, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">24112	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Statue of Ramses II, Memphis, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">24140	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Temple Der-El-Bahari, Thebes, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">24163	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Papyrus and lotus columns, Luxor, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">24203	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Ancient portrait of Ramses III, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">27786	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Small temple, Abu Simbel, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">29001	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Mummy mask, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">29453	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Memphis, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">29645	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>The Kremlin, interior, Moscow, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">2240	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Salon, Alexander Palace, Czarskoe Selo, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Palace of Tirumala Nayak, exterior, Madura, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">12802	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Palace of Tirumala Nayak, courtyard, Madura, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">12803	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Golden Lotus Tank, Madura, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">12806	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Panorama, Madura, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">12813	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Parsee Tower of Silence, Madura, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">12267	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Street scene, Bombay, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">6427	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Government building, Bombay, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">17306	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Street in which many people died of plague, Bombay, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">17353	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Building, Bombay, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Main cave, Elephanta, Mumbai, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">16441	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>East wing of cave, Elephanta, Mumbai, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">16444	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Avenue lined with trees, Randy, Ceylon, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">16565	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Bamboo, Ceylon, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">16616	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Burning Ghat, Benares, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">17104	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Immersing body in river, Burning Ghat, Benares, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">17105	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Ceremonies before burning, Burning Ghat, Benares, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">17106	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Sundai’s[?] Ghat and temple, Benares, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">17109	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Mount Abu Railway Station, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">17200	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Ceiling, Dilwara Temples, Mount Abu, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">17204	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Temple of Rameshwaram, long corridor, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">12824	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Qutb Minar, Delhi, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">14050	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Feeding the pigeons, Jeypore, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1389" type="box">1389</container>
+<materialspec label="index">14529	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1389 -->
+<!-- Box 1390 -->
+<c01>
+<note>Box 1390</note>
+<did>
+<unitid>2.1.2.4.21.1</unitid>
+<unittitle>Countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Washerman, Simla, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">16470	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Tracery, the fort, Moti Masjid, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">17005	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Rock sculptures on cliff below walls of fort, Gwalior, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">17191	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Native devotee, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">12829	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Bullock cart, better class, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">12833	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Playing the mettakinaram, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">12842	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Carpenters, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">12852	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Missionary preaching, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">12879	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Sawyers, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">12891	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Snake charmers, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">12954	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Beautiful flamingoes, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">14030	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Assembling for prayer, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">14045	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Native women, Bangalore, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">16416	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Rhinoceros, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">6422	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Lord of the Field (large canon), India[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Building façade, India[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Unidentified building, India[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Men wrestling, trying for grips, Japan	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">22	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Country girl, Japan	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">28	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Woman holding flower vase, Japan	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">48	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Geisha reading newspaper, Japan	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">65	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Temple, Japan	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Temple, Japan	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Torii Gate, Japan	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Well-dressed man and woman, Japan	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Two women, Japan	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Women, Japan	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Women bowing, Japan	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Wall carvings, Japan[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Flag, Canada	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Fifth Avenue toward the Flatiron Building, New York City	
+</unittitle>
+<unitdate label="Date">circa 1902-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Flatiron Building and Madison Square, New York City	
+</unittitle>
+<unitdate label="Date">circa 1902-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Brooklyn Bridge at night, New York City	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Brooklyn Bridge, New York City	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Queensboro Bridge, New York City	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Apartments on Riverside Drive, New York City	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Wall Street, New York City	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1390" type="box">1390</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1390 -->
+<!-- Box 1391 -->
+<c01>
+<note>Box 1391</note>
+<did>
+<unitid>2.1.2.4.21.1</unitid>
+<unittitle>Countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Times Building, New York City	
+</unittitle>
+<unitdate label="Date">circa 1913-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Waldorf Astoria Hotel, New York City	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Astor Hotel, New York City	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Pennsylvania Station, bird’s eye view, New York City	
+</unittitle>
+<unitdate label="Date">circa 1910-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Waiting room, Grand Central Terminal, New York City	
+</unittitle>
+<unitdate label="Date">circa 1913-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Singer Building at night, New York City	
+</unittitle>
+<unitdate label="Date">circa 1908-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>St. Paul’s Church, Park Row, New York City	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Steamer passing Statue of Liberty, New York City	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Watching the ball score, New York City	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Night view of lower New York City	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Skyscraper, looking up, New York City	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Horseshoe Falls from below Niagara Falls, New York State	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">04075	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Paradise Bay, Lake Grove, New York State	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">017167	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Flirtation Walk, West Point, New York	
+</unittitle>
+<unitdate label="Date">1905	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">018684	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Grand stairway, Library of Congress, Washington, D.C.	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">16651	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>United States House of Representatives in session, Honorable Joe Cannon Speaker of the House, Washington, D.C.	
+</unittitle>
+<unitdate label="Date">circa 1903-1911 	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">23024	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Connecticut Avenue, Washington, D.C.	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">71079	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>New Presidential office at the White House, exterior, Washington, D.C.	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">75182	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Faneuil Hall, Boston	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">6907	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Trinity Church, Boston	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">01193	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Restored front, State House, Philadelphia	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1391" type="box">1391</container>
+<materialspec label="index">7896	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1391 -->
+
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

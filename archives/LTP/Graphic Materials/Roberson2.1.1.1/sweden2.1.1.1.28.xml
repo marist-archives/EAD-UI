@@ -1,0 +1,1820 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/sweden2.1.1.1.28.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Sweden</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.28</unitid>
+			<unittitle>Sweden</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1245 -->
+			<c01>
+				<note>Box 1245</note>
+				<did>
+					<unitid>2.1.1.1.28</unitid>
+					<unittitle>Sweden</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Crown Prince Gustaf and wife (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5000</materialspec>
+						<materialspec label="negativenumber">643</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Map (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5002</materialspec>
+						<materialspec label="negativenumber">457</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Peasant home, Skansen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5007</materialspec>
+						<materialspec label="negativenumber">387</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Old man in Skansen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5128</materialspec>
+						<materialspec label="negativenumber">612</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Barn in Skansen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5129</materialspec>
+						<materialspec label="negativenumber">610</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Steam engine</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5130</materialspec>
+						<materialspec label="negativenumber">609</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Rich peasant home in Skansen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5131</materialspec>
+						<materialspec label="negativenumber">594</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Girls in Skansen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5134</materialspec>
+						<materialspec label="negativenumber">498</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Peasant sewing in doorway, Skansen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5135</materialspec>
+						<materialspec label="negativenumber">496</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Group of Dalecarlian girls in Skansen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5136</materialspec>
+						<materialspec label="negativenumber">495</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Frank R. Roberson sitting in Laplander’s hut in Skansen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5137</materialspec>
+						<materialspec label="negativenumber">493</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>House in Skansen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5139</materialspec>
+						<materialspec label="negativenumber">487</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Saltsjön, outlet to the Baltic, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5010</materialspec>
+						<materialspec label="negativenumber">447</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>View of Kastellholmen, with castle, from Katarinahissen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">5011</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1245 -->
+			<!-- Box 1246 -->
+			<c01>
+				<note>Box 1246</note>
+				<did>
+					<unitid>2.1.1.1.28</unitid>
+					<unittitle>Sweden</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Katarinahissen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5012</materialspec>
+						<materialspec label="negativenumber">409</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Riddarholmen, railroad, from Södermalm, where Lake Mälaren comes in, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5015</materialspec>
+						<materialspec label="negativenumber">397</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Blasieholmen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5016</materialspec>
+						<materialspec label="negativenumber">426</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Waterfront near Grand Hotel, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5018</materialspec>
+						<materialspec label="negativenumber">431</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Waterfront, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5019</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Fine houses, Strandvägen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5020</materialspec>
+						<materialspec label="negativenumber">429</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>On Strandvägen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5021</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Strandvägen, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5022</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Royal Palace, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5023</materialspec>
+						<materialspec label="negativenumber">440</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Slottsbacken, showing hill near palace, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5024</materialspec>
+						<materialspec label="negativenumber">444</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Houses of Parliament and waterfront, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5025</materialspec>
+						<materialspec label="negativenumber">393</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Riksdag, House of Parliament, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5026</materialspec>
+						<materialspec label="negativenumber">394</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Architecture of the restaurant of opera house, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5029</materialspec>
+						<materialspec label="negativenumber">367</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Opera house, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5030</materialspec>
+						<materialspec label="negativenumber">443</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Entrance to tunnel, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5031</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Birger Jarlsgatan, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5032</materialspec>
+						<materialspec label="negativenumber">365</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Statue of John Ericsson in Berzelii Park, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5033</materialspec>
+						<materialspec label="negativenumber">408</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Riddarholmen and church, from Södermalm, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5036</materialspec>
+						<materialspec label="negativenumber">424</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Riddarholmen Church, Stockholm [broken]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5145</materialspec>
+						<materialspec label="negativenumber">494</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Nordiska Museum, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5038</materialspec>
+						<materialspec label="negativenumber">363</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Relics of old houses, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5040</materialspec>
+						<materialspec label="negativenumber">395</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Old and new buildings, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5041</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>New school, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5042</materialspec>
+						<materialspec label="negativenumber">392</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Modern church in new part of city, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5043</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Stortorget, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5144</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Kindstugatan, street in Stockholm [broken]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5146</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Swedish engine</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5147</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Mynttorget with old mint[?], Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5148</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Statue of King Karl XIII in King’s Garden, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5149</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Square in Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5150</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Statue of Berzelius, Berzelii Park, Stockholm</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5151</materialspec>
+						<materialspec label="negativenumber">533</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Helsingborg, from the hill</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5045</materialspec>
+						<materialspec label="negativenumber">416</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Castle, stairway and Tower of Kärnan, Helsingborg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5046</materialspec>
+						<materialspec label="negativenumber">380</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Museum, Helsingborg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5126</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Main square in Helsingborg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5127</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>High school, Gothenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5048</materialspec>
+						<materialspec label="negativenumber">430</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Göta Elf from hill, Gothenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5049</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Ericsson monument, Gothenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5051</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Street in Gothenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5152</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Fellow, arm around girl, in park, Gothenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5153</materialspec>
+						<materialspec label="negativenumber">500</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Bridge and man square, Gothenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5154</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Store Haven[?] canal with town hall, Gothenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5155</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Bath house, Gefle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5050</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Vänersborg harbor</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5053</materialspec>
+						<materialspec label="negativenumber">418</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Boat in old lock, Åkersvass</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5055</materialspec>
+						<materialspec label="negativenumber">453</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Old locks at Åkersvass</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5056</materialspec>
+						<materialspec label="negativenumber">389</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Statue of Linnaeus, Uppsala (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5059</materialspec>
+						<materialspec label="negativenumber">637</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Home of Linnaeus, Uppsala (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5060</materialspec>
+						<materialspec label="negativenumber">633</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Tunnili Ganila[?], Uppsala</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5061</materialspec>
+						<materialspec label="negativenumber">391</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>View down Drottninggatan, Uppsala</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5063</materialspec>
+						<materialspec label="negativenumber">371</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Interior of cathedral, Uppsala</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5064</materialspec>
+						<materialspec label="negativenumber">407</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Tomb of Gustaf Vasa in cathedral, Uppsala</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5065</materialspec>
+						<materialspec label="negativenumber">412</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Bell tower of church, Old Uppsala</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5067</materialspec>
+						<materialspec label="negativenumber">455</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Codex Argenteus, Uppsala</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5071</materialspec>
+						<materialspec label="negativenumber">445</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Interior of university building, Uppsala</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1246" type="box">1246</container>
+						<materialspec label="index">5072</materialspec>
+						<materialspec label="negativenumber">385</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1246 -->
+			<!-- Box 1247 -->
+			<c01>
+				<note>Box 1247</note>
+				<did>
+					<unitid>2.1.1.1.28</unitid>
+					<unittitle>Sweden</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Interior of assembly room in university, Uppsala</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5073</materialspec>
+						<materialspec label="negativenumber">387</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Cathedral, side view, Uppsala</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5077</materialspec>
+						<materialspec label="negativenumber">442</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Both styles of hay stacks, Rättirk  [broken]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5078</materialspec>
+						<materialspec label="negativenumber">446</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Church and hay fields, Rättirk</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5088</materialspec>
+						<materialspec label="negativenumber">436</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Church and church houses, Rättirk</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5089</materialspec>
+						<materialspec label="negativenumber">375</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Tourist hotel, Rättirk</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5090</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Group of dancers at Rättirk</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5092</materialspec>
+						<materialspec label="negativenumber">450</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Little children, Rättirk (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5096</materialspec>
+						<materialspec label="negativenumber">520</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Girls in Rättirk</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5206</materialspec>
+						<materialspec label="negativenumber">611</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Frame for hay, Rättirk</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5210</materialspec>
+						<materialspec label="negativenumber">489</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Women washing, Rättirk</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5213</materialspec>
+						<materialspec label="negativenumber">482</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Pier at Rättirk</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5214</materialspec>
+						<materialspec label="negativenumber">481</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Woman and cat, Leksand (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5099</materialspec>
+						<materialspec label="negativenumber">641</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Five Leksand girls (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5102</materialspec>
+						<materialspec label="negativenumber">635</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>House and family, Leksand (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5103</materialspec>
+						<materialspec label="negativenumber">630</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Woman reading bible, Leksand (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5104</materialspec>
+						<materialspec label="negativenumber">522</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Avenue of trees in Leksand</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5109</materialspec>
+						<materialspec label="negativenumber">377</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Church at Leksand</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5111</materialspec>
+						<materialspec label="negativenumber">379</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Children at Leksand</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5207</materialspec>
+						<materialspec label="negativenumber">480</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Bridge at Leksand from the hill</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5208</materialspec>
+						<materialspec label="negativenumber">479</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Bridge at Leksand</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5209</materialspec>
+						<materialspec label="negativenumber">478</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Church, Mora</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5113</materialspec>
+						<materialspec label="negativenumber">448</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Bell tower to Mora Church</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5114</materialspec>
+						<materialspec label="negativenumber">413</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Gustaf Vasa statue, Mora</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5116</materialspec>
+						<materialspec label="negativenumber">414</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Farm near Mora</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5119</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>House with ladder, Mora</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5195</materialspec>
+						<materialspec label="negativenumber">486</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Vasa memorial, Mora</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5196</materialspec>
+						<materialspec label="negativenumber">483</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Lake Viken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5166</materialspec>
+						<materialspec label="negativenumber">505</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Sailboat on Lake Viken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5167</materialspec>
+						<materialspec label="negativenumber">502</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Boat at Rödesund</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5170</materialspec>
+						<materialspec label="negativenumber">614</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Skegborg[?] Castle, on canal</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5174</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Town hall, Lidköping</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5177</materialspec>
+						<materialspec label="negativenumber">509</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Water works tower, Lidköping</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5179</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Bank, Lidköping [broken]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5180</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Road from hotel, Kinnekulle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5189</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Hotel at Kinnekulle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5190</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Hotel at Kinnekulle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5191</materialspec>
+						<materialspec label="negativenumber">597</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Drive near Kinnekulle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5192</materialspec>
+						<materialspec label="negativenumber">598</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Lake Wenern[?] from king’s view</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5193</materialspec>
+						<materialspec label="negativenumber">599</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>King’s view, Kinnekulle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5194</materialspec>
+						<materialspec label="negativenumber">627</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Bridge and lock on canal trip</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5156</materialspec>
+						<materialspec label="negativenumber">617</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Bridge closing, canal trip</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5157</materialspec>
+						<materialspec label="negativenumber">615</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>On canal trip</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5158</materialspec>
+						<materialspec label="negativenumber">608</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Gotal Canal[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5159</materialspec>
+						<materialspec label="negativenumber">606</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Farms along the canal</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5160</materialspec>
+						<materialspec label="negativenumber">605</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Passing coal barges on canal</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5161</materialspec>
+						<materialspec label="negativenumber">534</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Canal and bridge, way to Karlsborg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5163</materialspec>
+						<materialspec label="negativenumber">504</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Fields along the canal, on canal to Karlsborg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5164</materialspec>
+						<materialspec label="negativenumber">492</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Farm scene, Söderköping, canal trip</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5182</materialspec>
+						<materialspec label="negativenumber">501</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Söderköping on canal trip</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5183</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Canal near Söderköping</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5184</materialspec>
+						<materialspec label="negativenumber">607</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Canal near Söderköping</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5185</materialspec>
+						<materialspec label="negativenumber">618</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Locks near Lake Boren</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5186</materialspec>
+						<materialspec label="negativenumber">488</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Canal near Karlsborg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5187</materialspec>
+						<materialspec label="negativenumber">506</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Barrels at Oxelösund, canal trip</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">5188</materialspec>
+						<materialspec label="negativenumber">503</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1247 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/LanternSlides2.1.2/geoWBondCo2.1.2.4.4.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Geo. W. Bond Co.</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.2.4.4</unitid>
+			<unittitle>Geo. W. Bond Co.</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1379 -->
+			<c01>
+				<note>Box 1379</note>
+				<did>
+					<unitid>2.1.2.4.4</unitid>
+					<unittitle>Geo. W. Bond Co.</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Group of people on horses, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">42</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Jacob’s ladder, Bright Angel Trail, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">49</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Colorado River at foot of Bright Angel Trail, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">51</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Dinging room, El Tovar, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">53</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>One mile of Bright Angel Trail, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">54</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Painting, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">56</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Temple of the Gorge, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">82</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Corkscrew, Bright Angel Trail, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">91</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Hermit Run Drive, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">93</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>El Tovar, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">94</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>View from El Tovar, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">98</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Rendezvous Hotel, El Tovar, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">105</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Hopi blanket weaver</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">111</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Hopi harvest dance</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">116</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Hopi cupid</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">119</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Petrified Forest, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">134</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Hopi unlimited, children sitting on donkey</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">141</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>View from Grand View, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">277</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Sunset, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">278</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Looking down on Colorado River, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">454</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Looking into giant gorge, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">457</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Upper section of Hermit Trail, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">507</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Telescope in Lookout, Grand Canyon</unittitle>
+						<unitdate label="Date">early 1900s</unitdate>
+						<container id="1379" type="box">1379</container>
+						<materialspec label="index">567</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1379 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

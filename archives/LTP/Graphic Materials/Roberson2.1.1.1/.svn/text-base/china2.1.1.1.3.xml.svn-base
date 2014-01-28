@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>China</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.3</unitid>
+			<unittitle>China</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1174 -->
+			<c01>
+				<note>Box 1174</note>
+				<did>
+					<unitid>2.1.1.1.3</unitid>
+					<unittitle>China</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Chinese Board of Punishment</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Execution of robbers</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Execution of robbers</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Execution of robbers</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Execution of robbers</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Chinese actors</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1174" type="box">1174</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1174 -->
+			<!-- Box 1175 -->
+			<c01>
+				<note>Box 1175</note>
+				<did>
+					<unitid>2.1.1.1.3</unitid>
+					<unittitle>China</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>U.S.L.G. Peking</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Audience Chamber of the Forbidden City</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>First throne of China</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Second throne of China</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Imperial OR Fifth throne of China</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Camp Lanzear (building where the experiments were made which proved that yellow fever is not transmitted by means of infected clothing)</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Tree lined street</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Boats</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Three men</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Czarina of Russia</unittitle>
+						<unitdate label="Date">Undated</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Czarina of Russia</unittitle>
+						<unitdate label="Date">Undated</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Portrait of unidentified Western man</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Group of Chinese people</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Audience Chamber, Summer Palace, copy</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Camel back bridge, Summer Palace, copy</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Pagoda, Summer Palace, copy</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Marble boat, Summer Palace, copy</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1175 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

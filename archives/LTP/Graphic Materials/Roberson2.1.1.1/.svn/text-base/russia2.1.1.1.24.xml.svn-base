@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Russia</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.24</unitid>
+			<unittitle>Russia</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1239 -->
+			<c01>
+				<note>Box 1239</note>
+				<did>
+					<unitid>2.1.1.1.24</unitid>
+					<unittitle>Russia</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Guard and Frank R. Roberson in the Kremlin, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2400</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Interior of Kremlin, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2401</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Gate and Kremlin, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2402</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Guard in the Kremlin, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2403</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Beggars in the Kremlin, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2404</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Woman begging, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2405</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Thieves market, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2406</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>The Kremlin from across the river, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2407</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Frank R. Roberson and Mrs. Jessie W. Roberson in Moscow at Trinity Gate</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2408</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Pilgrim at statue of Alexander II, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2409</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>The big bell, the Kremlin, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2410</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Ward in foundling hospital, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2411</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Cab with pheumatic tires, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2412</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Red Square with Church of Saint Basil, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2413</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Holy Gate and Convent of the Ascension, in the Kremlin, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2414</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Church of Our Savior and Alexander III memorial, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2415</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Church of Ivan the Great, the Kremlin, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2416</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Cross marking the spot where Grand Duke Serge fell, the Kremlin, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2417</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Ward in the foundling hospital, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2418</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>The foundling hospital, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2419</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Memorial to Alexander III, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2420</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Nurse in the foundling hospital, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2421</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Street in new business section, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2422</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Interior of arcade, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2423</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Church of Ivan Velki and captured canon, the Kremlin, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2424</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Two nurses, foundling hospital, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2425</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>The Holy Gate, taken from the Red Square, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2426</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Showing cupola of Greek church, Moscow</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>His Imperial Majesty Nikolai Aleksandrovich [Nicholas II], copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Man in military uniform, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">4X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Man in military uniform, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">5X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Grand Duchesses Olga, Tatiana, Anastasia and Maria with the Tsarevich Alexei, children of Tsar Nicholas II, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">6X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Emperor Nicholas Aleksandrovich [Nicholas II], copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">8X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Tsarevich Alexei Nikolaevich Romanov, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">9X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Her Imperial Majesty, Empress Alexandra Gosudarynya Feodorovna, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">11X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1239 -->
+			<!-- Box 1240 -->
+			<c01>
+				<note>Box 1240</note>
+				<did>
+					<unitid>2.1.1.1.24</unitid>
+					<unittitle>Russia</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Her Imperial Majesty, Empress Alexandra Gosudarynya Feodorovna, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index">13X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Her Imperial Majesty, Empress Alexandra Gosudarynya Feodorovna, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index">15X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>The Kremlin, Moscow, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index">24X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Boy with stick, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index">25 X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Kupalschitsa, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index">28X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Mihail Aleksandrovich, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index">41X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>His Royal Majesty, Emperor Alexander III, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index">42X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Boy sitting at desk, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index">44X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>At the door of the school, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index">45X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>County Tolstoy, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>County Tolstoy, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1240 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

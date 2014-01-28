@@ -1,0 +1,3014 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/yellowstone2.1.1.1.31.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Yellowstone National Park</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.31</unitid>
+			<unittitle>Yellowstone National Park</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1251 -->
+			<c01>
+				<note>Box 1251</note>
+				<did>
+					<unitid>2.1.1.1.31</unitid>
+					<unittitle>Yellowstone National Park</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Yellowstone Station, Oregon Short Line</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16000</materialspec>
+						<materialspec label="negativenumber">6</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Yellowstone Station</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16001</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Wylie Camp</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16002</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Wylie Camp near western entrance</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16003</materialspec>
+						<materialspec label="negativenumber">84</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Christmas tree park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16004</materialspec>
+						<materialspec label="negativenumber">80</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Cascades of the Firehole River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16005</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Firehole Cascade</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16006</materialspec>
+						<materialspec label="negativenumber">88</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>On the Madison River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16007</materialspec>
+						<materialspec label="negativenumber">56</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>The Madison River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16008</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Fountain Hotel and Lower Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16009</materialspec>
+						<materialspec label="negativenumber">7</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Fountain Hotel</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16010</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Lower Geyser Basin, Taft Geyser</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16011</materialspec>
+						<materialspec label="negativenumber">23</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Lower Basin near Fountain Hotel</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16012</materialspec>
+						<materialspec label="negativenumber">8</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Lower Geyser Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16013</materialspec>
+						<materialspec label="negativenumber">102</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Lower Geyser Basin, Paint Pots</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16014</materialspec>
+						<materialspec label="negativenumber">18</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Lower Basin Paint Pots, close view</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16015</materialspec>
+						<materialspec label="negativenumber">37</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Lower Basin Paint Pots</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16016</materialspec>
+						<materialspec label="negativenumber">98</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Pool near Paint Pots, Lower Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16017</materialspec>
+						<materialspec label="negativenumber">103</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Crater of the Great Fountain Geyser</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16018</materialspec>
+						<materialspec label="negativenumber">78</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Excelsior basin overflow into Firehole River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16019</materialspec>
+						<materialspec label="negativenumber">79</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Irvin Buttes and outlet from Excelsior basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16020</materialspec>
+						<materialspec label="negativenumber">104</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Excelsior Geyser basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16021</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Pool near Prismatic Lake, Excelsior basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">16022</materialspec>
+						<materialspec label="negativenumber">106</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1251 -->
+			<!-- Box 1252 -->
+			<c01>
+				<note>Box 1252</note>
+				<did>
+					<unitid>2.1.1.1.31</unitid>
+					<unittitle>Yellowstone National Park</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Pool near Prismatic Lake to show color, Excelsior Geyser basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16023</materialspec>
+						<materialspec label="negativenumber">73</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Pool near Prismatic Lake to show color, Excelsior basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16024</materialspec>
+						<materialspec label="negativenumber">63</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Prismatic Lake stream showing colors, Excelsior basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16025</materialspec>
+						<materialspec label="negativenumber">64</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Prismatic Lake and Excelsior Geyser</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16027</materialspec>
+						<materialspec label="negativenumber">60</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Upper Geyser Basin from distance</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16028</materialspec>
+						<materialspec label="negativenumber">107</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Upper Geyser Basin looking toward Giantess</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16029</materialspec>
+						<materialspec label="negativenumber">34</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>The White Dome near Lower Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16031</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Old Faithful Inn, general view</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16032</materialspec>
+						<materialspec label="negativenumber">39</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Old Faithful Inn, side front</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16033</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Porch of Old Faithful Inn</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16034</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Old Faithful in action</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16035</materialspec>
+						<materialspec label="negativenumber">46</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Old Faithful from formation near Giantess, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16036</materialspec>
+						<materialspec label="negativenumber">108</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Old Faithful in eruption</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16037</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Old Faithful Inn and Bee Hive Geyser</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16038</materialspec>
+						<materialspec label="negativenumber">33</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Sponge Geyser, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16039</materialspec>
+						<materialspec label="negativenumber">96</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Bee Hive cone, looking toward Old Faithful Inn, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16040</materialspec>
+						<materialspec label="negativenumber">82</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Lion, Lioness and Cub Geysers, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16041</materialspec>
+						<materialspec label="negativenumber">62</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>The Giantess playing</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16042</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Party at the Thumb</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16043</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Kepler Cascades</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16044</materialspec>
+						<materialspec label="negativenumber">20</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Kepler Cascade, looking downstream</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16045</materialspec>
+						<materialspec label="negativenumber">14</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Road to Yellowstone Lake</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16046</materialspec>
+						<materialspec label="negativenumber">54</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Yellowstone Lake and road</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16047</materialspec>
+						<materialspec label="negativenumber">38</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Road to Lake Hotel</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16048</materialspec>
+						<materialspec label="negativenumber">119</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Yellowstone Lake, trees in foreground</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16050</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Yellowstone Lake through trees, taken near hotel</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16051</materialspec>
+						<materialspec label="negativenumber">115</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Lake Hotel</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16052</materialspec>
+						<materialspec label="negativenumber">53</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Lower Falls from Lookout Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16055</materialspec>
+						<materialspec label="negativenumber">146</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Lower Falls from Grandview Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16056</materialspec>
+						<materialspec label="negativenumber">13</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Great Falls from edge of canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16058</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Great Falls, taken from Red Rock</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16059</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Canyon from Red Rock, looking away from falls</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16060</materialspec>
+						<materialspec label="negativenumber">145</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Canyon from Inspiration Point, looking away from falls</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16061</materialspec>
+						<materialspec label="negativenumber">149</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Yellowstone Grand Canyon looking toward Great Falls</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16063</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Grand Canyon from Artist’s Point looking toward Great Falls</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16064</materialspec>
+						<materialspec label="negativenumber">94</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Grand Canyon of the Yellowstone from Artist’s Point, looking away from falls</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16065</materialspec>
+						<materialspec label="negativenumber">77</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Turret effect before reaching Inspiration Point, canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16066</materialspec>
+						<materialspec label="negativenumber">151</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Color effect of turrets, Inspiration Point, Grand Canyon of Yellowstone</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16067</materialspec>
+						<materialspec label="negativenumber">141</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Taken from Grandview Point with eagle’s nest, Grand Canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16069</materialspec>
+						<materialspec label="negativenumber">140</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Rock formation in canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16070</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Yellowstone Grand Canyon, showing peculiar rock formation</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16071</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Roaring Mountain between Norris and Mammoth</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16072</materialspec>
+						<materialspec label="negativenumber">40</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Norris Geyser Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16073</materialspec>
+						<materialspec label="negativenumber">45</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Constant Geyser, Norris Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16074</materialspec>
+						<materialspec label="negativenumber">31</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Beautiful pool near Norris Geyser Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16075</materialspec>
+						<materialspec label="negativenumber">20</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Emerald Pool at Norris Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16076</materialspec>
+						<materialspec label="negativenumber">28</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Rustic Falls near Golden Gate</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16077</materialspec>
+						<materialspec label="negativenumber">29</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Golden Gate and Bunsen Peak</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16078</materialspec>
+						<materialspec label="negativenumber">16</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Golden Gate looking north</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16079</materialspec>
+						<materialspec label="negativenumber">44</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Golden Gate looking south</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16080</materialspec>
+						<materialspec label="negativenumber">47</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>The Hoodoos near Silver Gate</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16081</materialspec>
+						<materialspec label="negativenumber">247</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>The Hoodoos</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1252" type="box">1252</container>
+						<materialspec label="index">16082</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1252 -->
+			<!-- Box 1253 -->
+			<c01>
+				<note>Box 1253</note>
+				<did>
+					<unitid>2.1.1.1.31</unitid>
+					<unittitle>Yellowstone National Park</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Mammoth Hot Spring Hotel and Fort Yellowstone</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16083</materialspec>
+						<materialspec label="negativenumber">117</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Mammoth Hotel and Fort Yellowstone</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16084</materialspec>
+						<materialspec label="negativenumber">113</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Pulpit Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16085</materialspec>
+						<materialspec label="negativenumber">89</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>General view of Jupiter Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16086</materialspec>
+						<materialspec label="negativenumber">97</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Pulpit Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16087</materialspec>
+						<materialspec label="negativenumber">99</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Minerva Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16088</materialspec>
+						<materialspec label="negativenumber">109</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16089</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Hymen Terrace, general view and Devil’s Thumb, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16090</materialspec>
+						<materialspec label="negativenumber">125</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Looking down on Hymen Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16091</materialspec>
+						<materialspec label="negativenumber">112</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Hymen Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16092</materialspec>
+						<materialspec label="negativenumber">105</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Cleopatra Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16093</materialspec>
+						<materialspec label="negativenumber">101</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Looking down on Cleopatra Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16094</materialspec>
+						<materialspec label="negativenumber">11</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Cleopatra Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16095</materialspec>
+						<materialspec label="negativenumber">22</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Cleopatra Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16096</materialspec>
+						<materialspec label="negativenumber">26</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Cleopatra Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16097</materialspec>
+						<materialspec label="negativenumber">86</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Cupid’s Cave, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16098</materialspec>
+						<materialspec label="negativenumber">118</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Cupid’s Cave, general view, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16099</materialspec>
+						<materialspec label="negativenumber">129</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Mound Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16100</materialspec>
+						<materialspec label="negativenumber">76</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Orange Geyser at Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16101</materialspec>
+						<materialspec label="negativenumber">100</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Deer on edge of forest</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16102</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Lodge pole pine forest</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16103</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Mistletoe on tree</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16105</materialspec>
+						<materialspec label="negativenumber">142</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Shooting star [plant]</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16106</materialspec>
+						<materialspec label="negativenumber">274</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Larkspur</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16107</materialspec>
+						<materialspec label="negativenumber">280</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Wild phlox</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16108</materialspec>
+						<materialspec label="negativenumber">281</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Bear at Norris</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16110</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Woodchuck on the edge of the lake</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16111</materialspec>
+						<materialspec label="negativenumber">249</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Deer in woods</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16112</materialspec>
+						<materialspec label="negativenumber">201</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Bear at Norris</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16113</materialspec>
+						<materialspec label="negativenumber">153</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Black bear</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16114</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Deer, close-up</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16115</materialspec>
+						<materialspec label="negativenumber">188</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Deer in the trees</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16116</materialspec>
+						<materialspec label="negativenumber">187</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Woodchuck</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16117</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Deer</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16118</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Larkspur</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16120</materialspec>
+						<materialspec label="negativenumber">261</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Fringed Gentian</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16121</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Camping outfit at Yellowstone</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16122</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Camping outfit</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16123</materialspec>
+						<materialspec label="negativenumber">195</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Campers</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16124</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Madison River or Swan Lake Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16125</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Along the Madison River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16126</materialspec>
+						<materialspec label="negativenumber">156</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>The Madison River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16127</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Junction of the Firehole and Gibbon Rivers</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16128</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Gibbon Falls</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16129</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Gibbon Falls (80 feet)</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16130</materialspec>
+						<materialspec label="negativenumber">253</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Chocolate Spring</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16131</materialspec>
+						<materialspec label="negativenumber">232</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Chocolate Springs near Norris</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16132</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Boiling pool</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16133</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Road and geyser, Norris</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16134</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Road to Norris</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16135</materialspec>
+						<materialspec label="negativenumber">194</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Norris Hotel</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16136</materialspec>
+						<materialspec label="negativenumber">158</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Norris Geyser Basin, general view</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16137</materialspec>
+						<materialspec label="negativenumber">160</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Paint Pot in Norris Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16138</materialspec>
+						<materialspec label="negativenumber">166</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Second Paint Pot in Norris Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16139</materialspec>
+						<materialspec label="negativenumber">163</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>The Bathtub, Norris Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1253" type="box">1253</container>
+						<materialspec label="index">16140</materialspec>
+						<materialspec label="negativenumber">226</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1253 -->
+			<!-- Box 1254 -->
+			<c01>
+				<note>Box 1254</note>
+				<did>
+					<unitid>2.1.1.1.31</unitid>
+					<unittitle>Yellowstone National Park</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Mud Geyser, Norris Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16141</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Mud Geyser, Norris Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16142</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>The Mud Geyser, Norris Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16143</materialspec>
+						<materialspec label="negativenumber">162</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Coaches</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16144</materialspec>
+						<materialspec label="negativenumber">329</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Stages</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16145</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Along the Gardiner River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16146</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Swan Lake Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16147</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Road through forest</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16148</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Side of Roaring Mountain</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16149</materialspec>
+						<materialspec label="negativenumber">256</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Obsidian Cliff</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16150</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Electric Peak</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16151</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Coach on the road near the Golden Gate</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16152</materialspec>
+						<materialspec label="negativenumber">161</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>The Hoodoos</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16153</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>The Hoodoos</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16154</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>The White Elephant, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16155</materialspec>
+						<materialspec label="negativenumber">181</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Angel Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16156</materialspec>
+						<materialspec label="negativenumber">229</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Part of Angel Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16157</materialspec>
+						<materialspec label="negativenumber">257</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>The Liberty Cap, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16158</materialspec>
+						<materialspec label="negativenumber">255</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Liberty Cap and Hymen Terrace</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16159</materialspec>
+						<materialspec label="negativenumber">254</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>The Devil’s Thumb, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16160</materialspec>
+						<materialspec label="negativenumber">164</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Frank R. Roberson and party at cone of the Great Geyser</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16162</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Miss Heyder near Angel Terrace, Mammoth Hot Springs</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16163</materialspec>
+						<materialspec label="negativenumber">200</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Inspiration Point, Grand Canyon of Yellowstone</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16164</materialspec>
+						<materialspec label="negativenumber">186</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Mammoth Paint Pots, Lower Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16165</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Approaching the Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16166</materialspec>
+						<materialspec label="negativenumber">154</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Along the Firehole River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16167</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Along the Firehole River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16168</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Riverside Geyser, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16169</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Hot pool with wildflowers, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16170</materialspec>
+						<materialspec label="negativenumber">224</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Geysers along the Firehole River, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16171</materialspec>
+						<materialspec label="negativenumber">332</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Frank R. Roberson at the Fan Geyser, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16172</materialspec>
+						<materialspec label="negativenumber">153</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Frank R. Roberson and party at the Punch Bowl, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16173</materialspec>
+						<materialspec label="negativenumber">327</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Looking into heart of hot spring</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16174</materialspec>
+						<materialspec label="negativenumber">334</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Frank R. Roberson at hot pool, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16175</materialspec>
+						<materialspec label="negativenumber">330</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Economic Geyser, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16176</materialspec>
+						<materialspec label="negativenumber">225</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Crater of the Great Geyser</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16177</materialspec>
+						<materialspec label="negativenumber">246</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Color effect near Biscuit Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16178</materialspec>
+						<materialspec label="negativenumber">243</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Cone of the Giant Geyser, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16179</materialspec>
+						<materialspec label="negativenumber">331</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Morning Glory Spring, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16180</materialspec>
+						<materialspec label="negativenumber">157</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Frank R. Roberson at Castle Geyser, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16181</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>The Castle Geyser cone, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16182</materialspec>
+						<materialspec label="negativenumber">237</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>The Grotto Geyser in action, Upper Basin</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16183</materialspec>
+						<materialspec label="negativenumber">242</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>The Giantess in eruption</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16184</materialspec>
+						<materialspec label="negativenumber">228</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Side of Old Faithful crater</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16185</materialspec>
+						<materialspec label="negativenumber">165</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Looking into crater of Old Faithful</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16186</materialspec>
+						<materialspec label="negativenumber">172</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Frank R. Roberson on the crater of Old Faithful</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16187</materialspec>
+						<materialspec label="negativenumber">171</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Snow in June, Old Faithful Inn</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16188</materialspec>
+						<materialspec label="negativenumber">333</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>The cone of the Lone Star Geyser</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16189</materialspec>
+						<materialspec label="negativenumber">170</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Lone Star Geyser cone</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16190</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Lone Star Geyser in action</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16191</materialspec>
+						<materialspec label="negativenumber">238</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Lone Star Geyser</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16192</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Lone Star Geyser in action</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16193</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>The Continental Divide and Isa Lake</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16194</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>The Continental Divide in June</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16195</materialspec>
+						<materialspec label="negativenumber">176</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Bad roads</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16196</materialspec>
+						<materialspec label="negativenumber">230</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Frank R. Roberson and bad road</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16197</materialspec>
+						<materialspec label="negativenumber">215</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Yellowstone Lake near the Thumb</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16198</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>The Fishing Cone in Yellowstone Lake, near the Thumb</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16199</materialspec>
+						<materialspec label="negativenumber">202</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Road near Thumb</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16200</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Between the Thumb and Lake Hotel</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16201</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Mud volcano</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16202</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>The mud volcano</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16203</materialspec>
+						<materialspec label="negativenumber">252</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Yellowstone Lake and mountains</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16204</materialspec>
+						<materialspec label="negativenumber">251</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>People leaving the Lake Hotel</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16205</materialspec>
+						<materialspec label="negativenumber">247</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Yellowstone Lake through the trees</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1254" type="box">1254</container>
+						<materialspec label="index">16206</materialspec>
+						<materialspec label="negativenumber">248</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1254 -->
+			<!-- Box 1255 -->
+			<c01>
+				<note>Box 1255</note>
+				<did>
+					<unitid>2.1.1.1.31</unitid>
+					<unittitle>Yellowstone National Park</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Yellowstone River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16207</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Upper Falls, spray</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16208</materialspec>
+						<materialspec label="negativenumber">191</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Upper Falls</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16209</materialspec>
+						<materialspec label="negativenumber">231</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Yellowstone River near the big bridge</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16210</materialspec>
+						<materialspec label="negativenumber">190</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Grand Canyon Bridge</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16211</materialspec>
+						<materialspec label="negativenumber">258</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Canyon and Yellowstone River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16212</materialspec>
+						<materialspec label="negativenumber">185</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Grand Canyon and Yellowstone River, showing colored rocks</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16213</materialspec>
+						<materialspec label="negativenumber">183</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Frank R. Roberson at Inspiration Point, canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16214</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Colored rock in Grand Canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16215</materialspec>
+						<materialspec label="negativenumber">189</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>On the brink of the canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16216</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Frank R. Roberson and woman at Glacial Boulder, Grand Canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16217</materialspec>
+						<materialspec label="negativenumber">184</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Between Norris and the canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16218</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>The White Dome near Great Fountain Geyser</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index">16219</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1255 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/denmark2.1.1.1.6.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Denmark</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.6</unitid>
+			<unittitle>Denmark</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1178</note>
+				<did>
+					<unitid>2.1.1.1.6</unitid>
+					<unittitle>Denmark</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Tunnel under old entrance to Kronburg Castle, Helsingor</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6000</materialspec>
+						<materialspec label="negativenumber">30</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Courtyard of Kronburg Castle, Helsingor</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6001</materialspec>
+						<materialspec label="negativenumber">19</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Wall and canal of kronberg Castle, Helsingor</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6002</materialspec>
+						<materialspec label="negativenumber">39</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Kronburg Castle, Helsingor</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6034</materialspec>
+						<materialspec label="negativenumber">510</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Kronburg Castle, Helsingor</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6035</materialspec>
+						<materialspec label="negativenumber">12</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Entrance to Kronburg Castle, Helsingor</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6036</materialspec>
+						<materialspec label="negativenumber">5</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Flag battery, Kronburg Castle, Helsingor</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6038</materialspec>
+						<materialspec label="negativenumber">9</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Parafel wall and flag battery, Kronburg Castle, Helsingor</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6039</materialspec>
+						<materialspec label="negativenumber">10</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Kronburg Castle, Helsingor</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6041</materialspec>
+						<materialspec label="negativenumber">602</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>St. Alban English Church, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6004</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Friege at Thorwaldsen's Church, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6006</materialspec>
+						<materialspec label="negativenumber">1</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Thorwalden's twelve disciples in interior of Fruekuk Church, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6007</materialspec>
+						<materialspec label="negativenumber">37</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Christ and the angels, Thorwalden's Church, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6008</materialspec>
+						<materialspec label="negativenumber">31</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>The Tivoli entrance, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6009</materialspec>
+						<materialspec label="negativenumber">40</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Tivoli gardens, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6010</materialspec>
+						<materialspec label="negativenumber">28</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Casino in Tivoli, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6011</materialspec>
+						<materialspec label="negativenumber">27</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Bridge leaving to new part of Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6012</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Staadrhown, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6014</materialspec>
+						<materialspec label="negativenumber">26</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Palace of King, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6016</materialspec>
+						<materialspec label="negativenumber">2</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Marble church, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6017</materialspec>
+						<materialspec label="negativenumber">415</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Vor Frelsers Kirke, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6018</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Entrance to Rosenburg Castle, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6020</materialspec>
+						<materialspec label="negativenumber">29</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Boulevard with modern apartment, houses in Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">60021</materialspec>
+						<materialspec label="negativenumber">A</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Glyprorek, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6022</materialspec>
+						<materialspec label="negativenumber">22</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>City from tower in zoo, garden, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6023</materialspec>
+						<materialspec label="negativenumber">33</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Banana stand in Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6025</materialspec>
+						<materialspec label="negativenumber">5</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Round Tower, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6026</materialspec>
+						<materialspec label="negativenumber">9</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Round Tower, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6027</materialspec>
+						<materialspec label="negativenumber">10</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Opera house, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6028</materialspec>
+						<materialspec label="negativenumber">12</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Street in Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6029</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Nyhavn, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6030</materialspec>
+						<materialspec label="negativenumber">13</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>New hotel(Bristol) in Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6031</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Children in front of Bourse, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6032</materialspec>
+						<materialspec label="negativenumber">14</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Royal guard, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6033</materialspec>
+						<materialspec label="negativenumber">508</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Shipping in Stockholm Canal, Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6037</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Turning trolley car in Copenhagen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1178" type="box">1178</container>
+						<materialspec label="index">6040</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<!-- End 2 -->
+
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>	

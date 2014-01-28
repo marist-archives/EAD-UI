@@ -1,0 +1,5844 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.3.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="" url="http://www.marist.edu"></eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Lowell Thomas</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="">2.1.3.3.3</unitid>
+			<unittitle>Lowell Thomas</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract"></abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p></p>
+		</scopecontent>
+		<accessrestrict>
+			<p></p>
+		</accessrestrict>
+		<userestrict>
+			<p></p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1521 -->
+			<c01>
+				<note>Box 1521</note>
+				<did>
+					<unitid>2.1.3.3.3</unitid>
+					<unittitle>Lowell Thomas</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Lowell Thomas: Lowell Thomas (infant and toddler photographs)</unittitle>
+						<unitdate label="Date">1892 - 1895</unitdate>
+						<container id="1521" type="box">1521</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Lowell Jackson, age 5 months, weight 20 pounds; photo made Sept  1892</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Jackson, age 5 months, weight 20 pounds; photo made Sept  1892</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Lowell Jackson, age 5 months, weight 20 pounds</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Lowell Jackson, age 5 months, weight 20 pounds</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Age 5 mos. [months], weight 20 lbs.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Age 5 mos. [months], weight 20 lbs.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Lowell Thomas, age 7 months;  Born April 6, 1892 in Woodington (Darke County), Ohio</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Lowell Thomas, age 7 months;  Born April 6, 1892 in Woodington (Darke County), Ohio</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas, aged 5-7 months]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Lowell Thomas Sr. about 9 months</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Lowell Thomas Sr. about 9 months</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Lowell Thomas at 9 months</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: L.T. at 9 months</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>3 yrs old [Lowell Thomas standing at right with two other children]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: 3 yrs old</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Lowell Thomas at 3 years of age, standing at right with two other children]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Lowell Thomas at 3 years of age, standing at right with two other children]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Lowell Thomas: Lowell Thomas (childhood photographs)</unittitle>
+						<unitdate label="Date">1900 - 1906</unitdate>
+						<container id="1521" type="box">1521</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: L.T., eight years of age [small mounted photograph]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Lowell Thomas, 8 yrs. old</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Lowell Thomas, 8 yrs. Old</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Lowell Thomas, 8 yrs. old</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>L. T. (on left) at 10 yrs of age, with a friend</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: L. T. (on left) at 10 yrs of age, with a friend</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>L. T. (on left) at 10 yrs of age, with a friend</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>L. T. with a friend, 10 yrs of age,</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: L. T. with a friend, 10 yrs of age,</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>L. T. with a friend, 10 yrs of age,</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Lowell  J. Thomas, twelve years old</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: Lowell  J. Thomas, twelve years old</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Caption: L.T., fourteen years of age [small mounted photographs]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>L.T., 14 yrs. old</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: LT 14 yrs. old</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Lowell Thomas, age 14</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Lowell Thomas as a young boy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Lowell Thomas as a young boy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Lowell Thomas as a young boy</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Lowell Thomas: Lowell Thomas (youth photographs)</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1521" type="box">1521</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>L.T., age eighteen</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>L.T., age eighteen</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>L.T., age eighteen</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note: L.T., age eighteen</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Young Lowell Thomas, in tuxedo</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Young Lowell Thomas, in tuxedo</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Young Lowell Thomas</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Lowell Thomas: Lowell Thomas (alone)</unittitle>
+						<unitdate label="Date">circa 1910s - 1920s</unitdate>
+						<container id="1521" type="box">1521</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas climbing rock formation]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>How do you like your soldier boy son-in-law? [Lowell Thomas in trench in Europe]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: How do you like your soldier boy son-in-law?</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas] Age 26 [1918]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note: Age 26 [1918]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Young Lowell Thomas (before mustache)]</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1521 -->
+			<!-- Box 1522 -->
+			<c01>
+				<note>Box 1522</note>
+				<did>
+					<unitid>2.1.3.3.3</unitid>
+					<unittitle>Lowell Thomas</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Lowell Thomas: Lowell Thomas (alone)</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas sitting outdoors] [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas with skis]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas (?) in horse pulled sleigh]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Lowell Thomas: Lowell Thomas (alone)</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Lowell Thomas [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Himself</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Himself</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Lowell Thomas Dean of American Commentators, lecturer and world traveler at the Imperial Hotel, Tokyo, Japan. Mr. Thomas is on an extensive tour of East and South East Asia.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: FEC-49-4717, 25 July 49, Radio Commentator in Tokyo:  Lowell Thomas Dean of American Commentators, lecturer and world traveler at the Imperial Hotel, Tokyo, Japan. Mr. Thomas is on an extensive tour of East and South East Asia. U.S. Army photo - Thomas Please credit U.S. Army photograph; The Department of the Army has no objection to the use of this photograph in commercial advertisements, provide copy and layout are submitted to the REVIEW SECTION PUBLIC INFORMATION DIVISION, DEPARTMENT OF THE ARMY, WASHINGTON D.C., and written permission is obtained</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas reading, sitting in a chair]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Take to Wash What for? E</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: "Take to Wash" What for? E</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Lowell Thomas: Lowell Thomas (alone) [includes color photograph]</unittitle>
+						<unitdate label="Date">circa 1950s - 1960s</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas with Umbrella] [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>by Don Wynn, 170 E. 73rd N.Y. City</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: by Don Wynn, 170 E. 73rd N.Y. City</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas standing in front of a tree(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Before starting their protest march they are saying: "Explorers go home!"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Note: before starting their protest march they are saying: "Explorers go home!"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Lowell Thomas, March 25, 1960</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: Lowell Thomas, March 25, 1960</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Lowell Thomas] [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Caption: Lowell Thomas signature in green ink [6 unsigned copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Lowell Thomas] [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Lowell Thomas next to Cog Wheel Route sign]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Lowell Thomas at a podium]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Lowell Thomas] [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Lowell Thomas holding up microphone(?) New technology(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Lowell Thomas, cut picture]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Lowell Thomas] [3 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Lowell Thomas with fur jacket and hat.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Lowell Thomas standing in front of a house.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[Lowell Thomas standing next to sign: No Parking Here] [5 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[Lowell Thomas with a map behind him.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[Lowell Thomas with fur jacket and hat.]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Lowell Thomas: Lowell Thomas (alone) [includes color photographs]</unittitle>
+						<unitdate label="Date">circa 1970s - 1981</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>80th birthday pix</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: 80th birthday pix</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Advance for PMs Thursday, 5/13/76. WITH UPI DISPATCH, "THOMAS,"  BY FRED T. FERGUSON. [?]867404-5/13/76-NEW YORK: It has taken Lowell Thomas 51 years of broadcasting, many more in public speaking, scores of films and 52 books to tell the things he has seen and done from Allenby at Jerusalem and Lawrence in Arabia to Shangrila [sic] and Timbucktu [sic] with thousands of points in between. Thomas is shown during interview with UPI 5/7. In background is a painting of (T. E.) Lawrence in Arabia. UPI (THOMAS) hgr/jl [5 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: Advance for PMs Thursday, 5/13/76. WITH UPI DISPATCH, "THOMAS,"  BY FRED T. FERGUSON. [?]867404-5/13/76-NEW YORK: It has taken Lowell Thomas 51 years of broadcasting, many more in public speaking, scores of films and 52 books to tell the things he has seen and done from Allenby at Jerusalem and Lawrence in Arabia to Shangrila [sic] and Timbucktu [sic] with thousands of points in between. Thomas is shown during interview with UPI 5/7. In background is a painting of (T. E.) Lawrence in Arabia. UPI (THOMAS) hgr/jl</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas standing at counter]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas with crown in hands]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>I.P.A. [International Platform Association], 1979</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: I.P.A. [International Platform Association], 1979</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas at podium]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Lowell Thomas with microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Lowell Thomas in front of Main Top]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Porch of house]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Lowell Thomas standing with hat in hand]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Lowell Thomas (?) on golf cart, golf course (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Lowell Thomas with sunglasses]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Lowell Thomas standing with hat in hands]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Lowell Thomas in turtleneck and plaid jacket]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Lowell Thomas standing with globe]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Lowell Thomas standing with hard hat, construction on ancient monument behind him]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Lowell Thomas: Lowell Thomas (alone) [color photographs]</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>LT front door at H Hill [Hammersley Hill]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: LT front door at H Hill [Hammersley Hill]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas standing in yard]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas leaning on fence], [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas wearing fur coat]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Lowell Thomas at Walt Disney World podium]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas in front of a map, on set(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Lowell Thomas wearing Q.H.C.C. jacket]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Lowell Thomas standing at podium]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Lowell Thomas standing next to painting, " Lawrence of Arabia"(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Lowell Thomas standing next to painting, " Lawrence of Arabia"(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Lowell Tomas sitting outside]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Lowell Thomas: Lowell Thomas (on horseback)</unittitle>
+						<unitdate label="Date">circa 1920s -1940s</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas on horse rearing up]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>About 1935 [4 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: about 1935</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas (?) on horseback]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Lowell Thomas on "Tango"  at his farm [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Lowell Thomas on "Tango"  at his farm</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas on horseback, Tango(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Old Photo</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Old Photo</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas(?) riding through a field]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Riding at C.B. [Clover Brook]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: Riding at C.B. [Clover Brook]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Lowell Thomas(?) on horesback], [4 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[ Lowell Thomas horseback riding with a companion]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Lowell Thomas(?) galloping(?)], [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Lowell Thomas riding], [5 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[ Lowell Thomas horseback riding with a companion], [4 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Lowell Thomas: Lowell Thomas (on horseback)</unittitle>
+						<unitdate label="Date">1967</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Lowell Thomas at Mt. Assiniboine, 1967; # 18 "Saddled Up"  by R. H. Coulter</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Thomas at Mt. Assiniboine, 1967; # 18 "Saddled Up"  by R. H. Coulter</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Lowell Thomas: Barbecue</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas in chef's hat on right, Sir Hubert Wilkins in center]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas in chef's hat on right, Viljhalmur Stefansson on left]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas in chef's hat]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas in chef's hat]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Lowell Thomas: Book signings [Includes color photographs]</unittitle>
+						<unitdate label="Date">1952, circa 1964</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Week of May 12, 1952</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Week of May 12, 1952</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Week of May 12, 1952</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Week of May 12, 1952</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Jim Seward - V.P. CBS in charge of [Arthur] Godfrey, [Edward R.] Murrow and L.T.s</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Jim Seward - V.P. CBS in charge of [Arthur] Godfrey, [Edward R.] Murrow and L.T.s</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Lowell Thomas: Boyhood Home of Lowell Thomas [color photographs]</unittitle>
+						<unitdate label="Date">1970</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Kitchen, cookstove and accessories</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Kitchen, cookstove and accessories</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Kitchen, sugar and flour bin, sink</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Kitchen, sugar and flour bin, sink</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Kitchen, icebox - wall telephone</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Kitchen, icebox - wall telephone</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Kitchen, kitchen china cabinet</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Kitchen, kitchen china cabinet</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Living room, divan and beaded lamp with fringes</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Living room, divan and beaded lamp with fringes</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Dining room, china cabinet</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Dining room, china cabinet</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Dining room, table and sideboard</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Dining room, table and sideboard</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Living room, heating stove in lv. rm. [living room]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: Living room, heating stove in lv. rm. [living room]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Living room, piano has 4 pedals, mandolin attachment; piano belongs to the Thomas family</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: Living room, piano has 4 pedals, mandolin attachment; piano belongs to the Thomas family</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Study, bookcase made of "Quakies"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Study, bookcase made of "Quakies"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Study, antique loveseat</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: Study, antique loveseat</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Study, library table and chair, antique typewriter</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso: Study, library table and chair, antique typewriter</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Note: Beaver Valley Ranch; Dear Mrs. Nicks, Enclosed are twelve snapshots of the interior of the Boyhood Home of Lowell Thomas. A brief description is written on the back of each picture. I hope these will be helpful in assembling material for the tape. Yours Truly, Ruth Harclerode (Mrs. F. R. Harclerode)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Lowell Thomas: Broadcasting</unittitle>
+						<unitdate label="Date">1934</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Pittsburgh, April 24, 1934, left: Chancellor Bowman, right: Dr. Weidheim Verso: Cathedral of Learning, left: Chancellor Bowman, right: Dr. Weidheim, Pittsburgh - April 24, 1934</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Cathedral of Learning Left: Chancellor Bowman Right: Dr. Weidheim Pittsburgh - April 24, 1934</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Left: Chancellor Bowman Right: Dr. Weidheim Pittsburgh - April 24, 1934</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Cathedral of Learning Left: Chancellor Bowman Right: Dr. Weidheim Pittsburgh - April 24, 1934</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Lowell Thomas: Broadcasting</unittitle>
+						<unitdate label="Date">1936</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Museum of Bell Laboratories Mar 10, 1936</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Museum of Bell Laboratories Mar 10, 1936</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Sir Wilfred Grenfell and LT, Jany 9, 1936</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Sir Wilfred Grenfell and LT, Jany 9, 1936</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Sir Wilfred Grenfell and LT, Jany 9, 1936</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Sir Wilfred Grenfell and LT, Jany 9, 1936</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Sasha Siemiel [?] lion hunter, Jany 15, 1936 [2 copies] Verso: "Tiger Man"  Sascha [sic] Siemel from the Matta Grosso and LT</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: "Tiger Man"  Sascha [sic] Siemel from the Matta Grosso and LT</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Sasha Siemiel [?] lion hunter [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Note: Sasha Siemiel [?] lion hunter, Jany 15, 1936</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>David Rhys - British Diplomat</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: David Rhys - British Diplomat</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Mr. Clayden, Sun Oil</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Note: Mr. Clayden, Sun Oil</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Mr. Clayden, Sun Oil</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Capt. Robert "Bob"  Bartlett, exploration, sailing ships</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Note: Capt. Robert "Bob"  Bartlett, exploration, sailing ships</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>I am returning the photograph which I'm sure you will want for your files. Isn't this a picture of Jim Barrett - the other fellow has changed very little</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Note: I am returning the photograph which I'm sure you will want for your files. Isn't this a picture of Jim Barrett - the other fellow has changed very little</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Lowell Thomas interviewing man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Lowell Thomas interviewing man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Lowell Thomas interviewing man], [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Lowell Thomas interviewing man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Lowell Thomas interviewing man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Lowell Thomas interviewing man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Lowell Thomas interviewing man]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Lowell Thomas: Broadcasting</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>L.T. and Jimmy Wallington</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: L.T. and Jimmy Wallington</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: Little photo: Jimmy Wallington, LT's announcer for Literary Digest Verso: LT and Jimmy Wallington</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas with unidentified man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas(?) with group of men, reviewing broadcat?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[audience(?)]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Lowell Thomas: Broadcasting</unittitle>
+						<unitdate label="Date">circa 1930s - 1940s</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>L.T. and George McManus</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: George McManus, creator of "Manny [sic] [Maggie] and Jiggs"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Geo. McManus, cartoonist Brgin' [Bringing] Up Father</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Geo. McManus, cartoonist Brgin' [Bringing] Up Father</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Lowell Thomas: Broadcasting</unittitle>
+						<unitdate label="Date">1943</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Mr. Burdette S. Wright, Curtiss-Wright Corporation Vice-President in charge of the Airplane Division; Mr. Lowell Thomas presenting his nightly news commentary on a national network, and Dr. C.C. Furnas, Director of the Curtiss-Wright Research Laboratory [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: 1291-X Curtiss-Wright Corporation, Airplane Division, New York Division, New York State Plants, 20 October, Mr. Burdette S. Wright, Curtiss-Wright Corporation Vice-President in charge of the Airplane Division; Mr. Lowell Thomas presenting his nightly news commentary on a national network, and Dr. C.C. Furnas, Director of the Curtiss-Wright Research Laboratory. Courtesy of Curtiss, Photograph from files of Curtiss-Wright Corporation, Airplane Division, Buffalo, N.Y., Public Relations Department, Neg. no. 1291x, date: Nov. 11 1943</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Lowell Thomas: Broadcasting</unittitle>
+						<unitdate label="Date">1945</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas at microphone], [6 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Lowell Thomas: Broadcasting</unittitle>
+						<unitdate label="Date">1948</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Father and son act, Lowell Thomas, Jr., (left) reports to his famous father on Thomas Senior's nightly radio newscast after returning from an extended trip in Persia. Lowell Junior is following in the exact footsteps of his father, who is radio's oldest newscaster, having started in 1930. The younger Thomas is planning a lecture series based on his voyaging. 12/13/48</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: Father and son act, Lowell Thomas, Jr., (left) reports to his famous father on Thomas Senior's nightly radio newscast after returning from an extended trip in Persia. Lowell Junior is following in the exact footsteps of his father, who is radio's oldest newscaster, having started in 1930. The younger Thomas is planning a lecture series based on his voyaging. 12/13/48</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Lowell Thomas: Broadcasting</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>L.T.'s program on television, at NBC</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: L.T.'s program on television, at NBC</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: First TV newscast ever made. Hugh James far left, Charles Warburton, NBC production man beside me Verso: L.T.'s program on Television, at NBC</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>LT's program went out over television for some months</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: LT's program went out over television for some months</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Verso: LT was first to put news on television in 1939. This is an example of simulcast; Lowell Thomas 6-40 GOP convention</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>LT was first to put news on television in 1939. This is an example of simulcast; Lowell Thomas 6-40 GOP convention</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>2 divisions of NBC radio network: WEAF, Red Network; WJZ, Blue Network; later merged</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Note: 2 divisions of NBC radio network: WEAF, Red Network; WJZ, Blue Network; later merged</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas, far left, with groupof men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Lowell Thomas, far left, with groupof men]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Lowell Thomas: Broadcasting</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas center with two men around a microphone(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas center with two men around a microphone(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas center with two men around a microphone(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[hand-colored photograph]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas, on right at microphone with another man, left.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Lowell Thomas at microphone with map behind him]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas sitting at a desk with a map behind him]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Lowell Thomas sitting at a desk with a map behind him]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Lowell Thomas at microphone, Lowell Thomas, Jr. seated at far left]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Lowell Thomas at microphone in front of Pan American World Airways plane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Lowell Thomas 2nd from the left,  at microphne with three other men.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Lowell Thomas at the head of the table in front of microphones with a group of men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Lowell Thomas at microphone with another man], [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Lowell Thomas, far right, with a group of men in front of a CBS microphone], [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Lowell Thomas in background, on the right with a group of men and a woman], [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Lowell Thomas, on the left with a man and woman in front of CBS microphones]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Lowell Thomas: Broadcasting</unittitle>
+						<unitdate label="Date">1950, 1958</unitdate>
+						<container id="1522" type="box">1522</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>June 1950; LT and Lewis [?] Seaver, Federal Motor Truck Co., Detroit</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: June 1950; LT and Lewis [?] Seaver, Federal Motor Truck Co., Detroit</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Lake Placid Club, January 1958</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Lake Placid Club, January 1958</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1522 -->
+			<!-- Box 1523 -->
+			<c01>
+				<note>Box 1523</note>
+				<did>
+					<unitid>2.1.3.3.3</unitid>
+					<unittitle>Lowell Thomas</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Lowell Thomas: Broadcasting [includes 1 color photograph]</unittitle>
+						<unitdate label="Date">circa 1960s - 1970s</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Photo by KLZ - RADIO, Denver, Apr 19, 1962</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Photo by KLZ - RADIO, Denver, Apr 19, 1962</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>.March 8, 1966</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Mar 8, 1966</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas, broadcasting at home(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas in front of a microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: June 26</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas at microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas at microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas at microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas at microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas at microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas at microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas at microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas at microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas at microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[contact sheet images of Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Lowell Thomas: Broadcasting [final broadcast]</unittitle>
+						<unitdate label="Date">1976 May 16</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>NXP1868419-5/15/76-New York: Lowell Thomas signs off for the last time 5/15 as the longest running radio network program goes off the air after 46 years. The familiar "So long until tomorrow"  became "So long for now"  as Thomas completed his last five-minute news broadcast. The end of his broadcasting career does not mean retirement for Thomas, who is 84. He has written 54 books and has several more planned. UPI</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: NXP1868419-5/15/76-New York: Lowell Thomas signs off for the last time 5/15 as the longest running radio network program goes off the air after 46 years. The familiar "So long until tomorrow"  became "So long for now"  as Thomas completed his last five-minute news broadcast. The end of his broadcasting career does not mean retirement for Thomas, who is 84. He has written 54 books and has several more planned. UPI</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas seated at microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas seated at microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas seated at microphone]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Lowell Thomas: Classmates</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Anne Bullen</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Caption: Mabel Dickerson</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Caption: Lovingly, Annie McKay Brown, '12</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Caption: Roger McDonough</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Caption: Harold F. Trunk</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Caption: Paul Deeds, "12"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[male classmate]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Caption: Edwin Sewell [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Caption: Carl S. Milliken '12</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Caption: Franny Little, playmate [more illegible]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Sidney W. Bishop</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: Sincerely, Sidney W. Bishop</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Caption: Alice Lind</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Caption: "George Eddie" Cook</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Lowell Thomas: Classmates</unittitle>
+						<unitdate label="Date">circa late 1800s</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Lovingly, Ethel</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Caption: Donald H.[?] Hoover</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Caption: Leonard Bowhay - 1912-</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Caption: Robert R. Nelson</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Irene Donaldson</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Irene Donaldson</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Caption: Allan Koonce Dray [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Caption: Bamey [Barney?] Sincerely, Florence Carlson E.D.H.S. '13</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Caption: Bamey [Barney?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: E. Biggs E. D.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Caption: C. Haines Lee '12</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Caption: Bamey [Barney?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Sincerely, Homer Griffin</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Caption: Alma Keehu '13 Bamey [Barney?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Caption: [?] Richter</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Caption: Everett H. Parker</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Caption: Bamey [Barney?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso: Vance Hefflefinger [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Josephine Zeliff[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso: Josephine Zeliff[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Caption: Steere[Steve?] Mathew</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[female classmate]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado</unittitle>
+						<unitdate label="Date">circa late 1800s</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note: Additional Fredstone - Cripple Creek pix. (Did you want to send one to the Cripple Creek paper?)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Caption: Leo Ruschenberg's Cabin; Cripple Creek /93/ Fred Stone/ Bert Ragan / Youngdale[?]/ Leo Welch</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Dear Lowell Thomas, This is a picture of our cabin in Cripple Creek. You once told me you were born there in 1893. This cabin is back of our theatre. I am on the extreme left of the picture. Each of the others were musicians and each had a job to do. They called me "Jimmy Gets"  ( get-the- wood- and- water- boy ). Also actor - I hoped! Merry Christmas to you. [signed] Fred Stone</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Caption: Leo Ruschenberg's Cabin; Cripple Creek /93/ Fred Stone/ Bert Ragan / Youngdale[?]/ Leo Welch</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Caption: Leo Ruschenberg's Cabin; Cripple Creek /93/ Fred Stone/ Bert Ragan / Youngdale[?]/ Leo Welch</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Caption: Leo Ruschenberg's Cabin; Cripple Creek /93/ Fred Stone/ Bert Ragan / Youngdale[?]/ Leo Welch</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[view with hills and train tracks]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Cripple Creek</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Cripple Creek</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: Cripple Creek</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado</unittitle>
+						<unitdate label="Date">circa 1900 - 1912</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Garfield School, Victor, Colo. [Lowell Thomas seated third from right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[grade school class photograph. Lowell Thomas second from right in middle row of standing children]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>L.T. seated on left. Cripple Track Team. L.T. age 13</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: L.T. seated on left. Cripple Track Team. L.T. age 13</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note: Victor High School track team 1907 or 1908 Standing, left to right: 1. Coach Boughton 2. ?? 3. Leslie Schoen 4. Joe Brill 5. Walter Schoen 6. Homer Huffaker Seated: 1. Lowell Thomas 2. Harry Black 3. Donald Kennedy 4. ?Vincent? Reclining: Clyde Black  The Lowell Thomas Museum, Victor Colorado Dear Friends:        Among some old pictures I found this one of the Victor High School track team, taken in 1907 or 1908, and I thought you might like to have it for your collection.                                              Sincerely yours,                                                            Homer Huffaker Chino Valley, Arizona November 27, 1963</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Cripple Creek track team, L.T. seated on left</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Cripple Creek track team, L.T. seated on left</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>LT in 1906 - age 14 riding for the Portland Mine. Getting gold samples from other mines to be assayed.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>LT in 1906 - age 14 riding for the Portland Mine. Getting gold samples from other mines to be assayed.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: LT in 1906 - age 14 riding for the Portland Mine. Getting gold samples from other mines to be assayed.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Note: LT in 1906 - age 14 riding for the Portland Mine. Getting gold samples from other mines to be assayed.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Victor High School [football] team, 1908; Verso: Front row, left to right: Donald Kennedy, [Marian?][Monty?] Grice, Joe Brill; Second row, left to right: Andy George, Bill or Will Hayes, Lowell Thomas, Harry Black; Third row, left to right: Leonard Hart, Rene [Guerin?][Guarin?], Orin [Devy?], manager, Chas. Eby, "Midge"  Fryberger; Back row: [Professor] Geo. Craig, coach, Ray Shaw</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Front row, left to right: Donald Kennedy, [Marian?][Monty?] Grice, Joe Brill; Second row, left to right: Andy George, Bill or Will Hayes, Lowell Thomas, Harry Black; Third row, left to right: Leonard Hart, Rene [Guerin?][Guarin?], Orin [Devy?], manager, Chas. Eby, "Midge"  Fryberger; Back row: [Professor] Geo. Craig, coach, Ray Shaw</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Note: Victor High School [football] team, 1908; Verso: Front row, left to right: Donald Kennedy, [Marian?][Monty?] Grice, Joe Brill; Second row, left to right: Andy George, Bill or Will Hayes, Lowell Thomas, Harry Black; Third row, left to right: Leonard Hart, Rene [Guerin?][Guarin?], Orin [Devy?], manager, Chas. Eby, "Midge"  Fryberger; Back row: [Professor] Geo. Craig, coach, Ray Shaw</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Note: Victor High School [football] team, 1908; Verso: Front row, left to right: Donald Kennedy, [Marian?][Monty?] Grice, Joe Brill; Second row, left to right: Andy George, Bill or Will Hayes, Lowell Thomas, Harry Black; Third row, left to right: Leonard Hart, Rene [Guerin?][Guarin?], Orin [Devy?], manager, Chas. Eby, "Midge"  Fryberger; Back row: [Professor] Geo. Craig, coach, Ray Shaw</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Victor High School football team, 1908, L.t. second row, second from right</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Victor High School football team, 1908, L.t. second row, second from right</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Victor High School football team, 1908, L.t. second row, second from right</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Lowell Thomas sitting in the snow (Thomas the eighteen-year old miner, in the Colorado mountains near Cripple Creek)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16-verso</unitid>
+							<unittitle>Verso: Lowell Thomas sitting in the snow</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Lowell Thomas sitting in the snow (Thomas the eighteen-year old miner, in the Colorado mountains near Cripple Creek)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Note: Thomas the eighteen-year old miner, in the Colorado mountains near Cripple Creek</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>L.T. as an 18 year old minor (first job after college)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Note: 1st job after college; 1911 - job - pick and shovel</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Note: L.T. in his mining days. Age - 18</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>L.T. as an 18 year old minor (first job after college)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>Note: Letter to Frances Ryan</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>L.T. as an 18 year old minor (first job after college)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24-verso</unitid>
+							<unittitle>Verso: L.T. the young miner; Victor, Colorado - about 1909</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>L.T.: About 1911 as near as I can judge</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25-verso</unitid>
+							<unittitle>Verso: About 1911 as near as I can judge</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Note: Lowell Thomas when editor of the daily paper in Colorado in 1911-1912</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>L.T.: About 1911 as near as I can judge</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>L.T.: About 1911 as near as I can judge</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>Professor Taylor, Principle of Victor High School</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>Note: Professor Taylor, Principal of the Victor High School, friend of my father, and a top flight educator. He's one of two of my teachers who actually gave me a licking. The other was a woman, an amazon who was my teacher in the 8th grade. She also was a great person and I'm sorry I've forgotten her name. I believe she later became a doctor in Fort Collins, Colorado. Professor Taylor was quite right in giving me that licking?</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>Caption: Victor, Colorado - "The City of Mines"  (early 1900s); Photo by Hileman - 1911</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>Caption: Victor, Colo[rado], City of Mines</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32-verso</unitid>
+							<unittitle>Verso: [illegible] Victor Museum</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>Note: Looking west over the city of Victor, Colorado, around 1900</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[Lowell Thomas, left(?) with group of men in swimming outfits, one in suit]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[man on top of traincar(?)]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado [Lowell Thomas and Governor Ralph Carr visit]</unittitle>
+						<unitdate label="Date">1939</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[group of men(?)], July 24 1939</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas(?) 3rd from left, with group of people outside of a house], July 24 1939</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas(?) in hat with two men and a women outside of a building], July 24 1939</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas(?) on right with group of men outside a newspaper office(?)], July 24 1939</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas on right with two other men], July 24 1939</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Lowell Thomas in car with another man], July 24 1939</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas with donkey and woman], July 24 1939</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[View of town, Victor, Colorado (?)], July 24 1939</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Lowell Thomas(?) standing on the steps of a house], July 24 1939</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Lowell Thomas(?) standing in front of a house], July 24 1939</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado [Lowell Thomas and Governor Ralph Carr visit]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Lowell Thomas, center, points out object to his son, left, while former Governor of Colorado, Ralph Carr, looks on. The three are standing in front of the old Victor Record Bldg. Thomas, son of the Miller's family physician, is a former Record newsboy. Carr served as a reporter on the Record before completing his law studies.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: Lowell Thomas, center, points out object to his son, left, while former Governor of Colorado, Ralph Carr, looks on. The three are standing in front of the old Victor Record Bldg. Thomas, son of the Miller's family physician, is a former Record newsboy. Carr served as a reporter on the Record before completing his law studies.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Three men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas, back center, with a group of people]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas, back center, with a group of people]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado [dedication of the Lowell Thomas ski jump, Tenderfoot Hill] [ groundbreaking at new mill]</unittitle>
+						<unitdate label="Date">1949</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Taken by Art Hansen - miner; A. W. Oliver - Ben Hill - Dr. De[?]; Lowell Jr. (back); Rorabaugh Mayor of Cr[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Taken by Art Hansen - miner; A. W. Oliver - Ben Hill - Dr. De[?]; Lowell Jr. (back); Rorabaugh Mayor of Cr[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>For Lowell Jr.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: For Lowell Jr.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Gr. Br. New mill - [?] - late 1940s</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Gr. Br. New mill - [?] - late 1940s</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas, breaking ground for new mill(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Dedic[ation] of L.T. ski jump - Tenderfoot Hill, Cripple Creek - Jan. 27, 1949</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Dedic[ation] of L.T. ski jump - Tenderfoot Hill, Cripple Creek - Jan. 27, 1949</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Lowell Thomas, left, with group of men on stage]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas (?) in crowd at train station ]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Lowell Thomas in crowd at train station]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Lowell Thomas with a group fo people posing on a train]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Lowell Thomas (?) with group on platform]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado [Carlton Mill opening]</unittitle>
+						<unitdate label="Date">1951</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>A donkey used by Elza Fay (left) in his role as a gold prospector provided a picturesque prop Monday for photographers snapping pictures after the parade in Cripple Creek which raised the curtain on activities in connection with the Carlton Mill. Mrs. A. E. Carlton, widow of one of the men after whom the mill is named, is also shown in the picture with Lowell Thomas, who dedicated the mill</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: [newspaper clipping] A donkey used by Elza Fay (left) in his role as a gold prospector provided a picturesque prop Monday for photographers snapping pictures after the parade in Cripple Creek which raised the curtain on activities in connection with the Carlton mill. Mrs. A. E. Carlton, widow of one of the men after whom the mill is named, is also shown in the picture with Lowell Thomas, who dedicated the mill</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Note: Carlton Mill dedication in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Note: Cripple Creek Duplicates, From Max W. Bowen, The Golden cycle CPN P.O. Box 86, Colorado Springs, Colorado. To Mr. Lowell Thomas, Hammersley Hill, Pawling, NY</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado [Carlton Mill opening]</unittitle>
+						<unitdate label="Date">1951</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>There was lots to talk about when two "old-timers"  of the Cripple Creek-Victor district, John White, left, and Dr. H. G. Thomas, right, got together Monday in Cripple Creek. Listening to the reminiscing by the pair at Cripple Creek Elks club building is Mrs. Pherbia Thornburg, daughter of Dr. Thomas and sister of Radio News Commentator Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: There was lots to talk about when two "old-timers"  of the Cripple Creek-Victor district, John White, left, and Dr. H. G. Thomas, right, got together Monday in Cripple Creek. Listening to the reminiscing by the pair at Cripple Creek Elks club building is Mrs. Pherbia Thornburg, daughter of Dr. Thomas and sister of Radio News Commentator Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Shown addressing the nearly 3,000 persons who attended dedication ceremonies of the Carlton mill Monday in Cripple Creek-Victor gold district is Merrill E. Shoup, president of the Golden Cycle corporation, builder of the mill and owner of mines in the district. In the front row immediately behind Shoup are, left to right, Mrs. Ethel Carlton, a director of the corporation and widow of A. E. Carlton, mining man; Lowell Thomas, CBS news commentator; Max Bowen, Golden Cycle vice-president; Mrs. A. C. Magruder, sister of the late A. E. and L. G. Carlton, and Dr. H. G. Thomas, early day Victor physician and father of Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note: Shown addressing the nearly 3,000 persons who attended dedication ceremonies of the Carlton mill Monday in Cripple Creek-Victor gold district is Merrill E. Shoup, president of the Golden Cycle corporation, builder of the mill and owner of mines in the district. In the front row immediately behind Shoup are, left to right, Mrs. Ethel Carlton, a director of the corporation and widow of A. E. Carlton, mining man; Lowell Thomas, CBS news commentator; Max Bowen, Golden Cycle vice-president; Mrs. A. C. Magruder, sister of the late A. E. and L. G. Carlton, and Dr. H. G. Thomas, early day Victor physician and father of Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Lowell Thomas, the district's favorite son, on Monday, March [?], pushed a very important button. The button started the wheels turning in the huge Carlton gold reduction mill just completed by the Golden Cycle corporation</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Note: Lowell Thomas, the district's favorite son, on Monday, March [?], pushed a very important button. The button started the wheels turning in the huge Carlton gold reduction mill just completed by the Golden Cycle corporation</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Carlton Mill opening in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Carlton Mill opening in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Carlton Mill opening in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Carlton Mill opening in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Carlton Mill opening in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Carlton Mill opening in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Carlton Mill opening in March, 1951</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Carlton Mill opening in March, 1951</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas, center, with man and woman]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado [color photographs]</unittitle>
+						<unitdate label="Date">circa 1960s</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas with man and woman pointing to a plaque of directors V.C. Hills (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas with police officer in front of the plaque of directors V.C. Hills (?) ]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>Cripple Creek/Victor, Colorado</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado [includes 1 color photograph]</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1523" type="box">1523</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Great mines on Battle Mountain; Cripple Creek Mining District; Independence in foreground. Two shafts of Portland to the right and the Ajax in the left corner</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Caption: Vindicator mine; Cripple Creek Mining District</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Victor High School, now used as the Elementary School for both Victor and Cripple Creek</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note: Victor High School, now used as the Elementary School for both Victor and Cripple Creek</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>This is the corner of 4th street and Victor Ave., just south and east of the Gold Coin Mine, where mass meeting was held. Verso: Where my father had his office- and windows from which I watched the riot</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Where my father had his office- and windows from which I watched the riot</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Note: This is the corner of 4th street and Victor Ave., just south and east of the Gold Coin Mine, where mass meeting was held.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Former home of Dr. Thomas and his family on South 7th Street in Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Note: Former home of Dr. Thomas and his family on South 7th Street in Victor, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Main street in Victor, Colo. at the turn of the century when The Cripple Creek District population was 3 times that of Colo. Springs and almost equal to Denver. 3 railway lines and 2 trolley lines. Caption: Victor Ave., Victor, Colo.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Note: Main street in Victor, Colo. at the turn of the century when The Cripple Creek District population was 3 times that of Colo. Springs and almost equal to Denver. 3 railway lines and 2 trolley lines</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Victor-Colorado - as it looked about 1910-15. P.T. City of Gold Mines</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: Victor-Colorado - as it looked about 1910-15. P.T. City of Gold Mines</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Note: Gold mines on Battle Mountain above Victor where L.T. worked both as a miner and as a collector of gold samples from lesser mines to bring back to the great Portland Mine assay office</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Cripple Creek - vistor in mines (Laval Thomas)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso: Cripple Creek - vistor in mines (Laval Thomas)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[street view, Cripple Creek (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Steam Engine]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[View of town, Cripple Creek (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[View of town, Cripple Creek (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[View of Building, Victor, Colorado (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Street view of town, Victor Colorado?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Street view of town, Victor Colorado?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Street view of town, Victor Colorado?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[View of town, Victor Colorado (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[View of town, Victor Colorado (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[View of mines (?), Victor Colorado (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[View of town, Victor Colorado (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[View of town, Victor Colorado (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[group of men]</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1523 -->
+			<!-- Box 1524 -->
+			<c01>
+				<note>Box 1524</note>
+				<did>
+					<unitid>2.1.3.3.3</unitid>
+					<unittitle>Lowell Thomas</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado [color photographs]</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Ollie Niess, Cripple Creek, 1972</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Ollie Niess, Cripple Creek, 1972</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[view of town, Cripple Creek (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[view of town, Cripple Creek (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[view of town, Cripple Creek (?)]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek/Victor, Colorado</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Cresson Mine where recent rich gold strike was made in Cripple Creek District, Colorado [circa 1916] Lowell J. Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Cresson Mine where recent rich gold strike was made in Cripple Creek District, Colorado [circa 1916] Lowell J. Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[View of waterfall, two unidentified people]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Two women feeding chickens]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Waterfall]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Farm (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Katheryn Ryan 3736 grand Doug 4500; 2988 Evan. Geo. Layear- Doras.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Katheryn Ryan 3736 grand Doug 4500; 2988 Evan. Geo. Layear- Doras.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Man and woman with horse]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Man and woman in front of waterfall]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[View of church (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[View of house]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Group of people at a camp (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Group of people in a horse and carriage]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[View of hills]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Group of people on a large rock]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[View of building, " The Portland G.M.C."]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[View of town]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[View of town with train cars in front]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Clouds]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[View of mountains]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[View of rock formations]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Man at a campsite carrying water]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Group fo men at a campsite]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Campsite with view of the mountains]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[View of town (?)]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Lowell Thomas: Cripple Creek Gold Rush</unittitle>
+						<unitdate label="Date">circa 1960s - 1970s</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas with printing press (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas holding newspaper with another man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas in print shop (?)]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Lowell Thomas: Dog monument</unittitle>
+						<unitdate label="Date">circa 1960s</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas with young boy at Balto statue]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas with young boy at Balto statue]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas with young boy at Balto statue]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas with young boy at Balto statue]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Lowell Thomas: Dogs [includes some color photographs]</unittitle>
+						<unitdate label="Date">circa 1930s - 1970s</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas with dog in the snow]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas with dog outdoors]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas with dog outdoors]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell thomas with dog and young boy]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas with dog sitting on the steps of a house]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Lowell Thomas with dog]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>By S[?] Johnson; Oct 1944</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: By S[?] Johnson; Oct 1944</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Lowell Thomas with dog outside]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>From his 1st bcast [broadcast] studio on Quaker Hill [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Note: From his 1st bcast [broadcast] studio on Quaker Hill</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Lowell Thomas with dog, husky (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Lowell Thomas playing with, husky (?), dog outside]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Lowell Thomas with dog on ski lift]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>L. [left] Monty Atwater, R. [right] Ed LaChappelle; avalanche dog - Precipitation Intensity Factor, PIF</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso: L. [left] Monty Atwater, R. [right] Ed LaChappelle; avalanche dog - Precipitation Intensity Factor, PIF</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Lowell Thomas with dog in golf cart (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Lowell Thomas with dog in golf cart (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Lowell Thomas with dog in golf cart (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Lowell Thomas with dog, ( great dane) (?), and ski equipment]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Note: LT at Alta, Utah, his favorite ski area</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Lowell Thomas: Early friends and college days</unittitle>
+						<unitdate label="Date">circa 1905 - 1915</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[signed photograph: Lowell Thomas, Jack Pascoe, Gertrude, Allan Dray, Chas. [Esky?], Frances, Ruby, Babe, 1910]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas on the far left with a group of people]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[View of train station]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[signed photograph: "A good joke" ; Lowell, Gertrude, Charles, Ruby, Jack, Frances, Allan, Babe; circa 1910]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[group of young people]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[young woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[young man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[young woman and a young man sitting togeher]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>At the University of Northern Indiana (Valparaiso) L.T. collected a B.S. and an M.S. in two years. In this photo he is with the daughters of two professors</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Note: At the University of Northern Indiana (Valparaiso) L.T. collected a B.S. and an M.S. in two years. In this photo he is with the daughters of two professors</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Lowell Thomas (?) and young woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[young woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Lowell Thomas (?) with two young women]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Lowell Thomas (?) with a young woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Two young women on a bridge (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[two women and a man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Group of people plowing (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Group of men outside a mine]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[A group of people pushing an early airplane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Group of young men standing on train tracks]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Group of young men standing on train tracks, Lowell Thomas on far right with fist raised]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[man and woman in an office]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Group of youg men about to start a race, Lowell Thomas (?) with a starting pistol raised]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Young man sitting in the snow]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[Crowd of people walking around]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[Train [ Steam engine (?) Coming down the tracks]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[Woman sitting in the snow]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[Woman standing in fornt of a snowy hill]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[Lowell Thomas, and young wman standing on a bridge]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[Lowell Thomas(?) on the far right with two women on a frozen lake]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[Group of people on a frozen lake]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[Three men standing outside of a house]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[Three men standing outside of a house]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[Three men standing outside of a house]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[Two men wrestling(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>[Lowell Thomas, center, with a man and woman on a porch]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>[Young man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>[Three young men balanceing on saw horses (?)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>[Three young men balanceing on saw horses (?)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>[Group of youg men about to start a race, Lowell Thomas (?) with a starting pistol raised]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>[Group of young men on the proch of a fraternity (?) Lowell Thomas on the right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>[Group of young people on a mountain top]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>[Lowell Thomas (?) and a young woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>[Group of young people sitting by a road]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>[Three men with their kill]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>[Four men branding a calf(?)]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Lowell Thomas: Early friends and college days</unittitle>
+						<unitdate label="Date">circa 1905 - 1915</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Age 18 - 1st year in college - Univ. of Northern Indiana [Valparaiso]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: Age 18 - 1st year in college - Univ. of Northern Indiana [Valparaiso]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas (?) center with two other young men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas (?) reclining under a Sigma Gammas pendant]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Skeleton on a couch with a beer stein, surrounded by memorabilia]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Skeleton on a couch with a beer stein, surrounded by memorabilia]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Man sitting on a chair reading a book, Sigma Gammas sign in the background]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Young man sitting on a couch with pendants behind him]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[View of a mine (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Four women posing with a ball]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Skeleton on a couch with a beer stein, surrounded by memorabilia]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Young woman standing in front of a forest]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Group of young men in front of '09 pendant]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Group of young men, Lowell Thomas in the center (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Group of people sitting around a table, Lowell thomas in the center (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Group of 5 men sitting on a rocky hillside, Lowell Thomas middle right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Man in cap and gown with a beer stein in one hand and a book in the other]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[a group of young people posing on farm equipment (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Young man kicking a football]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Two young men playing football]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Young man and woman sitting together on a lawn]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Two young men in football uniforms with another man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Young man in a football uniform, holding a football]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Group of young men in a fraternity house (?) Lowell Thomas front right]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Lowell Thomas: Early friends and college days</unittitle>
+						<unitdate label="Date">circa 1905 - 1915</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: J. J. Herold, C. B. Kennedy; Tacoma, Wn; 5/30/14</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Two young man in football uniforms on a playing field]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Three young men in baseball uniforms]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Group of young people]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Group of young men mock fighting]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Young man standing on a train track]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Group of young men posing on a train car]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Train, steam engine (?), on a train track]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[group of men on a hill]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Two men posing with a fence]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[ Young man and two young women sitting on a rocky hillside]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Group of people with a snowey landscape behind them]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Young man with a cane posing in fornt of a bush]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Young man and woman sitting on a bridge]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>This is my pal Charles P. Jamerson who married my Valpo girl, Esther Anderson [ signed photograph: Fraternally, Chas P Jamerson]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Note: This is my pal Charles P. Jamerson who married my Valpo girl, Esther Anderson [ signed photograph: Fraternally, Chas P Jamerson]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Fran's high school boy friend, his name was Wells, a really fine guy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Note: Fran's high school boy friend, his name was Wells, a really fine guy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>This is Mr. Segard one of my best friends. He's a graduate of Columbia and the brightest boy I ever met. He takes a very active part in school and also leads the choir at the Christian church. His home is in San Francisco. He was captain of a submarine in the U.S. Navy for two yrs. and is only 25 yrs old</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19-verso</unitid>
+							<unittitle>Verso: This is Mr. Segard one of my best friends. He's a graduate of Columbia and the brightest boy I ever met. He takes a very active part in school and also leads the choir at the Christian church. His home is in San Francisco. He was captain of a submarine in the U.S. Navy for two yrs. and is only 25 yrs old</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Dr. C. P. Segard</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20-verso</unitid>
+							<unittitle>Verso: Dr. C. P. Segard</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Two young men, one holding the other up both laughing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Young man smiling]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Young woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Group of people in font of a home]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[Group of young men in front of a mine (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[View of a mountain]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[Group of young men in front of a mine (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[Group of men helping each other over a fence]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Lowell Thomas: Funeral</unittitle>
+						<unitdate label="Date">1981 September 3</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[People gathered at Lowell Thomas funeral]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas, Jr. talking with Marianna Munn Thomas and other woman at Lowell Thomas's Funeral]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Framed photo of Lowell Thomas over coffin]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Line of people outside of funeral home(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Pall bearers loading a coffin into a hearse]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Hearse outside of a church]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Pall Bearers with coffin]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Group of people outside of a church]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Marianna Munn Thomas and two women in front of a photo of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Lowell Thomas, Jr. talking with Marianna Munn Thomas and other woman at Lowell Thomas's Funeral]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Lowell Thomas: Honorary degrees</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas in a cap and gown, with a cane] 2/14/53</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: 2/14/53</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas in a cap and gown with another man in a cap and gown]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas at a CBS podium with people in caps and gowns]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Lowell Thomas: Honors</unittitle>
+						<unitdate label="Date">circa 1940</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Walter Pew of Sun Oil - a 10th anniv. [anniversary] presentation</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Walter Pew of Sun Oil - a 10th anniv. [anniversary] presentation</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Niles Trammell, President of National Broadcasting Co., presenting "a gold-plated microphone to Lowell Thomas in recognition of his 10th anniversary as commentator with NBC. Thomas was honored at a party attended by fellow news-commentators at the Waldorf-Astoria Hotel in New York City. Today, September 29 [1940]"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: Niles Trammell, President of National Broadcasting Co., presenting "a gold-plated microphone to Lowell Thomas in recognition of his 10th anniversary as commentator with NBC. Thomas was honored at a party attended by fellow news-commentators at the Waldorf-Astoria Hotel in New York City. Today, September 29 [1940]"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>15.1 Photograph in LT 10 Year on the Air Anniversary of Niles Trammell presenting "a gold-plated microphone to Lowell Thomas in recogniton of his 10th anniversary as a commentator with N.B.C. Thomas was honored at a party attended by fellow news-commentators at the Waldorf-Astoria Hotel, New York City, Today, September 29 [1940]." International News Photo</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note: 15.1 Photograph in LT 10 Year on the Air Anniversary of Niles Trammell presenting "a gold-plated microphone to Lowell Thomas in recogniton of his 10th anniversary as a commentator with N.B.C. Thomas was honored at a party attended by fellow news-commentators at the Waldorf-Astoria Hotel, New York City, Today, September 29 [1940]." International News Photo</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>15.1 Photograph in LT 10 Year on the Air Anniversary of Niles Trammell presenting "a gold-plated microphone to Lowell Thomas in recogniton of his 10th anniversary as a commentator with N.B.C. Thomas was honored at a party attended by fellow news-commentators at the Waldorf-Astoria Hotel, New York City, Today, September 29 [1940]." International News Photo</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas holding an award]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Lowell Thomas: Honors</unittitle>
+						<unitdate label="Date">circa 1930s - 1976</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Photograph by Newspictures, Inc. Note: The Splendid American Award presented annually by the Thomas A. Dooley Foundation, the Splendid American Award honors those Americans whose personal accomplishments have well reflected the meaning and purpose of the United States to the world community. The award was established in 1964 by the authors of "The Ugly American,"  William J. Lederer and the late Eugene Burdick. Mr. Burdick was President of the Dooley Foundation from 1961 until his death in 1965. Mr. Lederer each year presents the awards.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: Photograph by Newspictures, Inc. Note: The Splendid American Award presented annually by the Thomas A. Dooley Foundation, the Splendid American Award honors those Americans whose personal accomplishments have well reflected the meaning and purpose of the United States to the world community. The award was established in 1964 by the authors of "The Ugly American,"  William J. Lederer and the late Eugene Burdick. Mr. Burdick was President of the Dooley Foundation from 1961 until his death in 1965. Mr. Lederer each year presents the awards.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas holding an award with two men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas holding a plaque with three other men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas in center holding awards with a group of men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Lowell Thomas on the right with two other men holding plaques]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas approaching podium, people clapping]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Lowell Thomas approaching podium, people clapping]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>IAHF Investiture 2 Oct 76 Balchen Award L-R John Rose, Gen Merkling, Audrey Balchen</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: IAHF Investiture 2 Oct 76 Balchen Award L-R John Rose, Gen Merkling, Audrey Balchen</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Lowell speaks at IAHF Investiture, San Diego, 2 Oct 1976; Councilman Jin Ellis presents San Diego Citation, 2 Oct 1976</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Lowell speaks at IAHF Investiture, San Diego, 2 Oct 1976; Councilman Jin Ellis presents San Diego Citation, 2 Oct 1976</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Lowell Thomas holding a plague with another man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Lowell Thomsa at the front of a room with a group of men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Letter to L.T. from Paul F. Hartz: Dear Lowell, Just revieved a pleasant reminder of the nice evening we had at the Explorer's Club in November of last year in the form of a new photographs.; If by chance you keep a scrapbook, I thought you might be interested in having the attached photograph.; Warmest regards, Sincerely, [signed] Paul F Hartz</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Note: Letter to L.T. from Paul F. Hartz: Dear Lowell, Just revieved a pleasant reminder of the nice evening we had at the Explorer's Club in November of last year in the form of a new photographs.; If by chance you keep a scrapbook, I thought you might be interested in having the attached photograph.; Warmest regards, Sincerely, [signed] Paul F Hartz</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Governor's Award, 1976, Ohio]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Note: Letter to L.T. from Paul J. Sherlock: Dear Mr. Thomas: We regret the delay in sending you pictures of the Governor's Awards presentation ceremonies. Our one staff photographs has been so swamped with assignments that he couldn't get around to processing the film until now.; At any rate, we hope that the enclosed pictures will bring back pleasant memories of the evening's activities when Ohio's highest token of appreciation, the Governor's Award, was presented to you in recognition of your achievements benefiting mankind and for bringing honor and prestige to the Buckeye State.; Sincerely, [signed] Pauk J. Sherlock, Governor's Awards Coordinator</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>7/7/76 Governor's Island Presentation of Scrolls to new members. From left to right: George Sanborn, George Gettemuller, Clarence O'Connor, Elwyn Chesley, Joseph Conlin [The Circumnavigators Club]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Note: 7/7/76 Governor's Island Presentation of Scrolls to new members. From left to right: George Sanborn, George Gettemuller, Clarence O'Connor, Elwyn Chesley, Joseph Conlin [The Circumnavigators Club]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>7/7/76 Governor's Island Presentation of Scrolls to new members. From left to right: George Sanborn, George Gettemuller, Clarence O'Connor, Elwyn Chesley, Joseph Conlin [The Circumnavigators Club]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Note: 7/7/76 Governor's Island Capt. John Martin of the ESMERALDA</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>7/7/76 Governor's Island Capt. Susumu Hashimoto of the NIPPON MARU presents picture [to Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Note: 7/7/76 Governor's Island Capt. Susumu Hashimoto of the NIPPON MARU presents picture [to Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[The Circumnavigators Club]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>LT escorted to platform to receive Colo award; The Colorado Council on the Arts and Humanities, 1550 Lincoln St. Room 205, Denver, Colorado 80203</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24-verso</unitid>
+							<unittitle>Verso: LT escorted to platform to receive Colo award; The Colorado Council on the Arts and Humanities, 1550 Lincoln St. Room 205, Denver, Colorado 80203</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>LT dinner, Nov 1965  [Thomas Dewey seated]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25-verso</unitid>
+							<unittitle>Verso: LT dinner, Nov 1965</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Lowell Thomas: Honors [color photographs]</unittitle>
+						<unitdate label="Date">circa late 1970s</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[left to right: Jack Anderson, Lowell Thomas, Danny Kaye]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Alexander Haig and Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas, center, Alexander Haig, right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas, center, Dan Moore, right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Marianna Munn Thomas at right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[left to right: Marianna Munn Thomas, Lowell Thomas, Ann Landers (Esther "Eppie" Pauline Friedman Lederer)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[left to right: Eleonore A. Bednowicz Rickover, Hyman Rickover, Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Lowell Thomas on right another man beside him]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Lowell Thomas recevieng award from a priest (?) from the University of Detroit]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Lowell Thomas: Lowell Thomas - horses</unittitle>
+						<unitdate label="Date">circa late 1930s - 1940s</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>"WHAT'S THAT YOU SAY?"  Lowell Thomas, famous NBC commentator, trying out a story on Montana, one of the horses on his farm home at Pawling, N.Y. Maybe the steed is getting ready for a horse laugh NBC Photo, 8/10/34 [3 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: "WHAT'S THAT YOU SAY?"  Lowell Thomas, famous NBC commentator, trying out a story on Montana, one of the horses on his farm home at Pawling, N.Y. Maybe the steed is getting ready for a horse laugh NBC Photo, 8/10/34</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas holding on to a horses' bridle]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas with two horses]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Lowell Thomas: Kirkman, Iowa</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Kirkman, Iowa - 1895-6-7-8-9?</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Kirkman, Iowa - 1895-6-7-8-9?</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Four men on a bridge (?) Lowell Thomas at right (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Church]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Interior with a cast iron stove]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[View of a street in a small town]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Lowell Thomas: Valparaiso University professors</unittitle>
+						<unitdate label="Date">circa 1909 -  1911</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Prof. Geo. D. Timmons, Chemistry - Valparaiso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Prof. Geo. D. Timmons, Chemistry - Valparaiso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Prof. Williams, professor of English - Valparaiso Univ.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Prof. Williams, professor of English - Valparaiso Univ.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[?] b. Brown - Valparaiso Univ.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: [?] b. Brown - Valparaiso Univ.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[?], Dean of Classical Dept. - Valparaiso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: [?], Dean of Classical Dept. - Valparaiso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[?] W. Neet, Dean, Dept. of Education - Valparaiso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: [?] W. Neet, Dean, Dept. of Education - Valparaiso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Oliver P. Kinsey, V.P. - Valparaiso University</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Oliver P. Kinsey, V.P. - Valparaiso University</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Oliver P. Kinsey, V.P. - Valparaiso University</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Lowell Thomas: Woodington, Ohio</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Lowell in front of our own home at Woodington</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell in front of our own home at Woodington</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Caption: House at Woodington, Ohio where LT was born</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Posed photographs [Lowell Thomas]</unittitle>
+						<unitdate label="Date">circa 1920s - 1930s</unitdate>
+						<container id="1524" type="box">1524</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas looking over his shoulder]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas as a young man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas as a young man]</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1524 -->
+			<!-- Box 1525 -->
+			<c01>
+				<note>Box 1525</note>
+				<did>
+					<unitid>2.1.3.3.3</unitid>
+					<unittitle>Lowell Thomas</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Publicity photographs [Literary Digest cover photograph]</unittitle>
+						<unitdate label="Date">1931 September 19</unitdate>
+						<container id="1525" type="box">1525</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Publicity photographs] [10 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: newspaper clipping</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Publicity photographs [Literary Digest cover photograph]</unittitle>
+						<unitdate label="Date">1931 September 19</unitdate>
+						<container id="1525" type="box">1525</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Publicity photographs] [60 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Publicity photographs [Literary Digest cover photograph]</unittitle>
+						<unitdate label="Date">1931 September 19</unitdate>
+						<container id="1525" type="box">1525</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Publicity photographs] [39 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Publicity photographs [Literary Digest cover photograph]</unittitle>
+						<unitdate label="Date">1931 September 19</unitdate>
+						<container id="1525" type="box">1525</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Publicity photographs] [46 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1525" type="box">1525</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Publicity photographs] [34 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1525" type="box">1525</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Publicity photographs] [15 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1525" type="box">1525</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Publicity photographs] [14 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1525" type="box">1525</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Publicity photographs] [34 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: 2nd choice taken when at least 5 yrs. Younger that no.I; Lowell Thomas</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1525" type="box">1525</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Publicity photographs] [10 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1525 -->
+			<!-- Box 1526 -->
+			<c01>
+				<note>Box 1526</note>
+				<did>
+					<unitid>2.1.3.3.3</unitid>
+					<unittitle>Lowell Thomas</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas publicity photo] [10 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas publicity photo] [25 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: no. 3 - At least its about the right vintage</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas with a cane, publicity photo] [4 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>L.T. at his desk in his N.Y. apartment [5 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: L.T. at his desk in his N.Y. apartment</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas writing at his desk, publicity photo] [7 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas reading a book in front of a window with a view of New York]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas examining a globe (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas writing at a type writer]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">1942</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas on a boat] [15 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Tracy Arm, Alaska. Sawyer Glacier - 1942</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: Tracy Arm, active glacier near Juneau, Alaska</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas with papers in his hand] [18 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Thomas, Courtesy of Explorer's Club. By Dr. O.S. Wightman, F.R.P.S.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas sitting at his desk with papers in his hand, holding his chin] [26 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas Headshot with "Here's to you, Tom!" and his autograph] [29 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas] [8 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Thomas portrait at time of "High Adventure" series.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas, 1957]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Thomas, 1957</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas in front of a window with a view of Washington D.C. (?)] [5 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas waving his hat] [4 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Publicity photographs [with hippopotamus head at The Explorers Club]</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1526" type="box">1526</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas with hippopotamus head at The Explorers Club ] [36 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1526 -->
+			<!-- Box 1527 -->
+			<c01>
+				<note>Box 1527</note>
+				<did>
+					<unitid>2.1.3.3.3</unitid>
+					<unittitle>Lowell Thomas</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Publicity photographs (Morocco)</unittitle>
+						<unitdate label="Date">1958</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas standing in front of Morroccan buildings] [26 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1960s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas holding a magazine(?) at a desk in front of a map] [29 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1960s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas holding sunglasses] [19 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas looking out the window of a train]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1970s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting, holding his glasses] [12 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Publicity photographs [at the NBC radio microphone]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at a NBC microphone] [2 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Publicity photographs [at the NBC radio microphone]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at a NBC microphone] [7 unsigned copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at a NBC microphone] [autographed copy]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Publicity photographs [at the NBC radio microphone]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at a NBC microphone] [3 unsigned copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at a NBC microphone] [autographed copy]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at a NBC microphone] [autographed copy]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at a NBC microphone] [autographed copy]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Publicity photographs [at the NBC radio microphone]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at a NBC microphone] [30 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Publicity photographs [at the NBC radio microphone]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas at two NBC microphones] [18 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Publicity photographs [at the NBC radio microphone]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at a NBC microphone] [13 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Thomas in the early days of broadcasting</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Publicity photographs [at the NBC radio microphone]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at a NBC microphone] [24 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Publicity photographs [at the NBC radio microphone]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas at a NBC microphone with a globe and telephones]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas in front of a NBC micrphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas in front of a NBC microphone, side view]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Publicity photograph: Lowell Thomas at the Clover Brook Studio [NBC microphone and dog on table], [3 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note: Lowell Thomas at the Clover Brook studio</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas at desk holding papers with NBC microphone and bookcase in background]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Publicity photographs [at the NBC radio microphone]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at desk  with NBC microphone and typewriter in background, likely Clover Brook office]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Publicity photographs [at the CBS radio microphone]</unittitle>
+						<unitdate label="Date">circa 1940s - 1950s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at desk in sweater, four men stand behind him]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at desk in sweater]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas stands at CBS microphone] Jan 8 1951; Dear Lowell - Many thanks for letting me have a chance to make this shot of you for my album - Best, [signed] Dick Teely [Feely?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Jan 8 1951; Dear Lowell - Many thanks for letting me have a chance to make this shot of you for my album - Best, [signed] Dick Teely [Feely?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas at desk with CBS microphone], [3 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas at desk with CBS microphone], [signed copy]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Publicity photographs [at the CBS radio microphone]</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1527" type="box">1527</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas at desk with CBS microphone], [35 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Thomas</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1527 -->
+			<!-- Box 1528 -->
+			<c01>
+				<note>Box 1528</note>
+				<did>
+					<unitid>2.1.3.3.3</unitid>
+					<unittitle>Lowell Thomas</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Publicity photographs [at the WJR radio microphone]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1528" type="box">1528</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas at desk with WJR radio microphone], [15 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Publicity photographs [at the WJR radio microphone]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1528" type="box">1528</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas at desk with WJR radio microphone], [22 copies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Publicity photographs [at the radio microphone]</unittitle>
+						<unitdate label="Date">circa 1930s - 1943</unitdate>
+						<container id="1528" type="box">1528</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas at large desk and old microphone, portrait of man with sword on wall]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas standing at microphone holding papers with fedora]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas standing at microphone hand in fist]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas posing at microphone], [2 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at NBC Blue microphone, man behind him], [3 copies]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at NBC Blue microphone, reading Saturday Evening Post]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Publicity photograph: [Lowell Thomas sitting at NBC Blue microphone, reading Saturday Evening Post, looking down]</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1528 -->
+		</dsc>
+	</archdesc>
+</ead>

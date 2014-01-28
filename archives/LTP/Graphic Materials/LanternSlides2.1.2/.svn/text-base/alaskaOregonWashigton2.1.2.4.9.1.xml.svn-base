@@ -1,0 +1,1859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Alaska, Oregon and Washington State</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.4.9.1</unitid>
+		<unittitle>Alaska, Oregon and Washington State</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+	<!-- Box 1380 -->
+<c01>
+<note>Box 1380</note>
+<did>
+<unitid>2.1.2.4.9.1</unitid>
+<unittitle>Alaska, Oregon and Washington State </unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Group of people native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Group of people native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Group of people native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Group of people native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Group of people native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Group of people native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Camp of people native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Camp of people native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Camp of people native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Camp of people native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Children native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Children native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Woman and boy native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Man and girl native to Alaska[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Kayaker	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Mountain panorama	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Mountain panorama	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Mountain panorama	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Mountain panorama	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Mountain panorama	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Mountain panorama	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Mountain panorama	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Panorama of town	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Panorama of town	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Snowscape	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Snowscape	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Water scenery	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Water scenery	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Water scenery	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Water scenery	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Water scenery	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Water scenery	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Water scenery	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Barren trees	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1380" type="box">1380</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1380 -->
+<!-- Box 1381 -->
+<c01>
+<note>Box 1381</note>
+<did>
+<unitid>2.1.2.4.9.1</unitid>
+<unittitle>Alaska, Oregon and Washington State </unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Men unloading boat	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Ship (Alaska) in port	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Ship (Ohio) in port	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Ships in port	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Ships in port	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Ship at sea	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Ship at sea	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>View from ship	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>View from ship, mountain panorama	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Boats docked	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Saloon	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Industrial building	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Industrial camp	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>People in garden	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Cabin	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Cabin	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Cabin	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Cabin	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>House 	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>House 	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>House 	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Houses	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Tent	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Fishermen	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Unloading salmon at cannery	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Fishermen	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Cannery	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Cannery	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Prospector	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Man operating hydraulic monitor	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Mountain climbers	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Men on trail	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Men on trail	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Man on deck of ship	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Loggers	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Men and horses crossing stream	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Dog sled	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1381" type="box">1381</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1381 -->
+<!-- Box 1382 -->
+<c01>
+<note>Box 1382</note>
+<did>
+<unitid>2.1.2.4.9.1</unitid>
+<unittitle>Alaska, Oregon and Washington State </unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Group of women by waterside	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>People posing atop hill	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Two men	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Men standing in front of Wells Fargo and Co. Express Office, sign reads, “Umalilla will go to Seattle via Cordova and Miles Glacier”	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Two men and woman pose before storefront	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Two men and woman, bear rolling on ground	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Woman posing in front of Tolovana building	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>People in railroad car	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>White Pass and Yukon railroad car	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Damaged railroad bridge	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Bridge	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Men and automobile 	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Men and woman in automobile	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Automobile on bridge 	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Three men in automobile 	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Automobile on road	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Automobile	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Person standing behind automobile	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Women standing in front of automobile	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Automobiles	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Boat on water near shore	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Man on dock	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1382" type="box">1382</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1382 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

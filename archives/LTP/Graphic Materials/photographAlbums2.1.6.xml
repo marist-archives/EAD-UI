@@ -1,0 +1,3408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.7.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/photographAlbums2.1.6.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Photograph album</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="">2.1.6</unitid>
+			<unittitle>Photograph album</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract"></abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p></p>
+		</scopecontent>
+		<accessrestrict>
+			<p></p>
+		</accessrestrict>
+		<userestrict>
+			<p></p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1597 -->
+			<c01>
+				<note>Box 1597</note>
+				<did>
+					<unitid>2.1.6</unitid>
+					<unittitle>Photograph album</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>High Adventure with Lowell Thomas (New Guinea)</unittitle>
+						<unitdate label="Date">1957</unitdate>
+						<container id="1597" type="box">1597</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Page 1: Two photos on page. 1 - Natives canoing. 2 - Native standing on canoe with paddle in hand</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Page 2: Two photos on page. 1 - Mountain in distance. 2 - Native woman with a tool raised above her head.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Page 3: Two photos on page. 1 - Woman hacking out canoes with hand-made tools. 2 - Natives paddling in canoes</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Page 4: Two photos on page. 1 - Woman with hand-made tool raised above her head, making a canoe. 2 - Natives in canoes</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Page 5: Two photos on page. 1 - Boat on water, passing by native huts. 2 - Natives with canoes, huts in the background</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Page 6: Two photos on page. 1 - Natives in canoes and on dock. 2 - Women working on canoes with hand-made tools</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Page 7: Two photos on page. 1 - Natives paddling in canoes. 2 - Natives paddling in canoes</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Page 8: Two photos on page. 1 - Natives standing in canoes. 2 - Boat on water</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Page 9: Six photos on page. 1 - Lines of canoes, lying face down. Large boat in background. 2 - Canoes lying face down, large boat in background. 3 - The back of a man on a boat. 4 - Boat floating on water in front of hut. 5 - Woman examining a man's arm. 6 - People loading objects onto a plane (?)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Page 10: Six photos on page. 1 - Natives working on canoes. 2 - Natives working on canoes in front of a hut. 3 - Native woman paddling a canoe. 4 - Native woman. 5 - Boat anchored by land.  6 - Boat anchored by land.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Page 11: Six photos on page. 1 - Man sitting with feet in the water, holding a camera to take a picture of a native woman working on a canoe with handmade tools. Two other men watching from behind. 2 - Man with camera, filming. 3 - Natives observing airplane. 4 - Close-up of man walking. 5 - People and supplies beside the airplane. 6 - Native carrying box over shoulder, airplane in background</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Page 12: Six photos on page. 1 - Natives working on canoes. 2 - Man on dock, under an umbrella with a camera, filming. 3 - Man drinking from a coconut. 4 - Canoes out on water with huts in the background. 5 - Close-up of a native woman. 6 - Close-up of a native woman</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Page 13: Two photos on page. 1 - Men watching the woman work on canoes. Film equipment set off to the left. 2 - Large group of people with huts in background.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Page 14: Two photos on page. 1 - Line of soldiers and three men standing in front of them. 2 - Boat riding by on the water.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Page 15: Two photos on page. 1 - Group of native warriors. 2 - Boat on water.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Page 16: Six photos on page. 1 - Group of natives facing away. 2 - Group of natives on dock with unidentified man. 3 - Camera crew on dock, filming. 4 - Camera crew on dock, breaking down? 5 - Woman carving canoe, others in background. 6 - Man poleing flatboat with camera crew onboard.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Page 17: Two photos on page. 1 - Group of natives, dancing. 2 - Camera crew preparing to film woman making canoe.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Page 18: Two photos on page. 1 -Groups of natives on canoes and a boat pointing in their direction. 2 - Native woman paddling a canoe.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Page 19: Two photos on page. 1 -Three soldiers with rifles. 2 - Group of people with supplies on dock, man filming them.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Page 20: Two photos on page. 1 - Native warriors and a man filming them. 2 - Men filming the native warriors.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Page 21: Two photos on page. 1 - Nighttime; man sitting on boat playing the accordian with the natives listening. 2 -  Nighttime; man sitting on boat playing the accordian with the natives listening</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Page 22: Two photos on page. 1 - Nighttime; Natives on canoe near boat with men on it. 2 - Nighttime; from point of view of the dock with a latern lit on it; Natives on canoe near boat with men on it.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>Page 23: Two photos on page. 1 - Man talking to natives with New Guinea soldiers standing behind him. 2 - Men on boat with lighting equpiment</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>Page 24: Two photos on page. 1 -Two men sitting, with natives standing behind them. 2 - Men gathererd on dock by boat.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>Page 25: Six photos on page. 1 - Man and woman on boat. 2 - Two women looking at papers on boat, man in between them pointing to a sheet. 3 - Man looking out on boat. 4 - Man looking out on dock (?). 5 - Native children standing in a line. 6 - Man observing machinery.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Page 26: Six photos on page. 1 - Men filming boat from other boat. 2 - Two men reading papers on a boat. 3 - Man with one foot on dock and the other on boat. 4 - Natives standing around a canoe. 5 - Two men working on a boat. 6 - Native sittingon a boat making a basket (?).</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>Page 27: Two photos on page. 1 - Native women working on canoes with hand-made tools. 2 - Boat on water</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>Page 28: Two photos on page. 1 - One large boat and one small boat on water. 2 - One large boat and one small boat on water</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>Page 29: Two photos on page. 1 - Smaller boat on water. 2 - Man lighting a cigarette on boat, two other boats to the right</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>Page 30: Two photos on page. 1 - Nighttime; Men on dock (?) with latern watching a boat on the water. Natives on oppposite dock. 2 - People in hut. Man sleeping in a net covered cot on left</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>Page 31: Two photos on page. 1 - Nighttime; Natives on dock watching boat on water. 2 - Nighttime; men with camera equipment looking out across at natives on dock and boat on the water.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>Page 32: Two photos on page. 1 - Nighttime; Man sitting on net covered cot, putting on shoes. 2 - Nighttime; Natives standing on canoe</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>Page 33: Two photos on page. 1 - Nighttime; People with camera equipment, man standing in a lighted hut. 2 - Nighttime; people with camera equipment, others in lighted hut</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>Page 34: Two photos on page. 1 - Nighttime; Latern on dock, Natives on opposite dock watching boat on water. 2 - Two boats, one with men and camera equipment</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>Page 35: Two photos on page. 1 - Natives on dock, watching boat on water. 2 - Two boats on the water in the distance.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>Page 36: Two photos on page. 1 - People walking on dock that leads up to a hill with a hut on it. Boat tied to dock. 2 - Boat tied to dock. Close-up of people walking up to the hill</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>Page 37: Two photos on page. 1 - Men disembarking from boat. 2 - Two boats following each other on the water. Men filming the boat ahead from second boat</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>Page 38: Two photos on page. 1 - Painted natives carrying branches. 2 - Two men holding a type of instrument</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>Page 39: Two photos on page. 1 - Native men working on a handcraft. 2 - Lines of natives moving in an orderly form</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>Page 40: Four photos on page. (Negative prints) 1 - Natives holding spears in front of large hut. 2 - Natives dancing in decorative costumes. 3 - Natives holding spears. 4 - Natives paddling canoes by edge of land with huts.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>Page 41: Four photos on page. (Negative prints) 1 - Two boats on water. 2 - Two natives ordorned with jewelry, one smoking a bong. 3 - Washed out photo. Native odorned with jewelry. 4 - Native woman, standing</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>Page 42: Four photos on page. (Negative prints) 1 - Native with elaborate headdress. Another native lying on stomach. 2 - Woman using hand-made tool to work on canoe. 3 - Line of huts. 4 - Boat on water</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>Page 43: Four photos on page. (Negative prints) 1 - People around canoes on land. 2 - Natives holding spears, standing around large hut. 3 - Two men helping native woman out of canoe. 4 - People on dock around tied down boat</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>Page 44: Four photos on page. (Negative prints) 1 - Native men sitting down wearing elebarate jewelry. 2 - Nighttime, two boats on water with laterns. 3 - Native with feathered headdress using some type of instrument. 4 - Man with painted face holding a spear.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>Page 45: Six photos on page. (Negative prints) 1 - Native men with spears standing around a large hut. 2 - Native women standing. 3 - Natives, some standing some sitting. 4 - Native men around hut. 5 - Men walking. 6 - Natives standing around canoe in water</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>Page 46: Two photos on page. 1 - Native woman standing. 2 - Men disembarking from boat.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>Page 47: Two photos on page. 1 - Boat on water. 2 - People on boat by dock</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>Page 48: Six photos on page. 1 - Man with cigarrette standing on boat. 2 - Man stepping from dock onto boat. 3 - People on boat in water. 4 - Man crouched by large light. 5 - Boat on water. 6 - Men with camera equipment</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>Page 49: Six photos on page. 1 - Boat on water. 2 - Boat on water. 3 - Man sitting around supplies on boat. 4 - Men working on camera equipment. 5 - Man looking through camera, filming. 6 - Man looking through camera, filming</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>Page 50: Six photos on page. 1 - Boat on water. 2 - Boat at dock. 3 - People around boxes on dock. 4 - People around boxes on dock. 5 - Man filiming on dock. 6 - Woman examining a man's arm</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>Page 51: Six photos on page. 1 - Native woman paddling canoe with child on shoulders. 2 - Native man holding spear by hut. 3 - People on dock loading onto boat. 4 - Natives in hut. 5 - Natives in canoes on water. 6 - Native woman.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>Page 52: Two photos on page. 1 - Four young native women standing. 2 - People around boxes on dock. Man filming.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>Page 53: Two photos on page. 1 - Native women sitting on steps to hut. 2 - People standing around huts.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>Page 54: Two photos on page. 1 - Natives in canoes on water. 2 - Natives paddling canoes, others on boat.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>Page 55: Two photos on page. 1 - Small crowd of natives standing around hut. Men with camera equipment. 2 - Painted native man.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>Page 56: Two photos on page. 1 - Small crowd of natives standing around hut. Man filming. 2 - Native man on boat working on a basket (?)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>Page 57: Two photos on page. 1 - Natives with shields and spears. Men filming. 2 - Native men with shields and spears standing around a hut.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>Page 58: Two photos on page. 1 - Inside hut. Natives dancing with unusal costumes that cover their entire bodies spare their feet. Man filming. 2 - Crowd of natives around large hut.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>Page 59: Two photos on page. 1 - Native women standing in rows. 2 - Native men wearing jewelry, one holding spear.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60</unitid>
+							<unittitle>Page 60: Six photos on page. 1 - Men on boat with filming equipment. 2 - Boat on water. 3 - Boat on water. 4 - Men sitting on boat with filming equipment. 5 - Two boats on water in distance. 6 - People on boat.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61</unitid>
+							<unittitle>Page 61: Six photos on page. 1 - Men on boat with camera. 2 - Natives standing, one sitting on a hand-made stool. 3 - Men sitting on boat. 4 - Boat on water. 5 - Natives standing by a canoe that is in the process of being furnished. 6 - Two boats on water.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62</unitid>
+							<unittitle>Page 62: Six photos on page. 1 - Close-up of man with painted face and necklace made of shells. 2 - People on dock with supplies. 3 - Native man with headdress. 4 - People on boat. Canoe pulled up to side of boat. 5 - Group of natives standing around canoe that is in the process of being furnished. 6 - Small group of native women</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63</unitid>
+							<unittitle>Page 63: Six photos on page. 1 - From point of view on boat on water, looking hut on land. 2 - Line of native women standing. 3 - Native woman standing. 4 - Boat on water. 5 - Men on boat with camera equipment. 6 - Boat on water.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64</unitid>
+							<unittitle>Page 64: Six photos on page. 1 - Native child standing. 2 - Painted natives standing in a group. 3 - Small crowd of natives. 4 - Native man sitting wearing hand-made jewelry. 5 - Close-up of native man wearing hand-made jewelry. 6 - Close-up of native man wearing hand-made jewelry</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65</unitid>
+							<unittitle>Page 65: Six photos on page. 1 - Native men wearing hand-made jewelry. 2 - Native men wearing hand-made jewelry. 3 - Men on boat. One man demonstrating something. Camera equipment on boat. 4 - Line of canoes in the process of being furnished. 5 - Native man and woman standing on canoe. 6 - Woman standing on canoe.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66</unitid>
+							<unittitle>Page 66: Six photos on page. 1 - Man and woman sitting looking over papers. 2 - People on boat. 3 - Native man on boat with one foot rested against canoe. 4 - Native men in exotic costumes, dancing. 5 - Native men in exotic costumes, dancing. 6 - Native wearing elaborate costume</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67</unitid>
+							<unittitle>Page 67: Six photos on page. 1 - Native man and child sitting, man smoking a bong. 2 - Two native men and child sitting, one man smoking a bong. 3 - Two native men sitting, one smoking a bong. 4 - Native man smoking a bong. 5 - Native man sitting, smoking a bong. 6 - Two native men sitting and eating.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68</unitid>
+							<unittitle>Page 68: Two photos on page. 1 - Boat on water. 2 - Three native women, standing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69</unitid>
+							<unittitle>Page 69: Two photos on page. 1 - Camera crew on flatboat filming natives in canoe. 2 - Boat in water.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70</unitid>
+							<unittitle>Page 70: Two photos on page. 1 - Lowell Thomas posing with group of natives. 2 - Lowell Thomas posing with two natives with bows.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71</unitid>
+							<unittitle>Page 71: Four photos on page. 1 - People on boat; native working on a basket (?), Lowell Thomas sitting in background. 2 - People sitting on boat with filming equipment. 3 - Man and woman sitting underneath roof of boat; New Guinea officer standing outside. 4 - Two men sitting on boat, talking.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72</unitid>
+							<unittitle>Page 72: Two photos on page. 1 - Lowell Thomas with microphone talking, script in hand, and two native women on each side of him. 2 - Lowell Thomas standing with two native men.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73</unitid>
+							<unittitle>Page 73: Two photos on page. 1 - Lowell Thomas with two native men who are showing him a canoe. 2 - Lowell Thomas sitting between two native men who are holding bows and arrows.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74</unitid>
+							<unittitle>Page 74: Two photos on page. 1 - Officer on boat; Lowell Thomas sitting. 2 - Lowell Thomas walking with men following.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75</unitid>
+							<unittitle>Page 75: Two photos on page. 1 - Lowell Thomas sitting with the natives 2 - Lowell Thomas sitting with natives who are holding bows and arrows.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76</unitid>
+							<unittitle>Page 76: Four photos on page. 1 - Lowell Thomas on boat looking over papers with the other men. 2 - Men atanding around boxes and talking to a native man. 3 - Men standing on a boat with supplies; Lowell Thomas in background. 4 - Men standing on boat; Lowell Thomas in background.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77</unitid>
+							<unittitle>Page 77: Two photos on page. (Color photos) 1 - Lowell Thomas sitting amongst filming equipment. 2 - Lowell Thomas under shade of hut with a microphone, a script, and two native men by his side</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78</unitid>
+							<unittitle>Page 78: (Color photo). Man shaking hands with Lowell Thomas on dock by the boat, New Guinea officers on dock as well</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79</unitid>
+							<unittitle>Page 79: Two photos on page. 1 - Lowell and other man from crew standing, surrounded by natives. 2 - Lowell Thomas, natives, and New Guinea officers.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80</unitid>
+							<unittitle>Page 80: Two photos on page. 1 - Lowell Thomas sitting on boat pointing. 2 - Lowell Thomas standing with painted natives who are holding spears.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81</unitid>
+							<unittitle>Page 81: Two photos on page. Man smoking a pipe, watching a native man string a bow and arrow. 2 - Native warriors standing in rows.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82</unitid>
+							<unittitle>Page 82: Two photos on page. 1 - Native women standing in a row. 2 - Boat on water.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83</unitid>
+							<unittitle>Page 83: Six photos on page. 1 - Three men standing on boat. 2 - Native woman with oar in hand. 3 - Native women with oar in hand. 4 - View from under the roof of the boat; men filming outside of it. 5 - Native woman hacking out a canoe. 6 - Native women making canoes.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84</unitid>
+							<unittitle>Page 84: Six photos on page. 1 - Group of native women working on canoes. 2 - Men standing on boat with camera equipment. 3 - People on boat. 4 - Native man. 5 - Men on boat, working with lighting equipment. 6 - Three native men, one holding a bow and arrow.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85</unitid>
+							<unittitle>Page 85: Two photos on page. 1 - Natives canoeing on water near line of huts. 2 - Man filming natives canoeing from boat or dock.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86</unitid>
+							<unittitle>Page 86: Two photos on page. 1 - Native woman working on a canoe. 2 - Man standing on the bow of the boat.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87</unitid>
+							<unittitle>Page 87: Two photos on page. 1 - Boat on water. 2 - Native woman canoeing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88</unitid>
+							<unittitle>Page 88: Two photos on page. 1 - Natives working on canoes. 2 - Body of water; canoes in distance and huts on lands.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89</unitid>
+							<unittitle>Page 89: Two photos on page. 1 - Two native women working on a canoe. 2 - Native women working on canoes.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90</unitid>
+							<unittitle>Page 90: T wo photos on page. 1 - View of hut with canoes passing by it on the water. 2 - Boat on water.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91</unitid>
+							<unittitle>Page 91: Four photos on page. (Negative prints) 1 - Boat on water. 2 - Natives in canoes on water. 3 - Natives on dock. 4 - Native woman working on canoe.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92</unitid>
+							<unittitle>Page 92: Four photos on page. (Negative prints) 1 - Natives in canoes on water, travelling by huts. 2 - Men on boat by dock. 3 - Close-up of native man holding an some type of instrument. 4 - Native men wearing headdresses and weapons.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93</unitid>
+							<unittitle>Page 93: Four photos on page. (Negative prints) 1 - Two children climbing a ladder. 2 - Men standing around half-finished canoes. 3 - Boat docked and people disembarking it. 4 - Group of natives holding shields and spears.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94</unitid>
+							<unittitle>Page 94: Four photos on page. (Negative prints) 1 - Native men holding bows and arrows. 2 - Boat on water. 3 - Native man with painted face, holding a spear. 4 - Natives at top of wooden steps that lead up to the hut.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95</unitid>
+							<unittitle>Page 95: Four photos on page. (Negative prints) 1 - Native woman paddling a canoe. 2 - Native man standing in a canoe. 3 - Native men standing next to each other. 4 - Native women standing in a row.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96</unitid>
+							<unittitle>Page 96: Four photos on page. (Negative prints) 1 - Native men sitting. 2 - Natives holding spears in front of large hut. 3 - Two native men. One holding bow and arrow, the other a spear. 4 - Native men holding weapons.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>High Adventure with Lowell Thomas (Australian Outback)</unittitle>
+						<unitdate label="Date">1957 - 1958</unitdate>
+						<container id="1597" type="box">1597</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Page 1: Six photos on page. 1 -Men climbing a rocky path. 2 - Men climbing a rocky path. 3 - Three trucks in a field. 4 - Man sitting down talking into a radio. 5 - Man sitting. 6 - Man standing amongst rocks.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Page 2: Three photos on page. 1 - Man 2 - Man sitting at table with a cup of coffee or tea. 3 - Four men digging in ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Page 3: Eight photos on page. 1 - Some native men sitting around their hunted deer. 2 - Some native men sitting around their hunted deer. 3 - Two men sitting by a fire. 4 - Two men sitting by a fire. 5 - View of a wide stretch of land. 6 - Man with sunglasses and a baseball cap. 7 - Man with sunglasses and a baseball cap. 8 - Man sitting down, pouring a bucket of water.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Page 4: Eight photos on page. 1 - Two men by car. 2 - Two men pouring water into a canteen. 3 - Men observing load of supplies on the back of a truck. 4 - Man holding up a device (camera or compass?) level with his face. 5 - Truck driving in wilderness. 6 - Jeep driving in wilderness 7 - Man holding a device (camera or compass?) level with his face. 8 - Jeep driving in wilderness</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Page 5: Eight photos on page. 1 - Car driving in wilderness. 2 - Jeep driving in wilderness. 3 - Man looking down, another man in background with camera. 4 - Man with camera. 5 - Man with arm rested out the window of vehicle. 6 - Man sitting on edge of vehicle seat with door open, smoking a cigarette. 7 - Group of natives. 8 - Group of natives in formation.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Page 6: Eight photos on page. 1 - Natives huddled in circle with weapons on hand. 2 - Men filming the natives. 3 - Some people sitting with their backs against an old house. 4 - Tree and house. 5 - Small village 6 - Some people sitting with their backs against an old house. 7 - Small village. 8 - Small village.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Page 7: Eight photos on page. 1 - Small village. 2 - Small village. 3 - Creek. 4 - Native man working with tools. 5 - Native man working with tools. 6 - Native man sitting. 7 - Native man sitting. 8 - Men with camera equipment</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Page 8: Eight photos on page. 1 - Man standing with back to camera. 2 - Cluster of men near Jeep under tree. 3 - Man sitting, using radio on vehicle. 4 - Man sitting, using radio on vehicle. 5 - Man close-up against tree. 6 - Man close-up against tree, looking left.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Page 9: Eight photos on page. 1 - Line of vehicles in field. 2 - Line of vehicles in field. 3 - People in tent with vehicles parked nearby. 4 - People looking through supplies. 5 - Vehicles lined up in field. 6 - Vehicles lined up in field. 7 - Vehicle driving on dirt road. 8 - Men leaning against vehicle.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Page 10: Eight photos on page. 1 - Vehicles parked by tree. 2 - Trees. 3 - Trees. 4 - Man sitting. 5 - Rocky hill. 6 - Rocky hill. 7 - Vehicles in field. 8 - One tree.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Page 11: Two photos on page. 1 - Man leaning against door to vehicle. 2 - Men in standing in  a ditch</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Page 12: Two photos on page. 1 - Men standing with shovels. 2 - Men standing by vehicle</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Page 13: Two photos on page. 1 - Two men with shovels. 2 - Two men staring out into the distance</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Page 14: Two photos on page. 1 - Vast land, vehicle driving down dirt road. 2 - Men carrying camera equipment on rocky hill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Page 15: Two photos on page. 1 - Men standing with shovels. 2 - Men pouring water into canteens.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Page 16: Two photos on page. 1 - Men with camera equipment, truck with the writing " Camera 1" one it. 2 - Men pouring water in canteens.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Page 17: Two photos on page. 1 - Close-up of truck tire. 2 - Men sitting on truck with camera equipment.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Page 18: Two photos on page. 1 - Man with camera. 2 - Men digging at the gound.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Page 19: Two photos on page. 1 - Men with shovels. 2 - Man with sunglasses looking into the distance.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Page 20: Two photos on page. 1 - Men with camera equipment, Lowell Thomas to the right. 2 - Man with sunglasses looking into the distance.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Page 21: Two photos on page. 1 - Man digging a hole. 2 - Two men examining the grounds.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Page 22: Two photos on page. 1 - Man standing on top of vehicle. 2 - Men with filming equipment.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>Page 23: Two photos on page. 1 - Man in hole. 2 - Man reaching for something on the ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>Page 24: Two photos on page. 1 - Four men standing. 2 - Men with shovels in hole.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>Page 25: Two photos on page. 1 - Looking down into a deep hole on a rocky hillside. 2 - Men with equipment on rocks.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Page 26: Two photos on page. 1 - Man holding an object in each hand. 2 - Man filming with camera.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>Page 27: Two photos on page. 1 - Two men examining ground. 2 - Weathered rocks.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>Page 28: Two photos on page. 1 - Men gathered and talking. 2 - Side of huge rock.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>Page 29: Two photos on page. 1 - Men carrying man or woman on a cot. 2 - Men gathered by vehicle with equipment</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>Page 30: Two photos on page. 1 - Two men walking, one pointing to the ground. 2 - Man walking by parked vehicles.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>Page 31: Two photos on page. 1 - Men crouched with camera equipment. 2 - Men with camera equipment by vehicles.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>Page 32: Two photos on page. 1 - Men gathered, one man laying on stomach looking through the lens of his camera. 2 - Men trying to loosen vehicle's wheel from ditch</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>Page 33: Two photos on page. 1 - Some vehicles parked, one driving down dirt road. 2 - Men standing around parked truck.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>Page 34: Two photos on page. 1 - Vast field, men in group on the right, lifting another man on a cot. 2 - Men on rocky hill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>Page 35: Two photos on page. 1 - Men carrying a cot with a man holding a camera. 2 - Men standing around vehicles on dirt road.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>Page 36: Two photos on page. 1 - Four men standing together. 2 - Two men sitting together on ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>Page 37: Two photos on page. 1 - Four men standing together. 2 - Three men, one sitting, on slope of a hill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>Page 38: Two photos on page. 1 - Men working on rocky hill. 2 - Group of men working on a rocky hill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>Page 39: Two photos on page. 1 - Man setting up camera equipment. 2 - Vehicle driving away on dirt road.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>Page 40: Twp photos on page. 1 - Vehicles parked on farmland (?) 2 - Man standing and holding a hat at his waist,</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>Page 41: Two photos on page. 1 - Man holding a device in his hand and up to his ear, metal detector? 2 - Man holding an object level to his face.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>Page 42: Two photos on page. 1- Men crouched, searching the ground. 2 - Two natives</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>Page 43: Two photos on page. 1 - Two men, one cutting at tree. 2 - Two men sitting on on rocky hill</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>Page 44: Two photos on page. 1 - Three natives standing together, one holding a spear. 2 - Men riding camels</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>Page 45: Two photos on page. 1 - Vast land, hills in the distance. 2- Vast land</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>Page 46: Two photos on page. 1 - Men gathered together drinking water. Truck filled with supplies in background. 2 - Man standing with arms behind his back</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>Page 47: Two photos on page. 1 - Men on platform, one holding a camera, filming. 2 - View of farmland</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>Page 48: Two photos on page. 1 - Men travelling on camels. 2 - Man sitting and smoking</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>Page 49: Two photos on page. 1 - Men sitting on the back of a truck, smiling for a picture. 2 - Two men travelling on camels.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>Page 50: Two photos on page. 1 - Three men looking at papers spread out on table. 2 - Men gathered with camera equipment, others riding on camels, hills in background</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>Page 51: Two photos on page. 1 - Men wearing long coats with an umbrella raised, standing near a body of water. 2 - Men using camera equipment.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>Page 52: Two photos on page. 1 - Men with camera equipment set up. 2 - Native man walking.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>Page 53: Two photos on page. 1 - Vast land. 2 - Man looking into a small pool of water with other men with camera set up in the background</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>Page 54: Two photos on page. 1 - Two men sitting on the ground. 2 - Some children riding donkeys and three children walking side by side.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>Page 55: Two photos on page. 1 - Man standing. 2 - Three children riding donkeys.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>Page 56: Two photos on page. 1 - Two men looking up from table covered with papers. 2 - Men with camera equipment.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>Page 57: Two photos on page. 1 - Three children riding donkeys. 2 - Native boy sitting in the dirt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>Page 58: Two photos on page. 1 - Man sitting on camel. 2 - Men riding camels.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>Page 59: Two photos on page. 1 - Close-up of man leading a camel, two men riding camels in the background. 2 - House with thatched roof and fence surrounding it.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60</unitid>
+							<unittitle>Page 60: Two photos on page. 1 - Child riding a donkey; man standing behind. 2 - Men with camera, filming</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61</unitid>
+							<unittitle>Page 61: Two photos on page. 1 - Man at the side, drawing animal prints in dirt. 2 - Men sitting on ground with canteens.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62</unitid>
+							<unittitle>Page 62: Two photos on page. 1 - Three natives sitting together on ground. 2 - Native baby sleeping under a tiny hut.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63</unitid>
+							<unittitle>Page 63: Two photos on page. 1 - Men filming a native who is crouched and pointing to the dirt. 2 - Two natives sitting and eating from hand-made bowls.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64</unitid>
+							<unittitle>Page 63: Two photos on page. 1 - Men setting up camera equipment.  2 - Two men with boxes surrounding them and camera equipment.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65</unitid>
+							<unittitle>Page 65: Two photos on page. 1 - Native eating from hand-made bowl. 2 - Native drawing animal tracks in the dirt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66</unitid>
+							<unittitle>Page 66: Two photos on page. 1 - Man holding native baby. 2 - Man sitting cross-legged on dirt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67</unitid>
+							<unittitle>Page 67: Two photos on page. 1 - Man sitting cross-legged on dirt. 2 - Men looking at their supplies near vehicles.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68</unitid>
+							<unittitle>Page 68: Two photos on page. 1 - Native baby sleeping under tiny hut. 2 - Native man sitting by hole in the dirt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69</unitid>
+							<unittitle>Page 69: Two photos on page. 1 - Man stepping onto vehicle. 2 - Man stepping onto vehicle.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70</unitid>
+							<unittitle>Page 70: Two photos on page. 1 - Two men sitting on ground, one smoking. 2 - Close-up of men driving a vehicle.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71</unitid>
+							<unittitle>Page 71: Two photos on page. 1 - House with thatched roof and fence. 2 - Two men standing with hill in background</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72</unitid>
+							<unittitle>Page 72: Two photos on page. 1 - Two little native boys standing, one holding a hand-crafted bowl. Native man sitting on ground. 2 - Two little native boys standing, one holding a hand-crafted bowl. Native man standig.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73</unitid>
+							<unittitle>Page 73: Two photos on page. 1 - Group of natives with spears. 2 - Native boy with skin of a kangaroo.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74</unitid>
+							<unittitle>Page 74: Two photos on page. 1 - Men riding camels. 2 - Man talking into radio, sitting in a truck that says on the door "Camera 1."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75</unitid>
+							<unittitle>Page 75: Two photos on page. 1 - Natives with spears. 2 - Man looking through camera, filming.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76</unitid>
+							<unittitle>Page 76: Two photos on page. 1 - Man sitting on ground working with some sort of tools. 2 - Two men sitting on the ground with canteens.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77</unitid>
+							<unittitle>Page 77: Two photos on page. 1 - Three natives around a dirt hole. Crew men with the natives. 2 - Group of natives with spears.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78</unitid>
+							<unittitle>Page 78: Two photos on page. 1 - Vehicles driving on dirt road. 2 - Men with camera equipment. Vehicle that says "Sound 1" parked, door opened</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79</unitid>
+							<unittitle>Page 79: Two photos on page. 1 - Men riding camels. 2 - Three natives sitting on ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80</unitid>
+							<unittitle>Page 80: Two photos on page. 1 - Men riding camels. 2 - Two native boys, one running and smiling.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81</unitid>
+							<unittitle>Page 81: Two photos on page. 1 - Children riding donkeys. 2 - Three natives. Two little boys standing, one man sitting on ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82</unitid>
+							<unittitle>Page 82: Two photos on page. 1 - Three natives. Native man holding straw to his face. 2 - Native man drawing animal prints in dirt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83</unitid>
+							<unittitle>Page 83: Two photos on page. 1 - Two native boys eating from hand-crafted bowls. One of the crew men crouched, watching them. 2 - Man walking through the water.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84</unitid>
+							<unittitle>Page 84: Two photos on page. 1 - Native boy sitting on the ground while the crew surrounds him with camera equipment. 2 - Man sitting cross-legged on ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85</unitid>
+							<unittitle>Page 85: Two photos on page. 1 - Two men sitting on ground with canteens. 2 - Man sitting under umbrella.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86</unitid>
+							<unittitle>Page 86: Two photos on page. 1 - Vast land, vehicles driving on dirt in the distance. 2 - Natives observing animal tracks.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87</unitid>
+							<unittitle>Page 87: Two photos on page. 1 - Child riding a donkey. 2 - House with thatched roof and fence surrounding it.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88</unitid>
+							<unittitle>Page 88: Two photos on page. 1 - Native boy holding a "shield" and a "spear." 2 - Natives sitting on ground with their spears stuck in the ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89</unitid>
+							<unittitle>Page 89: Two photos on page. 1 - Two native boys sitting on ground, eating from hand-crafted bowls. 2 - Men setting up filming equipment.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90</unitid>
+							<unittitle>Page 90: Two photos on page. 1 - Man driving "Camera 1" truck. 2 - Native boys holding up spears.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91</unitid>
+							<unittitle>Page 91: Two photos on page. 1 - Natives walking away with hunted kangaroos thrown over their shoulders. 2 - Man sitting in "Camera 1" truck, holding radio in hand</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92</unitid>
+							<unittitle>Page 92: Two photos on page. 1 - Natives crouched, observing animal tracks. 2 - Two men, holding tools.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93</unitid>
+							<unittitle>Page 93: Two photos on page. 1 - Men on platform, one holding the camera. 2 - Man and woman walking. House with thatch roof behind them.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94</unitid>
+							<unittitle>Page 94: Two photos on page. 1 - Vehicles driving on a road. 2 - Childen riding donkeys.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95</unitid>
+							<unittitle>Page 95: Two photos on page. 1 - Little village, some children riding donkeys and some sitting on the fence. 2 - Native child with donkey.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96</unitid>
+							<unittitle>Page 96: Two photos on page. 1 - Small village with children roaming about. 2 - Men looking at papers spread out on table.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97</unitid>
+							<unittitle>Page 97: Two photos on page. 1 - House with thatched roof. 2 - Native children and crew men. Crew man using a stick to draw in the dirt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98</unitid>
+							<unittitle>Page 97: Two photos on page. 1 - Men with camera equipment. 2 - Man sitting.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99</unitid>
+							<unittitle>Page 98: Two photos on page. 1 - Man sitting. 2 - Three natives sitting around hole in dirt. Crew man standing behind them.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100</unitid>
+							<unittitle>Page 100: Two photos on page. 1 - Two men around a grave. "Harold B. Lesseter. Died. Was buried here Jan 1931." 2 - Small village. Group of children sitting. Vehicle passing through.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>101</unitid>
+							<unittitle>Page 101: Two photos on page. 1 - Natives eating out of hand-made bowls. 2 - Two men by vehicle.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>102</unitid>
+							<unittitle>Page 102: Two photos on page. 1 - Native child holding skin of hunted kangaroo. 2 - Man holding a device in his hand and to his ear, metal detector?</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>103</unitid>
+							<unittitle>Page 103: Two photos on page. 1 - Vast land, vehicles driving. 2 - Man sitting cross-legged on ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>104</unitid>
+							<unittitle>Page 104: Two photos on page. 1 - Group of natives, some sitting, others holding spears and hunted kangaroos over the shoulders. 2 - Men pouring dirt out of box.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>105</unitid>
+							<unittitle>Page 105: Two photos on page. 1 - Man walking, holding hat. 2 - Man standing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>106</unitid>
+							<unittitle>Page 106: Two photos on page. 1 - Two men putting another man on a stretcher in a plane. 2 - Natives crouched, looking at the dirt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>107</unitid>
+							<unittitle>Page 107: Two photos on page. 1 - Man wearing hat, standing. 2 - Man engraving name into stone (Harold Lesseter's tombstone).</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>108</unitid>
+							<unittitle>Page 108: Two photos on page. 1 - Men standing together, talking. 2 - Tree and rocky hill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>109</unitid>
+							<unittitle>Page 109: Two photos on page. 1 - Men with shovels, exmaining the ground. 2 - Tree and rocky hill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>110</unitid>
+							<unittitle>Page 110: Two photos on page. 1 - Two native boys. 2 - Vehicles driving on the dirt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>111</unitid>
+							<unittitle>Page 111: Two photos on page. 1 - Men loading supplies onto truck. 2 - Man wearing hat by truck, looking at an object closely.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>112</unitid>
+							<unittitle>Page 112: Two photos on page. 1 - Men trying to get truck out of ditch. 2 - Truck stuck in ditch.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>113</unitid>
+							<unittitle>Page 113: Two photos on page. 1 - Vehicles driving on dirt. 2 - Two men standing by truck.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>114</unitid>
+							<unittitle>Page 114: Two photos on page. 1 - Vehicles driving through a field. 2 - Two men sitting in back of a truck.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>115</unitid>
+							<unittitle>Page 115: Two photos on page. 1 - Men trying to get truck out of ditch. 2 - Vehicles parked on dirt road. Some men standing around.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>116</unitid>
+							<unittitle>Page 116: Two photos on page. 1 - Two men sitting in the back of a truck. 2 -Men driving in a truck with "Southern Internation Control" on door.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>117</unitid>
+							<unittitle>Page 117: Two photos on page. 1 - Two men sitting in the back of a truck. 2 - Vehicles driving through field.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>118</unitid>
+							<unittitle>Page 118: Two photos on page. 1 - Man trying to get truck's wheel free from ditch. 2 - Vehicle trying to break free from ditch, dirt flying up around tires.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>119</unitid>
+							<unittitle>Page 119: Two photos on page. 1 - Vehicle trying to break free from ditch, dirt flying up around tires. 2 - Men with camera. Vehicle parked.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>120</unitid>
+							<unittitle>Page 120: Two photos on page. 1 - Crew of men standing, vehicles ahead of them. 2 - Two men by a vehicle.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>121</unitid>
+							<unittitle>Page 121: Two photos on page. 1 - Men desperately trying to free vehicle from ditch. 2 - Vehicles driving on dirt ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>122</unitid>
+							<unittitle>Page 122: Two photos on page. 1 - Vehicles driving on dirt road. 2 - Man in "Sound 1" truck.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>123</unitid>
+							<unittitle>Page 123: Two photos on page. 1 - Back of a man, looking at alrge rocks ahead of him. 2 - Men filling vehicle up with gas (?).</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>124</unitid>
+							<unittitle>Page 124: Two photos on page. 1 - Man hold hose attached to a barrel up to his mouth. 2 - Man trying to dig wheel out of dirt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>125</unitid>
+							<unittitle>Page 125: Two photos on page. 1 -Two men standing by truck. 2 - Vehicles driving on dirt road.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>126</unitid>
+							<unittitle>Page 126: Two photos on page. 1 - Close-up of man driving vehicle. 2 - Man fixing a tire.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>127</unitid>
+							<unittitle>Page 127: Two photos on page. 1 - Close-up of man driving vehicle. 2 - Man by vehicle with a pole and a string of light bulbs.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>128</unitid>
+							<unittitle>Page 128: Two photos on page. 1 - Two men standing, one drinking from a canteen. 2 - Man sitting down with pencil, paper, and radio in hand.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>129</unitid>
+							<unittitle>Page 129: Two photos on page. 1 - Man wearing hat, sitting down. 2 - Man leaning against some type of equipment, looking at the camera.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>130</unitid>
+							<unittitle>Page 130: Two photos on page. 1 - Man sitting down, writing. 2 - Three men crouched.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>131</unitid>
+							<unittitle>Page 131: Two photos on page. 1 - Man sitting down and drinking from mug. 2 - Three men standing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>132</unitid>
+							<unittitle>Page 132: Two photos on page. 1 - Man with tools in front of him, looking up and smiling. 2 - One man sitting, the other man standing, examining his face.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>133</unitid>
+							<unittitle>Page 133: Two photos on page. 1 - Man sitting, the other one standing, reaching for medical supplies. 2 - Man standing with a cigarette in mouth.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>134</unitid>
+							<unittitle>Page 134: Two photos on page. 1 - Five men standing together. One drinking from canteen. 2 - Two men; one sitting and one standing, both looking at papers.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>135</unitid>
+							<unittitle>Page 135: Two photos on page. 1 - Men lounging in a circle, with pillow and blankets. 2 - Man splashing his face with water from basin.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>136</unitid>
+							<unittitle>Page 136: Two photos on page. 1 - Man leaning against some type of filming equipment. 2 - Table set with food and drinks, men passing plates of food.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>137</unitid>
+							<unittitle>Page 137: Two photos on page. 1 - Nighttime; men sitting around in a circle. 2 - Men at camp.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>138</unitid>
+							<unittitle>Page 138: Two photos on page. 1 - Men at camp, sharing a meal. 2 - Men preparing a meal at camp.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>139</unitid>
+							<unittitle>Page 139: Two photos on page. 1 - Man preparing a meal at camp. 2 - Man sitting down and holding a hat.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>140</unitid>
+							<unittitle>Page 140: Two photos on page. 1 - Vehicles parked in a circle formation. 2 - Men sitting down in a circle with pillows and blankets.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>141</unitid>
+							<unittitle>Page 141: Two photos on page. 1 - Trees. 2 -  Men sitting down in a circle with pillows and blankets.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>142</unitid>
+							<unittitle>Page 142: Two photos on page. 1 - Men filling canteen with water from a barrel. 2 - Nighttime; men sitting around in a circle.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>143</unitid>
+							<unittitle>Page 143: Two photos on page. 1 - Men preparing food at camp. 2 - Men sitting around, talking.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>144</unitid>
+							<unittitle>Page 144: Two photos on page. 1 - Man sitting, another crouched looking at his hand. 2 - Men at camp preparing food.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>145</unitid>
+							<unittitle>Page 145: Two photos on page. 1 - Men preparing and serving food at camp. 2 - Men sitting in back of truck that says "Southern Internation Control" on the door.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>146</unitid>
+							<unittitle>Page 146: Two photos on page. 1 - Vehicles driving by a rocky hill. 2 - Vehicles driving.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>147</unitid>
+							<unittitle>Page 147: Two photos on page. 1 - Man with foot resting on back of machinery. Two other men standing. 2 - Vehicles driving on rocky terrain.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>148</unitid>
+							<unittitle>Page 148: Two photos on page. 1 - Men in vehicles. 2 - Men pushing truck out of mud.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>149</unitid>
+							<unittitle>Page 149: Two photos on page. 1 - Stuck vehicle, dust flying about the tires. 2 - Men piled into "Southern International Control" truck.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>150</unitid>
+							<unittitle>Page 150: Two photos on page. 1 - Crew working among foliage. 2 - Vehicles driving in the distance.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>151</unitid>
+							<unittitle>Page 151: Two photos on page. 1 - Men trying to free vehicle from ditch. 2 - Men standing on moving vehicle.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>152</unitid>
+							<unittitle>Page 152: Two photos on page. 1 - "Camera 1" truck stuck in dirt. 2 - Vehicles driving.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>153</unitid>
+							<unittitle>Page 153: Two photos on page. 1 - Two men sitting in back of truck, men with camera behind them. 2 - Man shoveling out tire to vehicle.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>154</unitid>
+							<unittitle>Page 154: Two photos on page. 1 - Men trying  to free vehicle from ditch. 2 - Men loading supplies onto truck.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>155</unitid>
+							<unittitle>Page 155: Two photos on page. 1 - Men loading vehicle with supplies. 2 - Vehicles driving on dirt road.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>156</unitid>
+							<unittitle>Page 156: Two photos on page. 1 - Men by parked vehicle with large barrel on it. 2 - Men with camera sitting on the back of a vehicle driving on dirt road.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>157</unitid>
+							<unittitle>Page 157: Two photos on page. 1 - "Sound 1" vehicle stuck. 2 - Men standing on back of truck with barrels.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>158</unitid>
+							<unittitle>Page 158: Two photos on page. 1 - Vehicles driving on dirt road. 2 - Tree and a rocky hill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>159</unitid>
+							<unittitle>Page 159: Two photos on page. 1 - Crew standing in a circle. 2 - Crew standing in a circle.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>160</unitid>
+							<unittitle>Page 160: Two photos on page. 1 - Two men shoveling. 2 - Men standing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>161</unitid>
+							<unittitle>Page 161: Eight photos on page. 1 - Men shoveling. 2 - Vehicles parked. 3 -Three men by the back of a truck. 4 - Men sitting by umbrella, Lowell Thomas at right. 5 - Men walking downhill with tools in hand. 6 - Men setting up filming equipment. 7 -Vehicle driving through water. 8 - Vehicles parked.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>162</unitid>
+							<unittitle>Page 162: Six photos on page. 1 - Sign that says "Peternann Ridges Southern International went this way - Bring Sign." 2 - Two men standing with a woman and a child. 3 - Two men standing with a woman and a child. 4 - Man sitting. 5 - Man standing. 6 - Group of men digging in the dirt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>163</unitid>
+							<unittitle>Page 163: Two photos on page. 1 - Men on a platform with filming equipment. 2 - Man standing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>164</unitid>
+							<unittitle>Page 164: Two photos on page. 1 - Four men standing, holding sticks. 2 - Two men standing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>165</unitid>
+							<unittitle>Page 165: Two photos on page. 1 - Men grouped around Harold Lesseter's grave for a picture. 2 - Men grouped around Harold Lesseter's grave for a picture.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>166</unitid>
+							<unittitle>Page 166: Two photos on page. 1 - Crew member bathing in a pool of water. 2 - View of farm.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>167</unitid>
+							<unittitle>Page 167: Two photos on page. 1 - Men gathered around filming equipment. 2 - Man drawing in dirt, men in back filming.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>168</unitid>
+							<unittitle>Page 168: Two photos on page. 1 - Man pouring bucket of water over man bathing in pool of water. 2 - Three men standing. One man is holding a hammer and in the other hand holding an small object.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>169</unitid>
+							<unittitle>Page 169: Two photos on page. 1 - Vehicle driving through water. 2 -  Native man with two native boys.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>170</unitid>
+							<unittitle>Page 170: Two photos on page. 1 - Crew with native boy. 2 - Man sitting cross-legged with finger to his lips.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>171</unitid>
+							<unittitle>Page 171: Two photos on page. 1 - Medical car in distance. Men holding filming equipment. 2 - Man sitting on the ground cross-legged.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>172</unitid>
+							<unittitle>Page 172: Two photos on page. 1 - Man standing with his arms crossed. 2 - Grave of Harold Lesseter. Engraved "Harold Lesseter. Died. Was Buried Here. Jan 1931."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>173</unitid>
+							<unittitle>Page 173: Two photos on page. 1 -Crew with native boy. 2 - Man standing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>174</unitid>
+							<unittitle>Page 174: Two photos on page. 1 - Men standing, some wearing long coats. Body of water at right. 2 - Native boy sitting on ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>175</unitid>
+							<unittitle>Page 175: Two photos on page. 1 - Man and woman walking. 2 - Man engraving a tombstone for Harold Lesseter.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>176</unitid>
+							<unittitle>Page 176: Two photos on page. 1 - A high up view of the crew's camp. 2 - Vehicles driving in a line.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>177</unitid>
+							<unittitle>Page 177: Two photos on page. 1 - Grave of Harold Lesseter. Engraved "Harold Lesseter. Died. Was Buried Here. Jan 1931." 2 - Side view of grave of Harold Lesseter. Engraved "Harold Lesseter. Died. Was Buried Here. Jan 1931."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>178</unitid>
+							<unittitle>Page 178: Two photos on page. 1 - Man wearing rain coat, pointing. 2 - Man sitting.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>179</unitid>
+							<unittitle>Page 179: Two photos on page. 1 - Man holding a hammer. 2 - Men pouring dirt. Possibly over Harold Lesseter's grave.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>180</unitid>
+							<unittitle>Page 180: Two photos on page. 1 - High up view of vehicles parked. 2 - Patch of dirt where Harold Lesseter was buried.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>181</unitid>
+							<unittitle>Page 181: Two photos on page. 1 - Patch of dirt where Harold Lesseter was buried. 2 - Part of crew. Large group of natives with spears before them.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>182</unitid>
+							<unittitle>Page 182: Two photos on page. 1 - Natives sitting around a fire with their spears stuck into the ground. 2 - Large group of painted natives sitting on the ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>183</unitid>
+							<unittitle>Page 183: Two photos on page. 1 - Three painted natives sitting around fire. 2 - Group of painted natives with spears.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>184</unitid>
+							<unittitle>Page 184: Two photos on page. 1 - Crew member crouched by painted naitve holding an object to his face. 2 - Group of native boys holding sticks.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>185</unitid>
+							<unittitle>Page 185: Two photos on page. 1 - Large groupd of painted natives. 2 - Large group of painted natives.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>186</unitid>
+							<unittitle>Page 186: Two photos on page. 1 - Man sitting with camera, filming natives. 2 - Painted natives runnning in a line.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>187</unitid>
+							<unittitle>Page 187: Two photos on page. 1 - Men filming group of natives. 2 - Men filming group of natives.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>188</unitid>
+							<unittitle>Page 188: Two photos on page. 1 - Group of painted natives. 2 - One painted native standing close to camera, others standing in a line in the distance.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>189</unitid>
+							<unittitle>Page 189: Two photos on page. 1 - Men watching group of natives. 2 - Two native men sitting on the ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>190</unitid>
+							<unittitle>Page 190: Crew filming group of natives.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>191</unitid>
+							<unittitle>Page 191: Three photos on page. (Negative prints) 1 - Water (?) and trees. 2 - Large hill in distance. 3 - Large hill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>192</unitid>
+							<unittitle>Page 192: Four photos on page. (Negative prints) 1 - Trees. 2 - Man's profile. 3 - Men trying to push vehicle. 4 - Men gathered around vehicle.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>193</unitid>
+							<unittitle>Page 193: Four photos on page. (Negative prints) 1 - Vehicles driving. 2 - Native man sitting with tools. 3 - Trees. 4 - Trees.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>194</unitid>
+							<unittitle>Page 194: Four photos on page. (Negative prints) 1 - Native man kneeling on ground with tool in hand. 2 - Native boy sitting on ground with tool in hand. 3 - Native man kneeling on ground with tool in hand. 4 - Native man sitting on ground with tool in hand.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>195</unitid>
+							<unittitle>Page 195: Four photos on page. (Negative prints) 1 - Side view of grave of Harold Lesseter. Engraved "Harold Lesseter. Died. Was Buried Here. Jan 1931." 2 - Group of painted naitves sitting on ground. 3 - Trees and hill in background. 4 - Man digging a hole.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>196</unitid>
+							<unittitle>Page 196: Four photos on page. (Negative prints) 1 - Two native boys and a native man. 2 - native man sitting on ground. 3 - Hill in distnace. 4 - Native man kneeling.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>197</unitid>
+							<unittitle>Page 197: Four photos on page. (Negative prints) 1 - Men riding camels. 2 - Two native boys and one native man looking at the ground closely. 3 - Line of camels walking. 4 - Two native boys and one native man looking at the ground closely.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>198</unitid>
+							<unittitle>Page 198: Four photos on page. (Negative prints) 1 - Large group of painted natives sitting. 2 - Large group of painted natives sitting. 3 - Small groups of natives spread out sitting on ground. 4 - Native man kneeling on ground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>199</unitid>
+							<unittitle>Page 199: Four photos on page. (Negative prints) 1 - Grave of Harold Lesseter. Engraved "Harold Lesseter. Died. Was Buried Here. Jan 1931." 2 - Large group of painted natives sitting. 3 - Two native boys standing and one native man standing. 4 - Vast land.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>200</unitid>
+							<unittitle>Page 200: Four photos on page. (Negative prints) 1 - Foliage. 2 - Man. 3 - Vast land. 4 - Hill in distance.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>201</unitid>
+							<unittitle>Page 201: Four photos on page. (Negative prints) 1 - Large rock (?). 2 - Foliage and rocks. 3 - Vehicles parked. 4 - Vast land.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>202</unitid>
+							<unittitle>Page 202: Four photos on page. (Negative prints) 1 - Man with back turned. 2 - Large hill. 3 - Man. 4 - Side view of large hill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>203</unitid>
+							<unittitle>Page 203: Eleven photos on page. (Negative prints)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Macalaster College - Lowell Thomas guest lecturer</unittitle>
+						<unitdate label="Date">1966</unitdate>
+						<container id="1597" type="box">1597</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Page 1: Guest List</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Page 2: Article: Tom Jones Swings at Vail</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Page 3: Article: Old Lowell Thomas Magic Captivates Mac Audience</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Page 4: Article: St. Paul Sunday Pioneer Press, April 3, 1966�.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Page 5: Man in costume with a trumpet in hand, seated on a horse.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Page 6: Man in costume sitting on a horse, blowing a trumpet.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Page 7: Invitation - Hear Ye! Richard Hauserman and The Lady Blanche. Prince amd Princess of Property�.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Page 8: Woman handing a rolled up paper to a man in costume who is sitting on a horse.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Page 9: Man in costume riding a horse, holding a trumpet and passing a rolled up paper to a woman.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Page 10: Man in costume riding a horse, holding a trumpet and passing a rolled up paper to a woman.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Page 11: Man in costume riding a horse, holding a trumpet and passing a rolled up paper to a woman.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Page 12: Man in costume riding a horse, holding a trumpet and passing a rolled up paper to a woman.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Page 13: Man in costume riding a horse, holding a trumpet and passing a rolled up paper to a woman.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Page 14: Lowell Thomas sitting on couch with four other men listening to him.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Page 15: Lowell Thomas sitting on couch and four other men, talking together.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Page 16: Lowell Thomas talking with a man.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Page 17: Man talking to Lowell Thomas, Lowell looking at camera.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Page 18: Two men talking to a woman.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Page 19: Two men talking to each other.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Page 20: Three men and a woman. Woman and man talking to each other.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Page 21: Man in costume, another man and two woman with drinks in hand.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Page 22: Two women talking with drinks in hand.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>Page 23: Woman looking awkwardly into camera. Man in costume staring at woman. Man at right with drink in hand</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>Page 24: Two men and a woman talking.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>Page 25: Two men and a woman talking.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Page 26: Two men and a woman smiling at camera.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>Page 27: Three men laughing with drinks in hand.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>Page 28: Rowdy scene. Man standing on object to right with drink in hand. Man standing. Woman in back yelling. Another man standing with back turned.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>Page 29: Some people sitting and lying in hay.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>Page 30: Lowell Thomas holding a woman, lying in hay.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>Page 31: Lowell Thomas holding another woman, lying in hay.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>Page 32:  Two women and a man wrestling in hay.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>Page 33: Group of people laughing and lying in hay.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>Page 34: Two chefs and a man standing behing serving table with drinks and a pineapple raised.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>Page 35: People seated at dining table. Man and woman taking a bite of a type of meat.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>Page 36: Man and woman sitting at dining table. Man feeding the woman grapes.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>Page 37: Two women holding a chicken. Man in costume standing in background.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>Page 38: People seated at dining table. Lowell Thomas sitting at right.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>Page 39: Two men and a woman between them with a piece of meat held in front of her face.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>Page 40: Two chefs setting up food at serving table.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>Page 41: People seated at dining table. Two women sitting on two men's laps, laughing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>Page 42: Two women and a man at dining table, eating meat.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>Page 43: Man in costume hugging woman who is hugging man at left, laughing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>Page 44: Two men and a woman, jokingly taking a bite out of meat.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>Page 45: Woman and man eating at table.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>Page 46: Woman and man sitting at dining table.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>Page 47: Man kissing woman's hand.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>Page 48: Man and woman dancing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>Page 49: Man and woman dancing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>Page 50: Four men holding a woman, laughing and smiling.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>Page 51: Two men mock sword fighting. Woman in background.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>Page 52: Man playing the violin with cigarette in mouth.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>Page 53: Group shot. Men and women together for a picture, smiling.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>Page 54: Four men and two women in al ine, kicking their legs. Smiling and laughing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>Page 55: Five men standing together, smiling.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>Page 56: Man and woman. Man with drink raised and woman holding pineapples.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>Page 57: Man and woman hugging and laughing, holding a pineapple.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>Page 58: Man sticking his tongue out and holding bread in his hand.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>Page 59: Man sitting in a chair, holding a rabbit.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Winter Olympic Dinner, Cherry Hills Country Club [concerning Denver's bid for the 1976 Winter Olympics]</unittitle>
+						<unitdate label="Date">1968 March 18</unitdate>
+						<container id="1597" type="box">1597</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Album cover]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Page 1: Envelope. Denver Colorado, USA, 1976, XII Olympic Winter Games</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Page 2: Two photos on page. 1 - Lowell Thomas standing and talking with three other men. 2 - Lowell Thomas shaking hands with another man. Two other men standing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Page 3: Two photos on page. 1 - Lowell Thomas talking with two other men. 2 - Lowell Thomas standing with three women.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Page 4: Two photos on page. 1 - Six women posing for a picture. 2 - Line of six men smiling for a picture.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Page 5: Two photos on page. 1 - People standing. Banner overhead that says "Winter Olympics. Denver '76." 2 - Ice sculpture of 76. Olympic rings in background.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Page 6: Two photos on page. 1 - Nicely dressed people seated at dining tables. Olympic banner in background. 2 - Nicely dressed people seated at dining tables. Olympic banner in background.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Page 7: Two photos on page. 1 - People seated at dining tables. 2 - Long table with a man at the podium, speaking. Lowell Thomas seated at his left.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Page 8: Two photos on page. 1 - Lowell Thomas and man at podium, smiling for a picture. 2 - Lowell Thomas speaking at a podium.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Page 9: Two photos on page. 1 - Lowell Thomas speaking at podium with Olympic banner in the background. 2 - Small group of men talking.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Page 10: Two photos on page. 1 - Lowell Thomas speaking at podium. 2 - Lowell Thomas and man talking together in front of Olympic banner.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Page 11: Two photos on page. 1 - Lowell Thomas standing between two men in front of Olympic banner. 2 - Lowell Thomas standing with three other men.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Page 12: Two photos on page. 1 - Lowell Thomas talking with two other men with the Olympic banner in background. 2 - Lowell Thomas talking with two other men with the Olympic banner in background.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Page 13: Man helping another man put on his sports coat.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Page 14: Newspaper articles - "Lowell Thomas to Speak at Denver Olympic Dinner" and "Ski Stars to Aid Bid for Games."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Page 15: Newspaper article - The Denver Post. Sunday, Mar. 17 1968. "Lowell Thomas to Speak. Olympic Dinner to be Crowded."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Page 16: Newspaper article - The Denver Post. Sunday, Mar. 17 1968. "Lowell Thomas, 76, Still Active Writer, Lecturer, Adventurer."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Page 17: Newspaper article - (photo) Lowell Thomas speaking at podium. Caption: Lowell Thomas in a familiar situation�[continued]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Page 18: Newspaper articles - "Denver Becomes a $100-a-Plate Sports Town;" The Denver Post. Mon., March 18, 1968, "300 Expected at Games Fete;" "300 to Attend Olympic Dinner."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Page 19: Newspaper article - The Denver Post. Tues., March 19, 1968. "Denver Stirs Olympic Fire"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Page 20: Newspaper article - The Denver Post. Tues., March 19, 1968. (photo) Lowell Thomas with five other men near podium. "Olympic Bid Gets Big Shot in Arm."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Page 21: Newspaper article - "More Than 300 Attend $100Plate Olympic Fete, (photo) Anderl Molterer, ski racer from Austria, and Roger Staub of Austrian ski team, laughing.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>Page 22: Magazine cover - "The Cherry Pit." February, 1968. Volume 12, No. 8. Denver, Colorado, USA, 1976, XII Winer Games.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>Page 23: Magazine article - "Cherry Hills to Host Winter Olympic Inaugural Dinner."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>Page 24: Magazine article - "The Cherry Pit." "Inagural Dinner Highly Successful!" (photo) "Robert Mitton, assisted by W.J. Salder, Jr., Dinner Chairman, presented the Cherry Hills Red Coat with the club crest to Lowell Thomas, Sr., principal speaker of the event."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Page 25: Magazine article - April, 1968. "Cherry Hills Plays Enthusiastic Role in Assisting Effort to Bring 1976 Winter Olympics to Denver!"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>Page 26: Magazine page - (photos) 1 - Mayor Tom Currigan, Governor John Love, Jim Stalder, and Chuck Smukler apply torches to large piece of ice. 2 - Mr. Thayer Tutt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>Page 27: Magazine page - (four photos) 1 - Lowell Thomas speaking at podium for Olympic dinner. 2 - Steve Knowlton. 3 - Lowell Thomas speaking at podium for Olympic dinner. 4 - Governor John Love presenting Lowell Thomas with a Colorado Wrangler award.</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1597 -->
+			<!-- Box 1598 -->
+			<c01>
+				<note>Box 1598</note>
+				<did>
+					<unitid>2.1.6</unitid>
+					<unittitle>Photograph album</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>The Lowell Thomas Institute of Communicating Arts at Human Resources Center, A Presentation to Lowell Thomas</unittitle>
+						<unitdate label="Date">1968 October 23</unitdate>
+						<container id="1598" type="box">1598</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Album cover]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Page 1: The Students of Human Resources School Respectfully Present this Album to Lowell Thomas. Author, Explorer, Historian, Journalist. Whose Leadership in the Communicating Arts Has Brought The Affairs of Man To Generations Yet Unborn. On the occasion of the establishment of the Lowell Thomas Institute of Communicating Arts at Human Resources School. October 23, 1968.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Page 2: The Children of Human Resources School accepted as class projects the development of a symbol which would embrace the essence of the Lowell Thomas Institute of Communication Arts�[continued]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Page 3: Ours is a world of movement and change.  A single day may see the creation of one government and the toppling of another�[continued]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Page 4: The students themselves will be in charge of the entire process of developing a house organ which will be mailed each year to persons interested in the latest occurrence in Human Resources Center�[continued]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Page 5: Visual</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Page 6: Photo of child with mechanical hands.  Even the most disabled child can learn to use the hand tools of communication in the proposed Creative Writing Laboratory</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Page 7: Disabled child finger painting with woman beside him.  The use of finger paints allows for self-expression and the development of creativity.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Page 8: Boy in wheelchair reading a newspaper.  The daily newspaper is an important part of the educational process at Human Resources School.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Page 9: Disabled child.  The photo laboratory enables the disabled child to achieve permanent visual records.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Page 10: Children in wheelchairs. A microviewer with an accompanying microfilm strip replaces burdensome textbooks for the disabled child.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Page 11: Student in wheelchair. A class newspaper is the student's first experience in the dissemination fact and opinion</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Page 12: Man pointing at computer and a disabled student in wheelchair.  Data storage and the functioning of the IBM 360/30 computer will be part of the course in orientation to communications</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Page 13: Student in wheelchair. A microfilm reader brings the world of yesterday to the disabled pupil of today.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Page 14: Man pointing to printer and student in wheelchair.  A computer printer delivers numbers which must be interpreted as messages.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Page 15: Disabled children. The science of keypunch operation is explained to disabled students in high school.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Page 16: Man standing and student in wheel chair. An electric punch card sorter allows information to be coded, classified and catalogued.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Page 17: Three disabled children watching a man standing and pointing to a globe.  It is a challenge of teaching to bring to students the cultures of nations far removed.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Page 18: Black and white photo - Lowell Thomas standing with another man looking at an item, two women seated at table.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Page 19: Disabled children in a classroom setting.  A film strip correlates words and pictures for the developing young mind.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Page 20: Children sitting in wheelchairs in a classroom; man with a projector.  Even a complex scientific concept can be simplified through the use of appropriate communication devices.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Page 21: Girl sitting in a wheelchair. A visual can be enjoyed by a single student through an apparatus which coordinates sight and sound.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>Page 22: Disabled child with an electric typewriter.  A severely disabled child often can only effectively communicate through mechanical means.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>Page 23: Auditory</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>Page 24: Children in wheelchairs sitting around a woman holding a story book.  Even the youngest children in the elementary school learn the value of communication in their story telling hour.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Page 25: Some children in wheelchairs to the left and other disabled children sitting to the right, man playing a piano. The sound of music is also the sound of expression.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>Page 26: Two disabled children by a record player. Learning to listen is involved in appreciating music forms and rhythm patterns.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>Page 27: Man in wheelchair with headphones.  The linguistic console enables a student to learn the languages of man.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>Page 28: Man standing and holding an opened book. Through the use of an executone a student confined to his home can actively participate in classroom discussions.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>Page 29: Girl in wheelchair with headphones. Alone in a busy library through the use of a self-contained record player.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>Page 30: Man in wheelchair and a boy in a wheelchair with headphones.  Radio International, Human Resources School's shortwave radio station, brings the entire world to disabled students.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>Page 31: A quadriplegic woman in a wheelchair by a phone.  The school's guidance counsellor, a quadriplegic, has had to develop special techniques to use standard communication instruments such as the telephone.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>Page 32: Students in wheelchairs sitting around a table with a woman standing at the head of it. Oral communication, the art of dialogue, is heavily emphasized in the curriculum.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>With Lowell in Nepal - To the World's Best Traveling Companion from Miggs &amp; Dick Durrance</unittitle>
+						<unitdate label="Date">circa 1970s</unitdate>
+						<container id="1598" type="box">1598</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Page 1: Three photos on page. 1- Lowell Thomas in street with an officer. 2 - Man sitting on ornately decorate elephant. Lowell Thomas holding on to one of the tusks. Officer to left. 3 - Lowell Thomas wearing a red sports jacket, standing behind two men.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Page 2: Five photos on page. Photo in upper left corner - Lowell Thomas and unidentified man. Photo in right hand corner - Lowell Thomas seated between man an woman. Bottom photo to the left - Unidentified man with plate of food in front of him. Photo in between top and bottom right - Lowell Thomas standing, talking to two men and a seated woman. Bottom photo - Lowell Thomas by red carpeted steps talking with a man and a woman.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Page 3: Four photos on page. 1 - Older man with glasses, standing. 2 - Lowell Thomas standing talking to a man at the left. 3 - Lowell Thomas with a small crowd of people in front of a white building. 4 - Small picture; Lowell Thomas standing, talking to a man wearing a long, black coat.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Page 4: Five photos on page. 1 - Lowell Thomas chatting with a man in a black suit and a woman in a red dress. 2 - Lowell Thomas, pointing, with a small crowd of people. 3 - Lowell Thomas shaking hands with a woman; man with glasses in back. 4 - A woman wearing a white hat, walking down red carpeted stairs with a man in a black suit beside her. 5 - Lowell Thomas talking with woman and a man.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Page 5: Four photos on page. 1 - Woman in a red dress, leaning out a window. 2 - Lowell Thomas standing in front of a white domed building, talking to a man in robes and sunglasses. 3 - Lowell Thomas with a man in robes outside of a building, woman in a red dress leaning out of a window above them. 4 - Lowell Thomas and man in robes walking along side of a white domed building.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Page 6: Four photos on page. 1 - A large white building ; statue in pond before the building.  Two figures - a man and a woman, standing on balcony. 2 - Lowell Thomas seated between two women at a coffee table, young man standing over them. 3 - Unidentified man, leaning over and looking to the right. 4 - Unidentified man and woman.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Page 7: Six photos on page. 1 - Lowell Thomas outside of a buildign with a school of children. 2 - Lowell Thomas walking with a group of children and talking. 3 - Lowell Thomas walking with a group of children, talking. 4 - Lowell Thomas with arm around a woman in a pale blue dress, talking with two other men. 5 - Lowell Thomas standing, watching two boys and a girl. 6 - Lowell Thomas standing and talking with three men.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Page 8: Three photos on page. 1 - Lowell Thomas with a group of children on the side of a hill, overlooking the land below. 2 - A parade of officers, a man riding an ornately decorated elephant behind the line of officers who are dressed in red. 3 - A  ceremony; a woman dressed in a long red dress, gently stepping on a box-like object.  A group of people is watching from behind.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Page 9: Six photos on page. 1 - Lowell Thomas in a field, two children at his right. 2 - A line of people riding elephants through shallow waters. 3 - A group of unidentified people wearing headresses. 4 - A group of people riding elephants in a field. 5 - Lowell Thomas and two other men riding an elephant.  6 - Man sitting on an elephant, Lowell Thomas on ground, talking with an unidentified man.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Page 10: Five photos on page. 1 - Lowell Thomas sitting with a group of people by a body of water. 2 - Lowell Thomas riding an elephant with two other men, a line of people riding elephants behind them. 3 - Two men sitting on an elephant watching a rhino amongst the tall grass. 4 - Three men (sitting on elephant?), close up. 5 (bottom right) - Three men sitting on an elephant, behind shot.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Page 11: Six photos on page. 1 - Lowell Thomas and two other men sittiing on an elephant. 2 - Line of people riding elephants across shallow water, Lowell Thomas second form left. 3 - Lowell Thomas and two other men on elephant, line of people riding elephants behind him. 4 - Lowell Thomas sitting down at a table with two men and two women. 5 - Line of people riding elephants across water. Lowell Thomas second from left. 6 - Group of people riding elephants, one man is standing on the elephant.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Page 12: Four photos on page. 1 - Group of people riding elephants across water to patch of land where another group of people await them. 2 - A group of people looking over a hand-made straw fence. 3 - A man and woman standing closely together, another man crouched to the ground. 4 - A woman and a man leaning of the straw fence, man trying to feed young rhino hay.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Page 13: Five photos on page. 1 - Flowers carved into wall, sunlight streaming in from the right. 2 - Sunset, Part of Taj Mahal showing at left. 3 - Dark lighting, Taj Mahal in distance. 4 - Large window, sunlight streaming though. 5 - T aj Mahal in reflection of pool.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Page 14: Two photos on page. 1 - Lowell Thomas seated on steps in front of a crowd of people. 2 - Lowell Thomas talking with a man in glasses at left.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Page 15: Four photos on page. 1 - Lowell Thomas seated in lawn chair at a table with two other men at left. 2 - Lowell Thomas seated on chair talking with a man at left. 3 - Lowell Thomas and two other men seated in lawn chairs around a table with another man standing beside them. 4 - Lowell Thomas talking with two other men at left.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Page 16: Five photos on page. 1 - Two lines of children, one of girls, the other of boys, walking down an aisle created by other children on each side. 2 -Lowell Thomas seated on steps in front of large crowd of people. 3 - Lowell Thomas surrounded by a crowd of children. 4 - People dancing in grand costumes while others sit on the ground playing instruments. Lowell Thomas speculating from a distance. 5 - Lowell Thomas pointing at a woman's decorated headress.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Page 17: Three photos on page. 1 - Close-up of unidentified man. 2 - Lowell Thomas standing between two dressed-up woman. 3 - Man holding a flag, Lowell Thomas holding the edges.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Page 18: Three photos on page. 1 - Man bent down with a device in hand, showing it to three children. 2 - Man with camera equipment, talking with another man who is pointing. 3 -Six people with arms around each other.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Page 19: Blank page</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Lowell Thomas' Thirty-ninth Birthday</unittitle>
+						<unitdate label="Date">1975 April</unitdate>
+						<container id="1598" type="box">1598</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Album cover]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Item found in album: Olive and Tom Watson in plane</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Inside of item found in album: well, we made it and wish you and yours a very Merry Christmas and a Happy New Year. Written: Here we are all ready for your appearance. O + T.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Photograph found in album: Thpmas J. Watson with map</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso of photograph found in album: Thomas J. Watson at Marist retraces his 1987 return to Siberia in a place he piloted himself</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Photograph found in album: Lowell Thomas with three other unidentified people, hugging</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Photograph found in album: Lowell Thomas with two other unidentified men, chatting</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Photograph found in album: Lowell Thomas with three other unidentified men</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Photograph found in album: Lowell Thomas with unidentified man</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Page 1: (Written) I thought you should have this at the grove to prove that your [sic] fantastic at activities. April 1975</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Page 2: Lowell Thomas outside of Mid-Vail Restaurant with unidentified man</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Page 3: Lowell Thomas skiing with unidentified woman</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Page 4: Lowell Thomas with a woman holding skiis</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Page 5: Lowell Thomas and man on skiis</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Page 6: Woman smiling; snow</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Page 7: Woman with sunglasses, smiling</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Page 8: Lowell Thomas seated  with birthday cake in front of him.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Page 9: Four photos on page. 1 - Unidentified smiling man and unsmiling woman. 2 - Lowell Thomas sitting between two woman. 3 - Unidentified woman and man sitting. 4 - Lowell Thomas blowing out candles of birthday cake</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Page 10: Four photos on page. 1 - Group of woman. 2 - Man standing,  a man seated between two women, all three looking up at man standing. 3 - Two men in conversation. 4 - Two men and woman chatting.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Page 11: Four photos on page. 1 - Lowell Thomas seated at table beside unidentified woman. 2 - Unidentified woman and man seated at table. 3 - Unidentified woman seated between two men. 4 - Unidentified woman and man, passing food.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Page 12: Four photos on page. 1 - Unidentified man and woman, talking. 2 - Woman and man seated at dining table, eating. 3 - Woman and man seated at dining table, talking. 4 - Three men with drinks in hand.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Page 13: LT's birthday cake on table.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Page 14: Woman sitting on man's lap, hugging</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Page 15: Lowell Thomas hugging two women, with man smiling in the background</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>Page 16: Man hugging two women with Lowell Thomas standing in the backgound</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>Page 17: Black and white photo - Lowell Thomas, two men - one standing - and two women.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>Page 18: Black and white photo - Lowell Thomas standing with another man looking at an item, two women seated at table.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Page 19: Black and white photo - Lowell Thomas, man and woman talking</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>Page 20: Black and white photo - Lowell Thomas talking with man and woman</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>Page 21: Black and white photo - Lowell Thomas with unidentified man, talking</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>Page 22: Black and white photo - Lowell Thomas alone</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>Page 23: Black and white photo - Unidentified man and woman holding on to the arms of a smiling child</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>Page 24: Black and white photo - Man and woman turned around in chairs, smiling</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>Page 25: Black and white photo - Lowell Thomas with birthday cake.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>A Tribute to Lowell Thomas by the University of Denver</unittitle>
+						<unitdate label="Date">1976 May 14</unitdate>
+						<container id="1598" type="box">1598</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Cover of program found in album: A Tribute to Lowell Thomas by the University of Denver</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Part of program found in album: Lowell Thomas. When Lowell Thomas announced on March 7, 1975�[continued]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Part of program found in album: Chancellor Maurice Mitchell and the Board of Trustees of the University of Denver gratefully acknowledge your participation in A Tribute to Lowell Thomas�[continued]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Part of program found in album: Lowell Thomas. When Lowell Thomas announced on March 7, 1975�[continued]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Page 1: Single shot of Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Page 2: Lowell Thomas behind a podium with a sign on it that says, "Hotel Pierre, New York City"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Page 3: Man behind a podium addressing a crowd of people seated at dining tables.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Page 4: Lowell Thomas behind the Hotel Pierre podium addressing a group of people seated at dining tables.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Page 5: Man behind a podium addressing a crowd of people seated at dining tables</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Page 6: Man behind a podium addressing a crowd of people seated at dining tables</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Page 7: Man behind a podium addressing a crowd of people seated at dining tables</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Page 8: Attentive audience seated at dining tables</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Page 9: Lowell Thomas and man holding a plaque</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Page 10: Lowell Thomas standing with five other men, wearing suits.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Page 11: Lowell Thomas with two other men and a woman</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Page 12: Lowell Thomas talking with two other men.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Page 13: Lowell Thomas talking with a man in suit.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Page 14: Lowell Thomas talking with two other men</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Page 15: Lowell Thomas talking with unidentified man</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Page 16: Lowell Thomas with two men, shaking hands with one as he places a paper into a wooden box.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Page 17: Three men and a woman talking, drinks in hand.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Page 18: Lowell Thomas with another man and two women.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>Page 19: Lowell Thomas chatting with a man and two women.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>Page 20: Two men in suits talking with a woman.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>Page 21:  Lowell Thomas talking with three men and a woman</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Page 22:  Lowell Thomas looking at papers with a man and woman.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>Page 23: Three men looking off to the right</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>Page 24: Lowell Thomas talking with another man</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>Page 25: Two men talking at a table</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>Page 26: Lowell Thomas holding the event's program and talking with an unidentified man</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>Page 27: Three men in a circle talking</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>Page 28:  Lowell Thomas talking with a seated women</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>Page 29: Lowell Thomas with arm around woman, smiling for a picture</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>Page 30:  Lowell Thomas with man and woman looking off to the left</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>Page 31: Lowell Thomas talking to a man with a drink in hand</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>Page 32: Lowell Thomas (second from left) standing with three other men</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>Page 33: Lowell Thomas sitting around a round wooden table with four other men</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>Page 34: People gathered by a greyhound bus</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>Part of program found in album:  Chancellor Maurice Mitchell and the Board of Trustees of the University of Denver gratefully acknowledge your participation in A Tribute to Lowell Thomas�[continued]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>Part of program found in album: [Uni]versity of Denver [Co]llege of Law</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>For Lowell Thomas 46th Anniversary of His 40th</unittitle>
+						<unitdate label="Date">1978 April 6</unitdate>
+						<container id="1598" type="box">1598</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Album cover]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Page 1: (Written) With gratitude for the pleasure of your company - Olive + Tom</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Page 2: A sign that reads, "Happy Birthday, Lowell" with a picture of Lowell Thomas in flight gear to the right</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Page 3: Lowell Thomas smiling next to a picture of himself in flight gear</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Page 4: Lowell Thomas with two women seated on his lap smiling.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Page 5: A woman seated between two men</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Page 6: Two women and three men seated at a dining table</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Page 7: Two photos on page. 1 -Lowell Thomas talking with a man in red pants. Man in red pants talking with a woman in a white dress.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Page 8: Lowell Thomas standing behind cake</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Page 9: Lowell Thomas and woman blowing out candles to cake</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Page 10:Two photos on page. 1 - Lowell Thomas at table signing a book for a woman. 2 - Three women standing behind a floral arrangement.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Page 11: Lowell Thomas smiling next to a picture of himself in flight gear</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Page 12: Two photos on page. 1 - Lowell and two women at mic reading from a book entitled American Heritage. 2 - Lowell Thomas at mic, holding book entitled American Heritage.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Page 13: Two women crouched beside a picture of Lowell Thomas in flight gear.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Page 14: Lowell Thomas with man and woman, shaking hands</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Page 15: Two photos on page. 1 - Lowell Thomas shaking hands with a man, another man and a woman next to them, smiling. 2 - A man seated between two woman at a dining table.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Page 16: Man in red pants at mic</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Page 17: Two photos on page. 1 - Lowell Thomas with hand on shoulder of seated man; two men and a woman seated at dining table. 2 - Lowell Thomas seated at dining table talking to a woman.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Page 18: Lowell Thomas greeting a woman with a kiss on the cheek.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Page 19: Woman and man seated at dining table</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Page 20: Two photos on page. 1 - Three men and a woman, talking and laughing. 2 - Two women and a man behind floral arrangement.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Page 21: Lowell Thomas talking with a woman and three men</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>Page 22: Lowell Thomas in ski suit with skiis on mountain</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>Page 23: Photo ripped off of page</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>Page 24: Lowell Thomas with man and two women, all wearing skiis on mountain</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Page 25: Lowell Thomas holding skiis with a woman</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>Page 26: Close-up of Lowell Thomas's profile, man on skiis, smiling in background</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>Page 27: Two photos on page. 1 - Lowell Thomas skiing on mountain. 2 - Lowell Thomas standing between two men on mountain, all on skiis</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>Page 28: Two photos on page. 1 - Lowell Thomas skiing on mountain. 2 - Lowell Thomas skiing on mountain</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>Page 29: Two photos on page. 1 - View of snow-capped mountains in the distance. 2 - Hilly area covered with pine trees. Road lined with houses and a church (?)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>Page 30: Creek on snowy mountain running between two log cabins</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>Page 31: Creek on snowy mountain running alongside a log cabin with two horses</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1598 -->
+		</dsc>
+	</archdesc>
+</ead>

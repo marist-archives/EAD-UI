@@ -1,0 +1,1667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/colorado2.1.1.1.4.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Colorado</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.4</unitid>
+			<unittitle>Colorado</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1175</note>
+				<did>
+					<unitid>2.1.1.1.4</unitid>
+					<unittitle>Colorado</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Stanley Hotel Manor and amusement hall, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14000</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>In front of Stanley Hotel, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14001</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Stanley Hotel from hill opposite Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14003</materialspec>
+						<materialspec label="negativenumber">65</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Stanley Hotel music room, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14005</materialspec>
+						<materialspec label="negativenumber">132</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Stanley Manor music room, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">1406</materialspec>
+						<materialspec label="negativenumber">136</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Stanley Manor music room, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14007</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Bedroom, Stanley Hotel, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14010</materialspec>
+						<materialspec label="negativenumber">124</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Dining room, Stanley Manor, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14011</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Hall in Stanley Manor, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14012</materialspec>
+						<materialspec label="negativenumber">70</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Rocks near Stanley Hotel, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14014</materialspec>
+						<materialspec label="negativenumber">143</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Rocks behind Stanley Hotel, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14015</materialspec>
+						<materialspec label="negativenumber">74</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Fireplace in main building, Long's Peak Inn, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14016</materialspec>
+						<materialspec label="negativenumber">9</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Long's Peak Inn, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14017</materialspec>
+						<materialspec label="negativenumber">122</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Mill's house, Long's Peak Inn, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14018</materialspec>
+						<materialspec label="negativenumber">126</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Rooms in Mrs. Sherman's cottage, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14019</materialspec>
+						<materialspec label="negativenumber">128</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Frank R. Roberson and party at Long's Peak Inn, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14020</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>"The Forest" at Long's Peak Inn, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14021</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Porch of "the forest", Long's Peak Inn, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14022</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Main building, Long's Peak Inn, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14023</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Mr. Enos Mills, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14024</materialspec>
+						<materialspec label="negativenumber">111</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Dorothy Schwartz, Long's Peak Inn, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14025</materialspec>
+						<materialspec label="negativenumber">10</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Party at castle rocks, Long's Peak Inn, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14027</materialspec>
+						<materialspec label="negativenumber">123</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Park on castle rocks, Long's PeaK, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14027A</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Frank R. Roberson and party on castle rocks, near view, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14028</materialspec>
+						<materialspec label="negativenumber">121</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Beaver dam, Long's Peak Inn, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14029</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Beaver work on trees, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14030</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Beaver dam near Long's Peak Inn, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14031</materialspec>
+						<materialspec label="negativenumber">4</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Showing how a tree cured itself, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14034</materialspec>
+						<materialspec label="negativenumber">150</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Mertensia orchid, lungwort, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14035</materialspec>
+						<materialspec label="negativenumber">283</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Purple bell flower, clematis, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14036</materialspec>
+						<materialspec label="negativenumber">282</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Lupinus, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1175" type="box">1175</container>
+						<materialspec label="index">14037</materialspec>
+						<materialspec label="negativenumber">278</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<!-- End 2 -->
+
+			</c01>
+			<!-- Box 4 -->
+
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1176</note>
+				<did>
+					<unitid>2.1.1.1.4</unitid>
+					<unittitle>Colorado</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Larkspur ans yellow orange flower, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14041</materialspec>
+						<materialspec label="negativenumber">271</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Kinnikinick, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14044</materialspec>
+						<materialspec label="negativenumber">265</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Potentilla climbing, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14046</materialspec>
+						<materialspec label="negativenumber">269</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Pine cones, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14047</materialspec>
+						<materialspec label="negativenumber">268</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Big Thompson Canyon, river and road, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14064</materialspec>
+						<materialspec label="negativenumber">3</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Big Thomson Canyon, island in river, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14065</materialspec>
+						<materialspec label="negativenumber">12</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Stream in Thompson Canyon, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14066</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Bridge in Bid Thomson Canyon, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14067</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Bridge in the canyon of the Big Thompson, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14068</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Big Thomson Canyon, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14069</materialspec>
+						<materialspec label="negativenumber">75</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Lyons Canyon road, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14070</materialspec>
+						<materialspec label="negativenumber">66</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Route through Missouri Canyon, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14072</materialspec>
+						<materialspec label="negativenumber">21</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Range from Rustic Hotel, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14073</materialspec>
+						<materialspec label="negativenumber">25</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Rustic Hotel, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14074</materialspec>
+						<materialspec label="negativenumber">2</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>General view of Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14075</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>General view of Estes Park, taken from mountain near entrance</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14076</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Looking into Estes Park from mountain near entrance</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14077</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Ypsilon mountain, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14078</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Range from Park Hill, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14079</materialspec>
+						<materialspec label="negativenumber">116</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Range from Park Hill, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14080</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Range from Mr. Lanborn's house[?], Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14081</materialspec>
+						<materialspec label="negativenumber">61</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Mountain range, Long's Peak Inn to left Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14082</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14083</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Cabin in the woods, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14084</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Cottages among trees, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14085</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Deer mountain in the distance, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14086</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Song's Peak, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14087</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Beaver dam, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14089</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>The fish hatchery, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14090</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Trout in pond, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14091</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Enos Mills feeding chipmunk, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14092</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Frank R. Roberson and chipmunk, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14093</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Mr. Enos Mills and a chipmunk, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14094</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Mr. Lamborne and Bevis(dog), Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14095</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Lake and trees, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14096</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Bevis(a dog), Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14097</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Bevis waiting for sugar, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14098</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Children on horseback, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14099</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Donkeys, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14100</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Johnny Adam's cabin, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14101</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Mr. and Mrs. Lamborne, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14102</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Mr. Lester, proprietor of the Rustic Hotel, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14103</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Johnny Adams, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14104</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Fishing in Big Thompson Canyon, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14105</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Canyon of the Big Thompson, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14106</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Narrow defile[?], Big Thompson Canyon, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14107</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Fisherman in the canyon of the Big Thompson, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14108</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Fishing in the Big Thompson, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14109</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Road and river,canyon of the Big Thompson, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14110</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Trout fishing in Big Thompson, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14111</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Flower, potentilla?, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14112</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Blue bell flower, clematis douglasii, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14113</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Flowers, erigeron (probably) poliospermum, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14115</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Iris, missouriensis, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1176" type="box">1176</container>
+						<materialspec label="index">14116</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 4 -->
+
+			<!-- Box 5 -->
+
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1177</note>
+				<did>
+					<unitid>2.1.1.1.4</unitid>
+					<unittitle>Colorado</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Flowers, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14117</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Flowers, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14118</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Yellow flower, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14119</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Range of mountains, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14120</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Entrance to Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14121</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Long's Peak, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14123</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Road to Mr. Mills, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14124</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Road to Long's Peak Inn, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14125</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Deer Mountain Drive, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14126</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Road on Deer Mountain Drive, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14127</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Lyon's Canyon Road, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14128</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>School house, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14129</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Balanced rock, Estes Park</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14130</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Denver at night, showing electric building</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14049</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Denver at night, showing auditorium</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14050</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Denver at night, looking up the 16th Street</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14051</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Denver at night</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14052</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Denver at night</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14053</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Main Street, Fort Collins</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14054</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Bank Interior, Fort Collins</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14055</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Lover's lane, Fort Collins</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14056</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Residence, Fort Collins</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14058</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Y.M.C.A., Fort Collins</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14059</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Interior of Y.M.C.A., Fort Collins</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14060</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Business section of town, Fort Collins</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14061</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Street, Fort Collins</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14062</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Agriculture college, Fort Collins</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1177" type="box">1177</container>
+						<materialspec label="index">14063</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<!-- End 2 -->
+
+			</c01>
+			<!-- End 5 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

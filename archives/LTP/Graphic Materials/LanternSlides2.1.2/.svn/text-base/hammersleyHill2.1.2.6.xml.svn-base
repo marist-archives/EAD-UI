@@ -1,0 +1,2073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Hammersley Hill, New York</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.6</unitid>
+		<unittitle>Hammersley Hill, New York</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+	<!-- Box 1426 -->
+<c01>
+<note>Box 1426</note>
+<did>
+<unitid>2.1.2.6</unitid>
+<unittitle>Hammersley Hill, New York</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Hammersley Hill Estate	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Hammersley Hill Estate	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Hammersley Hill Estate	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Hammersley Hill Estate	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Hammersley Hill Estate	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Hammersley Hill Estate	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Hammersley Hill Estate	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Hammersley Hill Estate	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Hammersley Hill Estate	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Hammersley Hill Estate	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Hammersley Hill Estate	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Hammersley Hill Estate, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Hammersley Hill Estate, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Hammersley Hill Estate, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Hammersley Hill Estate, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Hammersley Hill Estate, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Hammersley Hill Estate, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Hammersley Hill Estate, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Hammersley Hill Estate, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 38	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 39	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1426 -->
+<!-- Box 1427 -->
+<c01>
+<note>Box 1427</note>
+<did>
+<unitid>2.1.2.6</unitid>
+<unittitle>Hammersley Hill, New York</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Interior rooms	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Panorama, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Panorama, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Panorama, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Panorama, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Panorama, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Panorama, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Panorama, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Panorama, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Panorama, snow covered ground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Panorama, woman on horseback in foreground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Lake	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Lake	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Lake	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Lake	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Lake	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1427" type="box">1427</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1427 -->
+<!-- Box 1428 -->
+<c01>
+<note>Box 1428</note>
+<did>
+<unitid>2.1.2.6</unitid>
+<unittitle>Hammersley Hill, New York</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Lake	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Lake	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Lake	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Lake	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Lake, musicians playing on pier	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Lake, musicians playing on pier	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Lake, musicians playing on pier	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Lake, pier	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Lake, men in canoe, close-up	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Lake, people on horseback	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Lake, woman on horseback	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Lake, frozen	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Lake, frozen	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Lake, frozen	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Lake, frozen	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Lake, frozen	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Baseball, men’s team	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Baseball, Saints and Sinners men’s team, Lowell Thomas at center	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Baseball, women players and spectators	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Baseball, women players and spectators	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Baseball, New Rochelle boys team	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Baseball, boys team	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Musicians	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Lowell Thomas, Jr. in cadet uniform	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Lowell Thomas at lakeside, two young men beside him	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Lowell Thomas and President Herbert Hoover	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>President Herbert Hoover and others standing on steps	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Group of men and women, President Herbert Hoover at center	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>President Herbert Hoover and wife[?]	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>President Franklin Delano Roosevelt seated in automobile speaking to unidentified man	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>President Franklin Delano Roosevelt seated in automobile speaking to unidentified man	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>President Franklin Delano Roosevelt seated in automobile, musicians in foreground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>President Franklin Delano Roosevelt in automobile, Lowell Thomas in swimming trunks stands beside car, musicians in foreground	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>President Franklin Delano Roosevelt seated in automobile talking to Lowell Thomas	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>President Franklin Delano Roosevelt seated in automobile talking to Lowell Thomas	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>President Franklin Delano Roosevelt seated in automobile talking to Lowell Thomas	
+</unittitle>
+<unitdate label="Date">circa 1933-1939	
+</unitdate>
+<container id="1428" type="box">1428</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1428 -->
+<!-- Box 1429 -->
+<c01>
+<note>Box 1429</note>
+<did>
+<unitid>2.1.2.6</unitid>
+<unittitle>Hammersley Hill, New York</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>President Franklin Delano Roosevelt seated in automobile</unittitle>
+<unitdate label="Date">circa 1933-1939</unitdate>
+<container id="1429" type="box">1429</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1429 -->
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Miscellany</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.4.21.3</unitid>
+		<unittitle>Miscellany</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		<!-- Box 1392 -->
+<c01>
+<note>Box 1392</note>
+<did>
+<unitid>2.1.2.4.21.3</unitid>
+<unittitle>Miscellany</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>The Old Pentateuch Roll	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1392" type="box">1392</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Railroad station 	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1392" type="box">1392</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Large outdoor gathering of people 	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1392" type="box">1392</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Building façade	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1392" type="box">1392</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Building facade	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1392" type="box">1392</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Ornate interior of building	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1392" type="box">1392</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Fern	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1392" type="box">1392</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 38	
+</unitid>
+<unittitle>Tree-lined staircase	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1392" type="box">1392</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1392 -->
+<!-- Box 1393 -->
+<c01>
+<note>Box 1393</note>
+<did>
+<unitid>2.1.2.4.21.3</unitid>
+<unittitle>Miscellany</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Man on tree-lined road	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1393" type="box">1393</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Waterfall	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1393" type="box">1393</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Landscape	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1393" type="box">1393</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Landscape	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1393" type="box">1393</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Axeustsane, Leyern	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1393" type="box">1393</container>
+<materialspec label="index">23575	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Place of worship[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1393" type="box">1393</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Landscape	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1393" type="box">1393</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Landscape painting	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1393" type="box">1393</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Statue	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1393" type="box">1393</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Row of buildings with arched facades	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1393" type="box">1393</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Family portrait	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1393" type="box">1393</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1393 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

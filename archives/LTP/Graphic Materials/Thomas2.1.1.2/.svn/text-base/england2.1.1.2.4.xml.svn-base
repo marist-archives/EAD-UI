@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>England</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.1.2.4</unitid>
+		<unittitle>England</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+	<!-- Box 1322 -->
+<c01>
+<note>Box 1322</note>
+<did>
+<unitid>2.1.1.2.4</unitid>
+<unittitle>England</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>9</unitid>
+<unittitle>Girl driving Australian soldiers, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>10</unitid>
+<unittitle>Australian soldier with arm around girl, sitting on Balustrade, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>11</unitid>
+<unittitle>Girl with arm around Australian soldier, American soldier in one corner, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>12</unitid>
+<unittitle>Australian soldier holding child, sitting on bench, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>13</unitid>
+<unittitle>Canadian soldier with arm around girl, surrounded by children, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>14</unitid>
+<unittitle>Soldiers and women sitting on Balustrade, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>15</unitid>
+<unittitle>Soldiers sitting on Balustrade, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>16</unitid>
+<unittitle>Soldiers sitting on Balustrade, others standing Trafalgar Square, London 	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>17</unitid>
+<unittitle>Sailors and girls sitting on bench, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>18</unitid>
+<unittitle>Women standing in front of a statue of a lion near Nelson’s Column, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>19</unitid>
+<unittitle>Two women standing in front of a statue of a lion near Nelson’s Column, Trafalgar Square, London 	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>20</unitid>
+<unittitle>Two women, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>21</unitid>
+<unittitle>Two women and a soldier sitting on a bench, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>22</unitid>
+<unittitle>Woman standing by statue, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>23</unitid>
+<unittitle>Poster for the women’s land army at the base of Nelson’s Column, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>24</unitid>
+<unittitle>Poster for women’s land army at base of Nelson’s Column, drummers in foreground, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>25</unitid>
+<unittitle>Women standing in rows	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>26</unitid>
+<unittitle>Crowds watching women march down street	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>27</unitid>
+<unittitle>Two land army girls, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>28</unitid>
+<unittitle>American soldier (“Doughboy””) talking to land army girls, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>29</unitid>
+<unittitle>Four wagons filled with soldiers	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>30</unitid>
+<unittitle>Wagons filled with soldiers	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>31</unitid>
+<unittitle>Soldier standing in front of wagon	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>32</unitid>
+<unittitle>Demonstration for State Aid for the Blind, Nelson’s Column, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>33</unitid>
+<unittitle>Demonstration for State Aid for the Blind, three soldiers and woman and foreground, Nelson’s Column, Trafalgar Square, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>34</unitid>
+<unittitle>Four girls standing in front of a white craft airplane model, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>35</unitid>
+<unittitle>American soldier and London horse Guard	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>36</unitid>
+<unittitle>American soldier, sailor and London horse Guard	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>37</unitid>
+<unittitle>Three soldiers and woman, with dog, in front of tents, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>38</unitid>
+<unittitle>British soldiers sewing socks, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>39</unitid>
+<unittitle>Soldiers leaving a Y.M.C.A	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>40</unitid>
+<unittitle>Group of soldiers and sailors, American Y.M.C.A in background, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>41</unitid>
+<unittitle>Street scene, poster for American Y.M.C.A. in foreground	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>42</unitid>
+<unittitle>Street scene, Canadian Y.M.C.A., Hotel Cecil in background, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>43</unitid>
+<unittitle>Street scene, double-decker buses, Morley’s Hotel, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>44</unitid>
+<unittitle>Street scene, double-decker bus, Morley’s Hotel, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>45</unitid>
+<unittitle>Charing Cross Hotel	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>46</unitid>
+<unittitle>Two men on horses, Victorian Hotel in background	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>47</unitid>
+<unittitle>Whitehead and his two children in garden, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>48</unitid>
+<unittitle>Whitehead’s home, house and lawn	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>49</unitid>
+<unittitle>Whitehead’s home, lawn and waterfront, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>50</unitid>
+<unittitle>Whitehead’s home, lawn, two people in distance, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>51</unitid>
+<unittitle>Washington Inn, soldier on bench in foreground, statue in distance, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>52</unitid>
+<unittitle>Washington Inn, soldiers in foreground, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>53</unitid>
+<unittitle>Balloon automobile in front of the Oceanic House, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>54</unitid>
+<unittitle>Westminster Abbey, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>55</unitid>
+<unittitle>Westminster Hospital, Big Ben in distance, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>56</unitid>
+<unittitle>Wellington Arch, soldier in foreground, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>57</unitid>
+<unittitle>Large statue with lions at base	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>58</unitid>
+<unittitle>Woman standing by lamppost, buildings in distance, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>59</unitid>
+<unittitle>Two men standing near ornate fence, large building in distance, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>60</unitid>
+<unittitle>Crowd of people in park	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>61</unitid>
+<unittitle>Four military men talking next to man holding advertisement for baseball game	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>62</unitid>
+<unittitle>Three military men walking away from building	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>63</unitid>
+<unittitle>Two military men talking next to Sphinx replica, London	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>64</unitid>
+<unittitle>Two women wearing “Royal Flying Corps” uniforms on motorcycle and sidecar	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>65</unitid>
+<unittitle>Three people sitting on bench in front of fountain	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1322 -->
+<!-- Box 1323 -->
+<c01>
+<note>Box 1323</note>
+<did>
+<unitid>2.1.1.2.4</unitid>
+<unittitle>England</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Crowd of people, in park, gathered around flagpole	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Crowd of people in park	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>3</unitid>
+<unittitle>Chelsea Football Club, spectators watching game	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>4</unitid>
+<unittitle>Chelsea Football Club, cricket match	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>5</unitid>
+<unittitle>Chelsea Football Club, cricket match	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>6</unitid>
+<unittitle>Crowd sitting near the church army, Lord Kitchener Hut	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>7</unitid>
+<unittitle>Crowd near the church army , Lord Kitchener Hut	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>8</unitid>
+<unittitle>Couple sitting in field, crowd in background	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>9</unitid>
+<unittitle>Canadian soldier, woman and child sitting in field, crowd in background	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>10</unitid>
+<unittitle>Little boy, saluting, wearing H.M.S. diadem hat	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>11</unitid>
+<unittitle>Little girl wearing hat from the H.M.S. Queen Mary	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>12</unitid>
+<unittitle>English submarine	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>13</unitid>
+<unittitle>English submarine	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>14</unitid>
+<unittitle>Man with binoculars	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>15</unitid>
+<unittitle>English submarine, man using binoculars	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>16</unitid>
+<unittitle>Officer of an English submarine	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.25x4.25	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>17</unitid>
+<unittitle>Officers of English submarines	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.25x4.25	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>18</unitid>
+<unittitle>Crew and officers, English submarine	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>19</unitid>
+<unittitle>Person wearing long coat, British Submarine	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1323 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

@@ -1,0 +1,4641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Burma</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.1.6</unitid>
+		<unittitle>Burma</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+<!-- Box 1350 -->
+<c01>
+<note>Box 1350</note>
+<did>
+<unitid>2.1.2.1.6</unitid>
+<unittitle>Burma</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Shwedagon Pagoda, sun looking like round ball	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-401	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Shwedagon Pagoda, sun looking like round ball	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-401	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Shwedagon Pagoda from lake, two people in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-402	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Shwedagon Pagoda, three palm trees foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-404	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Shwedagon Pagoda, pool and one palm	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-405	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>White Dragon on road to Shwedagon Pagoda	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-406	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Gateway to Shwedagon Pagoda	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-407	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Entrance to Shwedagon Pagoda, front view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-408	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Group of small pagodas at base of Shwedagon Pagoda, water carriers in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-409	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Group of small pagodas at base of Shwedagon Pagoda, water carriers in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-409	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Group of small pagodas at base of Shwedagon Pagoda, water carrier with umbrella	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-410	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Group of small pagodas at base of Shwedagon Pagoda, water carrier with umbrella	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-410	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Group of small pagodas at base of Shwedagon Pagoda, corner of carved pagoda on left	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-411	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Pagoda containing enormous Buddha, distant view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-412	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Pagoda containing enormous Buddha, distant view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-412	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Girl praying before three Buddhas	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-414	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Marble Buddha in gold frame beside window	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-415	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Pagoda built around tree with two Buddhas	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-417	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Priest, begging bowl, servant holding fan	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-418	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Boat club and lake	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-421	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>A Rangoon bungalow, clothes hanging from verandah	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-423	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Old beggar woman with cane and bundle on her head	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-427	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Elephant having a bath, many elephants in background	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-434	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Elephant having a bath, many elephants in background	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-434	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Burmese boy with finger to his chin	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-438	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Shwedagon Pagoda, cloud back of dome, procession	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-446	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Shwedagon Pagoda, cloud back of dome, no procession	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-447	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Wingaba Reclining Buddha, distant	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-448	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Wingaba Recling Buddha, side view, close-up	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">7-449	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1350 -->
+<!-- Box 1351 -->
+<c01>
+<note>Box 1351</note>
+<did>
+<unitid>2.1.2.1.6</unitid>
+<unittitle>Burma</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Wingaba Reclining Buddha, head and shoulders, close-up	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-450	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Spires of Pungychaung at Wingaba	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-451	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Chinese Palace as seen  through gateway	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-452	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Chinese Palace from lake	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-453	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Chinese Palace, close-up	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-454	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Honorable F. Lewisohn, Chief Secretary of Burma	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-455	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Government building (Secretariat), Rangoon	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-457	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Major Foran, sketch	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-459	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Kipling Pagoda, Moulmein, distant view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-461	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Kipling Pagoda, Moulmein, close-up, top of tree cut off 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-463	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Kipling Pagoda, Moulmein, close-up, with palm tree in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-465	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Prime Shwesandaw Pagoda entrance	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-467	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Shwesandaw temples on platform, priest in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-469	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Shwesandaw Pagoda platform, people worshipping	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-470	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Shwesandaw temples on  platform, palm trees on side	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-471	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Dome of Shwesandaw Pagoda	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-472	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Sand cliff and pagoda from river	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-473	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Yenangyaung from river, pagodas, distance	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-474	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Yenangyaung, waterfront, close-up, pagodas on hill in distance	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-475	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Yenangyaung American Club	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-476	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Yenangyaung, sign on post in English and Burmese reads “Send horses to the barn”	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-478	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Yenangyaung, sign on post in English and Burmese reads “Send horses to the barn”	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-478	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Oil derricks, pagodas and Pungychaung in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-483	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Close-up of many oil derricks, no one in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-487	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Two derricks on hill near Pagan at Yenangyat	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-488	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Poungyis (priests) and bells 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-496	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>One poungyi (priest) and bells, close-up 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-498	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Pagan, Thatbyinnyu Pagoda 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-499	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Mahabodhi Temple, Pagan	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-500	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Fat woman and baby	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-501	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Gawdawpalin Temple, Pagan	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-502	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Panorama from Gawdawpalin Temple looking toward Mahabodhi Temple	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-503	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Panorama from Gawdawpalin Temple looking toward Thatbyinnyu Pagoda	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-504	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Panorama from Gawdawpalin Temple looking toward river	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-505	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Panorama from Gawdawpalin Temple looking across river, poungyi (priest) on left	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-506	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Thatbyinnyu Temple	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1351" type="box">1351</container>
+<materialspec label="index">7-507	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1351 -->
+<!-- Box 1352 -->
+<c01>
+<note>Box 1352</note>
+<did>
+<unitid>2.1.2.1.6</unitid>
+<unittitle>Burma</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Large temple falling into ruins, two people in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-508	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Ananda Temple, tree, man beating mat in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-510	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Ananda Temple, palm tree in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-513	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Buddha, Ganugan 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-514	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Buddha’s footprints and old man with rosary	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-515	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Pagodas at Nyaung U from river	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-518	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Nyaung U, white pagoda, man with water jars on head	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-520	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Shwezigon Pagoda, two poungyis (priests) in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-521	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Shwezigon Pagoda, goats in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-522	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Two statues of Buddha, one standing, one squatting	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-525	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Lowell Thomas and Mrs. Frances Ryan Thomas, in distance, visit Doctor Judson’s grave	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-531	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Teak raft, distant	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-532	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Two boats with one sail, front view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-534	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Stern of carved boat	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-536	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Close-up of stern of carved boat	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-537	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Pagoda on cliff with carved boat on river below	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-538	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Golden pagoda at Magwe on riverbank, Kendall with back turned in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-539	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Giant leographs before pagoda at Kama in distance	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-541	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Mandalay, close-up of Mandalay Hill with Kyauk Taw Gyi Pagoda in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-542	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Huge marble Buddha in Kyauk Taw Gyi Pagoda	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-543	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Family and bullock cart in front of curious Acacia tree	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-544	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Mandalay Hill at night	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-546	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Kuthodaw Pagoda with lights at night, moon in background	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-547	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Small white pagoda with lights at night	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-548	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Festival under palm trees at foot of Mandalay Hill	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-549	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Panorama of Mandalay from hill	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-550	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Panorama of Irrawaddy from hill	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-551	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Panorama of Kuthodaw Pagodas	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-552	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Panorama of Kuthodaw Pagodas, nearer view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-554	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Panorama of Atumashi Pagodas	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-556	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Close-up of Atumashi Pagoda, person with umbrella in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-557	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Mandalay Hill and East side of moat	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-560	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Mandalay Hill and East side of moat, distant view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-561	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>South side of moat	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-562	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>West side of moat	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-563	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>East gate	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1352" type="box">1352</container>
+<materialspec label="index">7-566	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1352 -->
+<!-- Box 1353 -->
+<c01>
+<note>Box 1353</note>
+<did>
+<unitid>2.1.2.1.6</unitid>
+<unittitle>Burma</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>South gate	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-567	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>South gate with water lilies	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-568	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>South gate, coolie with petrol tins in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-569	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>West gate	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-570	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Nan Oo Pagoda	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-571	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Royal Palace from the East	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-572	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Royal Palace from the East with troops in the foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-573	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Three tombs, branches above	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-575	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Thebaw Kyaung with wife of Ou Chit Pwe dancing, Lowell Thomas with pith helmet, umbrella and cane	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-577	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Thebaw Kyaung with wife of Ou Chit Pwe dancing	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Wife of Ou Chit Pwe smoking a cheroot, holding a fan and parasol 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-583	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Cupid looking up	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-595	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Street scene, clock tower in distance	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-600	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Princess with her mother, servant kneeling 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-604	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Princess and mother, close-up 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-605	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Queen’s monastery, branches on left	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-607	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Arakan Pagoda, entrance	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-608	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Arakan Pagoda, three men in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-609	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Arakan Pagoda from housetop	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-611	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Arakan Pagoda from turtle pool 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-612	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Princess and kneeling servant	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-613	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Princess with cheroot, close-up	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-614	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Temple containing Mingun Bell	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-616	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Sagaing Festival, woman holding small boy with cap	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-618	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Sagaing Festival, woman with cheroot in mouth and child holding a plate	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-619	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Sagaing, three children wearing wreaths	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-622	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Entire Gokteik bridge, train in foreground 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-628	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Mountain and low clouds in foreground 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-631	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Two rafts of jars, distant view 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-645	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>River, fishing net, and pagoda 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-651	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Woman wearing Shan hat, full figure, rear view 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-653	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Flood, houses half inundated, close-up 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-655	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Bhamo, mule caravan on Main Street 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-659	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Bhamo Pagoda and Lotus Pond  	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-660	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Poungyi (priest) teaching class 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-667	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Kachins and Chins in “Walking out kit” with their officers 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1353" type="box">1353</container>
+<materialspec label="index">7-670	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1353 -->
+<!-- Box 1354 -->
+<c01>
+<note>Box 1354</note>
+<did>
+<unitid>2.1.2.1.6</unitid>
+<unittitle>Burma</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Kachin troops and women making merry 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-672	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Kachin men and women facing camera 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-673	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Group of men and women, many with backs turned to camera 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-674	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Kachin long house in hills 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-675	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Kachin wearing Shan hat, hands on sword 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-676	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Two Kachin Dah fighters posing 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-677	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Kachin man with big hat, sword and bag 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-678	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Kachin with broad sword in hand 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-683	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Kachin place of sacrifice, close-up, man standing by tree	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-686	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Kachin woman, hand on tree	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-689	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Kachin boy laughing, hand on hip, and hat hanging over one shoulder 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-695	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Four Kachin men	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-696	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Kachin woman buying bamboo hoops	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-697	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Two Kachin couples in love	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-698	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Kachin Woman holding partially woven bag 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-702	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Famous Dah fighter, close-up 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-704	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Portrait of smooth shaven Kachin in Shan hat 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-707	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Kachin woman holding woven skirt in hands 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-708	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Kachin woman holding two bags 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-709	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Unmarried girl, short hair pompadour 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-710	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Unmarried girl, short hair hanging down over forehead 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-711	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Unmarried Kachin girl with silver hoops around neck 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-712	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Kachin woman wearing silver hoops around neck with hand on hoops 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-714	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Kachin woman with basket on back with curved stick extending out of it 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-715	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Kachin woman with sleeping baby on back, full length 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-716	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Chin chief’s wife, close-up 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-720	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Chin woman smoking pipe, front view 	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-722	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Chin woman, hand on hip	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-728	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Chin woman with face blackened to ears, side view	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-729	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Sawbwa of Yanghhe and Lowell Thomas standing	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-731	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Sawbwa and Mr. Brown	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-732	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Mr. Brown and two children	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-733	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Sawbwa squatting	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-734	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Sawbwa and family	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-736	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Sawbwa number two with Lowell Thomas	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-737	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Yaungwhe Pagoda with our party in foreground, Lowell Thomas in center	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-738	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Yaungwhe Pagoda from bazaar	
+</unittitle>
+<unitdate label="Date"></unitdate>
+<container id="1354" type="box">1354</container>
+<materialspec label="index">7-739	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1354 -->
+<!-- Box 1355 -->
+<c01>
+<note>Box 1355</note>
+<did>
+<unitid>2.1.2.1.6</unitid>
+<unittitle>Burma</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Bazaar, women squatting beside baskets in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-742	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Canal full of boats, mountains in distance	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-744	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Gilded cage in which Buddhas were carried	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-745	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Shan woman selling silver bowl to a Taunghhu Hill man	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-748	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Shan in big hat, eating candy	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-749	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Tribesman looking into bazaar shop, with old man on left looking at camera	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-750	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Woman kneeling before poungyis (priests)	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-753	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Hill man with white turban hanging down on left shoulder	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-755	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Taungthu woman with goiter	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-756	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Three shy little Taungthu women in a row	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-758	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Three Taungyo women 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-759	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>A Taungyo woman, hands on closed parasol	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-760	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Smiling woman with very large lacquer jar on head	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-762	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Women and men carrying presents to pagoda	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-763	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Woman with offering on head, little boy looking down	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-764	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Three women, presents on head	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-766	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Three men, two with presents and one with parasol	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-767	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Old man wearing a white turban, a white vest and black suit, with white hair	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-769B	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Two Taungthu girls with bath towels for turbans  	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-771	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Taungyo woman meditating 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-773	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Taungthu woman, baby on back wearing European man’s hat  	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-774	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Three Taungyo women, backs turned 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-779	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Taungthu family, mother holding baby, father, daughter 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-788	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Full length view of Taungthu woman with betel nuts in hand	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-791	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Full length view of Taungthu woman with betel nuts in hand [cropped photograph]	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-791	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Old Taungthu woman grinning with parasol, close-up 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-792	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Man in big hat carrying basket, other man holding parasol 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-794	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Taungthu woman smoking, hand out, basket on back 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-796	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Three girls in bullock cart 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-798	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Girl and man squatting throwing away presents in jar 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-800	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Four children smoking 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-802	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Boat manned by many leg rowers, mountains in distance, silhouette 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-804	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Harry Chase on barge with motion picture camera, Mrs. Frances Ryan Thomas seated 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-807	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Barge in canoe bringing images to lake 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-809	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Big barge coming to meet small barge 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-811	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Big barge coming to meet small barge, nearer view 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-812	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Big barge alone, mountains in background 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1355" type="box">1355</container>
+<materialspec label="index">7-815	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1355 -->
+<!-- Box 1356 -->
+<c01>
+<note>Box 1356</note>
+<did>
+<unitid>2.1.2.1.6</unitid>
+<unittitle>Burma</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Leg rowers pulling barge in canal, mountains in background (Graphlex)	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-816	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Defile, sunset, sun glittering on ship’s wake 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-819	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Head poungyi [priest] carrying bowl, Queen’s monastery 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-837	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Nun holding cheroot near face 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-839	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Pagoda, crowd on wall, river and small boats in foreground 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-842	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Girl lighting cheroot in front of cart wheel	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-853	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Young nun holding baby	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-855	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Woman with cheroot and Shan hat talking to woman with basket on head about price of earthen jars	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-857	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Woman with Shan hat, close-up, three quarter length	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-859	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Buddha in cliff below Prome 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-864	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Dr. and Mrs. Hanson	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-869	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Dr. Hanson	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-870	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Colonel Wedgewood sitting in a chair, posed	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">7-876	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14 	
+</unitid>
+<unittitle>Outdoor wooded scene	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1356" type="box">1356</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1356 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

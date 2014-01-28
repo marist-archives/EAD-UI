@@ -1,0 +1,1457 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/poland2.1.1.1.23.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Poland</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.23</unitid>
+			<unittitle>Poland</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1237 -->
+			<c01>
+				<note>Box 1237</note>
+				<did>
+					<unitid>2.1.1.1.23</unitid>
+					<unittitle>Poland</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Polish man and boy, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2427</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Child crying, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2428</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Exterior of shop, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2429</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Two children, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2430</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Man and woman, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2431</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Funeral, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2432</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Jewish people on the street, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2433</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>People in street, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2434</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Polish people in street, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2435</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Old Jewish man, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2436</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Street scene, people, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2437</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Sleeping cab driver, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2438</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Man carrying load, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2439</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Woman and child, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2440</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Group of Jewish people, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2441</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Jewish man, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2442</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>A wagon load, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2443</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Church of the Holy Cross where Chopin’s heart is buried, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2444</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Frank R. Roberson at the Statue of Sobieski, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2445</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Greek cathedral, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2446</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Saint Florian Church, Praga, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2447</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Path in Lazienki Park, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2448</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Greek church and park, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2449</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Flower boxes, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2450</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Church of the Holy Cross where Chopin’s heart is buried, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2451</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Lazienki Palace from distance, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2452</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Saint Florian Church and Praga from Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1237" type="box">1237</container>
+						<materialspec label="index">2453</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1237 -->
+			<!-- Box 1238 -->
+			<c01>
+				<note>Box 1238</note>
+				<did>
+					<unitid>2.1.1.1.23</unitid>
+					<unittitle>Poland</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>University, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2454</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>University, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2455</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Church of Alexander, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2456</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Fine store, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2457</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>City hall and police office, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2458</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Roses, Lazienki Park, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2459</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Church of the Virgin Mary, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2460</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Chief Russian Greek church for military in Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2461</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Market square, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2462</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Fountain in market square, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2463</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>On the Warsaw side of the Vistula</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2464</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>The bridge across the Vistula, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2465</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Russian engine at Villanov, near Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2466</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Mickiewiczowi statue, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2467</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Corner of Marszalkowska and Bagatela streets, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2468</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Business street, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2469</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Street in Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2470</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Street scene, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2471</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Jewish quarter, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2472</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Street in Jewish quarter, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2473</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Flower boxes on residence, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2474</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>In the Jewish quarter, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2475</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Lazienki Park, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2476</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Saxon Garden, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2477</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Sigismund II column, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2478</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Toward Sigismund Square from Bristol Hotel, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2479</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Home of General Scallon, Lazienki Park, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2480</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>New apartments, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2481</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Copernicus monument, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2482</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Residence of attorney, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2483</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Fine residence, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2484</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Flower beds, Saxon Gardens, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2485</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Private house, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2486</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Street in Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2487</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Church in which Sobieski’s heart is buried, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2488</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Entrance to Lazienki Park, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2489</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Lazienki Palace, home of Stanislas Augustus Poniatowski, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2490</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Main boulevard in Warsaw, Hotel Bristol in distance on right, owned by Paderviski</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2491</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Main Jewish business street in Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2492</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>General Sobieski’s monument at Lazienki Park, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2493</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Polytechnique, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2494</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Synagogue in Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2495</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Grand opera house, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2496</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Palace Villanov, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2497</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Chief Russian Greek church, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2498</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Art museum, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2499</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Park in palace grounds at Villanov, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2500</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Tree avenue at Villanov, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2501</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Family tomb of Villanov noble family, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1238" type="box">1238</container>
+						<materialspec label="index">2502</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1238 -->
+			<!-- Box 1239 -->
+			<c01>
+				<note>Box 1239</note>
+				<did>
+					<unitid>2.1.1.1.23</unitid>
+					<unittitle>Poland</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Church at Villanov, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2503</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Mr. Horodinsky at Villanov, Warsaw</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">2504</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Henryk Sienkiewicz, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">27X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Raoul Koczalski, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">30X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Starzec, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index">37X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Lubelskie, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Pow Sieradzki, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Huculka, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Hucul, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Pow Zamoyski, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Morskie Oko, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Czarny staw pod Koscielcem, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Widok z Koziego Wierchu, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Staw Smereczynski, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Wodospad Mickiewicza, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Siklawa, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Wysoka, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Turnia Popradzka, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Siklawica w Strazyskach, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Skala sowy w dol Koscieliskiej, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Kominy w Strazyskach, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Dolina Bialego, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1239" type="box">1239</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1239 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Travelogue lecture photographs</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.11.1</unitid>
+		<unittitle>Travelogue lecture photographs</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+	<!-- Box 1442 -->
+<c01>
+<note>Box 1442</note>
+<did>
+<unitid>2.1.2.11.1</unitid>
+<unittitle>Travelogue lecture photographs</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>“Erik and Bunny are gonna get married!” (start show)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Camel caravan (start show)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Jasmine Tower with Taj Mahal in the distance (start show)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">8-204	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Taj Mahal (start show)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Members of World Flight crew pushing the New Orleans airplane (start show)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Sail powered land vehicle (start show)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>View of mountain from airplane (aerial view) (start show)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Man in rear seat on airplane (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Member of World Flight crew, posing for photograph (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Two members of World Flight crew in front of plane, one man holding raccoon (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Asian woman holding baby (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Grandmother (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">6-759	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Two members of World Flight crew holding monkeys wearing pilot uniforms (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Three planes flying over golden temple (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Three planes flying over ship (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Fat Chinese shopkeeper (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">6-781	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Two boats with one sail, side view (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1442" type="box">1442</container>
+<materialspec label="index">7-535	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1442 -->
+<!-- Box 1443 -->
+<c01>
+<note>Box 1443</note>
+<did>
+<unitid>2.1.2.11.1</unitid>
+<unittitle>Travelogue lecture photographs</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Small junk with pointed sail and sampan under sail following behind (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">6-701	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>River in Malacca, one sail boat, one row boat (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">6-866	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Seaplane on water, sunset (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Large white temple, Burma (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Man standing on sidewalk near temple (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Chinese temple with garden in Penang (between reels 1 and 2)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">6-832	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Seaplane on water, snow covered hills in background (between reels 2 and 3)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Seaplane on water, snow covered hills and building in background	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>View of town and water from airplane (aerial view) (between reels 2 and 3)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Four planes flying over railroad tracks beside water, mountains in distance (between reels 2 and 3)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Seaplane docked at port with boats (between reels 2 and 3)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>View of sunset over mountains from airplane (aerial view) (between reels 2 and 3)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>View of mountains in distance from airplane (aerial view) (between reels 2 and 3)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Rock path leading to buildings at base of mountain (between reels 2 and 3)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>View of unidentified city from airplane (aerial view) (between reels 3 and 4)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>View of Arc de Triomphe from airplane (aerial view), Paris, France (between reels 3 and 4)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>View of Notre Dame Cathedral from airplane (aerial view), Paris, France (between reels 3 and 4)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>View of unidentified city from airplane (aerial view) (between reels 3 and 4)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Six members of World Flight crew standing with man in civilian clothes (between reels 3 and 4)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>German[?] cartoon (between reels 3 and 4) 	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Many men with cameras (between reels 4 and 5)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Three biplanes in flight (between reels 5 and 6)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>View of Washington Monument, Reflection Pool and Lincoln Memorial from airplane (aerial view), Washington, D. C. (between reels 5 and 6)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Many planes flying over New York City, New York[?]	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Lowell Thomas in front of airplane with members of World Flight crew, posing for photograph (between reels 5 and 6)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>View of Capitol Building from airplane (aerial view), Washington, D. C. (between reels 5 and 6)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Fat Chinese shopkeeper (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">6-781	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Seaplane on water, iceberg in background (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Men, women, and children in three row boats (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Two seaplanes, ship on water, icebergs in background (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Men in kayaks beside iceberg (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Two children on mound of snow (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>World Flight crew member with children on lap (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>World Flight crew member surrounded by children (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Marble Buddha in gold frame beside window (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">7-415	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Canoe on kayak (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1443" type="box">1443</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1443 -->
+<!-- Box 1444 -->
+<c01>
+<note>Box 1444</note>
+<did>
+<unitid>2.1.2.11.1</unitid>
+<unittitle>Travelogue lecture photographs</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Man in kayak (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1444" type="box">1444</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Upside-down kayak (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1444" type="box">1444</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Man in kayak as it rolls over (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1444" type="box">1444</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>View of sunset over water from airplane (aerial view) (between reels 6 and 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1444" type="box">1444</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Clouds and sky, photograph taken from airplane (at end of reel 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1444" type="box">1444</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>View of sunset over mountains from airplane (aerial view) (at end of reel 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1444" type="box">1444</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Man with camera looking at grounded airplane (at end of reel 7)	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1444" type="box">1444</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Man laying in bunk bed, looking at camera	
+</unittitle>
+<unitdate label="Date">circa 1924	
+</unitdate>
+<container id="1444" type="box">1444</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1444 -->
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

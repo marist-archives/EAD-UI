@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.3.xsl"?><!-- styelsheet for Over-sized 2.3.1 -->
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>The Thomas and Ryan families</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.3.3.1</unitid>
+		<unittitle>The Thomas and Ryan families</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	<arrangement><p></p></arrangement>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		 <!-- Start the new box from component no. 1 -->
+		 <!-- Items within the box in component no. 2 -->
+<!-- Box 1621 -->
+<c01>
+<note>Box 1621</note>
+<did>
+<unitid>2.3.3.1</unitid>
+<unittitle>The Thomas and Ryan families</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1-2	
+</unitid>
+<unittitle>Unframed, round photograph mounted on metal of a small girl with bows in her hair	
+</unittitle>
+<unitdate label="Date">late 1800s - early 1900s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">6 x 6	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Unframed, round photograph mounted on metal of a young child	
+</unittitle>
+<unitdate label="Date">late 1800s - early 1900s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">6 x 6	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Unframed, round photograph mounted on metal of a middle aged woman	
+</unittitle>
+<unitdate label="Date">late 1800s - early 1900s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">6 x 6	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Posed photograph of a young girl 	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">9½  x 13½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Andrew Calvin McCorkle [Frances Ryan Thomas’s grandfather]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Emeline McCorkle [Frances Ryan Thomas’s grandmother] [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Mary Eunice McCorkle Ryan [Frances Ryan Thomas’s mother] [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Norman Ryan [Frances Ryan Thomas’s brother] [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 16	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Harry G. Thomas, Harriet Wagner Thomas and Lowell Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1894	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11½ x 14	
+</extent>
+<physfacet type="color">sepia	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11-12	
+</unitid>
+<unittitle>Harriet Wagner Thomas and Lowell Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">1897	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14½	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Family photograph; Harriet Wagner Thomas and Harry G. Thomas at left, Lowell Thomas standing third from right	
+</unittitle>
+<unitdate label="Date">1907 - 1908	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">10 x 12	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Family photograph; Harriet Wagner Thomas and Harry G. Thomas at left, Lowell Thomas standing third from right; verso: Wagner reunion in Darke County, Ohio, near Greenville in 1908. At home of L.T.’s mother’s oldest sister, Mrs. Sanford Vantilborg [duplicate of item 13]	
+</unittitle>
+<unitdate label="Date">1907 - 1908	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Family photograph; Harriet Wagner Thomas and Harry G. Thomas at left, Lowell Thomas standing third from right; verso: summer 1907, age 15, mother’s family, Greenville, Ohio [duplicate of item 13]	
+</unittitle>
+<unitdate label="Date">1907 - 1908	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16-17	
+</unitid>
+<unittitle>Harry G. Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">1901 - 1902	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11½ x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18-19	
+</unitid>
+<unittitle>Harry G. Thomas; caption: On top of Pikes Peak All 14147 ft. Sunday July 20, 1902 [photograph]	
+</unittitle>
+<unitdate label="Date">1902	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20-21	
+</unitid>
+<unittitle>Harry G. Thomas in his medical office in Victor, Colorado; verso: Dr. H. G. Thomas - 1914 shortly before he left Victor for World War I [photograph]	
+</unittitle>
+<unitdate label="Date">1914	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Harry G. Thomas posed photograph	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">8 x 10	
+</extent>
+<physfacet type="color">hand-colored	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23-24	
+</unitid>
+<unittitle>Lowell Thomas and his sister Pherbia Thomas [Thornburg]; verso: in 1911 - After a short period in mines [Lowell Thomas] becomes editor of Victor Daily Record, and in 1912 editor of new paper, Victor Daily News [photograph]	
+</unittitle>
+<unitdate label="Date">1911	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Frances Ryan Thomas and Lowell Thomas, Jr. on horseback [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">10 x 12	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Frances Ryan Thomas and Lowell Thomas, Jr. holding snowshoes [photograph]	
+</unittitle>
+<unitdate label="Date">circa early 1930s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">10 x 12	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Lowell Thomas, Jr. pulling boot off unidentified man; Frances Ryan Thomas in background [photograph]	
+</unittitle>
+<unitdate label="Date">circa late 1930s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">10 x 12	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28-29	
+</unitid>
+<unittitle>Lowell Thomas, Frances Ryan Thomas and Lowell Thomas, Jr. with family dogs [photograph]	
+</unittitle>
+<unitdate label="Date">circa late 1930s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">10 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30-31	
+</unitid>
+<unittitle>Lowell Thomas, Frances Ryan Thomas and Lowell Thomas, Jr. in uniform [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1940	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Lowell Thomas and Frances Ryan Thomas	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33-34	
+</unitid>
+<unittitle>Lowell Thomas and Frances Ryan Thomas stand before WFIL radio microphone [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Lowell Thomas and Lowell Thomas, Jr. in uniform [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1940	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">10 x 12	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36-37	
+</unitid>
+<unittitle>Lowell Thomas and Lowell Thomas, Jr. holding map while posing before picture of the Potala [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1950s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 38-43	
+</unitid>
+<unittitle>Posed photograph of Lowell Thomas and Lowell Thomas, Jr. in profile 	
+</unittitle>
+<unitdate label="Date">circa 1950s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 44	
+</unitid>
+<unittitle>Lowell Thomas and his granddaughter Anne Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 45	
+</unitid>
+<unittitle>Lowell Thomas, Frances Ryan Thomas, Lowell and Tay Thomas, Jr. and their children David and Anne [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 46-47	
+</unitid>
+<unittitle>Lowell Thomas, Frances Ryan Thomas, Lowell and Tay Thomas, Jr. and their children David and Anne [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1621" type="box">1621</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1621 -->
+<!-- Box 1622 -->
+<c01>
+<note>Box 1622</note>
+<did>
+<unitid>2.3.3.1</unitid>
+<unittitle>The Thomas and Ryan families</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Herbert Mitchell portrait: Lowell Thomas, Frances Ryan Thomas and Lowell Thomas, Jr. [framed photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1622" type="box">1622</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Herbert Mitchell portrait: Frances Ryan Thomas [framed photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1622" type="box">1622</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Herbert Mitchell portrait: Lowell Thomas, Jr. [framed photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1622" type="box">1622</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Herbert Mitchell portrait: Lowell Thomas, Frances Ryan Thomas and Lowell Thomas, Jr. [same as item 1] [unframed photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1622" type="box">1622</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Herbert Mitchell portrait: Frances Ryan Thomas [same as item 2] [unframed photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1622" type="box">1622</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Herbert Mitchell portrait: Frances Ryan Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1622" type="box">1622</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Herbert Mitchell portrait: Frances Ryan Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1622" type="box">1622</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Herbert Mitchell portrait: Lowell Thomas, Jr. [same as item 3] [unframed photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1622" type="box">1622</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Herbert Mitchell portrait: Lowell Thomas, Jr. [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1622" type="box">1622</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Herbert Mitchell portrait: Lowell Thomas, Jr. [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1622" type="box">1622</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Herbert Mitchell portrait: Frances Ryan Thomas and Lowell Thomas, Jr. [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1622" type="box">1622</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Herbert Mitchell portrait: Frances Ryan Thomas and Lowell Thomas, Jr. [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1622" type="box">1622</container>
+<physdesc>
+<extent unit="inches">12½ x 16½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1622 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

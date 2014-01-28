@@ -1,0 +1,3990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Paris</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.19</unitid>
+			<unittitle>Paris</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1230 -->
+			<c01>
+				<note>Box 1230</note>
+				<did>
+					<unitid>2.1.1.1.19</unitid>
+					<unittitle>Paris</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Redfern Star</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12000</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>American shoe store</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12001</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>A la Maison Doree</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12002</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Au Bon Marche department store</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12008</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Café L’Enfer</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12010</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>The Moulin Rouge</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12013</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Flores in pare[?] Moulan[?]</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12014</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Gardens of the Tuileries</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12016</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Jardin des Tuileries</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12238</materialspec>
+						<materialspec label="negativenumber">993</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Garden of the Luxembourg</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12017</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Place de la Bastille and the Colonne de Juillet</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12028</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Place de la Bastille and Colonne de Juillet</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12029</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Residence on the Champs-Élysées</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12031</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Residence</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12032</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Baron Rothschild’s residence</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12033</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Victor Hugo’s house, number six Place de Vosges</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12034</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>American church</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12035</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Hotel de Louvre</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12036</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Business office, American Embassy</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12037</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Gare du Nord</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12038</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Gare du Quai-d’Orsay (Orleans Railway)</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12039</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Le Matin, taken from the corner</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12040</materialspec>
+						<materialspec label="negativenumber">361</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Le Matin, from boulevard</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12041</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Sign boards</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12042</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Grand Palais where the “salon” is held</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12043</materialspec>
+						<materialspec label="negativenumber">403</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>The opera house</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12044</materialspec>
+						<materialspec label="negativenumber">360</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>American Express office (Place de l’Opéra)</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12045</materialspec>
+						<materialspec label="negativenumber">365</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Winter Garden, Grand Hotel, general view</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12046</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Winter Garden, Grand Hotel, side view</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12047</materialspec>
+						<materialspec label="negativenumber">379</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Rooftops from the Grand Hotel</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12048</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Musée de Cluny</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12049</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Entrance to the Musée de Cluny</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12050</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Garden of the Musée de Cluny</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12051</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>A corner of the garden of the Musée de Cluny</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12052</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>French Zouaves in the garden of Musée de Cluny</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12053</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Notre Dame Cathedral, front view</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12054</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Notre Dame Cathedral, taken from the Petit Pont</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12055</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Notre Dame Cathedral, full side view</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12056</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Notre Dame Cathedral from across the river, side view</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">418</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Notre Dame Cathedral, from the rear</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>The Seine looking toward Notre Dame Cathedral</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12241</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>The Trocadéro, front view showing fountains</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12059</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Trocadéro, side view</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">417</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Below the terrace of the Trocadéro at the “cascade”</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12247</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>The Institut de France</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12061</materialspec>
+						<materialspec label="negativenumber">451</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>The remains of the Bastille</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12062</materialspec>
+						<materialspec label="negativenumber">356</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Frank R. Roberson at the Hôtel des Invalides, Musée de l’Armée</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12063</materialspec>
+						<materialspec label="negativenumber">453</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>La Madeleine church</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1230" type="box">1230</container>
+						<materialspec label="index">12064</materialspec>
+						<materialspec label="negativenumber">355</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1230 -->
+			<!-- Box 1231 -->
+			<c01>
+				<note>Box 1231</note>
+				<did>
+					<unitid>2.1.1.1.19</unitid>
+					<unittitle>Paris</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Steps leading to Montmartre</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12065</materialspec>
+						<materialspec label="negativenumber">396</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Steps leading up to Montmartre</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12066</materialspec>
+						<materialspec label="negativenumber">391</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Looking toward Montmartre</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12067</materialspec>
+						<materialspec label="negativenumber">385</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Showing type of architecture in Montmartre</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12068</materialspec>
+						<materialspec label="negativenumber">392</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Montmartre district</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12250</materialspec>
+						<materialspec label="negativenumber">1020</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Looking toward the Basilique du Sacré Coeur from l’Arc de Triomphe</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12069</materialspec>
+						<materialspec label="negativenumber">409</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Basilique du Sacré Coeur, looking up street toward church</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12070</materialspec>
+						<materialspec label="negativenumber">381</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Basilique du Sacré Coeur, taken from below</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12071</materialspec>
+						<materialspec label="negativenumber">378</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Horse chestnut tree in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12073</materialspec>
+						<materialspec label="negativenumber">394</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Bois de Boulogne showing road and equestrian path</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12074</materialspec>
+						<materialspec label="negativenumber">390</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Sunday afternoon in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12075</materialspec>
+						<materialspec label="negativenumber">406</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>People in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12076</materialspec>
+						<materialspec label="negativenumber">405</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>People in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12077</materialspec>
+						<materialspec label="negativenumber">404</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Café and people, Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12078</materialspec>
+						<materialspec label="negativenumber">386</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Restaurant through the trees, Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12079</materialspec>
+						<materialspec label="negativenumber">395</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Pavilion Royal, Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12080</materialspec>
+						<materialspec label="negativenumber">387</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Café in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12081</materialspec>
+						<materialspec label="negativenumber">435</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Park scene in Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12082</materialspec>
+						<materialspec label="negativenumber">414</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Grotto in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12083</materialspec>
+						<materialspec label="negativenumber">459</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Winding path, Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12084</materialspec>
+						<materialspec label="negativenumber">383</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>By the lake, Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12085</materialspec>
+						<materialspec label="negativenumber">384</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Avenue in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12086</materialspec>
+						<materialspec label="negativenumber">475</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Automobile in Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12171</materialspec>
+						<materialspec label="negativenumber">994</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Sunday afternoon in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12172</materialspec>
+						<materialspec label="negativenumber">995</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Coming from the races, Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12173</materialspec>
+						<materialspec label="negativenumber">996</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Carriages in Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12174</materialspec>
+						<materialspec label="negativenumber">1001</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Bois de Boulogne on Sunday</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12175</materialspec>
+						<materialspec label="negativenumber">1005</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Avenue in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12177</materialspec>
+						<materialspec label="negativenumber">1036</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Horse chestnut tree in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12178</materialspec>
+						<materialspec label="negativenumber">1039</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Avenue in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12179</materialspec>
+						<materialspec label="negativenumber">1043</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Automobile in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12180</materialspec>
+						<materialspec label="negativenumber">1022</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Sprinkling in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12181</materialspec>
+						<materialspec label="negativenumber">1021</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Sprinkler and automobiles in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12182</materialspec>
+						<materialspec label="negativenumber">1023</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Automobile watering cart</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12183</materialspec>
+						<materialspec label="negativenumber">1017</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Playground, avenue in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12184</materialspec>
+						<materialspec label="negativenumber">1032</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Woman cab driver in the Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12185</materialspec>
+						<materialspec label="negativenumber">1014</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Grotto, Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12186</materialspec>
+						<materialspec label="negativenumber">997</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Grotto and waterfall, Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12187</materialspec>
+						<materialspec label="negativenumber">1004</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Waterfall, Bois de Boulogne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12188</materialspec>
+						<materialspec label="negativenumber">1006</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>River Seine, south of Paris</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12087</materialspec>
+						<materialspec label="negativenumber">478</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Residence in a small town outside of Paris</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12088</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Tree avenue outside Paris</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12089</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Little village street outside Paris</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12090</materialspec>
+						<materialspec label="negativenumber">496</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>House with vines on front</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Small village outside Paris</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12189</materialspec>
+						<materialspec label="negativenumber">1086</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Village street near Paris</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12190</materialspec>
+						<materialspec label="negativenumber">1046</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Formal tree trimming, country scene</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">1084</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Horse chestnut tree roadway outside Paris</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12195</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>French peasant woman</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12198</materialspec>
+						<materialspec label="negativenumber">1085</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Women washing along the Seine</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12201</materialspec>
+						<materialspec label="negativenumber">1098</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Pavilion Bleu Restaurant, Saint Cloud</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12091</materialspec>
+						<materialspec label="negativenumber">506</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Château of Saint Germain</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12092</materialspec>
+						<materialspec label="negativenumber">470</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Porcelain manufactory, main building, Sèvres</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1231" type="box">1231</container>
+						<materialspec label="index">12093</materialspec>
+						<materialspec label="negativenumber">469</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1231 -->
+			<!-- Box 1232 -->
+			<c01>
+				<note>Box 1232</note>
+				<did>
+					<unitid>2.1.1.1.19</unitid>
+					<unittitle>Paris</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Street in Barbizon</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12094</materialspec>
+						<materialspec label="negativenumber">426</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>House in Barbizon</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12095</materialspec>
+						<materialspec label="negativenumber">423</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Street showing high walls of gardens, Barbizon</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12096</materialspec>
+						<materialspec label="negativenumber">494</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Village street, Barbizon</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12224</materialspec>
+						<materialspec label="negativenumber">1076</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Hotel opposite the Château de Fontainebleau</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12097</materialspec>
+						<materialspec label="negativenumber">427</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Château de Fontainebleau, Cour des Adieux</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12098</materialspec>
+						<materialspec label="negativenumber">437</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Château de Fontainebleau, Cour des Adieux, near view</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12099</materialspec>
+						<materialspec label="negativenumber">438</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Forêt de Fontainebleau, Roches[?] de Franchard</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12100</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Frank R. Roberson sitting at the cross in the Forêt de Fontainebleau</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12101</materialspec>
+						<materialspec label="negativenumber">428</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Automobile at crossway, Frank R. Roberson in back seat, Fontainebleau</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12102</materialspec>
+						<materialspec label="negativenumber">425</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Automobile at a crossways in the Fontainebleau Forest</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12103</materialspec>
+						<materialspec label="negativenumber">424</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Avenue in the Fontainebleau Forest</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12104</materialspec>
+						<materialspec label="negativenumber">422</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Avenue of beech trees, Forêt de Fontainebleau</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12105</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Odd trees, Forêt de Fontainebleau</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">431</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Road to Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12112</materialspec>
+						<materialspec label="negativenumber">479</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Hôtel de Petit Trianon, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12113</materialspec>
+						<materialspec label="negativenumber">458</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Front of the Grand Trianon, Frank R. Roberson at right, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12114</materialspec>
+						<materialspec label="negativenumber">461</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>The Hamlet at the Petit Trianon, the dairy, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12115</materialspec>
+						<materialspec label="negativenumber">463</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>The Hamlet at the Petit Trianon, houses of Louis XVI and Marie Antoinette, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12116</materialspec>
+						<materialspec label="negativenumber">523</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>The Hamlet at the Petit Trianon, the “house” of Louis XVI and Marie Antoinette, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12117</materialspec>
+						<materialspec label="negativenumber">465</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>The Hamlet at the Petit Trianon, the mill (near view), Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12118</materialspec>
+						<materialspec label="negativenumber">467</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Hamlet of Petit Trianon, the mill, Frank R. Roberson and Mrs. Jessie W. Roberson near building, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12119</materialspec>
+						<materialspec label="negativenumber">503</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>The Hamlet in the Petit Trianon, the mill (front view), Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12120</materialspec>
+						<materialspec label="negativenumber">480</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Garden of Petit Trianon, Temple of Love, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12121</materialspec>
+						<materialspec label="negativenumber">504</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Temple of Love, garden of the Petit Trianon, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12122</materialspec>
+						<materialspec label="negativenumber">472</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Formal garden in rear of Petit Trianon, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12123</materialspec>
+						<materialspec label="negativenumber">464</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Formal garden in the rear of the Petit Trianon, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12124</materialspec>
+						<materialspec label="negativenumber">466</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Garden at Petit Trianon, wisteria and azalea bushes, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12125</materialspec>
+						<materialspec label="negativenumber">524</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Wisteria in garden at Petit Trianon, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12126</materialspec>
+						<materialspec label="negativenumber">473</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Mrs. Jessie W. Roberson and azalea bushes, garden of Petit Trianon, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12128</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Gardens of the Petit Trianon, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12129</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Rock cut walks in the gardens at Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12130</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Gardens at Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12131</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Part of garden at Petit Trianon, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12132</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Walk in the gardens of the Petit Trianon, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Frank R. Roberson at part of Palace of Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12210</materialspec>
+						<materialspec label="negativenumber">1119</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Four French children representing two families, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12212</materialspec>
+						<materialspec label="negativenumber">1103</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Front of the Petit Trianon, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12213</materialspec>
+						<materialspec label="negativenumber">1118</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Frank R. Roberson and Mrs. Jessie W. Roberson at the Petit Trianon, camera at right, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12214</materialspec>
+						<materialspec label="negativenumber">1112</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Formal tree trimming, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12215</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Gardens, Versailles</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">474</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Entrance arch to Château de Chantilly</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12136</materialspec>
+						<materialspec label="negativenumber">483</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Château de Chantilly</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12137</materialspec>
+						<materialspec label="negativenumber">491</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Château de Chantilly, rear view showing gardens</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12138</materialspec>
+						<materialspec label="negativenumber">512</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>The Gallery of Paintings, Château de Chantilly, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>The dining room, Château de Chantilly, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>The War Room, Château de Chantilly, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Wide tree avenue, Chantilly</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12139</materialspec>
+						<materialspec label="negativenumber">495</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Frank R. Roberson driving automobile on road near Chantilly</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12140</materialspec>
+						<materialspec label="negativenumber">488</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Tree avenue in the Forêt de Chantilly</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12141</materialspec>
+						<materialspec label="negativenumber">493</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Near Compiègne, showing entrance to farm enclosure</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1232" type="box">1232</container>
+						<materialspec label="index">12142</materialspec>
+						<materialspec label="negativenumber">519</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1232 -->
+			<!-- Box 1233 -->
+			<c01>
+				<note>Box 1233</note>
+				<did>
+					<unitid>2.1.1.1.19</unitid>
+					<unittitle>Paris</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>French farm enclosure from a distance, near Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12143</materialspec>
+						<materialspec label="negativenumber">520</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Near Compiègne, showing extent of French farm enclosure</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">521</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>French farm enclosure near Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">501</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Interior of French farm enclosure near Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Small town on way to Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">487</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>A little village near Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12148</materialspec>
+						<materialspec label="negativenumber">486</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Part of old walls surrounding the town, Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12149</materialspec>
+						<materialspec label="negativenumber">511</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Street corner in Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12150</materialspec>
+						<materialspec label="negativenumber">492</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Quaint bit of old architecture, Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12151</materialspec>
+						<materialspec label="negativenumber">517</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Cats in front of little shop, Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12152</materialspec>
+						<materialspec label="negativenumber">514</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Old furniture shop, Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12153</materialspec>
+						<materialspec label="negativenumber">515</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Interior of bake shop, Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12154</materialspec>
+						<materialspec label="negativenumber">516</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Street in small village near Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12227</materialspec>
+						<materialspec label="negativenumber">1095</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Home near Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">0016</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Château de Compiègne, side view toward gardens</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12155</materialspec>
+						<materialspec label="negativenumber">513</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Château de Compiègne, front view</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12156</materialspec>
+						<materialspec label="negativenumber">510</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Entrance to gardens, Compiègne</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12157</materialspec>
+						<materialspec label="negativenumber">508</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Chamber of Louis XVI, Château de Compiègne, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Salle des Fêtes, Château de Compiègne, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Bedroom of Marie Antoinette, Château de Compiègne, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Bedroom of Napoleon III, Château de Compiègne, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Roadway between Compiègne and Pierrefonds</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12158</materialspec>
+						<materialspec label="negativenumber">509</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Castle of Pierrefonds above the village</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12163</materialspec>
+						<materialspec label="negativenumber">485</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Castle of Pierrefonds, looking through a narrow street</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12164</materialspec>
+						<materialspec label="negativenumber">484</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Peasant homes, Pierrefonds</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12165</materialspec>
+						<materialspec label="negativenumber">522</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Castle of Pierrefonds, side view looking up street</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">490</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Castle of Pierrefonds, general view</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">489</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Corner of castle at Pierrefonds</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">499</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Street and house with dog, Pierrefonds</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">502</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Old cathedral dating from 12th century, Senlis</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12169</materialspec>
+						<materialspec label="negativenumber">497</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Front view of cathedral, Senlis</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">498</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Ruins of old royal palace and Gallo-Roman walls, Senlis</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">525</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Coming from the Longchamps races</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12170</materialspec>
+						<materialspec label="negativenumber">1003</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>House with wisteria vines</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12191</materialspec>
+						<materialspec label="negativenumber">1071</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Quaint house with wisteria, outside Paris</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">1101</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Railroad crossing ten minutes before train time</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12193</materialspec>
+						<materialspec label="negativenumber">1096</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>French men on the way to enlist in the army</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12199</materialspec>
+						<materialspec label="negativenumber">1072</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>French boys on the way to join the army</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12200</materialspec>
+						<materialspec label="negativenumber">1081</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Church in Écouen</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12202</materialspec>
+						<materialspec label="negativenumber">1105</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Quaint corner in Écouen</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12203</materialspec>
+						<materialspec label="negativenumber">1100</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Dog and cat cemetery</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12204</materialspec>
+						<materialspec label="negativenumber">1089</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Entrance to dog cemetery</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12205</materialspec>
+						<materialspec label="negativenumber">1093</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Monument in dog cemetery</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12206</materialspec>
+						<materialspec label="negativenumber">1092</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Gate of dog and cat cemetery</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12207</materialspec>
+						<materialspec label="negativenumber">1091</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Frank R. Roberson on walk in dog cemetery</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12208</materialspec>
+						<materialspec label="negativenumber">1090</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Dog cemetery, the living and the dead</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12209</materialspec>
+						<materialspec label="negativenumber">1088</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>French gendarin [?] near Choisy-le-Roi</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12216</materialspec>
+						<materialspec label="negativenumber">1069</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>The Seine, near Choisy-le-Roi</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12217</materialspec>
+						<materialspec label="negativenumber">1068</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Tree avenue near Choisy-le-Roi</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12219</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Statue of Rouget de Lisle, author of the “Marseillaise”, Choisy-le-Roi</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12220</materialspec>
+						<materialspec label="negativenumber">1058</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Along the Seine, near Choisy-le-Roi</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12221</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>House in Choisy-le-Roi</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12222</materialspec>
+						<materialspec label="negativenumber">1067</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Free School for Boys, Choisy-le-Roi</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12223</materialspec>
+						<materialspec label="negativenumber">1132</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Pansy bed, Buttes-Chaumont</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12228</materialspec>
+						<materialspec label="negativenumber">1050</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Picturesque corner, Buttes-Chaumont</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1233" type="box">1233</container>
+						<materialspec label="index">12229</materialspec>
+						<materialspec label="negativenumber">1083</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1233 -->
+			<!-- Box 1234 -->
+			<c01>
+				<note>Box 1234</note>
+				<did>
+					<unitid>2.1.1.1.19</unitid>
+					<unittitle>Paris</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Suspension bridge in Buttes-Chaumont</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12230</materialspec>
+						<materialspec label="negativenumber">1060</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Frank R. Roberson and Mrs. Jessie W. Roberson in Buttes-Chaumont</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12231</materialspec>
+						<materialspec label="negativenumber">1061</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Suspension bridge and observatory, Buttes-Chaumont</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12232</materialspec>
+						<materialspec label="negativenumber">1063</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Frank R. Roberson in corner of Buttes-Chaumont</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12233</materialspec>
+						<materialspec label="negativenumber">1074</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>French bonne in Parc Monceau</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12234</materialspec>
+						<materialspec label="negativenumber">1034</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Le Penseur statue by Rodin in front of the Panthéon</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12235</materialspec>
+						<materialspec label="negativenumber">1073</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Entrance to Père Lachaise Cemetery</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12236</materialspec>
+						<materialspec label="negativenumber">1059</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>L’Arc de Triomphe du Carrousel</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12237</materialspec>
+						<materialspec label="negativenumber">1052</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Place de la Concorde, Strossburg monument [?]</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12239</materialspec>
+						<materialspec label="negativenumber">992</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Looking sideways at l’Arc de Triomphe</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12240</materialspec>
+						<materialspec label="negativenumber">1077</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Champs-Élysées, looking toward l’Arc de Triomphe</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12241</materialspec>
+						<materialspec label="negativenumber">1029</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>People along the Champs-Élysées</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12242</materialspec>
+						<materialspec label="negativenumber">1027</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Pont de la Concorde and the Chambre des Députés</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12243</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Champs-Élysées from the Place de la Concorde</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12244</materialspec>
+						<materialspec label="negativenumber">1008</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Rue Royale</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12245</materialspec>
+						<materialspec label="negativenumber">1024</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Boulevards</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12246</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Poorer section of the city</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12249</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Duval Restaurant</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12251</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Custom house gate at city limits</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12252</materialspec>
+						<materialspec label="negativenumber">1113</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Entrance to the Metropolitan, the Parisian subway</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12253</materialspec>
+						<materialspec label="negativenumber">1040</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Cabaret des Quat’z’Arts</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12254</materialspec>
+						<materialspec label="negativenumber">1044</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Corner of Cooks Tourist Agency</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12255</materialspec>
+						<materialspec label="negativenumber">1048</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>French bonnes on the Champs-Élysées</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12261</materialspec>
+						<materialspec label="negativenumber">1045</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>French bonne on the Champs-Élysées</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12262</materialspec>
+						<materialspec label="negativenumber">1028</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>French nurse on the Champs-Élysées</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12263</materialspec>
+						<materialspec label="negativenumber">998</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>French nurse on the Champs-Élysées</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12264</materialspec>
+						<materialspec label="negativenumber">1010</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Wagons with azaleas, coming to market</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12266</materialspec>
+						<materialspec label="negativenumber">1107</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Azaleas coming to flower market</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">1108</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>French cavalry</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12268</materialspec>
+						<materialspec label="negativenumber">1000</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Lady cab driver</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12269</materialspec>
+						<materialspec label="negativenumber">1018</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>French boy</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12270</materialspec>
+						<materialspec label="negativenumber">1020</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Newspaper kiosk with advertisements</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12272</materialspec>
+						<materialspec label="negativenumber">1035</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Newspaper kiosk</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12273</materialspec>
+						<materialspec label="negativenumber">1019</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>“Public Comfort”</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12274</materialspec>
+						<materialspec label="negativenumber">1038</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Street life, ice and cocoa cart</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12275</materialspec>
+						<materialspec label="negativenumber">1042</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Street life, advertising a cabaret</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12276</materialspec>
+						<materialspec label="negativenumber">1016</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Street life, priest and lame children</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12278</materialspec>
+						<materialspec label="negativenumber">1109</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Catholic school of girls</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12279</materialspec>
+						<materialspec label="negativenumber">1041</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Shop where funeral wreaths are sold</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12280</materialspec>
+						<materialspec label="negativenumber">1033</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>French funeral (poorer class)</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">1049</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>French funeral</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12282</materialspec>
+						<materialspec label="negativenumber">1011</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Steam train near l’Arc de Triomphe</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12284</materialspec>
+						<materialspec label="negativenumber">1030</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Horse bus</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12285</materialspec>
+						<materialspec label="negativenumber">1013</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Crowded horse bus</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">1002</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Motor bus</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12286</materialspec>
+						<materialspec label="negativenumber">1015</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Book stalls along the River Seine</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12288</materialspec>
+						<materialspec label="negativenumber">1051</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Traffic on the boulevards</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12289</materialspec>
+						<materialspec label="negativenumber">1053</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Outdoor cafés</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12290</materialspec>
+						<materialspec label="negativenumber">1117</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Open air cafés</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index">12291</materialspec>
+						<materialspec label="negativenumber">1116</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Street life, outdoor cafés</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Street life, outdoor cafés</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">1115</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Street life, girl in restaurant doorway</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>People in carriages</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Refreshment wagon at a railway station</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">1111</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Railroad station</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">1075</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Tourist sightseeing automobile in front of American Express</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Veteran of Napoleonic Wars at Napoleon’s tomb</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Lower part of the Eiffel Tower from the Trocadéro</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Half of the Eiffel Tower from the doorway of the Trocadéro</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Three quarters extent of the Eiffel Tower from the doorway of the Trocadéro</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">1057</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Man using saw</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Goats</unittitle>
+						<unitdate label="Date">circa 1910</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>The Sorbonne, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>The Mona Lisa, Louvre, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>The Coronation of the Virgin by Fra Angelico, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1234" type="box">1234</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1234 -->
+			<!-- Box 1235 -->
+			<c01>
+				<note>Box 1235</note>
+				<did>
+					<unitid>2.1.1.1.19</unitid>
+					<unittitle>Paris</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Whales on beach near Penzauce [?]</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">CCC</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Marie Antoinette going to execution, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Marie Antoinette in the death cart, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Marie Antoinette, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Napoleon I, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">26X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1235 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

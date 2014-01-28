@@ -1,0 +1,3981 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/mexico2.1.1.1.15.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Mexico</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.15</unitid>
+			<unittitle>Mexico</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1198 -->
+			<c01>
+				<note>Box 1198</note>
+				<did>
+					<unitid>2.1.1.1.15</unitid>
+					<unittitle>Mexico</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Railroad station, San Antonio Texas</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13207</materialspec>
+						<materialspec label="negativenumber">M214</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Crossing the Rio Grande into Mexico</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13201</materialspec>
+						<materialspec label="negativenumber">M208</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Statue in Plaza de la Independencia, Queretaro</unittitle>
+						<unitdate label="Date">1911 May 6</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13031</materialspec>
+						<materialspec label="negativenumber">M32</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Fountain, Queretaro</unittitle>
+						<unitdate label="Date">1911 May 6</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13032</materialspec>
+						<materialspec label="negativenumber">M33</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Aqueduct, Queretaro</unittitle>
+						<unitdate label="Date">1911 May 6</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13034</materialspec>
+						<materialspec label="negativenumber">M35</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Cathedral, Queretaro</unittitle>
+						<unitdate label="Date">1911 May 6</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13035</materialspec>
+						<materialspec label="negativenumber">M36</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>View from Maximilian tomb through doorway, Queretaro</unittitle>
+						<unitdate label="Date">1911 May 6</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13036</materialspec>
+						<materialspec label="negativenumber">M37</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Maximilian tomb, Queretaro</unittitle>
+						<unitdate label="Date">1911 May 6</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13037</materialspec>
+						<materialspec label="negativenumber">M38</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>View from Maximilian tomb, Queretaro</unittitle>
+						<unitdate label="Date">1911 May 6</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13038</materialspec>
+						<materialspec label="negativenumber">M39</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Maximilian’s coffin in glass case, Queretaro</unittitle>
+						<unitdate label="Date">1911 May 6</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13039</materialspec>
+						<materialspec label="negativenumber">M40</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Interior of Maximilian’s tomb, Frank R. Roberson in foreground, Queretaro</unittitle>
+						<unitdate label="Date">1911 May 6</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13040</materialspec>
+						<materialspec label="negativenumber">M41</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Doorway of house, looking through into patio, Queretaro</unittitle>
+						<unitdate label="Date">1911 May 6</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13125</materialspec>
+						<materialspec label="negativenumber">M126</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Mexican street musicians, Queretaro</unittitle>
+						<unitdate label="Date">1911 May 6</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13177</materialspec>
+						<materialspec label="negativenumber">M184</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Man and goat, Queretaro</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13214</materialspec>
+						<materialspec label="negativenumber">M281</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Plowing with oxen, Queretaro</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13214</materialspec>
+						<materialspec label="negativenumber">M327</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Post office, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13055</materialspec>
+						<materialspec label="negativenumber">M56</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Y.M.C.A., Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13056</materialspec>
+						<materialspec label="negativenumber">M57</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Hat market, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13063</materialspec>
+						<materialspec label="negativenumber">M64</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Hat market, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13064</materialspec>
+						<materialspec label="negativenumber">M65</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Cathedral, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13070</materialspec>
+						<materialspec label="negativenumber">M71</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Chapultepec from bullring, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13095</materialspec>
+						<materialspec label="negativenumber">M96</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Crowd at bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13103</materialspec>
+						<materialspec label="negativenumber">M104</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Entering the ring, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13104</materialspec>
+						<materialspec label="negativenumber">M105</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Procession entering the ring, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13105</materialspec>
+						<materialspec label="negativenumber">M106</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Crowd at bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13106</materialspec>
+						<materialspec label="negativenumber">M107</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M217</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M219</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M221</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M223</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M224</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M225</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M226</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M227</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M228</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M229</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M230</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M232</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M234</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M235</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M236</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Bull fight, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 7</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13215</materialspec>
+						<materialspec label="negativenumber">M238</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Residence of President Diaz’s son-in-law, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13041</materialspec>
+						<materialspec label="negativenumber">M42</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Theater, building nine years, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13050</materialspec>
+						<materialspec label="negativenumber">M51</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>American Legation, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13058</materialspec>
+						<materialspec label="negativenumber">M59</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Clock presented by Turkey, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13062</materialspec>
+						<materialspec label="negativenumber">M63</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Geranium detail, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13065</materialspec>
+						<materialspec label="negativenumber">M66</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Bougainvillea, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13069</materialspec>
+						<materialspec label="negativenumber">M70</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Home of President Diaz, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13072</materialspec>
+						<materialspec label="negativenumber">M73</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Exterior of American Consulate, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13082</materialspec>
+						<materialspec label="negativenumber">M83</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Old fountain used for 300 years, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13087</materialspec>
+						<materialspec label="negativenumber">M88</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Petunias and fountain, Alameda Park, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13089</materialspec>
+						<materialspec label="negativenumber">M90</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>Garden around Bath of Montezuma, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13091</materialspec>
+						<materialspec label="negativenumber">M92</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Old church, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13092</materialspec>
+						<materialspec label="negativenumber">M93</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>66</unitid>
+						<unittitle>Sunset over Chapultepec, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1198" type="box">1198</container>
+						<materialspec label="index">13094</materialspec>
+						<materialspec label="negativenumber">M95</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1198 -->
+			<!-- Box 1199 -->
+			<c01>
+				<note>Box 1199</note>
+				<did>
+					<unitid>2.1.1.1.15</unitid>
+					<unittitle>Mexico</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Chapultepec from north, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13100</materialspec>
+						<materialspec label="negativenumber">M101</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Exterior of bullring, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13102</materialspec>
+						<materialspec label="negativenumber">M103</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Paseo de la Reforma, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13107</materialspec>
+						<materialspec label="negativenumber">M108</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Gateway and house, Calle de Liverpool, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13118</materialspec>
+						<materialspec label="negativenumber">M119</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Main statuary group, Juarez Memorial, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13120</materialspec>
+						<materialspec label="negativenumber">M121</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Juarez Memorial, detail of lion, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13121</materialspec>
+						<materialspec label="negativenumber">M122</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Juarez Memorial on Avenida Juarez, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13122</materialspec>
+						<materialspec label="negativenumber">M123</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Juarez Memorial through trees, Alameda Park, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13123</materialspec>
+						<materialspec label="negativenumber">M124</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Aztec statue, Paseo de la Reforma, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13133</materialspec>
+						<materialspec label="negativenumber">M134</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Calle de Cinco de Mayo looking toward cathedral, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 8</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13146</materialspec>
+						<materialspec label="negativenumber">M147</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Tile house, Jockey Club, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13057</materialspec>
+						<materialspec label="negativenumber">M58</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Billboards in front of theater, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13071</materialspec>
+						<materialspec label="negativenumber">M72</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Ministry of Foreign Affairs, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13073</materialspec>
+						<materialspec label="negativenumber">M74</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Peace monument, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13076</materialspec>
+						<materialspec label="negativenumber">M77</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Groups at base of peace monument, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13077</materialspec>
+						<materialspec label="negativenumber">M78</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Old church entrance, Mexico City</unittitle>
+						<unitdate label="Date">1911  May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13079</materialspec>
+						<materialspec label="negativenumber">M80</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Imperial restaurant, light blue and white, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13081</materialspec>
+						<materialspec label="negativenumber">M82</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Statue of Charles IV, Plaza de la Reforma, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13084</materialspec>
+						<materialspec label="negativenumber">M85</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>House of Dr. Limantour, Plaza de la Reforma, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13085</materialspec>
+						<materialspec label="negativenumber">M86</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Castle of Chapultepec from Paseo de la Reforma, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13093</materialspec>
+						<materialspec label="negativenumber">M94</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Chapultepec, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13096</materialspec>
+						<materialspec label="negativenumber">M97</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Chapultepec, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13097</materialspec>
+						<materialspec label="negativenumber">M98</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Chapultepec under arch of trees, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13099</materialspec>
+						<materialspec label="negativenumber">M100</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Avenida Juarez looking north, showing Alameda Park on left, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13108</materialspec>
+						<materialspec label="negativenumber">M109</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Paseo looking north, buildings on right, Alameda Park on left, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 9</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13109</materialspec>
+						<materialspec label="negativenumber">M110</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Mrs. Delutom’s hacienda, Diaz’s daughter, Hacienda Guadalupe</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13023</materialspec>
+						<materialspec label="negativenumber">M24</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Typical overseer on horse in front of pulque plant, Frank R. Roberson standing next to horse, Hacienda Guadalupe</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13024</materialspec>
+						<materialspec label="negativenumber">M25</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Frank R. Roberson on horse in front of pulque plant, overseer next to horse,  Hacienda Guadalupe</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13025</materialspec>
+						<materialspec label="negativenumber">M26</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>House of Cortez, Coyoacán</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13042</materialspec>
+						<materialspec label="negativenumber">M43</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>House of Alvarado</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13043</materialspec>
+						<materialspec label="negativenumber">M44</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Church on battleground of Churubusco</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13044</materialspec>
+						<materialspec label="negativenumber">M45</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Country club near Mexico City</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13053</materialspec>
+						<materialspec label="negativenumber">M54</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Entrance drive to hacienda, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13074</materialspec>
+						<materialspec label="negativenumber">M75</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Old church, Coyoacán</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13078</materialspec>
+						<materialspec label="negativenumber">M79</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Cattle, mountains in background, outskirts of Mexico City</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13080</materialspec>
+						<materialspec label="negativenumber">M81</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Aqueduct fountain, 1571, by Chapultepec, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13101</materialspec>
+						<materialspec label="negativenumber">M102</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Tree of 18 deserters, Battle of Churubusco</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13111</materialspec>
+						<materialspec label="negativenumber">M112</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Garden, San Ángel</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13112</materialspec>
+						<materialspec label="negativenumber">M113</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>The Inn at San Ángel, Frank R. Roberson and party seated in foreground</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13113</materialspec>
+						<materialspec label="negativenumber">M114</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Garden at inn, San Ángel</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13114</materialspec>
+						<materialspec label="negativenumber">M115</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Granary of hacienda</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13127</materialspec>
+						<materialspec label="negativenumber">M128</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Granary</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13128</materialspec>
+						<materialspec label="negativenumber">M129</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Market under trees, Xochimilco</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13129</materialspec>
+						<materialspec label="negativenumber">M130</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Among the floating gardens, Xochimilco</unittitle>
+						<unitdate label="Date">1911 May</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M291</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Among the floating gardens, Xochimilco</unittitle>
+						<unitdate label="Date">1911 May</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M304</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Hacienda homes of paeons</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13135</materialspec>
+						<materialspec label="negativenumber">M136</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Hacienda entrance</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13136</materialspec>
+						<materialspec label="negativenumber">M137</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Hacienda barnyard, etc</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13137</materialspec>
+						<materialspec label="negativenumber">M138</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Hacienda building</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13138</materialspec>
+						<materialspec label="negativenumber">M139</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Hacienda, paeons quarters</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1199" type="box">1199</container>
+						<materialspec label="index">13139</materialspec>
+						<materialspec label="negativenumber">M140</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1199 -->
+			<!-- Box 1200 -->
+			<c01>
+				<note>Box 1200</note>
+				<did>
+					<unitid>2.1.1.1.15</unitid>
+					<unittitle>Mexico</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Frank R. Roberson in automobile train in doorway of hacienda granary</unittitle>
+						<unitdate label="Date">1911 May 10</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13140</materialspec>
+						<materialspec label="negativenumber">M141</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Looking down from Pyramid of the Moon, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13000</materialspec>
+						<materialspec label="negativenumber">M1</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Pyramid of the Sun, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13001</materialspec>
+						<materialspec label="negativenumber">M2</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Original walls of Sun Pyramid, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13002</materialspec>
+						<materialspec label="negativenumber">M3</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>View from top of Pyramid of the Sun, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13003</materialspec>
+						<materialspec label="negativenumber">M4</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Pyramid of the Moon looking up sacred street, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13004</materialspec>
+						<materialspec label="negativenumber">M5</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Pyramid of the Sun, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13005</materialspec>
+						<materialspec label="negativenumber">M6</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Frank R. Roberson and party looking over valley from Pyramid of the Sun, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13006</materialspec>
+						<materialspec label="negativenumber">M7</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Pyramid of the Sun, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13007</materialspec>
+						<materialspec label="negativenumber">M8</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Pyramid of the Moon, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13008</materialspec>
+						<materialspec label="negativenumber">M9</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Frank R. Roberson climbing steps up Pyramid of the Sun, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13009</materialspec>
+						<materialspec label="negativenumber">M10</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Pyramid of the Sun, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13010</materialspec>
+						<materialspec label="negativenumber">M11</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Pyramid of the Sun, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13011</materialspec>
+						<materialspec label="negativenumber">M12</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Frank R. Roberson and party sitting on steps ascending Pyramid of the Sun, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13012</materialspec>
+						<materialspec label="negativenumber">M13</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Pyramid of the Sun viewed from Pyramid of the Moon, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13013</materialspec>
+						<materialspec label="negativenumber">M14</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Small mounds or pyramids between Pyramids of the Sun and the Moon, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13014</materialspec>
+						<materialspec label="negativenumber">M15</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Steps, old and new, ascending pyramids, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13015</materialspec>
+						<materialspec label="negativenumber">M16</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Side of pyramid showing projecting stones, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13016</materialspec>
+						<materialspec label="negativenumber">M17</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Frank R. Roberson and party on steps leading up Pyramid of the Sun, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13017</materialspec>
+						<materialspec label="negativenumber">M18</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Pyramids, distant view, pulque in foreground, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13018</materialspec>
+						<materialspec label="negativenumber">M19</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Pyramids, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13019</materialspec>
+						<materialspec label="negativenumber">M20</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Ruins of houses from pyramid, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13020</materialspec>
+						<materialspec label="negativenumber">M21</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Excavation at foot of pyramid, Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13022</materialspec>
+						<materialspec label="negativenumber">M23</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Interior of museum, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13045</materialspec>
+						<materialspec label="negativenumber">M46</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Toltec skulls in museum, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911 May 11</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13124</materialspec>
+						<materialspec label="negativenumber">M125</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Native guides on top of Pyramid of the Sun, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13162</materialspec>
+						<materialspec label="negativenumber">M169</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Frank R. Roberson standing near portion of original wall at base of Pyramid of the Sun, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13163</materialspec>
+						<materialspec label="negativenumber">M170</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Frank R. Roberson and party ascending the Pyramid of the Sun, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13164</materialspec>
+						<materialspec label="negativenumber">M171</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Frank R. Roberson and party climbing the Pyramid of the Sun, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13165</materialspec>
+						<materialspec label="negativenumber">M172</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Frank R. Roberson and party sitting on steps up the side of the Pyramid of the Sun, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13166</materialspec>
+						<materialspec label="negativenumber">M173</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Frank R. Roberson and guide in excavated passage into Pyramid of the Moon, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13167</materialspec>
+						<materialspec label="negativenumber">M174</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Frank R. Roberson and party on the way to the pyramids, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13200</materialspec>
+						<materialspec label="negativenumber">M207</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Sentry at entrance to grounds around pyramids, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13202</materialspec>
+						<materialspec label="negativenumber">M209</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Frank R. Roberson by old gateway near Pyramid of the Sun, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13203</materialspec>
+						<materialspec label="negativenumber">M210</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Mexican guide on top of Pyramid of the Sun, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13204</materialspec>
+						<materialspec label="negativenumber">M211</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Flock of sheep and cattle, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13206</materialspec>
+						<materialspec label="negativenumber">M213</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Shipping barrels of pulque to Mexico City, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13213</materialspec>
+						<materialspec label="negativenumber">M242</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Frank R. Roberson and party returning from pyramids in hand cars, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13213</materialspec>
+						<materialspec label="negativenumber">M247</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Frank R. Roberson bargaining for souvenirs, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13213</materialspec>
+						<materialspec label="negativenumber">M260</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Drinking sweet pulque, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13213</materialspec>
+						<materialspec label="negativenumber">M262</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Frank R. Roberson bargaining for souvenirs, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13213</materialspec>
+						<materialspec label="negativenumber">M263</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Man with skin full of pulque, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13213</materialspec>
+						<materialspec label="negativenumber">M278</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Drinking sweet pulque, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13213</materialspec>
+						<materialspec label="negativenumber">M309</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Typical horsemen, San Juan Teotihuacán</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M254</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Church of the Well, Guadalupe</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13026</materialspec>
+						<materialspec label="negativenumber">M27</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Church of the Well, Guadalupe</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13027</materialspec>
+						<materialspec label="negativenumber">M28</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Spanish cemetery, Guadalupe</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13028</materialspec>
+						<materialspec label="negativenumber">M29</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Stone stairs leading to summit of Tepeyac Hill, Guadalupe</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13029</materialspec>
+						<materialspec label="negativenumber">M30</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>The Collegiate Church, Guadalupe</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13030</materialspec>
+						<materialspec label="negativenumber">M31</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Liberty Bell on National Palace, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13047</materialspec>
+						<materialspec label="negativenumber">M48</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>National Palace, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13048</materialspec>
+						<materialspec label="negativenumber">M49</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Cross on house and street scene, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13054</materialspec>
+						<materialspec label="negativenumber">M55</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Old American cemetery, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13060</materialspec>
+						<materialspec label="negativenumber">M61</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Monument to American soldiers, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13075</materialspec>
+						<materialspec label="negativenumber">M76</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Circular bed on Paseo de la Reforma, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13110</materialspec>
+						<materialspec label="negativenumber">M111</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Planting and walk on sides of Paseo de la Reforma, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13116</materialspec>
+						<materialspec label="negativenumber">M117</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Interior of  Tree of the Dismal Night, Popotla, near Mexico City</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13126</materialspec>
+						<materialspec label="negativenumber">M127</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Bas relief on Aztec statue, Paseo de la Reforma, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13132</materialspec>
+						<materialspec label="negativenumber">M133</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Aztec statue, Paseo de la Reforma, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 12</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13134</materialspec>
+						<materialspec label="negativenumber">M135</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>R. G. Dun and Company, general office, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 13</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13061</materialspec>
+						<materialspec label="negativenumber">M62</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Mr. Saner of R.G. Dun and Company, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 13</unitdate>
+						<container id="1200" type="box">1200</container>
+						<materialspec label="index">13141</materialspec>
+						<materialspec label="negativenumber">M142</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1200 -->
+			<!-- Box 1201 -->
+			<c01>
+				<note>Box 1201</note>
+				<did>
+					<unitid>2.1.1.1.15</unitid>
+					<unittitle>Mexico</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Mutual Life Insurance building, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 15</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13046</materialspec>
+						<materialspec label="negativenumber">M47</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Façade of theater, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 15</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13049</materialspec>
+						<materialspec label="negativenumber">M50</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Façade, new theater, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 15</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13051</materialspec>
+						<materialspec label="negativenumber">M52</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Façade of new theater, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 15</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13052</materialspec>
+						<materialspec label="negativenumber">M53</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Methodist Book Concern, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 15</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13059</materialspec>
+						<materialspec label="negativenumber">M60</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>San Juan de Letrán and San Francisco, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 15</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13142</materialspec>
+						<materialspec label="negativenumber">M143</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Calle de Capuchinas, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 15</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13143</materialspec>
+						<materialspec label="negativenumber">M144</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Calle de San Francisco, Mexico City</unittitle>
+						<unitdate label="Date">1911 May 15</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13144</materialspec>
+						<materialspec label="negativenumber">M145</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Spanish dagger [yucca plant]</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13115</materialspec>
+						<materialspec label="negativenumber">M116</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Frank R. Roberson and soldier on horseback</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13145</materialspec>
+						<materialspec label="negativenumber">M146</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Cadets at drill, military college, Chapultepec, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13149</materialspec>
+						<materialspec label="negativenumber">M150</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Prisoners guarded by soldiers, Mexico City</unittitle>
+						<unitdate label="Date">1911 May</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13150</materialspec>
+						<materialspec label="negativenumber">M154</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Prisoners handcuffed to soldiers, Mexico City</unittitle>
+						<unitdate label="Date">1911 May</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13151</materialspec>
+						<materialspec label="negativenumber">M156</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Cadets drilling, Chapultepec</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13152</materialspec>
+						<materialspec label="negativenumber">M157</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Cadets at drill, military college, Chapultepec</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13153</materialspec>
+						<materialspec label="negativenumber">M158</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Cadets at drill, military college, Chapultepec</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13154</materialspec>
+						<materialspec label="negativenumber">M159</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Soldiers on road, Chapultepec</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M267</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Sunset behind mountains between Nuevo Laredo and Monterrey</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13156</materialspec>
+						<materialspec label="negativenumber">M163</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Looking into valley from train, between Esperanza and Malata</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13155</materialspec>
+						<materialspec label="negativenumber">M162</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Town of Malata from railroad, between Esperanza and Malata</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13157</materialspec>
+						<materialspec label="negativenumber">M164</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Looking at Malata from railroad, between Esperanza and Malata</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13158</materialspec>
+						<materialspec label="negativenumber">M165</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Malata valley from railroad between Malata and Esperanza</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13159</materialspec>
+						<materialspec label="negativenumber">M166</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Mountains and valley from railroad train, between Esperanza and Malata</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13160</materialspec>
+						<materialspec label="negativenumber">M167</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Looking over valley from railroad, between Esperanza and Malata</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13161</materialspec>
+						<materialspec label="negativenumber">M168</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Railroad train, between Esperanza and Malata</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13197</materialspec>
+						<materialspec label="negativenumber">M204</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Natives at station, Maltrata</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13182</materialspec>
+						<materialspec label="negativenumber">M189</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Flower sellers, Maltrata</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13214</materialspec>
+						<materialspec label="negativenumber">M275</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Flower sellers, Maltrata</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13214</materialspec>
+						<materialspec label="negativenumber">M329</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Selling fruit at railway station, Maltrata, between Mexico City and Vera Cruz</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13176</materialspec>
+						<materialspec label="negativenumber">M183</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Leaving for Vera Cruz, Buena Vista Station, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13168</materialspec>
+						<materialspec label="negativenumber">M175</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Pottery store, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13169</materialspec>
+						<materialspec label="negativenumber">M176</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Public wash house, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13171</materialspec>
+						<materialspec label="negativenumber">M178</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Native huts</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13172</materialspec>
+						<materialspec label="negativenumber">M179</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Cloth market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13173</materialspec>
+						<materialspec label="negativenumber">M180</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Umbrellas over merchandise, cloth market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13174</materialspec>
+						<materialspec label="negativenumber">M181</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>“Restaurant” on city street, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13175</materialspec>
+						<materialspec label="negativenumber">M182</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Woman and child, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13178</materialspec>
+						<materialspec label="negativenumber">M185</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Pulque shop, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13179</materialspec>
+						<materialspec label="negativenumber">M186</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Street scene, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13180</materialspec>
+						<materialspec label="negativenumber">M187</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Street markets, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13181</materialspec>
+						<materialspec label="negativenumber">M188</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Native market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13183</materialspec>
+						<materialspec label="negativenumber">M190</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Cloth market, Mexico city</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13184</materialspec>
+						<materialspec label="negativenumber">M191</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Children, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13185</materialspec>
+						<materialspec label="negativenumber">M192</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Group under trees</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13189</materialspec>
+						<materialspec label="negativenumber">M196</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Old market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13190</materialspec>
+						<materialspec label="negativenumber">M197</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Donkeys loaded with baled hay on road to Cayeran</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13191</materialspec>
+						<materialspec label="negativenumber">M198</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Donkeys loaded with vegetables, Paseo de la Viga, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13192</materialspec>
+						<materialspec label="negativenumber">M199</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Boy on loaded donkey, on road to Churubusco</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13193</materialspec>
+						<materialspec label="negativenumber">M200</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Boy on donkey</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13194</materialspec>
+						<materialspec label="negativenumber">M201</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Flower market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M241</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Flower market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M245</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Flower market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M246</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Street booths, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M248</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Hat market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M249</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Common market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M250</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Public letter writers, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M251</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Flower market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M255</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Entrance to Thieves Market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M257</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Flower market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M258</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Common markets, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M259</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Public letter writers, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M261</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Flower market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M264</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Native huts, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M268</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>Common markets, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M276</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Common market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M277</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>66</unitid>
+						<unittitle>Flower market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M279</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>67</unitid>
+						<unittitle>Native huts, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M280</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>68</unitid>
+						<unittitle>Flower market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M308</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>69</unitid>
+						<unittitle>Public letter writers, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M310</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>70</unitid>
+						<unittitle>Woman with baby on back, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M314</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>71</unitid>
+						<unittitle>Woman with baby on back, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M319</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>72</unitid>
+						<unittitle>Native huts, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M320</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>73</unitid>
+						<unittitle>Street sweeper, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M322</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>74</unitid>
+						<unittitle>Guards at entrance to National Palace, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M323</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>75</unitid>
+						<unittitle>Frank R. Roberson and party in automobile, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M325</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>76</unitid>
+						<unittitle>Native huts, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13211</materialspec>
+						<materialspec label="negativenumber">M330</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>77</unitid>
+						<unittitle>Urchin in streets, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13212</materialspec>
+						<materialspec label="negativenumber">M256</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>78</unitid>
+						<unittitle>Goats and cattle by roadside near Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13212</materialspec>
+						<materialspec label="negativenumber">M265</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>79</unitid>
+						<unittitle>Woman washing clothes by roadside near Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13212</materialspec>
+						<materialspec label="negativenumber">M269</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>80</unitid>
+						<unittitle>Goats and cattle by roadside near Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13212</materialspec>
+						<materialspec label="negativenumber">M302</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>81</unitid>
+						<unittitle>Hat market, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M239</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>82</unitid>
+						<unittitle>Street scene, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M252</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>83</unitid>
+						<unittitle>Public letter writers, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M253</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>84</unitid>
+						<unittitle>Train entering cut on railroad between Mexico City and Vera Cruz</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13195</materialspec>
+						<materialspec label="negativenumber">M202</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>85</unitid>
+						<unittitle>Train rounding curve between Mexico City and Vera Cruz</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13196</materialspec>
+						<materialspec label="negativenumber">M203</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>86</unitid>
+						<unittitle>End of Canal Nacional, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13208</materialspec>
+						<materialspec label="negativenumber">M215</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>87</unitid>
+						<unittitle>Canal Nacional, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13209</materialspec>
+						<materialspec label="negativenumber">M216</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>88</unitid>
+						<unittitle>Horseman by Canal Nacional, Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1201" type="box">1201</container>
+						<materialspec label="index">13212</materialspec>
+						<materialspec label="negativenumber">M312</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1201 -->
+			<!-- Box 1202 -->
+			<c01>
+				<note>Box 1202</note>
+				<did>
+					<unitid>2.1.1.1.15</unitid>
+					<unittitle>Mexico</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Candle shop outside of church, Guadalupe</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13170</materialspec>
+						<materialspec label="negativenumber">M177</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Children coming out of church, Guadalupe</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13186</materialspec>
+						<materialspec label="negativenumber">M193</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Venders of cakes and water near the Chapel of the Well, Guadalupe</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13187</materialspec>
+						<materialspec label="negativenumber">M194</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Street venders of tortillas, Guadalupe</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13188</materialspec>
+						<materialspec label="negativenumber">M195</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Beggars, Guadalupe</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13212</materialspec>
+						<materialspec label="negativenumber">M243</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Beggars, Guadalupe</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13212</materialspec>
+						<materialspec label="negativenumber">M244</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Stone mast and sails, Guadalupe</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13212</materialspec>
+						<materialspec label="negativenumber">M287</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Trolley car, Córdoba</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13214</materialspec>
+						<materialspec label="negativenumber">M272</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Rurales (mounted police), Córdoba</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13214</materialspec>
+						<materialspec label="negativenumber">M274</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Rurales, Córdoba</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13214</materialspec>
+						<materialspec label="negativenumber">M326</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Rurales, mounted police, Orizaba</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M328</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Frank R. Roberson and pulque plant, near Mexico City</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13212</materialspec>
+						<materialspec label="negativenumber">M283</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>First class railway coach, Frank R. Roberson at window</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13198</materialspec>
+						<materialspec label="negativenumber">M205</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Natives by railroad train</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13199</materialspec>
+						<materialspec label="negativenumber">M206</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Rurales, native police</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13205</materialspec>
+						<materialspec label="negativenumber">M212</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Native huts</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13214</materialspec>
+						<materialspec label="negativenumber">M266</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Burro in doorway</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13214</materialspec>
+						<materialspec label="negativenumber">M305</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Trolley car</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13214</materialspec>
+						<materialspec label="negativenumber">M331</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Bull fight</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M218</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Dead horse in ring</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M220</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Bull fight</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M222</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Bull fight</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M231</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Bull fight</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M233</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Bull fight</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1202" type="box">1202</container>
+						<materialspec label="index">13216</materialspec>
+						<materialspec label="negativenumber">M237</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1202 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

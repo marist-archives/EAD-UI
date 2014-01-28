@@ -1,0 +1,5594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Arabia</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.1.1</unitid>
+		<unittitle>Arabia</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		<!-- Box 1331 -->
+<c01>
+<note>Box 1331</note>
+<did>
+<unitid>2.1.2.1.1</unitid>
+<unittitle>Arabia</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Arabian “Hindu”  bathing on deck of S.S. Ozarda	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-2	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Half of the nationalities represented on the S.S. Ozarda	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-3	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>3</unitid>
+<unittitle>Sheep on board deck of S.S. Ozarda [With Lawrence in Arabia caption: Our fellow passengers crossing the Red Sea]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-5	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Sheep on board deck of S.S. Ozarda [With Lawrence in Arabia caption: Our fellow passengers crossing the Red Sea]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-5	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Sudanese sailor and sheep	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-7	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Sudanese sailor and sheep	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-7	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Sudanese sailor and sheep	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-7	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Scotch Highlander cooking on deck of S.S. Ozarda	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-8	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Scottish soldier and African on board deck of S.S. Ozarda	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-9	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Wadi Araba, caravan in distance	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-14	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Caravan in Wadi Araba, Lowell Thomas on camel in foreground with back to camera	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-16	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Camel caravan in Wadi Araba, Lowell Thomas on camel in foreground [With Lawrence in Arabia caption: A camel caravan in the Wadi Arabia]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-17	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Wadi Ithm [?]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-18	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>British soldiers in automobile talking to Bedouins	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-20	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Camels and Arabs in Wadi Ithm [With Lawrence in Arabia caption:  “Sidi” Lawrence and his “Sons”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-21	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Arab prison camp, guard with rifle in foreground	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-24	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Bedouin department store	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-27 	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Bedouin department store	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-27	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Bedouin Department store	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-29	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Jedda from sea	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-35	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Jedda from sea	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-35	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Masts of ships at Jedda	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-36	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Eve’s Tomb, Jedda [With Lawrence in Arabia caption: The last resting-place of the Mother of us all]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-40	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Large hotel, Jedda [With Lawrence in Arabia caption: The Waldorf-Astoria of Arabia-including 200 rooms with accommodations for 1000 guests with all the latest Arabian conveniences excepting bath, ‘phone, light, heat, or service]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-41	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Large hotel, Jedda [With Lawrence in Arabia caption: The Waldorf-Astoria of Arabia-including 200 rooms with accommodations for 1000 guests with all the latest Arabian conveniences excepting bath, ‘phone, light, heat, or service]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-41	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Large hotel, Jedda [With Lawrence in Arabia caption: The Waldorf-Astoria of Arabia-including 200 rooms with accommodations for 1000 guests with all the latest Arabian conveniences excepting bath, ‘phone, light, heat, or service]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-41	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>T. E. Lawrence standing, three quarter length [With Lawrence in Arabia caption: The archeologist and poet who turned soldier]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-42	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>T. E. Lawrence standing, three quarter length [With Lawrence in Arabia caption: The archeologist and poet who turned soldier]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-42	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>T. E. Lawrence standing, three quarter length [With Lawrence in Arabia caption: The archeologist and poet who turned soldier]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-42	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>T. E. Lawrence standing outdoors on a prayer rug [With Lawrence in Arabia caption: Lawrence in front of his headquarters tent]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-44	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>T. E. Lawrence, D. G. Hogarth, Allan Dawnay, full figure [With Lawrence in Arabia caption: Colonel Lawrence conferring with Commander D. G. Hogarth, one of his advisers at the Arab Bureau in Cairo	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-45	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>T. E. Lawrence in British uniform, grinning, three quarter figure [With Lawrence in Arabia caption: Lawrence at headquarters in Cairo]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-45B	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>T. E. Lawrence in British uniform, full figure	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-45C	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>T. E. Lawrence on camel	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-46	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>T. E. Lawrence and his bodyguard in the desert [With Lawrence in Arabia caption: “Sidi” Lawrence and his “Sons”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-47	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>T. E. Lawrence and two Syrian advisors [With Lawrence in Arabia caption: Lawrence confers with Arab Nationalists leaders from Bagdad and Damascus]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1331" type="box">1331</container>
+<materialspec label="index">1-48	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1331 -->
+<!-- Box 1332 -->
+<c01>
+<note>Box 1332</note>
+<did>
+<unitid>2.1.2.1.1</unitid>
+<unittitle>Arabia</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>T. E. Lawrence and six of his British staff in front of tent [With Lawrence in Arabia caption: T. E. Lawrence in chair surrounded by members of his British staff]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-49	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>T. E. Lawrence and six of his British staff in front of tent [With Lawrence in Arabia caption: T. E. Lawrence in chair surrounded by members of his British staff]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-49	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>T. E. Lawrence in white robe, ends of headdress back over shoulders, hands clasped, sword at waist, three quarter length [With Lawrence in Arabia caption: In his white robes Lawrence looked like a prophet]	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-50	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>T. E. Lawrence in white robe, ends of headdress back over shoulders, hands clasped, sword at waist, three quarter length [With Lawrence in Arabia caption: In his white robes Lawrence looked like a prophet]	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-50	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>T. E. Lawrence in white robe, ends of headdress back over shoulders, hands clasped, sword at waist, three quarter length [With Lawrence in Arabia caption: In his white robes Lawrence looked like a prophet]	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-50	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>T. E. Lawrence in paisley robe, squatting, full-faced, close-up [With Lawrence in Arabia caption: Col. T. E. Lawrence]	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-52	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>T. E. Lawrence in paisley robe, squatting, full-faced, close-up [With Lawrence in Arabia caption: Col. T. E. Lawrence]	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-52	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>T. E. Lawrence in paisley robe, squatting, full-faced, close-up [With Lawrence in Arabia caption: Col. T. E. Lawrence]	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-52	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>T. E. Lawrence sitting on floor, toe of boot showing	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-53	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>T. E. Lawrence in white robe, three quarters front, hands behind back, headdress over shoulders, sword at waist	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-55	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>T. E. Lawrence in white robe, three quarters front, hands behind back, headdress over shoulders, sword at waist	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-55	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>T. E. Lawrence in paisley robe, three quarter view, both hands on sword, full-faced [With Lawrence in Arabia caption: Colonel T. E. Lawrence, the mystery man of Arabia]	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-56	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>T. E. Lawrence in white robe, three quarter view, full-faced, head cloth hanging down [With Lawrence in Arabia caption: “Shereef” Lawrence]	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-57	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>T. E. Lawrence, full length, white robe, sword at waist 	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-62	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>T. E. Lawrence, full length, white robe, sword at waist 	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-62	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>T.E. Lawrence sitting on rug, hand on each knee	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-63	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>T.E. Lawrence kneeling with folded arms	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>T.E. Lawrence, profile	
+</unittitle>
+<unitdate label="Date">circa 1918 - 1921	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Colonel P. C. Joyce, second in command to T. E. Lawrence [With Lawrence in Arabia caption: Colonel Joyce, Commander of the Arab “Regulars”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-64	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Hussein Ibn Ali, King of the Hedjaz [With Lawrence in Arabia caption: King of the Hejaz, “Commander of the Faithful,” and founder of a new Arabian dynasty]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-65	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Hussein Ibn Ali, King of the Hedjaz [With Lawrence in Arabia caption: King of the Hejaz, “Commander of the Faithful,” and founder of a new Arabian dynasty]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-65	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Emir Feisal [With Lawrence in Arabia caption: Emir Feisal, now King of Mesopotamia (Irak)]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-66	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Emir Feisal [With Lawrence in Arabia caption: Emir Feisal, now King of Mesopotamia (Irak)]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-66	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>His Royal Highness Emir Feisal	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-67	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>His Royal Highness Emir Feisal	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-67	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>His Royal Highness Emir Feisal	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-67	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Emir Feisal	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Emir Feisal	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Emir Feisal	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Emir Feisal	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Emir Feisal in British army truck, Lowell Thomas stands at right	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-70	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Emir Feisal in British army truck, Lowell Thomas stands at right	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-70	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Auda Abu Tayi, center, and two brothers [With Lawrence in Arabia caption: Sheik Auda Abu Tayi, the Bedouin Robin Hood]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-71	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Auda Abu Tayi, center, and two brothers [With Lawrence in Arabia caption: Sheik Auda Abu Tayi, the Bedouin Robin Hood]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-71	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Mohammed Abu Tayi	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-72	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Emir Feisal on horse	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1332" type="box">1332</container>
+<materialspec label="index">1-73	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1332 -->
+<!-- Box 1333 -->
+<c01>
+<note>Box 1333</note>
+<did>
+<unitid>2.1.2.1.1</unitid>
+<unittitle>Arabia</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Emir Feisal on horse	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-73	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Mounted Bedouins [With Lawrence in Arabia caption: Bedouin “Irregulars” ready for a raid on the Turks]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-74	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Mounted Bedouins [With Lawrence in Arabia caption: Bedouin “Irregulars” ready for a raid on the Turks]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-74	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Bedouin with curls [see 1-80] [With Lawrence in Arabia caption: A brigand from Jebel Druz]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-77	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Bedouin with curls [see 1-80] [With Lawrence in Arabia caption: A brigand from Jebel Druz]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-77	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Arab man [With Lawrence in Arabia caption: A Sheik of Araby]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-78	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Arab man [With Lawrence in Arabia caption: A Sheik of Araby]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-78	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Arab man [With Lawrence in Arabia caption: A Sheik of Araby]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-78	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Bedouin sheik on horse [With Lawrence in Arabia caption: Tallal El-Hareidhin of Tafas]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-79	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Bedouin sheik on horse [With Lawrence in Arabia caption: Tallal El-Hareidhin of Tafas]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-79	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Bedouin with curls holding rifle [With Lawrence in Arabia caption: An Arab Apollo]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-80	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Bedouin with curls holding rifle [With Lawrence in Arabia caption: An Arab Apollo]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-80	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Druses from Hauran [With Lawrence in Arabia caption: Druses from the Hauran]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-81	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Druses from Hauran [With Lawrence in Arabia caption: Druses from the Hauran]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-81	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Crowd of Bedouins squatting and standing, Solomon’s Mountains in background	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-82	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Bedouin barber shop at an oasis	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-83	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Scottish soldiers and Arabs at Akaba	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-84	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Head of Gulf of Akaba from shore, two ships in distance	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-85	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>British cruiser off Arabian coast, man in foreground	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-86	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Akaba waterfront [With Lawrence in Arabia caption: Shore-line at the head of the Gulf of Akaba]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-87	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Akaba waterfront [With Lawrence in Arabia caption: Shore-line at the head of the Gulf of Akaba]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-87	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Squatting Bedouins, close-up, with camels at Akaba	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-90 	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Mazuk, vain Bedouin on Emir Feisal’s staff	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-91	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Distant view of camp beneath cliff at Gueira, Arab men standing in left foreground	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-92	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Abyssinian followers of Emir Feisal	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-94	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Arab cavalry under Malud Bey [With Lawrence in Arabia caption: Malud Bey and his Arab cavalry]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-97	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Arab cavalry under Malud Bey [With Lawrence in Arabia caption: Malud Bey and his Arab cavalry]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-97	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Arab cavalry under Malud Bey [With Lawrence in Arabia caption: Malud Bey and his Arab cavalry]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-97	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Dinner party, left to right: Nuri Pasha, Auda Abu Tayi, Emir Feisal, Lowell Thomas	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-98	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Dinner party, left to right: Nuri Pasha, Auda Abu Tayi, Emir Feisal, Lowell Thomas	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-98	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Dinner party, left to right: Nuri Pasha, Auda Abu Tayi, Emir Feisal, Lowell Thomas	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-98	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Emir Feisal and Lowell Thomas using field glasses to watch a battle at Maan	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-100	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Arab regular army drawn up at foot of hill	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-101	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Three armored cars in silhouette at sunset [With Lawrence in Arabia caption: Armored cars in holy Arabia]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-102	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Arab battery in action, sunset, fighting near Damascus [With Lawrence in Arabia caption: Lawrence’s mountain guns in action]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-104	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Arab battery in action, sunset, fighting near Damascus [With Lawrence in Arabia caption: Lawrence’s mountain guns in action]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1333" type="box">1333</container>
+<materialspec label="index">1-104	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1333 -->
+<!-- Box 1334 -->
+<c01>
+<note>Box 1334</note>
+<did>
+<unitid>2.1.2.1.1</unitid>
+<unittitle>Arabia</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Arab battery, not firing	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-105	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Little Arab boy with rifle	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-108	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Little Arab boy with rifle	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-108	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Little Arab boy with rifle	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-108	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Bedouin boy on right	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-109	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Jaffar Pasha addressing officers	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-110	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Jaffar Pasha addressing officers	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-110	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Bedouin cavalry and British armored cars in desert	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-111	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>General Nuri Pasha with staff and flag	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-112	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>General Nuri Pasha and staff greeting Lowell Thomas	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-115	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Five Bedouin horsemen	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-117	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Mountains of Edom near Petra, Lowell Thomas’s caravan in foreground [With Lawrence in Arabia caption: Our caravan approaching the “Lost City”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-118	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Mountains of Edom near Petra, Lowell Thomas’s caravan in foreground [With Lawrence in Arabia caption: Our caravan approaching the “Lost City”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-118	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Mountains of Edom, sunset [With Lawrence in Arabia caption: Sunset over the mountain of Edom]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-120	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Mountains of Edom, sunset, near view	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-121	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Valley twelve miles wide running toward Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-122	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Lowell Thomas having tea at Wadi Musa	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-125	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Old Bedouin with pipe	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-127	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Old Bedouin with pipe	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-127	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Wadi Musa Bedouins	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-128	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Roman soldiers’ tomb [With Lawrence in Arabia caption: “The tomb of the Roman soldiers”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-129	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Roman soldiers’ tomb [With Lawrence in Arabia caption: “The tomb of the Roman soldiers”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-129	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Roman soldiers’ tomb [With Lawrence in Arabia caption: “The tomb of the Roman soldiers”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-129	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Arab sheik on horse in front of tent, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-134	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Temple of Isis (The Deir) from gorge, Arab in foreground, Petra [With Lawrence in Arabia caption: A rose-red temple carved like a cameo from the face of the mountain]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-138	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Temple of Isis (The Deir) from gorge, Arab in foreground, Petra [With Lawrence in Arabia caption: A rose-red temple carved like a cameo from the face of the mountain]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-138	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Temple of Isis (The Deir) from gorge, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-139	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Temple of Isis (The Deir) from gorge, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-139	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Temple of Isis (The Deir), men at foot of columns, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-140	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Temple of Isis (The Deir), men at foot of columns, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-140	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Temple of Isis (The Deir), men at foot of columns, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-140	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Temple of Isis (The Deir), men at foot of columns, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-140	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>In gorge approaching Petra, man sitting in foreground	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-144	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>In gorge approaching Petra, man sitting in foreground	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-144	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Temple of Isis (The Deir), camels among columns, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-145	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Temple of Isis (The Deir), camels among columns, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1334" type="box">1334</container>
+<materialspec label="index">1-145	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1334 -->
+<!-- Box 1335 -->
+<c01>
+<note>Box 1335</note>
+<did>
+<unitid>2.1.2.1.1</unitid>
+<unittitle>Arabia</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Lowell Thomas on camel under column at the Temple of Isis, Petra [With Lawrence in Arabia caption: We rode into the Auditorium on our camels]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">1-146	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Temple of Isis (The Deir), bushes in foreground, Petra [With Lawrence in Arabia caption: “Pharaoh’s Temple” or the “Temple of Isis”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">1-147	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Temple of Isis (The Deir), bushes in foreground, Petra [With Lawrence in Arabia caption: “Pharaoh’s Temple” or the “Temple of Isis”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">1-147	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Temple of Isis (The Deir), bushes in foreground, Petra [With Lawrence in Arabia caption: “Pharaoh’s Temple” or the “Temple of Isis”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">1-147	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Temple of Isis (The Deir)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Temple of Isis (The Deir)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Temple of Isis (The Deir)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Temple of Isis (The Deir)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Temple of Isis (The Deir)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Temple of Isis (The Deir)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Temple of Isis (The Deir)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Temple of Isis (The Deir)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Temple of Isis (The Deir)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Tomb at Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Tomb at Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1335" type="box">1335</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1335 -->
+<!-- Box 1336 -->
+<c01>
+<note>Box 1336</note>
+<did>
+<unitid>2.1.2.1.1</unitid>
+<unittitle>Arabia</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Lowell Thomas drinking in a gorge near Petra [With Lawrence in Arabia caption: The narrow defile that leads to the “Lost City”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-148	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Lowell Thomas drinking in a gorge near Petra [With Lawrence in Arabia caption: The narrow defile that leads to the “Lost City”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-148	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Man on camel in gorge near Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-149	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Harry Chase in front of tent, Petra [With Lawrence in Arabia caption: Chase reads the Koran while Mohammed in the background takes aim at a circling hawk]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-150	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Harry Chase in front of tent, Petra [With Lawrence in Arabia caption: Chase reads the Koran while Mohammed in the background takes aim at a circling hawk]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-150	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Harry Chase in front of tent, Petra [With Lawrence in Arabia caption: Chase reads the Koran while Mohammed in the background takes aim at a circling hawk]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-150	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Lowell Thomas having dinner in front of tent, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-151	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Lowell Thomas having dinner in front of tent, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-151	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Unfinished temples, Petra, man in foreground 	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-152	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Side view, temples in cliffs near camp, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-153	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Side view, temples in cliffs near camp, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-153	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Amphitheatre [With Lawrence in Arabia caption: An amphitheatre hewn out of the mountain]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-154	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Amphitheatre [With Lawrence in Arabia caption: An amphitheatre hewn out of the mountain]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-154	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Small hill covered with temples, man in foreground	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-155	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Face in cliff, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-157	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Temple at end of bridge, distant, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-158	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Temple at end of bridge, distant, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-158	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Temple at end of bridge, close-up, Temple of Urn, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-159	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Governor’s tomb, soldier in foreground, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-160	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Governor’s tomb, soldier in foreground, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-160	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Poppy, close-up	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-161	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Bedouin and Poppy	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-163	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Three men lying among flowers, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-164	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Three men lying among flowers, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1336" type="box">1336</container>
+<materialspec label="index">1-164	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1336 -->
+<!-- Box 1337 -->
+<c01>
+<note>Box 1337</note>
+<did>
+<unitid>2.1.2.1.1</unitid>
+<unittitle>Arabia</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Australian soldier with rifle	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-166	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Bedouin bathing in altar	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-167	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Bedouin bathing in altar	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-167	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Lowell Thomas and Australian soldier at altar [With Lawrence in Arabia caption:  We found altars and places of sacrifice on some of the mountains above Petra]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-168	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Lowell Thomas and Australian soldier at altar [With Lawrence in Arabia caption:  We found altars and places of sacrifice on some of the mountains above Petra]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-168	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Phallic monolith	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-170	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Phallic monolith, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-171	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Lowell Thomas watches as Arabs play tag around phallic monolith, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-172	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Mount Hor, three men in foreground, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-173	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Tomb discovered by accident, Petra	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-181	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Rock waves [With Lawrence in Arabia caption: The rock seemed to swirl like watered silk]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-182	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Bedouin family living in Petra Palace	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-185	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Bedouin family living in Petra Palace	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-185	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Two Arab men with pistols [With Lawrence in Arabia caption: “Drinkers of the milk of war”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-191	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>The Kaaba, Mecca, crowd, fort in distance [With Lawrence in Arabia caption: The mosque of the holy Kaaba]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-192	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>The Kaaba, Mecca, crowd, fort in distance [With Lawrence in Arabia caption: The mosque of the holy Kaaba]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-192	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>The Kaaba Mecca	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>The Kaaba Mecca	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>The Kaaba Mecca	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>The Kaaba Mecca	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>The Kaaba Mecca	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>The Kaaba Mecca	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>The Kaaba Mecca	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>The Kaaba Mecca	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>The Kaaba Mecca	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Mecca, panorama of city (copy from book)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-194	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Medina (copy from book)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-195	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Holy rock, capy from Zwemer	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-197	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>The Kaaba, Mecca, distant view	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-204A	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>The Kaaba, Mecca, distant view	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-204A	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>The Kaaba, Mecca, distant view	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-204A	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>The Kaaba, Mecca, distant view	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-204A	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Dynamited steel bridge, Hedjaz Railway [With Lawrence in Arabia caption: One of the many bridges blown up by Lawrence’s “tulips.”]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-205B	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Map of near East, Petra indicated with big red star	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-206	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Map of near East, Petra indicated with big star	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-206	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Map of near East, Petra indicated with big star	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1337" type="box">1337</container>
+<materialspec label="index">1-206	
+</materialspec>
+<physdesc>
+<extent unit="inches"></extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1337 -->
+<!-- Box 1338 -->
+<c01>
+<note>Box 1338</note>
+<did>
+<unitid>2.1.2.1.1</unitid>
+<unittitle>Arabia</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Sunset, Red Sea, silhouette of caravan	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">1-214	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Sunset, Red Sea, silhouette of caravan	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">1-214	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Panorama of Akaba [With Lawrence in Arabia caption:  Panorama of Akaba]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">1-220	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Panorama of Akaba [With Lawrence in Arabia caption:  Panorama of Akaba]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">1-220	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Panorama of a Bedouin encampment at Akaba [With Lawrence in Arabia caption: A Bedouin encampment]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">1-221	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Panorama of a Bedouin encampment at Akaba [With Lawrence in Arabia caption: A Bedouin encampment]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">1-221	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Palm trees, man carrying two buckets [With Lawrence in Arabia caption: Where the hosts of Israel are said to have terminated the passage of the Red Sea]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">1-222	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Palm trees, man carrying two buckets [With Lawrence in Arabia caption: Where the hosts of Israel are said to have terminated the passage of the Red Sea]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">1-222	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Palm trees, sea, sunset, silhouette of man [With Lawrence in Arabia caption: Date-palms along the coral shore of Araby]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">1-223	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Palm trees, sea, sunset, silhouette of man [With Lawrence in Arabia caption: Date-palms along the coral shore of Araby]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">1-223	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Man sits on kneeling camel	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>The salt lagoon in Jezirat Faraun, Akaba	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3.25x3.25	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>The salt lagoon in Jezirat Faraun, Akaba	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3.25x3.25	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Auda Abu Tayi	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Three people and camels in the Arabian desert	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Three people and camels in the Arabian desert	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1338" type="box">1338</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1338 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

@@ -1,0 +1,213 @@
+@import url("main.css");
+
+#bodyContent
+{
+	margin-bottom: 130px;
+}
+
+div#requestsAndRequestsDetailPane 
+{
+   display: block;
+    height: 306px;
+    width: 700px;	
+}
+
+div.updateAll
+{
+	margin-bottom:5px;
+}
+
+div#requests 
+{
+	float: left;
+    height: 100%;
+	width: auto;
+	overflow: auto;	
+}
+
+div#requestDetails
+{
+    height: 100%;
+    width: 80%;	
+}
+
+table#requestDetails th
+{
+	text-align: left;
+}
+
+table#requests th
+{
+	padding-right: 20px;
+}
+
+.btnRequestId
+{
+	background-color: gray;
+	color: white;
+}
+
+input#logout
+{
+	float: right;
+	position: absolute;
+	right: -1px;
+	top: 123px;
+}
+
+.request_Id
+{
+	font-size: 20px;
+	color: black;
+}
+
+table th
+{
+	font-size: 14px;
+	font-weight: normal;
+	color: #f9f7f8;
+	padding: 12px 15px;
+	background: #b41b1d;
+	border-color: white;
+	border-collapse: collapse;
+}
+
+table td
+{
+	background: #f4f4f4;
+	border-color: white;
+	border-collapse: collapse;
+	border-style: solid;
+	border-width: 1px;
+	padding-left: 20px;
+	padding: 12px 15px;
+	color: #808182;
+}
+
+table
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	text-align: left;
+	border-collapse: collapse;
+	border-color: Gray;
+	border-style: solid;
+	border-width: 1px;
+}
+
+select
+{
+	background: #eff3ff;
+	color: #828E8A;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+}
+
+input#txt_CoNumber
+{
+	background: #eff3ff;
+	color: #828E8A;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 28px;
+}
+
+input#newConfNumber, input#logout, input#btnUpdate, input#confSubmit, input#btnSelectAllOption, input#printReservation
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 15px;
+	background: #808182;
+	border-bottom: 1px solid #2382C5;
+	color: White;
+	padding: 7px 15px;
+	
+}
+
+input#printReservation
+{
+	margin-left: 25px;
+}
+
+input#btnSelectAllOption, input#btnUpdate
+{
+	font-size: 12px;
+	padding: 3px 11px;
+}
+
+input#btnUpdate
+{
+	width: 84px;
+}
+
+input#newConfNumber
+{
+	margin-bottom: 20px;
+}
+
+label
+{
+	color: #828E8A;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 28px;
+	margin-right: 40px;
+}
+
+#confContainer
+{
+	margin-top:40px;
+	margin-bottom: 150px;
+}
+/*
+table th
+{
+	font-size: 14px;
+	font-weight: normal;
+	color: #039;
+	padding: 12px 15px;
+	background: #D0DAFD;
+	border-color: white;
+	border-collapse: collapse;
+}
+
+table td
+{
+	background: #eff3ff;
+	border-color: white;
+	border-collapse: collapse;
+	border-style: solid;
+	border-width: 1px;
+	padding-left: 20px;
+	padding: 12px 15px;
+	color: #828E8A;
+}
+
+table
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	text-align: left;
+	border-collapse: collapse;
+	border-color: white;
+}
+
+select
+{
+	background: #eff3ff;
+	color: #828E8A;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+}
+
+
+input#newConfNumber, input#logout, input#btnUpdate
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 15px;
+	background: #a1c2e5;
+	border-bottom: 1px solid #2382C5;
+	color: White;
+	padding: 12px 15px;
+	margin-bottom: 20px;
+}
+*/
+
+

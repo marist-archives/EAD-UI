@@ -1,0 +1,2678 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/ireland2.1.1.1.12.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Ireland</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.12</unitid>
+			<unittitle>Ireland</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1188 -->
+			<c01>
+				<note>Box 1188</note>
+				<did>
+					<unitid>2.1.1.1.12</unitid>
+					<unittitle>Ireland</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>85</unitid>
+						<unittitle>Giants Causeway looking toward sea</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">21011</materialspec>
+						<materialspec label="negativenumber">927</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>86</unitid>
+						<unittitle>Giants Causeway, old lady and wishing well</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">21012</materialspec>
+						<materialspec label="negativenumber">919</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>87</unitid>
+						<unittitle>Honeycomb formation, Giants Causeway</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">21013</materialspec>
+						<materialspec label="negativenumber">920</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>88</unitid>
+						<unittitle>General view, honeycomb formation, Giants causeway</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">21014</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>89</unitid>
+						<unittitle>Chimney tops, Giants Causeway</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">21016</materialspec>
+						<materialspec label="negativenumber">926</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>90</unitid>
+						<unittitle>Frank R. Roberson and Mrs. Jessie W. Roberson in the wishing chair, Giants Causeway</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">21018</materialspec>
+						<materialspec label="negativenumber">922</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1188 -->
+			<!-- Box 1189 -->
+			<c01>
+				<note>Box 1189</note>
+				<did>
+					<unitid>2.1.1.1.12</unitid>
+					<unittitle>Ireland</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Lord Antrun’s parlor, Giants Causeway</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21019</materialspec>
+						<materialspec label="negativenumber">923</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Giants loom, Giants Causeway</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21020</materialspec>
+						<materialspec label="negativenumber">925</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Grand Causeway, Giants Causeway</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21021</materialspec>
+						<materialspec label="negativenumber">928</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>“Glynn” village near Larne</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21000</materialspec>
+						<materialspec label="negativenumber">912</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>City Hall, Belfast</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21001</materialspec>
+						<materialspec label="negativenumber">913</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>City Hall with statue of Queen Victoria, Belfast</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21002</materialspec>
+						<materialspec label="negativenumber">914</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Monuments in front of City Hall, Belfast</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21003</materialspec>
+						<materialspec label="negativenumber">915</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Chickens in cart, near Belfast</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21004</materialspec>
+						<materialspec label="negativenumber">916</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Lakes from Glengariff Road, close-up, near Killarney</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21092</materialspec>
+						<materialspec label="negativenumber">991</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Peat bogs, showing stacking, North Ireland</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21007</materialspec>
+						<materialspec label="negativenumber">16-918</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Peat bogs, small stacks, North Ireland</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21008</materialspec>
+						<materialspec label="negativenumber">918</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Peat bogs along roadside, Frank R. Roberson, North Ireland</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21009</materialspec>
+						<materialspec label="negativenumber">14-918</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Peat stored along roadside, with automobile, North Ireland</unittitle>
+						<unitdate label="Date">1912 August 1</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21010</materialspec>
+						<materialspec label="negativenumber">15-918</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Child on haystack, North Ireland</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21035</materialspec>
+						<materialspec label="negativenumber">939</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Load of peat, near Drumcliff</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21037</materialspec>
+						<materialspec label="negativenumber">940</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Hayfield in front of mountain, near Drumcliff</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21038</materialspec>
+						<materialspec label="negativenumber">941</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Hayfield near Drumcliff</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21039</materialspec>
+						<materialspec label="negativenumber">942</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Scenic, Killary Harbor near clifden, road to recess</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21041</materialspec>
+						<materialspec label="negativenumber">944</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Road, Killary Harbor and sheep, on Slego to Recess</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21042</materialspec>
+						<materialspec label="negativenumber">945</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Bough near Clifden Connemara</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21043</materialspec>
+						<materialspec label="negativenumber">946</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Barnesmore gap and lake</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21027</materialspec>
+						<materialspec label="negativenumber">933</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Barnesmore farm house</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21028</materialspec>
+						<materialspec label="negativenumber">934</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Countryside view, near Stranorlar</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21023</materialspec>
+						<materialspec label="negativenumber">930</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Heather</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21025</materialspec>
+						<materialspec label="negativenumber">932</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Neplain mountain near Westport, Northwestern Ireland</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21040</materialspec>
+						<materialspec label="negativenumber">943</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Lakes from Glengariff Road, taken from hillside, Killarney</unittitle>
+						<unitdate label="Date">1912 August 2</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21098</materialspec>
+						<materialspec label="negativenumber">998</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Kylemore Castle near Letterfrack County Connemara</unittitle>
+						<unitdate label="Date">1912 August 4</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21044</materialspec>
+						<materialspec label="negativenumber">947</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>View of Lough and mountains at Recess</unittitle>
+						<unitdate label="Date">1912 August 4</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21045</materialspec>
+						<materialspec label="negativenumber">948</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Road scene near Limerick</unittitle>
+						<unitdate label="Date">1912 August 4</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21046</materialspec>
+						<materialspec label="negativenumber">949</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>General view of River Shannon with old castle, Limerick</unittitle>
+						<unitdate label="Date">1912 August 5</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21047</materialspec>
+						<materialspec label="negativenumber">950</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Looking down the River Shannon, Limerick</unittitle>
+						<unitdate label="Date">1912 August 5</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21048</materialspec>
+						<materialspec label="negativenumber">951</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Castle from bridge, Limerick</unittitle>
+						<unitdate label="Date">1912 August 5</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21049</materialspec>
+						<materialspec label="negativenumber">952</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Towers of King John’s Castle, Limerick</unittitle>
+						<unitdate label="Date">1912 August 5</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21050</materialspec>
+						<materialspec label="negativenumber">953</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Patrick Street, Limerick</unittitle>
+						<unitdate label="Date">1912 August 5</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21051</materialspec>
+						<materialspec label="negativenumber">955</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Patrick Street from Crescent, Limerick</unittitle>
+						<unitdate label="Date">1912 August 5</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21052</materialspec>
+						<materialspec label="negativenumber">956</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Perry Square, Limerick</unittitle>
+						<unitdate label="Date">1912 August 5</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21053</materialspec>
+						<materialspec label="negativenumber">957</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Frank R. Roberson and Mrs. Jessie W. Roberson sitting in cart</unittitle>
+						<unitdate label="Date">1912 August 5</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21054</materialspec>
+						<materialspec label="negativenumber">958</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>St. Mary’s Cathedral, Limerick</unittitle>
+						<unitdate label="Date">1912 August 5</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21169</materialspec>
+						<materialspec label="negativenumber">954</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Pastoral scene near Killarney</unittitle>
+						<unitdate label="Date">1912 August 5</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21055</materialspec>
+						<materialspec label="negativenumber">959</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Close-up of Muckross Abbey, Killarney</unittitle>
+						<unitdate label="Date">1912 August 5</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21056</materialspec>
+						<materialspec label="negativenumber">23-959</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Road scene in Barnesmore Gap</unittitle>
+						<unitdate label="Date">1912 August 6</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21029</materialspec>
+						<materialspec label="negativenumber">935</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Road scene and view of Barnesmore Gap</unittitle>
+						<unitdate label="Date">1912 August 6</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21030</materialspec>
+						<materialspec label="negativenumber">10-935</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Mountains and road, Barnesmore Gap</unittitle>
+						<unitdate label="Date">1912 August 6</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21031</materialspec>
+						<materialspec label="negativenumber">11-935</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>View of Muckross Lake from drive, Killarney</unittitle>
+						<unitdate label="Date">1912 August 6</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21057</materialspec>
+						<materialspec label="negativenumber">959</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Brickeen Bridge between middle and lower lakes, Killarney</unittitle>
+						<unitdate label="Date">1912 August 6</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21060</materialspec>
+						<materialspec label="negativenumber">959</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Muckross Abbey, general view with graveyard, Killarney</unittitle>
+						<unitdate label="Date">1912 August 6</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21061</materialspec>
+						<materialspec label="negativenumber">22-959</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Street scene, village of Killarney</unittitle>
+						<unitdate label="Date">1912 August 6</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21062</materialspec>
+						<materialspec label="negativenumber">962</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Man standing in doorway of small cottages in village of Killarney</unittitle>
+						<unitdate label="Date">1912 August 6</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21063</materialspec>
+						<materialspec label="negativenumber">962</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Lower Lake and island, Killarney</unittitle>
+						<unitdate label="Date">1912 August 6</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21065</materialspec>
+						<materialspec label="negativenumber">959</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Bawn Rock, Muckross Lake, Frank R. Roberson[?] looking at rocks in lake</unittitle>
+						<unitdate label="Date">1912 August 6</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21074</materialspec>
+						<materialspec label="negativenumber">959</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Road scene near Ballyshannon</unittitle>
+						<unitdate label="Date">1912 August 7</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21031</materialspec>
+						<materialspec label="negativenumber">936</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Hayfields with children near Drumcliff</unittitle>
+						<unitdate label="Date">1912 August 7</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21034</materialspec>
+						<materialspec label="negativenumber">938</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Road scene along Lower Lake to village, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21064</materialspec>
+						<materialspec label="negativenumber">963</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Muckross Abbey, distant view, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21066</materialspec>
+						<materialspec label="negativenumber">965</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Detail of interior of Muckross Abbey, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21067</materialspec>
+						<materialspec label="negativenumber">966</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Lough leave or Lower Lake, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1189" type="box">1189</container>
+						<materialspec label="index">21068</materialspec>
+						<materialspec label="negativenumber">967</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1189 -->
+			<!-- Box 1190 -->
+			<c01>
+				<note>Box 1190</note>
+				<did>
+					<unitid>2.1.1.1.12</unitid>
+					<unittitle>Ireland</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Road along Lower Lake, Muckross Estate, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21070</materialspec>
+						<materialspec label="negativenumber">968</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>View of Lower Lake under trees, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21071</materialspec>
+						<materialspec label="negativenumber">970</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Lough leave or Lower Lake and sheep, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21072</materialspec>
+						<materialspec label="negativenumber">964</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Colonel Vincent’s home, Muckross Estate, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21073</materialspec>
+						<materialspec label="negativenumber">971</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Colleen Baun, rock under trees, Middle Lake, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21075</materialspec>
+						<materialspec label="negativenumber">972</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Looking down Muckross Lake toward Tore Mountains, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21076</materialspec>
+						<materialspec label="negativenumber">973</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Looking up to Weir Bridge and the meeting of the water, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21077</materialspec>
+						<materialspec label="negativenumber">974</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Heather, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21079</materialspec>
+						<materialspec label="negativenumber">976</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Heather, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21080</materialspec>
+						<materialspec label="negativenumber">977</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Ross Castle from road, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21081</materialspec>
+						<materialspec label="negativenumber">979</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Close-up of Ross Castle, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21082</materialspec>
+						<materialspec label="negativenumber">980</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Road to Glengariff, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21083</materialspec>
+						<materialspec label="negativenumber">981</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Where the Upper Lake enters the Long Range, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21085</materialspec>
+						<materialspec label="negativenumber">984</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Road scene to Glengariff near Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21086</materialspec>
+						<materialspec label="negativenumber">978</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Road to Glengariff along Upper Lake, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21087</materialspec>
+						<materialspec label="negativenumber">980</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Upper Lake, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21088</materialspec>
+						<materialspec label="negativenumber">982</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Upper Lake and Arbutus Island, Killarney</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21089</materialspec>
+						<materialspec label="negativenumber">987</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Upper Lake looking toward purple mountains, Killarney Lake</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21090</materialspec>
+						<materialspec label="negativenumber">985</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Tunnel and auto on road along Upper Lake, Killarney[?]</unittitle>
+						<unitdate label="Date">1912 August 8</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21091</materialspec>
+						<materialspec label="negativenumber">988</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>General view of Killarney Lakes</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21093</materialspec>
+						<materialspec label="negativenumber">993</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Frank R. Rosenberg looking at lakes, picture taken from Glengariff Road</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21094</materialspec>
+						<materialspec label="negativenumber">994</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Old Wair Bridge, between Lower and Middle Lake, Killarney Lake</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21095</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>From Glengariff Road looking over Upper Lake, Killarney Lakes</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21096</materialspec>
+						<materialspec label="negativenumber">989</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>From Glengariff Road, Killarney Lakes</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21097</materialspec>
+						<materialspec label="negativenumber">990</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Upper Lake and gap of Dunloe, Killarney</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21099</materialspec>
+						<materialspec label="negativenumber">995</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Lakes from top of Glengariff Road, general view</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21100</materialspec>
+						<materialspec label="negativenumber">996</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Sunset on lake from Glengariff Road</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21101</materialspec>
+						<materialspec label="negativenumber">997</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Street scene, Queenstown</unittitle>
+						<unitdate label="Date">1912 August 10</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21122</materialspec>
+						<materialspec label="negativenumber">1015</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>American training ship “Adams”, Queenstown</unittitle>
+						<unitdate label="Date">1912 August 10</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21124</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Jauntry car, car with feet supports turned up, near Queenstown</unittitle>
+						<unitdate label="Date">1912 August 10</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21125</materialspec>
+						<materialspec label="negativenumber">1018</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Jauntry car, car ready to start, near Queenstown</unittitle>
+						<unitdate label="Date">1912 August 10</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21126</materialspec>
+						<materialspec label="negativenumber">1017</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Jauntry car, rear view of car ready to start, near Queenstown</unittitle>
+						<unitdate label="Date">1912 August 10</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21127</materialspec>
+						<materialspec label="negativenumber">1019</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Jauntry car, car itself in resting position, near Queenstown</unittitle>
+						<unitdate label="Date">1912 August 10</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21128</materialspec>
+						<materialspec label="negativenumber">1020</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Large portrait of Irish child, County Donegal</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21036</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Old Stone bridge between Bantry and Cork</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21102</materialspec>
+						<materialspec label="negativenumber">998</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Old bridge near Bantry, between Bantry and Cork</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21103</materialspec>
+						<materialspec label="negativenumber">999</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Kilkenny Castle on the Nore River, Kilkenny</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21104</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Frank R. Roberson in a quaint corner in Kilkenny, steps leading to St. Canie’s Cathedral, Kilkenny</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21106</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Old castle on River Brandon, near Cork</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21108</materialspec>
+						<materialspec label="negativenumber">1000</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Road along River Brandon, near Cork</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21109</materialspec>
+						<materialspec label="negativenumber">1001</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>St. Finn Barr Cathedral, Cork</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21110</materialspec>
+						<materialspec label="negativenumber">1002</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Detail of doorway, Barr Cathedral, Cork</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21111</materialspec>
+						<materialspec label="negativenumber">1003</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Shandon Church, Cork</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21112</materialspec>
+						<materialspec label="negativenumber">1004</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Road to Blarney, near Cork</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21113</materialspec>
+						<materialspec label="negativenumber">1005</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Frank R. Roberson looking at the Blarney Stone</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21114</materialspec>
+						<materialspec label="negativenumber">1006</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Blarney Castle, parapet from which the stone is reached, Blarney</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21115</materialspec>
+						<materialspec label="negativenumber">1007</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Blarney Castle through the trees, Blarney</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21116</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Blarney Castle and location of Blarney Stone</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21118</materialspec>
+						<materialspec label="negativenumber">1009</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Old Tower near Blarney</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21120</materialspec>
+						<materialspec label="negativenumber">1011</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>The Keep, Blarney Castle</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21121</materialspec>
+						<materialspec label="negativenumber">1012</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Lighthouse, Youghal</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21129</materialspec>
+						<materialspec label="negativenumber">1021</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Clock tower on Main Street, Youghal</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1190" type="box">1190</container>
+						<materialspec label="index">21130</materialspec>
+						<materialspec label="negativenumber">1022</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1190 -->
+			<!-- Box 1191 -->
+			<c01>
+				<note>Box 1191</note>
+				<did>
+					<unitid>2.1.1.1.12</unitid>
+					<unittitle>Ireland</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Cromwell Gate, Youghal</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21131</materialspec>
+						<materialspec label="negativenumber">1023</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Up Blackwater, near Youghal</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21132</materialspec>
+						<materialspec label="negativenumber">1024</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Keep of fortress of Temple Michael, along the Blackwater</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21133</materialspec>
+						<materialspec label="negativenumber">1025</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Road view, near the Blackwater</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21134</materialspec>
+						<materialspec label="negativenumber">1026</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Detail of Ash foliage and fruit near the Blackwater</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21135</materialspec>
+						<materialspec label="negativenumber">1027</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>On the Blackwater near Youghal</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21136</materialspec>
+						<materialspec label="negativenumber">1028</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Lismore Castle from road, Lismore</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21137</materialspec>
+						<materialspec label="negativenumber">1029</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Lismore Castle side view from Gardens, Lismore</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21138</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Lismore Castle from the bridge, Lismore</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21139</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Lismore Castle and the Blackwater, Lismore</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21140</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>The Blackwater at Lismore</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21142</materialspec>
+						<materialspec label="negativenumber">1042</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>The Blackwater near Lismore</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21143</materialspec>
+						<materialspec label="negativenumber">1033</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Entrance to Lismore Castle</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21144</materialspec>
+						<materialspec label="negativenumber">1034</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Main gate of Lismore Castle</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21145</materialspec>
+						<materialspec label="negativenumber">1035-21</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Garden, Lismore Castle</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21146</materialspec>
+						<materialspec label="negativenumber">1036</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Lismore Castle, vertical view</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21148</materialspec>
+						<materialspec label="negativenumber">1038</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Looking down the Blackwater from Lismore Castle</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21149</materialspec>
+						<materialspec label="negativenumber">1042</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Looking up the Blackwater from Lismore Castle</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21150</materialspec>
+						<materialspec label="negativenumber">1041</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>View of Blackwater and country from top of Lismore Castle</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21152</materialspec>
+						<materialspec label="negativenumber">1043</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Down the Blackwater from top of Lismore Castle</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21153</materialspec>
+						<materialspec label="negativenumber">1044</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Reginald’s Tower, Waterford</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21154</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Moore’s tree in Vale of Avoca</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21156</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Bridge near the “Meeting of the water, Vale of Avoca</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21157</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Road in Vale of Avoca</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21158</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Bray’s Head, Bray near Dublin</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21159</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Sackville Street with Nelson Monument, Dublin</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21160</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Sackville Street looking toward Nelson Monument, Dublin</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21161</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Royal bank of Ireland, Dublin</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21162</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Monument to O’Connell, Dublin</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21163</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Statue of Gough in Phoenix Park, Dublin</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21164</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Wellington Column, Phoenix Park, Dublin</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21165</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Phoenix Column, Phoenix Park, Dublin</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21166</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Parnell Statue, Dublin</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21167</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Custom House, Dublin</unittitle>
+						<unitdate label="Date">1912 August</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index">21168</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Chapel Royal, Dublin, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Colleen Bawn Caves, Killarney, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Cottage, Killarney, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">U</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Tunnel near Glengarriff, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Peep hole, Blarney, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">X</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Church Street, Enniskillen, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Turf bog, Ballymena, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">E</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Turf bog, Ballymena, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">7</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Linen bleach green, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Linen bleach green, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Crom Castle ruins, Loucherne, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Strawberry beds, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">T</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Cottages, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">AA</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Crowd of people in streets, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">Y</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Men in boat under bridge, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">Z</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>View of castle through archway, copy</unittitle>
+						<unitdate label="Date">1912 December</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Low back car, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">B</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Fair and easy goes far in a day, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">D</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Man standing in cart, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1191" type="box">1191</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">G</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1191 -->
+			<!-- Box 1192 -->
+			<c01>
+				<note>Box 1192</note>
+				<did>
+					<unitid>2.1.1.1.12</unitid>
+					<unittitle>Ireland</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Man in chair reading, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">H</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Old man in chair, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">I</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Vegetable women, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">J</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Man on stool with stick, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">K</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Killarney colleen, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">M</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Lily of Killarney, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">N</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>She spins while fancy weaves, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">O</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>An Irish colleen, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">P</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Irish black thorns, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>The Coleen bawn, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">S</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Irish colleen, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">BB</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Donegal cottage industries, sprigging and lace making, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">CC</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Three dogs, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">A</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Man and sheep on road, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">C</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Pack of dogs on hill, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">L</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Big dog, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">R</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Sheep, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1192" type="box">1192</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">VV</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1192 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

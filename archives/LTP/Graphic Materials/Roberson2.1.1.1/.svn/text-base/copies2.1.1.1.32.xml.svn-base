@@ -1,0 +1,5370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Copies</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.32</unitid>
+			<unittitle>Copies</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1255 -->
+			<c01>
+				<note>Box 1255</note>
+				<did>
+					<unitid>2.1.1.1.32</unitid>
+					<unittitle>Copies</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>View of ocean and mountains</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Boat near small island</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>View of ocean, land in distance</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>View of sea and sky, land in distance</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Ocean and mountains</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Ocean, land in distance</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Ocean, land in distance</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Man taking picture of children near wall</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Sheep in road</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Woman driving cart</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>View of ocean and shore</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Children running near monument</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Mountains and ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Looking towards forest and shore</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Loading people on small rowboats</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Ocean, land in distance</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Man and two women</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Woman carrying basket on her back</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Sunset over ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Sunset over ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Sunset over ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Sunset over ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Sunset over ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Sunset over ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Sunset over ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Sunset over ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Sunset over ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Three women carrying baskets</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Man wearing hat</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Woman carrying basket on back</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Woman carrying basket on back</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Sunset over ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Automobile next to ship</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Woman squatting next to automobile</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Lifting automobile onto ship</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Two men standing next to cart</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>City skyline</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Ship deck, two men sitting in foreground</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>View of passengers on ship deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Sailors sitting in lifeboats</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Sailors climbing over railing into lifeboats</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Ship smokestack and deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>View of two officers on deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Smokestack</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Passengers on deck, looking over railing</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>View of passengers on ship deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Passengers sitting on reclining chairs</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>View of ship deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Passengers on deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>View of ship deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>Sailors on lifeboat</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Sailors climbing over railing into lifeboat</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>66</unitid>
+						<unittitle>View of ship deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>67</unitid>
+						<unittitle>Sailors sitting in lifeboat</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>68</unitid>
+						<unittitle>Ocean, from ship deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>69</unitid>
+						<unittitle>Ship deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>70</unitid>
+						<unittitle>Smokestack and ship deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>71</unitid>
+						<unittitle>View of officer and deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>72</unitid>
+						<unittitle>Lifeboats and side of ship</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>73</unitid>
+						<unittitle>Distant view of ship</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>74</unitid>
+						<unittitle>View of a boat</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>75</unitid>
+						<unittitle>Passengers on deck, looking over railing</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>76</unitid>
+						<unittitle>Passengers seated on reclining chairs</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>77</unitid>
+						<unittitle>View of ocean from deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>78</unitid>
+						<unittitle>Ship deck and ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>79</unitid>
+						<unittitle>Passengers on reclining chairs</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>80</unitid>
+						<unittitle>Passengers on deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>81</unitid>
+						<unittitle>Passengers sitting in chairs</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>82</unitid>
+						<unittitle>Ships</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>83</unitid>
+						<unittitle>Ship</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>84</unitid>
+						<unittitle>Ship</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>85</unitid>
+						<unittitle>Ship, passenger on deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>86</unitid>
+						<unittitle>Man near railing, looking at ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>87</unitid>
+						<unittitle>Lifting automobile onto ship</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>88</unitid>
+						<unittitle>Deck scene</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>89</unitid>
+						<unittitle>View of ocean from ship deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>90</unitid>
+						<unittitle>Ship deck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>91</unitid>
+						<unittitle>Ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>92</unitid>
+						<unittitle>Ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>93</unitid>
+						<unittitle>Two men playing on rod, crowd watching</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>94</unitid>
+						<unittitle>Two men playing on rod, crowd watching</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>95</unitid>
+						<unittitle>Two men playing on rod, one falling off, crowd watching</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>96</unitid>
+						<unittitle>Two men playing on rod, crowd watching</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>97</unitid>
+						<unittitle>Two men playing on rod, one falling off, crowd watching</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>98</unitid>
+						<unittitle>Two men playing on rod, one falling off, crowd watching</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>99</unitid>
+						<unittitle>Group of children</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>100</unitid>
+						<unittitle>Man wearing hat, close-up</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>101</unitid>
+						<unittitle>Man standing with donkey carrying bundles</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>102</unitid>
+						<unittitle>Old woman</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>103</unitid>
+						<unittitle>Passengers on ship</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>104</unitid>
+						<unittitle>Passengers on ship</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>105</unitid>
+						<unittitle>Passengers on ship</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>106</unitid>
+						<unittitle>Panorama of town</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">3.5x6.75</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>107</unitid>
+						<unittitle>Panorama of factory, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>108</unitid>
+						<unittitle>Automobile in front of Sleepy Hollow Church, Tarrytown, New York</unittitle>
+						<unitdate label="Date">1914 July 22</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">1</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>109</unitid>
+						<unittitle>Sleepy Hollow Bridge, donated by Rockefeller, Tarrytown, New York</unittitle>
+						<unitdate label="Date">1914 July 22</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">2</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>110</unitid>
+						<unittitle>Church and road, Tarrytown, New York</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">3</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>111</unitid>
+						<unittitle>Philipse Manor, Tarrytown, New York</unittitle>
+						<unitdate label="Date">1914 July 22</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">4</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>112</unitid>
+						<unittitle>Entrance and park, Tuxedo, New York</unittitle>
+						<unitdate label="Date">1914 July 23</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">12</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>113</unitid>
+						<unittitle>Church in park, Tuxedo, New York</unittitle>
+						<unitdate label="Date">1914 July 23</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">13</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>114</unitid>
+						<unittitle>George Washington Headquarters (Ford Mansion), Morristown, New Jersey</unittitle>
+						<unitdate label="Date">1914 July 23</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">15</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>115</unitid>
+						<unittitle>Doorway and front of house, George Washington Headquarters, Morristown, New Jersey</unittitle>
+						<unitdate label="Date">1914 July 23</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">16</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>116</unitid>
+						<unittitle>Morristown Golf Club, Morristown, New Jersey</unittitle>
+						<unitdate label="Date">1914 July 24</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">19</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>117</unitid>
+						<unittitle>Mum[?] Avenue, street and automobile, East Orange, New Jersey</unittitle>
+						<unitdate label="Date">1914 July 24</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">20</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>118</unitid>
+						<unittitle>Lawn and automobile, Mum[?] Avenue, East Orange, New Jersey</unittitle>
+						<unitdate label="Date">1914 July 24</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">21</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>119</unitid>
+						<unittitle>Skyline of New York City</unittitle>
+						<unitdate label="Date">Before 1915</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">192</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>120</unitid>
+						<unittitle>Statue of Liberty in New York Harbor</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>121</unitid>
+						<unittitle>Side view of Hotel Utah, Salt Lake City</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>122</unitid>
+						<unittitle>Hotel Utah, distant view, Salt Lake City</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>123</unitid>
+						<unittitle>Hotel Utah, Salt Lake City</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>124</unitid>
+						<unittitle>City-County Building, Temple Square, Salt Lake City</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>125</unitid>
+						<unittitle>City-County Building, Salt Lake City</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>126</unitid>
+						<unittitle>Hotel Utah, Salt Lake City</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>127</unitid>
+						<unittitle>Hotel Utah and City-County Building, distant view, Salt Lake City</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>128</unitid>
+						<unittitle>Hotel Utah, side view, Salt Lake City</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>129</unitid>
+						<unittitle>Hotel Utah, Salt Lake City, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>130</unitid>
+						<unittitle>Hotel Utah, Salt Lake City, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>131</unitid>
+						<unittitle>Gateway, looking towards capital, Salt Lake City</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">194</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>132</unitid>
+						<unittitle>Temple from temple grounds, Salt Lake City</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">195</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>133</unitid>
+						<unittitle>Hotel Utah, Salt Lake City</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">196</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>134</unitid>
+						<unittitle>Automobile under arch, California</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>135</unitid>
+						<unittitle>Close-up of automobile with four passengers</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>136</unitid>
+						<unittitle>View of automobile and road</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>137</unitid>
+						<unittitle>Automobile on road lined with palm trees</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>138</unitid>
+						<unittitle>Automobile on road</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>139</unitid>
+						<unittitle>Two men in automobile</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>140</unitid>
+						<unittitle>Two automobiles on roadway</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1255" type="box">1255</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1255 -->
+			<!-- Box 1256 -->
+			<c01>
+				<note>Box 1256</note>
+				<did>
+					<unitid>2.1.1.1.32</unitid>
+					<unittitle>Copies</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Three people in automobile</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Automobiles in front of old building</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Looking down road lined with trees</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Automobile and road</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Palm trees</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Gate to Berkeley Square</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>People crossing land bridge, copy and Cliff Palace, Mesa Verde National Park, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Lion head, done in Illinois, copy</unittitle>
+						<unitdate label="Date">1915 December 13</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Picture of Abraham Lincoln with quote, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Abraham Lincoln quote with portrait behind, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Abraham Lincoln quote, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Dog sled, copy for arctic lecture</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Large ship, copy for arctic lecture</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Large ship in ice, copy for arctic lecture</unittitle>
+						<unitdate label="Date">1909 October</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Campsite, copy for arctic lecture</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Dining room, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">11</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Cathedral, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">12</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Bridge and river, church in distance, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">15</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>View of city and mountains, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">19</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Three woman and a man, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">52</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Two women sitting in front of building and gardens, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">58</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Woman in serape, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">62</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Stone wall and stream, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">68</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Dock, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">68</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>City and mountains, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">80</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Trees and houses, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">89</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Two men in suits, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">100</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Trees, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">188</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Church, Guayaquil, copy (South America)</unittitle>
+						<unitdate label="Date">1909 March 31</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Tools, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Ship, copy (South America)</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Street scene, South America, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Railroad tracks in the mountains, South America, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Man standing next to stone statue, South America, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Temple, India, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>People in masks, India, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Temple, India, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>The home ruler, the liveliest member in the house, copy, and the home ruler, a troublesome member when he likes, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Two views of mountains and oceans, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Stone statues, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Road with trees, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Stone statues, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Road and trees, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>View of city and bay, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Rocks[?], copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Sailboats, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Fried Krupp, copy</unittitle>
+						<unitdate label="Date">1914 December 30</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Field Marshall Lord Roberts, copy, German soldiers sharing food with Belgian orphans, copy, and sunset with Germans on guard, copy [split negative]</unittitle>
+						<unitdate label="Date">1914 December 30</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Three German soldiers, New York Times, copy</unittitle>
+						<unitdate label="Date">1914 December 30</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Men sitting around table</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Ornate building and plants, copy</unittitle>
+						<unitdate label="Date">1915 March 17</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Cabin with large stone fireplace</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1256" type="box">1256</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1256 -->
+			<!-- Box 1257 -->
+			<c01>
+				<note>Box 1257</note>
+				<did>
+					<unitid>2.1.1.1.32</unitid>
+					<unittitle>Copies</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Arch overlooking ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Street lined with cars</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Lake and forest, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Mountains and valley, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">ZZ</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Ships near shore, copy, and road through valley towards ocean, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">NN</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Women at spinning wheel, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">V</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Old woman at spinning wheel, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Coming from the wood, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">DD</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Women with large hats and men in suits, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">EE</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Painting[?] of two people talking, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index">1X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Three men on ship</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Room full of tables and chairs, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Der Einsame, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Painting of woman with child, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Prince Joachim, copy, and Prince Oscar, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Two men rock climbing, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Rural home, street scene, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Town square, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Mountains, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Girl sitting by fountain, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Eiserne Jungfrau, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>People walking through streets, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>View of rooftops, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Painting of men eating at table, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Knight with a swan, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Men climbing mountain, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Two men climbing mountain, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Huge ship, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Map of Northern Europe, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Painting of happy crowd, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Ornate room with chandelier, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Ornate room, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Old man sitting outside of tent, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>View of mountains, river and valley, copy</unittitle>
+						<unitdate label="Date">Before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Food stand, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Painting[?] of man and stairs, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Woman in fancy dress with feathered hat, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Cattle, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Woman in fancy dress, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Little girl in bonnet, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Pod of whales</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Sheep, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Sunset over the ocean and mountains, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Cave, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>River and mountains, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Painting of a dog, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Passengers looking over ship railing</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Arch looking over ocean, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Palm trees, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Man in suit and fez, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Man in military uniform, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Two boys and a girl, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Man in military uniform, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Street lined with automobiles, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Men sitting around table, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Painting of saints with Jesus, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Painting of woman with two babies, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>People near wooden fence</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Street scene, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1257" type="box">1257</container>
+						<materialspec label="index">21X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1257 -->
+			<!-- Box 1258 -->
+			<c01>
+				<note>Box 1258</note>
+				<did>
+					<unitid>2.1.1.1.32</unitid>
+					<unittitle>Copies</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Large building with statue on roof, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index">22X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Large building, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index">23X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Statue of a lion, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index">18X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Marie Antoinette in the Conciergerie, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Street scene, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Rooftops, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Street scene, copy</unittitle>
+						<unitdate label="Date">1914</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Interior of cathedral, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Street and buildings, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Band, in uniform, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>City rooftops, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Painting of an angel, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Ornate room with chandelier, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Throne room, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Staircase landing, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Sitting room, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Military officers, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Woman and children, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Ornately carved house, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>View of city, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Two old men, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>View of street, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Gate, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Hole in roof of house, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Peasants carrying pails, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Man and woman with accordion, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>View down street, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index">19X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Ornate building, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index">17X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>View down street, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index">16X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>View of rooftops, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Men and horses, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Women and children, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Two women with wheat, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Crocodile</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Pen full of crocodiles</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Boy sitting on crocodile (Chase negative)</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Headshot of boy, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>William T. Noble</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Ship in storm, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Ship, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Rocks and ocean, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Painting of man in crown with lantern, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Ship on the rocks, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Painting of woman, baby and two men, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Man in suit, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Sunset, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Statue of woman, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Painting of woman with dog, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Sunset, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Shelves of skulls</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Chopin, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index">47X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Adam de Wieniawski, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index">46X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Old man, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index">37X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Woman in fancy hat, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index">29X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Old man with long beard, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index">40X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Man and woman in traditional costumes, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Old man, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Man with scraggly beard, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index">39X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Old woman, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Woman in traditional costume, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1258" type="box">1258</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1258 -->
+			<!-- Box 1259 -->
+			<c01>
+				<note>Box 1259</note>
+				<did>
+					<unitid>2.1.1.1.32</unitid>
+					<unittitle>Copies</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Man and woman in traditional costumes, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Woman with wild hair, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index">43X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Man in suit, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Woman in dress, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Man and woman in traditional costumes, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Woman in traditional costume, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Ornate hall, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Painting[?] of women with children, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Two men and woman in traditional costumes, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Man sitting at table, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Man in traditional costume with sword, copy</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Soldier on horse in front of grave, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index">34X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>People in horse drawn chariot, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index">35X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>View of street and large building, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index">20X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Train depot, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Automobiles in front of building, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Church, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Ornate building, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>The Sultan of Turkey, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Ornate hall, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Bedchamber, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Long hallway, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Painting of women, baby and rabbit, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Painting of women and baby, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Painting of a man, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Painting of woman and angels, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Painting of woman and babies, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Sleeping car compartment, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>A sleeping car compartment arranged for the night, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Extraordinary bronze incense burner, copy</unittitle>
+						<unitdate label="Date">1914 January</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Ship near the shore, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Paul Kochanski, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index">32X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Two naked women, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index">33X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Man with messy hair, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index">36X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Flower in vase on chair</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">3.5 x 6</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Flowers in field</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">3.5 x 6</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Flowers</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">3.5 x 6</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Flowers and log</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">3.5 x 6</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Flowers and log</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4.5 x 3.5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Boy in sailor uniform, Russia</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1259" type="box">1259</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1259 -->
+			<!-- Box 1260 -->
+			<c01>
+				<note>Box 1260</note>
+				<did>
+					<unitid>2.1.1.1.32</unitid>
+					<unittitle>Copies</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Flowers</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0983</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Flowers [broken]</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0984</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Explosion, Panama</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0985</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Canal, copy, a typical family of Chorrera Panama, copy, and a doorstep scene, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0986</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Flag of Poland</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0987</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Josef Poniatowski, copy, Helena Modrywike, copy, Jan Kilinski, copy, and Stanislaw Staszic, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0988</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Mickiewicza monument, copies for Poland lecture [split negative]</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0989</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">8x10</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Wawel od ul. Grodzkiej, copies for Poland lecture [split negative]</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0990</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">8x10</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Wawel Cathedral, copy, and Church of Mother of God the Queen, copies for Poland lecture [split negative]</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0991</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">8x10</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Wawel Royal Castle, copy, ornate building, copy, Wawel Royal Castle, distant view, copy, and Friends of Fine Arts Academy, copy, for Poland lecture [split negative]</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0992</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">8x10</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Street scene, copy, ornate building, copy, Cloth Hall, copy, and Kosciuszki Mound, copy, Poland [split negative]</unittitle>
+						<unitdate label="Date">before 1914</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0993</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">8x10</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Carved archway, Orequipa[?], copy</unittitle>
+						<unitdate label="Date">1908 December 31</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0994</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Victoria Theater, Valparaiso Chile, copy</unittitle>
+						<unitdate label="Date">1908 December 31</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0995</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Theater, Santiago Chile, copy</unittitle>
+						<unitdate label="Date">1908 December 31</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0996</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Building with many windows, Santiago Chile, copy</unittitle>
+						<unitdate label="Date">1908 December 31</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0997</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Military school, Santiago Chile, copy</unittitle>
+						<unitdate label="Date">1908 December 31</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0998</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Corner of large building, Santiago Chile, copy</unittitle>
+						<unitdate label="Date">1908 December 31</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">0999</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Street scene, La Paz Bolivia, copy</unittitle>
+						<unitdate label="Date">1908 December 31</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">1000</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Stairs, La Paz Bolivia, copy</unittitle>
+						<unitdate label="Date">1908 December 31</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">1001</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Spanish hospital, Montevideo Uruguay, copy</unittitle>
+						<unitdate label="Date">1908 December 31</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">1002</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Train station, Montevideo Uruguay, copy</unittitle>
+						<unitdate label="Date">1908 December 31</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">1003</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Pan-American Congress building in Rio where first congress was held, Brazil, copy</unittitle>
+						<unitdate label="Date">1908 December 31</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">1004</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Palace of Emperors, Brazil, copy</unittitle>
+						<unitdate label="Date">1908 December 31</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">1005</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Queen of Sweden, copy, Crown Prince Gustav Adolf, copy, Crown Princess Margareta with Prince Bertil, copy, and Gustav V, copy [split negative]</unittitle>
+						<unitdate label="Date">1915 January 8</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">1006</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Chief Atchee, chief on reservation, Eastern Utah, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">1007</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Globe, showing Europe, copy [broken]</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">1008</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Picture writing, Yellow Jacket Canyon Colorado, copy, rock bridge, copy, North End Cliff Palace, Mesa Verde National Park, copy, and round tower, Ruin Canyon Utah, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">1009</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Four adobe buildings, copies [split negative]</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">1010</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Adobe building, copy, two people looking over edge, copy, pottery, copy and mummies, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1915</unitdate>
+						<container id="1260" type="box">1260</container>
+						<materialspec label="index">1011</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1260 -->
+			<!-- Box 1261 -->
+			<c01>
+				<note>Box 1261</note>
+				<did>
+					<unitid>2.1.1.1.32</unitid>
+					<unittitle>Copies</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Cottage, copy, and sheep in field, copy [split negative]</unittitle>
+						<unitdate label="Date">1912 December</unitdate>
+						<container id="1261" type="box">1261</container>
+						<materialspec label="index">1012</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Man and woman on donkeys, and river scene [split negative]</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1261" type="box">1261</container>
+						<materialspec label="index">1013</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Cottage, copy, buildings, copy and street scene, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1261" type="box">1261</container>
+						<materialspec label="index">1014</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Little girl outside tent, copy</unittitle>
+						<unitdate label="Date">1908 April 16</unitdate>
+						<container id="1261" type="box">1261</container>
+						<materialspec label="index">1015</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Rock formations, copy, rock with wagons in front, copy, man in front of rock formation, copy [split negative]</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1261" type="box">1261</container>
+						<materialspec label="index">1016</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Lifting a horse, copy, Major J. McLaren, copy, Major A. E. Kimmins, copy, Lieutenant W.D.P. Jarvis, copy, Captain G.J.L. Smith, copy, Madame Joffre, copy, diagrams, copy and map, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1261" type="box">1261</container>
+						<materialspec label="index">1017</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Lieutenant R.G. Crawford, copy, and man at table, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1261" type="box">1261</container>
+						<materialspec label="index">1018</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Church in distance, copy, and country scene, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1261" type="box">1261</container>
+						<materialspec label="index">1019</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">6.5x8.5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1261 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

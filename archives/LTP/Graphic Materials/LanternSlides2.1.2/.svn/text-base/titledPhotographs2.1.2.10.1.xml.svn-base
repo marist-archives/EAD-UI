@@ -1,0 +1,2113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Titled photographs</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.10.1</unitid>
+		<unittitle>Titled photographs</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+<!-- Box 1437 -->
+<c01>
+<note>Box 1437</note>
+<did>
+<unitid>2.1.2.10.1</unitid>
+<unittitle>Titled photographs</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>2nd Light Horse Brigade of Australia entering village of Zernukah	
+</unittitle>
+<unitdate label="Date">1918 Jan 11	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>2nd Light Horse Brigade ready for the attack again across the desert of Esdud	
+</unittitle>
+<unitdate label="Date">1918 Jan 11	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>2nd Light Horse Brigade ready for the attack again across the desert of Esdud	
+</unittitle>
+<unitdate label="Date">1918 Jan 11	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>North Wall, Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">32	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Via Dolorosa, Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">67	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1437 -->
+<!-- Box 1438 -->
+<c01>
+<note>Box 1438</note>
+<did>
+<unitid>2.1.2.10.1</unitid>
+<unittitle>Titled photographs</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Sepulchre	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">71	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Jerusalem street	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">75	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Jerusalem street	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">78	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Solomon’s Pool, south of Bethlehem	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">103	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Sheikh of mosque	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">106	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Elderly Jewish man	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">108	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Elderly Jewish man	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">108	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Village sheikh 	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">110	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Turks retreating into Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">110 	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Bethlehem woman	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">121	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Bethlehem woman	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">121	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Ramallah woman	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">127	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Jerusalem street scene	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">135	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Absalom’s tomb, Jerusalem wall	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">147	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Sea of Galilee	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">358	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Tiberias	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">359	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Damascus house	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">423	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Quarry, Baalbek	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">431	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Temple of Bacchus	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">433	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Bedouin belle	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">580	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Bedouin belle	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">580	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Jebel Usdum	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">746	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Jebel Usdum	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Jebel Usdum	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Jebel Usdum	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Jebel Usdum	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Jebel Usdum	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Jebel Usdum	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Locusts warming themselves	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">1406	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Locusts entering the trap	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">1434	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Cloud of locusts	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Cloud of locusts	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Locust ready to fly	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Locust ready to fly	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Locust trap	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Locust trap	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1438" type="box">1438</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1438 -->
+<!-- Box 1439 -->
+<c01>
+<note>Box 1439</note>
+<did>
+<unitid>2.1.2.10.1</unitid>
+<unittitle>Titled photographs</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Locusts devouring cactus	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Locusts devouring cactus	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Tree before locusts	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Tree before locusts	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Tree before locusts	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Tree after locusts	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Tree after locusts	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Tree after locusts	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Locust drive, several people with flags	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Locust drive, several people with flags	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Locust drive, several people with flags	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Locust drive, several people with flags	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Locusts on wall	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Locusts on wall	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Locust crawler, close-up	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Locust crawler, close-up	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Locust crawler, close-up	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Rock in Mosque of Omar	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Rock in Mosque of Omar	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Rock in Mosque of Omar	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Tomb of Kings, cemetery	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Tomb of Kings, cemetery	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Tower, Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Jewish man, Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Jaffa rocks	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Jaffa rocks	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Jaffa rocks	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Jaffa	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Jaffa	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Dead Sea	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Dead Sea	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Dead Sea	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1439" type="box">1439</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1439 -->
+<!-- Box 1440 -->
+<c01>
+<note>Box 1440</note>
+<did>
+<unitid>2.1.2.10.1</unitid>
+<unittitle>Titled photographs</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Dead Sea	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Dead Sea	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Church of Nativity	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Church of Nativity	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Church of Nativity	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Grotto of Nativity	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Grotto of Nativity	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Grotto of Nativity	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Caravan on Olives[?]	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Date palm	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Storks	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Storks	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Storks	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Storks	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Storks	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Storks	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Locusts devouring cactus	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Turkish defense of Jerusalem near Lifia[?]	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>On the road to Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Gaza Great Mosque ruins, figure in archway	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1440" type="box">1440</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1440 -->
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

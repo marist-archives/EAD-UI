@@ -1,0 +1,2519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Military</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.8</unitid>
+		<unittitle>Military</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		<!-- Box 1430 -->
+<c01>
+<note>Box 1430</note>
+<did>
+<unitid>2.1.2.8</unitid>
+<unittitle>Military</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Soldiers sitting outside Y.M.C.A. “Eagle Hut”	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Group photograph of Red Cross workers	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Soldier with two female Red Cross workers	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Hospital with row of Red Cross ambulances parked outside	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Soldiers in hospital	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Soldier in hospital bed being attended to	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Casualty being carried on stretcher	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Casualties	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Soldier at gravesite	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Explosion	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Soldiers holding life preserver from the S.S. Lusitania	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Red Cross ship	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Battleship	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Canon	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Canon	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Bullet ridden façade of building	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Military ski patrol	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1430" type="box">1430</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1430 -->
+<!-- Box 1431 -->
+<c01>
+<note>Box 1431</note>
+<did>
+<unitid>2.1.2.8</unitid>
+<unittitle>Military</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Street scene, soldiers	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Street scene, soldiers	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Street scene, two Scottish soldiers talking	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Soldier in wheelchair, young girl and other soldier on sidewalk	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Two soldiers talking	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Two soldiers at rest	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Three soldiers at rest	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Two soldiers sharing cigarette	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Panorama, soldiers resting on hilltop	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Panorama, two soldiers on hilltop	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Panorama, soldier on cliff	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Panorama, two soldiers resting in foreground	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Three soldiers amid ruins 	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Two soldiers standing beside arched bridge	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Two soldiers speaking to civilian man at unidentified estate	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Soldiers and trucks parked by stone building, distant view	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Two soldiers talking to Military Policeman	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Two soldiers on wooded hill overlooking fields, one soldier holding gun	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Two soldiers, one holding gas mask	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Two soldiers talking	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Soldier manning machine gun on wheeled platform, dog asleep at base	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Soldiers in line holding water canteens	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>City panorama, group of soldiers in foreground	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Soldiers and civilians standing in group	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Group of soldiers talking	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Many soldiers standing on hill overlooking town	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Soldiers marching outside barracks	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Soldiers and civilians watching ceremony in city square, France	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle> Soldiers on horseback carrying flags	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Soldiers on the side of a road walking amid ruins	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Soldiers watching steamroller on road	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Tents set up over ruins	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Soldiers observing civilians, Egypt[?]	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Civilians watching soldiers in ceremony, Egypt[?]	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Soldier and Egyptian civilians looking at camera, Egypt	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Civilians watching military parade, Egypt[?]	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1431" type="box">1431</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1431 -->
+<!-- Box 1432 -->
+<c01>
+<note>Box 1432</note>
+<did>
+<unitid>2.1.2.8</unitid>
+<unittitle>Military</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Group of soldiers, civilians in background	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Street scene, three soldiers looking at map, two other soldiers talking	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Photographer setting up camera, two soldiers and woman posing	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Soldiers walking down alley, rear view 	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w  	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Group of Egyptian soldiers smoking hookah	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Soldier, standing, posed for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Soldier, seated, posed for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Soldier, standing, posed for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Soldier posed for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Soldier on horseback, posed for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Soldier, standing, posed for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Soldier posed for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Soldier posed for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Soldier and horse	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Soldier, standing	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Soldier manning gun	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Soldier with cane	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Soldier with rifle on steps of building	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Soldier on roof overlooking cathedral	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Soldier sitting at desk in church	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Soldier walking through water	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Soldier doing tricks with rope aboard ship	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Many soldiers aboard ship	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Soldier, standing, posing for photograph, aboard ship	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Two men and two women standing aboard ship, posing for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Soldiers on train waving to camera	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Soldier holding hand grenade in automobile, posing for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Soldiers and Red Cross workers on train	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Two soldiers in automobile	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Street scene, soldiers in truck, civilians in background, Germany	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Dirigible in flight, distant view	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Plane flying past mountain	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Plane flying over fields, aerial view	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Plane flying over trees, photograph taken from another plane	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Plane flying over city	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Plane flying over river	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1432" type="box">1432</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1432 -->
+<!-- Box 1433 -->
+<c01>
+<note>Box 1433</note>
+<did>
+<unitid>2.1.2.8</unitid>
+<unittitle>Military</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Seaplane on water	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Seaplane on water, photograph taken from another airplane	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Seaplane in flight, photograph taken from another airplane	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Two biplanes in flight	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Soldiers standing on pontoons of seaplane	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Soldiers standing on pontoons of seaplane	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Soldiers placing seaplane on water	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Soldiers and civilians gathered near biplane in field 	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Soldiers seated in biplane	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Soldier posing in front of biplane	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Pilot seated in front cockpit of biplane, photographer standing in rear seat 	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Soldier and boy	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Soldier and woman embracing as they sit beside a fountain	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Soldier and woman talking as they sit beside a fountain	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Two soldiers embracing women on bench	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Soldier and girl on horseback, posing for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Soldiers watching women talk on street	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Soldiers at unidentified estate	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Soldiers and civilians at guard station	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Soldier on sidewalk with two women	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Soldiers helping two women in garden	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Two soldiers and children	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Soldier standing with two women, posed for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Soldier sleeping on bench next to four women	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Soldier talking to two women, well-dressed man looking at camera	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Soldiers and civilians talking on sidewalk	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Soldier and woman	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Soldiers watching woman on street	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Soldier and two women on street, posing for photograph	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Soldier holding two children	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Soldier and woman	
+</unittitle>
+<unitdate label="Date">circa 1914-1919	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1433 -->
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

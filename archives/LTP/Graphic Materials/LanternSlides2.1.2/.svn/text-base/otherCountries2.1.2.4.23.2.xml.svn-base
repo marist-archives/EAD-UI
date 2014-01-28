@@ -1,0 +1,8235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Other countries</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.4.23.2</unitid>
+		<unittitle>Other countries</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+<!-- Box 1398 -->
+<c01>
+<note>Box 1398</note>
+<did>
+<unitid>2.1.2.4.23.2</unitid>
+<unittitle>Other countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">706	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">707	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">709	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Avenue of lime trees, Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">710	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Avenue of lime trees, Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>River Cam, Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">710	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>King’s College, Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">713	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>River Cam, Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">715	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Trinity College, Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">717	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>St. John’s College, Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">723	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>River Cam and St. John’s College, Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">724	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">726	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Bridge of Sighs, St. John’s College, Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">727	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Garden going north from Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Cambridge, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Lodge entrance to estate near Canterbury, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">421	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>West gate, Canterbury, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">442	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Canterbury, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">443	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Cloisters, Canterbury Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">453	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Canterbury, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">457	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Lion’s head, Cheddar, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">302	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Waterfalls near Cliff Hotel, Cheddar, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">303	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Falls at Cheddar, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">304	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Cliffs near Cheddar, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">306	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Cox’s Cave, Cheddar, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Skull, Cheddar, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Road and automobile near Chepstow, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>High Street, Clovelly, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">338	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>High Street, Clovelly, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1398" type="box">1398</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1398 -->
+<!-- Box 1399 -->
+<c01>
+<note>Box 1399</note>
+<did>
+<unitid>2.1.2.4.23.2</unitid>
+<unittitle>Other countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Entrance to Clovelly, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">339	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Clovelly, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">342	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Clovelly, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">343	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Hobby Drive, Clovelly, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">347	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Clovelly, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">347	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Leaving with luggage, Clovelly, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Clovelly, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Sheep near Coniston, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">487	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Lake Coniston, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Lodge near Cossington, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>John Ruskin’s house, Cumbria, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">783	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>At John Ruskin’s home, Cumbria, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">785	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Derwent Water, Cumbria, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Derwent Water from Friar’s crag, the beloved spot of John Ruskin, Cumbria, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Thirlmere, Cumbria, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Dovedale, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Dovedale, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Dovedale, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Water wheel near Exeter, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">294	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Cottage near Exeter, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">393	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Exeter Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">394	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Poppy field near Exeter, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">396	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Cottage near Exeter, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">398	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>From abbey toward town, Glastonbury, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">318	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Near Illfracombe, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">337	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Land’s End, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">377	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Land’s End, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Land’s End, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Beached whales, Land's End, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Lincoln Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">750	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Home in Lincoln, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">751	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Lincoln Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">752 	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Lincoln Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Screen and organ, Lincoln Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Window of angel choir, Lincoln Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Nave, Lincoln Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Girl with an Apple by Jean Baptiste Greuze, National Gallery, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1399" type="box">1399</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1399 -->
+<!-- Box 1400 -->
+<c01>
+<note>Box 1400</note>
+<did>
+<unitid>2.1.2.4.23.2</unitid>
+<unittitle>Other countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Bank of England, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">323	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">470	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Lodge, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">480	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Albert Memorial, Kensington Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">485	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Albert Memorial, Europe, Kensington Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">487	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Albert Memorial, Asia, Kensington Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">488	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>St. Paul’s Cathedral, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">520	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>St. Paul’s Cathedral, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">521	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Cheapside and Bow Belle, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">522	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Royal Exchange, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">524	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Oxford Street, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">526	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>House of Parliament, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">536	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Sheep in Hyde Park, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">538	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Sheep in Hyde Park, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">538	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Tower of London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">540	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">560	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">562	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Queen’s cottage, Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">564	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Evergreens in Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">566	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Pagoda, Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">568	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Gateway of Imperial Messenger, Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">569	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">578	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">581	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">582	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Park Lane, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">592	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Tate Art Gallery, London, England 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">595	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Grand Opera House, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">596	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Albert Memorial, Kensington Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">606	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Albert Memorial, America, Kensington Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">614	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>The Thames River, near London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">627	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Delphinium, Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Evergreens in Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1400" type="box">1400</container>
+<materialspec label="index">567	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1400 -->
+<!-- Box 1401 -->
+<c01>
+<note>Box 1401</note>
+<did>
+<unitid>2.1.2.4.23.2</unitid>
+<unittitle>Other countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Herbaceous, Kew Gardens, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Thames River embankment, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Rotten Row, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Street scene, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Fuller’s and Cheshire cheese, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">518	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>The cottage of sheep fame, Lynton, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">336	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Cottage and sheep, Lynton, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>The Ship Inn, Porlock, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">330	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Bank of Porlock, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Ripon Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">768	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Nave, Ripon Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Marquis of Ripon Estate, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Marquis of Ripon Estate, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Marquis of Ripon Estate, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Marquis of Ripon Estate, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Marquis of Ripon Estate, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Road near Rookery, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">428	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Rydal, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">791	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Near Salisbury, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">400	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Salisbury Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">403	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Salisbury Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">404	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Salisbury, Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Veronica flowers on wall, near St. Ives, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">363	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>St. Ives, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">366	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Cottage at St. Ives, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">372	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Stoke Poges, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">630	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Stoke Poges, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">630	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Stoke Poges, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">630	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Symonds Yat, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Thirlmere, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Near Thirlmere, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Thirlspot[?], England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Valarian on walls near Tintagel, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Old house at Tintagel, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Cottage, Wiltshire, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">401	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Windermere, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">773	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Windermere Lake, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1401" type="box">1401</container>
+<materialspec label="index">774	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1401 -->
+<!-- Box 1402 -->
+<c01>
+<note>Box 1402</note>
+<did>
+<unitid>2.1.2.4.23.2</unitid>
+<unittitle>Other countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Windsor Castle, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">628	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>York Minster Cathedral, York, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">763	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>York, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">764	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Old Gate, York, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Minister Chapter House, York, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Bolton Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Bolton Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Fountain’s Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Fountain’s Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Fountain’s Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Fountain’s Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Fountain’s Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Fountain’s Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Fountain’s Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Fountain’s Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Fountain’s Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Near Fountain’s Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Furness Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Glastonbury Abbey, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">319	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Bristol Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">299	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Chelsea Church, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">610	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Ely Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">737	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Ely Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Nave, north aisle, Ely Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Gardens, Ely Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">736	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Gloucester Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">296	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Cloisters, Gloucester Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">297	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Lichfield Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Peterborough Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">740	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Truro Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">362	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Truro Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Cloister, Wells Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">308	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Moat and avenue, Wells Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">310	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Wells Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">313	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Wells Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Winchester Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">411	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Trinity Church, Stratford-on-Avon, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1402" type="box">1402</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1402 -->
+<!-- Box 1403 -->
+<c01>
+<note>Box 1403</note>
+<did>
+<unitid>2.1.2.4.23.2</unitid>
+<unittitle>Other countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Charter House grounds, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Charter House, College, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">418	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Charter House School, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index"> 419	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Haddon Hall, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Haddon Hall, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Haddon Hall, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Haddon Hall, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Garden of Haddon Hall, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Garden of Haddon Hall, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Bakewell near Haddon Hall, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Pembroke Castle, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">231	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Windsor Castle, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">628	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Windsor Castle, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">628	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>The Royal Mausoleum, Frogmore Estate, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">7	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Dove Cottage, Coniston, William Wordsworth’s first home, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">790	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Cottage at Rydal, William Wordsworth’s last home, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>William Wordsworth’s grave, Grasmere, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">794	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Bridge near William Wordsworth’s grave, Grasmere, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">795	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Charles Dickens’s house, Gad’s Hill, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">465	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Home of Alfred Tennyson, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">428	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Shudder Mill, home of George Eliot, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">422	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>St. Keyne’s Well, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">388	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Hampton Court Gardens, Beech Avenue, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">509	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Dartmoor Forest, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">391	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>The Thames River, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">585	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Ullswater Road, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Wherwell Street, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">410	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>King and Queen, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Messenger boy, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Man sleeping on bench, London, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Woman coming from the woods, England[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Prison at Two Bridges, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">390	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Cathedral, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Lakes, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">789	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Ships, England	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Graveyard and church, England[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1403" type="box">1403</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1403 -->
+<!-- Box 1404 -->
+<c01>
+<note>Box 1404</note>
+<did>
+<unitid>2.1.2.4.23.2</unitid>
+<unittitle>Other countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Whales, Coast of Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Forest scene, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">227 	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Valerians, near Beaumaris, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">145	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Road to Bethesda, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">138	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Betws-y-Coed, fairy glen, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">129	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Caerphilly Castle, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">250	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Cardiff Castle, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">257	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Carnarvon Castle, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">182	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Chester, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Trees near Dolgellau, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">192	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Flowers, Eton Hall, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">49	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Foxgloves, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">169	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Hawarden Church, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">69	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Hawarden Castle, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Manorbier Castle, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Plas Newydd, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">89	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Road from Ellesmere to Shrewsbury Church, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">76	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Old houses, Shrewsbury, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">77	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>The Shingle, Shrewsbury, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>The Shingle, Shrewsbury, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">84	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Lime trees near the Shingle, Shrewsbury, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">82	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>River Severn and school on hill, Shrewsbury, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">80	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Beach at Tenby, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">238	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Tintern Abbey, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">275	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Tintern Abbey, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">278	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Tintern Abbey, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Tintern Abbey, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">280	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Tintern Abbey, Wales	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">275	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Watching the Sunset, west coast, the Isle of Barra, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Brig O’Doon, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Brig O’Doon, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Brig O’Doon from monument, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Dryburgh Abbey, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">826	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Edinburgh, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Statue of David Livingston, Edinburgh, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Fingal’s Cave, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1404" type="box">1404</container>
+<materialspec label="index">877	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1404 -->
+<!-- Box 1405 -->
+<c01>
+<note>Box 1405</note>
+<did>
+<unitid>2.1.2.4.23.2</unitid>
+<unittitle>Other countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Flower garden, Loch Katrine, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">888	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Lower end, Loch Katrine, Scotland 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">890	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Road, Loch Lomond, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">897	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Road near Tarbet, Loch Lomond, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">898	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Road, Loch Lomond, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">899	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Road, Loch Lomond, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">902	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Melrose Abbey, west end, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">823	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Road in Trossachs, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">893	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Birthplace and gardens of Robert Burns, Ayr, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">911	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Birthplace and gardens of Robert Burns, Ayr, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Robert Burns monument, Ayr, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Birthplace of Robert Burns, Ayr, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Robert Burns Monument, Ayr, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Auld Alloway Kirk, Ayr, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>House of Sir Walter Scott, Abbotsford, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Monument to Sir Walter Scott, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Monument to Sir Walter Scott, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Cottages, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">881	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Bluebells, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">882	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Bridge, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">883	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Bridge, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">883	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Road and hedge, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">886	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Road and hedge, Scotland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">886	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Blarney Castle, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>View of Blarney Castle through wall, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Blarney lakes as view from road, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">991	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Parnell Monument, Dublin, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Muckross Abbey, Killarney, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">959	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Road to Killarney Lake, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">963	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Looking toward Weir Bridge, Killarney, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">974	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Tunnel at Killarney, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">988	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Woman, Killarney College, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Lower Lake, Killarney, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Upper Lake, Killarney, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Road near Limerick, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">949	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Adare Castle, Limerick, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1405" type="box">1405</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1405 -->
+<!-- Box 1406 -->
+<c01>
+<note>Box 1406</note>
+<did>
+<unitid>2.1.2.4.23.2</unitid>
+<unittitle>Other countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Garden of Lismore Castle, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">1034	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Shamrock, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Countryside near Stranorlar, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">430	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Tower and Clock, Youghal, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">1022	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Cromwell Gate, Youghal, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">1023	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Keep of Temple Michael Fortress, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">1025	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Honeycombe, Giant’s Causeway, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">920	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Giant’s Causeway, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">923	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Fruit of the ash tree, evergreens, spruce and larches, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Lakes from Glengarriff Road, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">994	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Peat mound, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">917	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Peat, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">918	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Cart loaded with peat, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Haystacks, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">908	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Girl on haystack, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Girl on haystack, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Blackthorn maker, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Seated man, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Man in top hat reading paper, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Crying child, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Spinning wheel, Ireland[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Rose of Sharon, Ireland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">959	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Jewish Quarter, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">52x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Private house, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">86x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Sobieski monument, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">87x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Street scene, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">90x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>University, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">91x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">92x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Polytechnique, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">94x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Fine residence, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">96x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Residence of Attorney, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">98x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">101x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Opera House, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">105x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Greek Cathedral, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">107x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Park, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">108x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Sigismund Square from Bristol Hotel, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">115x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Market Square, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1406" type="box">1406</container>
+<materialspec label="index">116x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1406 -->
+<!-- Box 1407 -->
+<c01>
+<note>Box 1407</note>
+<did>
+<unitid>2.1.2.4.23.2</unitid>
+<unittitle>Other countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Jewish Quarter, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">118x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Jewish Quarter, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">119x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Art museum, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">122x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>The Saxon Garden, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">123x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Market Square, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">125x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Sigismund Column, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">126x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Flower boxes, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">140x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Palace at Villanov, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">142x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Villanov, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">143x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Railroad engine, Villanov, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">144x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Family vault, Villanov, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">145x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Mickiewicz statue, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">146x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Bridge from Praga to Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">148x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Greek Church, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">160x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>View from Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">171x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">181x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Lazienki Park, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">191x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Jewish Quarter, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">222x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Jewish Quarter, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">223x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Jewish Quarter, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">224x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Jewish Quarter, Warsaw, Poland	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">557	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Pilgrims before the Cathedral of the Assumption, Moscow, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">232x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Red Square, Moscow, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">834	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Gostiny Dvor, St. Petersburg, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">16x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>St. Petersburg, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">18x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>St. Petersburg, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">19x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Winter Palace, St. Petersburg, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">20x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Foundling Hospital, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">168x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Church of St. Basil in distance, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Church of St. Croix[?], Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Henry Sienkiewicz, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">27x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Leo Tolstoy, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">40x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Napoleon I, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">26x	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Russia (copy from book)	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Russia (copy from book)	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Russia (copy from book)	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1407" type="box">1407</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1407 -->
+<!-- Box 1408 -->
+<c01>
+<note>Box 1408</note>
+<did>
+<unitid>2.1.2.4.23.2</unitid>
+<unittitle>Other countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Church, Russia 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Tsar Nicholas II, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">2X	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Children of Tsar Nicholas II, Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">6X	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">43X	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">11X	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">38X	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">44X	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">12X	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Russia	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">10X	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Arch of Constantine, Rome, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Madeira, Portugal	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Minister at Dale, Norway	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Home of Mrs. Faulk, Norway	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Hotel Hardanger, Odda, Norway	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Dining room aboard ship to Panama	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">104	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Aboard ship on way to Panama	
+</unittitle>
+<unitdate label="Date">circa 1900-1915	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">105	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Finished gates meeting, Panama Canal	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">39	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Along the coast, Panama	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">16	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Emergency dam, Pedro Miguel, Panama Canal, Panama	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">51	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Emergency dam, Pedro Miguel, Panama Canal, Panama	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">53	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>The Cut, Panama	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">67	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>The Cut, close view of burning piles, Panama	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">75	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Panama 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1408" type="box">1408</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1408 -->
+<!-- Box 1409 -->
+<c01>
+<note>Box 1409</note>
+<did>
+<unitid>2.1.2.4.23.2</unitid>
+<unittitle>Other countries</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Panama 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Panama 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Mexico	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Mexico	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Mexico 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Mexico 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Turkey	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1409 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

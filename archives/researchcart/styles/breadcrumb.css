@@ -1,0 +1,55 @@
+
+/* BreadCrum Css */
+#breadcrumbs{
+	width:auto;
+	height:auto;
+}
+
+#breadcrumbs ul, li {
+list-style-type:none;
+padding:0;
+margin:0px;
+
+}
+
+#crumbs {
+/*border:1px solid #dedede;*/
+height:2.3em;
+width: auto;
+
+}
+
+#crumbs li {
+float:left;
+line-height:2.3em;
+padding-left:.75em;
+color:#777;
+border-top: 1px solid #dedede;
+border-bottom: 1px solid #dedede;
+}
+
+#crumbs li#last{
+	border-right: 1px solid #dedede;
+	padding-right: 20px;
+	
+}
+
+#crumbs li#first{
+	border-left: 1px solid #dedede;
+		
+}
+
+#crumbs li a {
+display:block;
+padding:0 15px 0 0;
+background:url(../images/crumbs.gif) no-repeat right center;
+}
+
+#crumbs li a:link, #crumbs li a:visited {
+text-decoration:none;
+color:#777;
+}
+
+#crumbs li a:hover, #crumbs li a:focus {
+color:#dd2c0d;
+}

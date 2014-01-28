@@ -1,0 +1,5005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.3.xsl"?>
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid countrycode="us" mainagencycode="" url="http://www.marist.edu"></eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Palestine</titleproper>
+<author>Marist Archives and Special Collections</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Marist Archives and Special Collections</publisher>
+<address>
+<addressline>3399 North Road</addressline>
+<addressline>Poughkeepsie, New York - 12601 </addressline>
+</address>
+</publicationstmt>
+</filedesc>
+</eadheader>
+<!-- Archival Description portion of EAD -->
+<archdesc level="subseries">
+<did>
+<unitid countrycode="us" repositorycode="">2.1.3.1.1.2</unitid>
+<unittitle>Palestine</unittitle>
+<unitdate type="inclusive"></unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+<repository>
+<corpname>Marist College</corpname>
+</repository>
+<abstract level="abstract"></abstract>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<scopecontent>
+<p></p>
+</scopecontent>
+<accessrestrict>
+<p></p>
+</accessrestrict>
+<userestrict>
+<p></p>
+</userestrict>
+<!-- Components Description of EAD -->
+<dsc type="combined">
+
+<!-- Box 1492 -->
+<c01>
+<note>Box 1492</note>
+<did>
+<unitid>2.1.3.1.1.2</unitid>
+<unittitle>Palestine</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>72</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1492" type="box">1492</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>American Red Cross in charge of relief work in Jerusalem under command of Colonel John Finley, now editor of The New York Times	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>73</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1492" type="box">1492</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Airplane on ground with pilot in front cockpit and Lowell Thomas operating a Graphlex camera standing in the rear cockpit	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>74</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1492" type="box">1492</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas in pith helmet sits and servant stands in front of tent with cameras and other equipment on the ground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>75</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1492" type="box">1492</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas and servant sitting in front of tent with cameras and other equipment on the ground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+<!-- End 1492 -->
+<!-- Box 1493 -->
+<c01>
+<note>Box 1493</note>
+<did>
+<unitid>2.1.3.1.1.2</unitid>
+<unittitle>Palestine</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>1</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas typing in front of his tent in Palestine	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>2</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Egyptians carrying grain, Kantara	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>3</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Building bridge over Suez Canal	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>4</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Supplies at Kantara, ammunition depot	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>5</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Sheds and supply depots at Kantara	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>6</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Milk and Honey Express Railroad	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>7</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Explosive shells, Kantara	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>8</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Railway station, Kantara	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>9</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Red Cross train, Kantara	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>10</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Graveyard, sunset	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>11</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Sick camels	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>12</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Baby camel and Arab	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>13</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mad camel frothing at mouth	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>14</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Baby camel [With Lawrence in Arabia caption:  A baby dromedary two hours old]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>15</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Camel hospital, major pointing at camel's hump	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>16</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Major seated on kneeling camel at hospital	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>17</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Camel hospital among trees	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>18</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>View from airplane of Suez Canal at Kantara (aerial view)	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>19</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>View from airplane of Kantara, best view (aerial view)	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>20</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Suez Canal from airplane, best view (aerial view)	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>21</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>View from airplane of sand dunes in the Sinai Desert (aerial view)	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>22</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>View from airplane of airplane in flight (aerial view)	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>23</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Site of Solomon's Temple	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>24</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>View from airplane of demarcation line between the desert and Palestine	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>25</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>View from airplane of Kantara, second best view (aerial view)	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>26</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>View from airplane of Jaffa, looking through airplane's guy wires (aerial view)	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>27</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>View from airplane of General Edmund Allenby's army encampment near the Suez Canal (aerial view)	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>28</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas and military officer looking at Turkish skull in abandoned trench	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>29</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Beersheba, two men riding camels in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>30</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Captains Seward and Emmett standing beside an airplane	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  Major Emmet, the South African,  Lowell Thomas's first pilot- Heliopolis Egypt	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>31</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas (with back to camera) and military officer at Abraham's Well	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>32</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Hindu officer on camel [With Lawrence in Arabia caption:  A racing dromedary from India]	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  A member of Allenby's camel corps	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Hindu officer on camel [With Lawrence in Arabia caption:  A racing dromedary from India]	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2-verso</unitid>
+<unittitle>Verso:  A member of the famous Bikaner Camel Corps of Central India. Tradition has it that one of the three Wise Men of the East came from this locality.	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>33</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Wrecked railroad bridge, Lowell Thomas [?] and military officers in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>34</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Nile water well at Khan Yunis	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>35</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Arab school, Lowell Thomas and military officer stand behind a large group of students with teachers	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  Lowell Thomas pays a visit to an Arab school in Khan Yunis, a village in Palestine near Gaza. Delilah is said to have been born in Khan Yunis	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>36</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mount Pisgah where Moses saw the Promised Land, Lowell Thomas and military officer looking off into the distance	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>37</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Panorama of Gaza	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>38</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Ruins of Gaza, automobile with military driver in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>39</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Ruined minaret of Great Mosque at Gaza	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>40</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Interior view of the ruins of the Great Mosque at Gaza	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>41</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Main street of Gaza in ruins, men on horseback in center of street	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>42</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Street in ruins approaching the Great Mosque of Gaza	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>43</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Ruins of Gaza, Bedouin kneeling beside shell hole	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>44</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Military officer stands amid the ruins of the Great Mosque at Gaza	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>45</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Hole in dome of mosque at Gaza, two men on horseback on road	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>46</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Camel hospital from distance	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>47</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Camel lines, Egyptian stands near large tree in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>48</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Camel lines	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>49</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Long camel lines	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>50</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Operating on camels	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>51</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Camel in operating pen at hospital	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>52</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Army camp	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>53</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Army tents at sunset	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>54</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Distant view of General Edmund Allenby's headquarters	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>55</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Ramleh corner	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>56</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Moslem funeral at Ramleh, several British soldiers on right, close-up	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>57</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British soldiers at Moslem funeral at Ramleh, Crusader Tower in background	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>58</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Racobeth corner	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>59</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mayor's house, Racobeth	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>60</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jewish children	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>61</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Australian soldier with young Jewish girl	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>62</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Tiled roofs of houses in a Jewish village	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>63</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Richon	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>64</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Richon woman	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>65</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Piles of oranges, many people milling about, Jaffa	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>66</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jerusalem street scene inside Jaffa Gate	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>67</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Auja River and mill, soldier seated in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>68</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Two Scottish soldiers looking across Auja River	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>69</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Street scene, Petach Riquath [?]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>70</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mayor Sacks	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>71</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas's tent	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>72</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Many British soldiers sitting by a roadside	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>73</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1493" type="box">1493</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Line of camels and men moving along a hairpin bend in the road	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+<!-- End 1493 -->
+<!-- Box 1494 -->
+<c01>
+<note>Box 1494</note>
+<did>
+<unitid>2.1.3.1.1.2</unitid>
+<unittitle>Palestine</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>1</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Line of camels, trucks and men walking along a hairpin bend in the road	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>2</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Automobile passing through Judean hills	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>3</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Truck carrying wine breaks down	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>4</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Truck carrying Richon wine breaks down	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>5</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Automobile on road to village near Jerusalem	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>6</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mosque of Omar, Indian on guard	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>7</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>James McBey, official artist for the Egyptian Expeditionary Force (E.E.F.), sketching Mosque of Omar	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>8</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mosque of Omar, panorama of Jerusalem, Greek church in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>9</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mosque of Omar, panorama of Jerusalem, Greek church in foreground, distant view	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  Panorama of Jerusalem from the Mount of Olives. Mosque of Omar, in foreground, occupying site of Solomon's Temple	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>10</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Bedouin hospital	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>11</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mosque of Omar, sunset	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>12</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British soldiers walking about temple site (Al-Aqsa Mosque)	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>13</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Disabled British tank, soldiers on horseback near Gaza	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>14</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Golden Gate	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  The Golden Gate, now sealed up through which Christ is supposed to have passed on Palm Sunday	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>15</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British soldiers at Mount of Olives	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>16</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas reading under tree on Mount of Olives, panorama of Jerusalem in background	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>17</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jerusalem from Mount of Olives, British army camp in foreground, soldiers signaling with flags	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>18</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jerusalem from Mount of Olives, British army camp in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>19</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas sitting in a Ford automobile peers through a telescope, Jordan Valley and Dead Sea, distant view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>20</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Stiftung from distance	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>21</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Two British soldiers stand before statues of Kaiser Wilhelm II and Kaiserin Victoria	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>22</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Bronze statue of Kaiser Wilhelm II as crusader	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>23</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Stiftung ceiling, mosaic of Kaiser Wilhelm II and Kaiserin Victoria	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  The Kaiser in the same robes as Christ in the so-called "Kaiser's Palace" on the Mount of Olives. The British made it their army corps headquarters	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>24</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mosaic of King David	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>25</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas, Lieutenant General Philip Chetwode (with cane), and other British officers on the Mount of Olives [With Lawrence in Arabia caption:  Sir Philip Chetwode pointing toward Jericho and describing the campaign to Lowell Thomas]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>26</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mosaic of Christ on throne	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>27</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas, in uniform, holding starving beggar child	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>28</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Camel caravan passing Garden of Gethsemane	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>29</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Bishop, wife and three orphans	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>30</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Some victims of Turkish barbarity observed by Lowell Thomas in the British campaign in the Far East. Lowell Thomas appears as Covent Garden Opera House on Thurs, Eve. Aug. 14th for a short season in a vivid illustrated moving-picture travelogue which created a sensation on America.	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso: Some victims of Turkish barbarity observed by Lowell Thomas in the British campaign in the Far East. Lowell Thomas appears as Covent Garden Opera House on Thurs, Eve. Aug. 14th for a short season in a vivid illustrated moving-picture travelogue which created a sensation on America.	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Beggar children sitting on street in Jerusalem	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2-verso</unitid>
+<unittitle>Verso: Beggar children sitting on street in Jerusalem	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>31</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Bertha Vester and many women from Russia and Armenia stand on a balcony	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>32</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Bertha Vester with women and children	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>33</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Suez Canal, pontoons	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Note: A scene on the Egyptian shore of the Suez Canal. L.T. inspecting the steel pontoons in which the Turkish army attempted to cross the canal and invade Egypt. The pontoons were shelled by the British forces, the Turkish army forced to retreat into the Sinai Desert, and from then on they were driven north until they were forced out of Sinai, Palestine and Syria	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>34</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Indian troops before the home of Pontius Pilate	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>35</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British soldiers at Jaffa Gate	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>36</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British soldiers at Jaffa Gate	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso: The new Jaffa Gate, made by tearing down a section of the Wall for the triumphal entry of Kaiser Wilhelm in 1898, in white robes, on a white horse, followed by a great cavalcade. Allenby went in on foot thru the old Jaffa Gate.	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>37</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jaffa Gate ceremony	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>38</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jaffa Gate, British soldier at guard house, man in Arab garb walking toward camera	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>39</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British staff automobiles at Jaffa Gate	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>40</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Columns of soldiers and automobiles before Jaffa Gate	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>41</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Columns of soldiers and automobiles before Jaffa Gate	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>42</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Good Samaritan Inn, two tents and soldiers at right	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>43</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Colonel Camp and three British officers	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>44</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Group of officers in front of office of military governor of Bethlehem	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  Colonel Camp - left, in doorway of Bethlehem hqts. [headquarters]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>45</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>French Poilus and British soldiers on guard at Church of Nativity in Bethlehem	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>46</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Line of British soldiers to receive medals	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>47</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Duke of Connaught	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>48</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Duke of Connaught presenting medals, distant view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>49</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Duke of Connaught decorating General Edmund Allenby	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>50</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Duke of Connaught decorating General Boles	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>51</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas, Duke of Connaught and General Edmund Allenby (leaning forward)	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>52</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Edmund Allenby with hand on wall, distant	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>53</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Edmund Allenby, side view, close-up	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>54</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Edmund Allenby, side view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>55</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Edmund Allenby	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>56</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Edmund Allenby and staff [With Lawrence in Arabia caption:  Allenby, the Commander in Chief; with the Duke of Connaught, uncle of the King - on left - who had been sent out to give decorations]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>57</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Edmund Allenby	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>58</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Edmund Allenby	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>59</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Edmund Allenby and wife, Mabel [With Lawrence in Arabia caption:  Lord and Lady Allenby]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>60</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas and the Duke of Connaught	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>61</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lieutenant General Philip Chetwode describing the Fall of Jerusalem to group of dignitaries, Duke of Connaught in cap [With Lawrence in Arabia caption:  Lieutenant General Sir Philip Chetwode, Allenby's second in command, pointing across the Dead Sea toward Arabia. Next to him, Lieutenant General Sir Harry Chevel, Australian general in command of the Anzac mountain division; Lieutenant General Sir Edwin Bulfin, Major General Sir john Shea, whose troops captured Jerusalem. The Duke of Connaught, wearing cap; the Anglican Bishop of Jerusalem and Allenby, the Commander-in-Chief.]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>62</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Smiling British soldier	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>63</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Holt tractor rolls off Jericho road	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>64</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Brigadier General "Fighting Charlie"� Cox approaching Jerusalem in his staff automobile	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>65</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Indian wrestling group ready for a military bout in the Holy Land, Lowell Thomas left of center	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>66</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Second Black Watch, Scotland, on march at Ismalia [should be filed with Egypt]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>67</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Second Black Watch, Scotland, marching in file	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>68</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Second Black Watch, Scotland, bagpipes and drums	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>69</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Second Black Watch, group picture of all remaining of original organization in 1914	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>70</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Second Black Watch, Scotland, sitting in front of pup tent while reading letters from home	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>71</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Scottish sentry	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>72</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British tents in Zionist fields	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>73</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Arab man	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>74</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Arab man, close-up	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>75</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lieutenant Ridley	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  Lieutenant Ridley who shot himself after the forced landing in desert so his mechanic could have the water and stand a chance of being found alive	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>76</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Major on tall camel, commander of hospital	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>77</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>"V. C." Smith, commander of Australian Camel Corps	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>78</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1494" type="box">1494</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Major "V. C." Smith atop kneeling camel	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  "Hard-boiled"� Smith, V. C., commander of the Imperial Camel Corps	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+<!-- End 1494 -->
+<!-- Box 1495 -->
+<c01>
+<note>Box 1495</note>
+<did>
+<unitid>2.1.3.1.1.2</unitid>
+<unittitle>Palestine</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>1</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Edmund Allenby and officers before carved tablet on Dog River	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>2</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Scottish soldier with mumps	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>3</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Australian soldier	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>4</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>The Arab mayor of Jerusalem, the white flag and the two British soldiers who were the first to receive the surrender of Jerusalem	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  Photo by Larsen, American Colony, Jerusalem	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>5</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jerusalem from Mount of Olives	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>6</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Horse jumping rail fence	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>7</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Horse jumping race	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>8</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>New Zealand Maori soldiers standing in front of tents	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>9</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Egyptian Labor Corps with Allenby's army	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>10</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Turkish soldier skilled just outside Jerusalem	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>11</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Abraham's tomb	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>12</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Map of Palestine and Syria up to Aleppo [With Lawrence in Arabia caption:  The war in the land of the Arabian Nights commenced at the holy city of Mecca, after which Emir Feisal and colonel Lawrence led the Arab army while it fought its way north across the desert for over a thousand miles to Aleppo. Dotted line indicates the region covered by this narrative]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>13</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Little boy not saluting wearing oversized military hat [Malta]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>14</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Little boy saluting wearing oversize military hat [Malta]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>15</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jewish man, front view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>16</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jewish man, side view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>17</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mohammedan Imam of Jerusalem	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>18</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mohammedan Imam of Jerusalem, side view [With Lawrence in Arabia caption: A muezzin calling the faithful to prayer]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>19</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Porter carrying huge bundle on his back	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>20</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Three graybeards	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  religious leaders of Jerusalem after visiting the British high commissioner	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Three graybeards	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2-verso</unitid>
+<unittitle>Verso:  Sir Herbert Samuel and 3 greybeards	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>21</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Three graybeards seated	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  Rabbis in Jerusalem	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>22</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Porter carrying many boxes on his head	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>23</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Porter carrying one huge box on his head	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>24</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Horse tram, side view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>25</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Horse tram, front view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>26</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Colonel W.F. Stirling and dog, close-up	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>27</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Colonel W.F. Stirling and dog, distant	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>28</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Major General Sir John Shea, front view, smiling	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>29</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Major General Sir John Shea, front view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>30</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Major General Sir John Shea, side view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>31</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British soldiers charging up hill	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>32</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Sikh officer	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  Bikaner Camel Corps officer	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>33</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Sikh officer, stick in hand	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>34</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Major General Sir Hodgson and staff	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>35</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Indian cavalry, front view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>36</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Indian cavalry, front view, led by British officer	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>37</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Indian cavalry going over hill, rear view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>38</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Indian cavalry going over hill, rear view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>39</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Indian cavalry rounding bend	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>40</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Porter carrying box, the Palestine Express railway tracks at left	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>41</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Three women, one with face veiled, one dressed in white, one carrying tray on her head	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>42</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Three women holding hands, one with face veiled, one dressed in white, one carrying tray on her head	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>43</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Woman with melon on head [With Lawrence in Arabia caption:  A peasant woman of Syria]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>44</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Woman with hay on head	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>45</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Two barefoot women, one with basket on head	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>46</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Arab man squinting left eye, close-up [With Lawrence in Arabia caption:  A Syrian villager]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>47</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Arab with wide mouth	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>48</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Cactus hedge, small boy in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>49</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Cactus hedge and palms, small boy in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>50</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Colonel Camp, side view	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso: Col. C. C. Camp from Ohio - the American whom Allenby made the first Christian Governor of Bethlehem since the Crusades	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>51</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Sir Herbert Samuel	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>52</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Ronald Storrs, first governor of Jerusalem, front view [With Lawrence in Arabia caption:  general Ronald Storrs, Governor of the Holy City, and modern successor to Pontius Pilate]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>53</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British soldier on guard at Mount of Olives, large tree in left foreground	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  The Holy City, from the Mount of Olives, with a Christian soldier on guard this Easter instead of a Turk. For 800 years Jerusalem was under Mohammedan yoke	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>54</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British soldier on guard at Mount of Olives, large tree in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>55</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British soldier holding rifle on guard at Mount of Olives, large tree in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>56</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jerusalem panorama with olive grove in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>57</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jerusalem panorama with olive grove in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>58</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jerusalem panorama from Russian Spire	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>59</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Mosque of Omar, deep shadows on right	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>60</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jerusalem panorama with olive grove in foreground, guide and British soldier on wall	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso:  The Holy City from the Mount of Olives. Lowell Thomas shows scenes of Allenby's capture of Jerusalem from the Turks in his famous production at the Tremont Temple	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>61</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Panorama of Jerusalem, guide sitting on tomb	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>62</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Golden Gate as seen through arch, man in right foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>63</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Golden Gate from outside wall	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>64</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Golden Gate close-up from inside	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>65</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Damascus Gate, Jerusalem	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>66</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Garden of Gethsemane	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>67</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Stiftung from Russian Spire	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>68</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Statue of Kaiser Wilhelm II, Union Jack	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>69</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Statue of Kaiser Wilhelm II	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>70</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Stiftung Tower, many trees in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>71</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Stiftung Tower front from roadway, many trees in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>72</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Stiftung Tower front from roadway, many trees in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>73</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Stiftung Tower from roadway	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>74</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jaffa from Tenderloin, lone Egyptian midway on beach	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>75</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jaffa waterfront from rocks	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>76</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jaffa waterfront from rocks, two men sitting on rocks in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>77</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jaffa waterfront from rocks, one man sitting on rock in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>78</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jaffa waterfront, two children in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>79</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jaffa waterfront, man moving too fast on left	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>80</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jaffa waterfront, wireless in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>81</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jaffa waterfront, two children walking in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>82</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Jaffa waterfront, masts of sailing ships	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>83</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Graveyard on Mount of Olives	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>84</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Woman drinking tea	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>85</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Rock formation on the Dead Sea [With Lawrence in Arabia caption:  "Lot's Wife"� near the southern end of the Dead Sea]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>86</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Man holding umbrella reads a book as he floats on his back in the Dead Sea [With Lawrence in Arabia caption: After a hard day in the desert, a restful half hour on and in the salty waters of the Dead Sea]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>87</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British 60th Division encamped on the Mount of Olives after the surrender of Jerusalem	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>88</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Panorama of Jerusalem	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>89</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Indian tent camp	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>90</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Major General Sir John Shea, on left, with other officers	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>91</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Major R. C. "Peter"� Drummond, Australia's leading flying ace, just returned from Central Africa	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>92</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Edmund Allenby	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>93</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Edmund Allenby with the Duke of Connaught, Bishop of London and army staff	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso: The conqueror of Jerusalem with the Duke of Connaught, Bishop of London and army staff	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>94</unitid>
+<unittitle>Palestine	
+</unittitle>
+<unitdate label="Date">1928	
+</unitdate>
+<container id="1495" type="box">1495</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Viscount Edmund Allenby and Lady Mabel Allenby [signed by both]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+<!-- End 1495 -->
+</dsc>
+</archdesc>
+</ead>

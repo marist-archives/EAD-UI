@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/LanternSlides2.1.2/americanColony2.1.2.4.1.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>American Colony Photographers</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.2.4.1.</unitid>
+			<unittitle>American Colony Photographers</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1364 -->
+			<c01>
+				<note>Box 1364</note>
+				<did>
+					<unitid>2.1.2.4.1</unitid>
+					<unittitle>American Colony Photographers</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Cistus creticus</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Linum flavum</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Linum pubescens</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Hollyhocks</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Calendula aegyptiaca</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Althaea acaulis</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Scolymus maculates</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Convolvulus cneorum</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Orchid</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Orchid</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Ononis natrix</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Gundelia tourneforti</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Locust, close-up</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Locust, close-up</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Locust, close-up</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Enver Pasha (center), Dhjamel Pasha with beard</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Mosque</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Camels on road</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Camels on road</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1364" type="box">1364</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1364 -->
+			<!-- Box 1365 -->
+			<c01>
+				<note>Box 1365</note>
+				<did>
+					<unitid>2.1.2.4.1</unitid>
+					<unittitle>American Colony Photographers</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Rock face</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1365" type="box">1365</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Sunset</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1365" type="box">1365</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Panorama</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1365" type="box">1365</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Panorama</unittitle>
+						<unitdate label="Date">circa1910s-1920s</unitdate>
+						<container id="1365" type="box">1365</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1365 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

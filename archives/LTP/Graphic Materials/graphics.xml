@@ -1,0 +1,1840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.xsl"?>
+<!--?xml-stylesheet type="text/css" href="ead.css"?-->
+ 
+<ead xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="NPkMC" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/graphics.xml</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Graphic Materials</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="series">
+	<did>
+		<unittitle>Graphic materials</unittitle>
+		<unitid countrycode="us" repositorycode="NPkMC">2</unitid>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		
+<!-- 1 component level -->
+		
+		<c01 level="subseries">
+		<did>
+			<unitid>2.1</unitid>
+			<unittitle>Sub Series 2.1: Photographs</unittitle>
+		</did>	
+	
+<!-- 2 component level -->
+		
+			<c02 level="subseries">
+				<did>
+					<unitid>2.1.1</unitid>
+					<unittitle> Sub Sub Series 2.1.1: Glass plate negatives</unittitle>
+				</did>	
+
+<!-- 3 component level -->
+					
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.1.1</unitid>
+							<unittitle>Sub Sub Sub Series 2.1.1.1: Frank R. Roberson</unittitle>
+						</did>	
+						
+				<!-- 4 component level -->
+
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.1</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/austria2.1.1.1.1.xml">	
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.1: Austria</unittitle>
+							</extref>
+															
+						</did>	
+							</c04>				
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.2</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/bavaria2.1.1.1.2.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.2: Bavaria</unittitle>
+							</extref>
+						</did>	
+							</c04>						
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.3</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/china2.1.1.1.3.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.3: China</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.4</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/colorado2.1.1.1.4.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.4: Colorado</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.5</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/cunardLines2.1.1.1.5.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.5: Cunard Lines</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.6</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/denmark2.1.1.1.6.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.6: Denmark</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.7</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/egypt2.1.1.1.7.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.7: Egypt</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.8</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/england2.1.1.1.8.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.8: England</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.9</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/grandCanyon2.1.1.1.9.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.9: Grand Canyon</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.10</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/holland2.1.1.1.10.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.10: Holland</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.11</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/iberian2.1.1.1.11.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.11: Iberian Peninsula and the Azores</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.12</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/ireland2.1.1.1.12.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.12: Ireland</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.13</unitid>
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.13: Italy</unittitle>
+						</did>	
+						
+						<!-- 5 component Level -->
+								
+										<c05 level="subseries">
+									<did>
+										<unitid>2.1.1.1.13.1</unitid>
+										<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/general2.1.1.1.13.1.xml">
+										<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.1.13.1: General </unittitle>
+										</extref>
+									</did>	
+										</c05>		
+										
+										<c05 level="subseries">
+									<did>
+										<unitid>2.1.1.1.13.2</unitid>
+										<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/mesinaSicily2.1.1.1.13.2.xml">
+										<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.1.13.2: Messina, Sicily</unittitle>
+										</extref>										
+									</did>	
+										</c05>	
+										
+										<c05 level="subseries">
+									<did>
+										<unitid>2.1.1.1.13.3</unitid>
+										<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/messinaEarthquake2.1.1.1.13.3.xml">
+										<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.1.13.3: Messina earthquake</unittitle>
+										</extref>
+									</did>	
+										</c05>	
+										
+										<c05 level="subseries">
+									<did>
+										<unitid>2.1.1.1.13.4</unitid>
+										<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/sicily2.1.1.1.13.4.xml">
+										<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.1.13.4: Sicily</unittitle>
+										</extref>
+									</did>	
+										</c05>	
+										
+							
+						<!--  5 End   -->		
+						
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.14</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/madiera2.1.1.1.14.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.14: Madiera</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.15</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/mexico2.1.1.1.15.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.15: Mexico</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.16</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/norway2.1.1.1.16.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.16: Norway</unittitle>
+							</extref>
+						</did>	
+							</c04>
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.17</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/palestine2.1.1.1.17.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.17: Palestine</unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.18</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/panama2.1.1.1.18.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.18: Panama </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.19</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/paris2.1.1.1.19.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.19: Paris </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.20</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/passionPlays2.1.1.1.20.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.20: Passion plays </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.21</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/personal2.1.1.1.21.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.21: Personal </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.22</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/petra2.1.1.1.22.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.22: Petra </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.23</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/poland2.1.1.1.23.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.23: Poland </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.24</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/russia2.1.1.1.24.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.24: Russia </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.25</unitid>
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.25: San Francisco </unittitle>
+						</did>	
+														
+						<!-- 5 Component -->
+									
+												<c05 level="subseries">
+											<did>
+												<unitid>2.1.1.1.25.1</unitid>
+												<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/panama2.1.1.1.25.1.xml">
+												<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.1.25.1: Panama-Pacific International Exposition </unittitle>
+												</extref>
+											</did>	
+												</c05>
+												
+												<c05 level="subseries">
+											<did>
+												<unitid>2.1.1.1.25.2</unitid>
+												<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/general2.1.1.1.25.2.xml">
+												<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.1.25.2: General</unittitle>
+												</extref>
+											</did>	
+												</c05>
+							</c04>		
+						<!-- 5 end -->
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.26</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/scotland2.1.1.1.26.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.26: Scotland </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.27</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/sscoronia2.1.1.1.27.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.27: S.S. Coronia </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.28</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/sweden2.1.1.1.28.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.28: Sweden </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.29</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/syria2.1.1.1.29.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.29: Syria </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.30</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/wales2.1.1.1.30.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.30: Wales </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.31</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/yellowstone2.1.1.1.31.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.31: Yellowstone National Park </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+							
+							<c04 level="subseries">
+						<did>
+							<unitid>2.1.1.1.32</unitid>
+							<extref xlink:type="simple" xlink:href="Roberson2.1.1.1/copies2.1.1.1.32.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.1.1.32: Copies </unittitle>
+							</extref>
+						</did>	
+							</c04>		
+				
+				<!-- 4 end -->
+							
+					</c03>	
+
+				<!-- 3 End  -->
+					
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.1.2</unitid>
+							<unittitle>Sub Sub Sub Series 2.1.1.2: Lowell Thomas</unittitle>
+						</did>	
+								
+								<!-- 4 Component Level -->
+								
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.1.2.1</unitid>
+									<unittitle>Sub Sub Sub Sub Series 2.1.1.2.1: Indexed Photographs </unittitle>
+								</did>	
+									
+									<!-- 5 Compnent Level -->
+											
+											<c05 level="subseries">
+										<did>
+											<unitid>2.1.1.2.1.1</unitid>
+											<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/arabia2.1.1.2.1.1.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.2.1.1: Arabia</unittitle>
+											</extref>
+										</did>	
+											</c05>
+											
+											<c05 level="subseries">
+										<did>
+											<unitid>2.1.1.2.1.2</unitid>
+											<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/palestine2.1.1.2.1.2.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.2.1.2: Palestine </unittitle>
+											</extref>
+										</did>	
+											</c05>
+											
+											<c05 level="subseries">
+										<did>
+											<unitid>2.1.1.2.1.3</unitid>
+											<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/egypt2.1.1.2.1.3.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.2.1.3: Egypt</unittitle>
+											</extref>
+										</did>	
+											</c05>
+											
+											<c05 level="subseries">
+										<did>
+											<unitid>2.1.1.2.1.4</unitid>
+											<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/personal2.1.1.2.1.4.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.2.1.4: Personal </unittitle>
+											</extref>
+										</did>	
+											</c05>
+											
+											<c05 level="subseries">
+										<did>
+											<unitid>2.1.1.2.1.5</unitid>
+											<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/australia2.1.1.2.1.5.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.2.1.5: Australia </unittitle>
+											</extref>
+										</did>	
+											</c05>
+											
+											<c05 level="subseries">
+										<did>
+											<unitid>2.1.1.2.1.6</unitid>
+											<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/newzealand2.1.1.2.1.6.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.2.1.6: New Zealand </unittitle>
+											</extref>
+										</did>	 
+											</c05>
+											
+											<c05 level="subseries">
+										<did>
+											<unitid>2.1.1.2.1.7</unitid>
+											<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/malaya2.1.1.2.1.7.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.2.1.7: Malaya </unittitle>
+											</extref>
+										</did>	
+											</c05>
+											
+											<c05 level="subseries">
+										<did>
+											<unitid>2.1.1.2.1.8</unitid>
+											<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/burma2.1.1.2.1.8.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.2.1.8: Burma </unittitle>
+											</extref>
+										</did>	
+											</c05>
+											
+											<c05 level="subseries">
+										<did>
+											<unitid>2.1.1.2.1.9</unitid>
+											<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/india2.1.1.2.1.9.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.1.2.1.9: India </unittitle>
+											</extref>
+										</did>	
+											</c05>
+									
+									<!-- 5 End -->
+									
+									</c04>
+									
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.1.2.2</unitid>
+									<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/airplanes2.1.1.2.2.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.1.2.2: Airplanes </unittitle>
+									</extref>
+								</did>	
+									</c04>
+									
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.1.2.3</unitid>
+									<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/american2.1.1.2.3.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.1.2.3: American Expeditionary Forces </unittitle>
+									</extref>
+								</did>	
+									</c04>
+									
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.1.2.4</unitid>
+									<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/england2.1.1.2.4.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.1.2.4: England </unittitle>
+									</extref>
+								</did>	
+									</c04>
+									
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.1.2.5</unitid>
+									<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/greece2.1.1.2.5.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.1.2.5: Greece </unittitle>
+									</extref>
+								</did>	
+									</c04>
+									
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.1.2.6</unitid>
+									<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/italy2.1.1.2.6.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.1.2.6: Italy </unittitle>
+									</extref>
+								</did>	
+									</c04>
+									
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.1.2.7</unitid>
+									<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/malta2.1.1.2.7.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.1.2.7: Malta </unittitle>
+									</extref>
+								</did>	
+									</c04>
+									
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.1.2.8</unitid>
+									<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/mediterraneanSea2.1.1.2.8.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.1.2.8: Mediterranean Sea </unittitle>
+									</extref>
+								</did>	
+									</c04>
+									
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.1.2.9</unitid>
+									<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/military2.1.1.2.9.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.1.2.9: Military </unittitle>
+									</extref>
+								</did>	
+									</c04>
+									
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.1.2.10</unitid>
+									<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/miscellaneous2.1.1.2.10.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.1.2.10: Miscellaneous </unittitle>
+									</extref>
+								</did>	
+									</c04>
+								
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.1.2.11</unitid>
+									<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/firstWorldFlight2.1.1.2.11.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.1.2.11: First World Flight </unittitle>
+									</extref>
+								</did>	
+									</c04>
+								
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.1.2.12</unitid>
+									<extref xlink:type="simple" xlink:href="Thomas2.1.1.2/oversize2.1.1.2.12.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.1.2.12: Oversize </unittitle>
+									</extref>
+								</did>	
+									</c04>
+								<!-- 4 End -->		
+					</c03>
+					
+			</c02>
+
+<!-- 2 component level -->
+			
+			<c02 level="subseries">
+				<did>
+					<unitid>2.1.2</unitid>
+					<unittitle> Sub Sub Series 2.1.2: Lantern slides</unittitle>
+				</did>	
+				
+				<!-- 3 component level -->
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.2.1</unitid>
+							<unittitle>Sub Sub Sub Series 2.1.2.1: Lowell Thomas indexed photographs </unittitle>
+						</did>
+							
+				<!-- 4 component level -->
+									
+									<c04 level="subseries">
+								<did>
+									<unitid>2.1.2.1.1</unitid>
+									<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/arabia2.1.2.1.1.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.2.1.1: Arabia </unittitle>
+									</extref>
+								</did>	
+									</c04>	
+									
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.1.2</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/palestine2.1.2.1.2.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.1.2: Palestine </unittitle>
+							</extref>
+						</did>	
+					</c04>
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.1.3</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/egypt2.1.2.1.3.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.1.3: Egypt </unittitle>
+							</extref>
+						</did>	
+					</c04>							
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.1.4</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/personal2.1.2.1.4.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.1.4: Personal </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.1.5</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/malaya2.1.2.1.5.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.1.5: Malaya </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.1.6</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/burma2.1.2.1.6.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.1.6: Burma </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.1.7</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/india2.1.2.1.7.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.1.7: India </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+				<!-- 4 end -->
+						
+				</c03>	
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.2.2</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/alaska2.1.2.2.xml">
+							<unittitle>Sub Sub Sub Series 2.1.2.2: Alaska </unittitle>
+							</extref>
+						</did>	
+				</c03>	
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.2.3</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/augustaHeyder2.1.2.3.xml">
+							<unittitle>Sub Sub Sub Series 2.1.2.3: Augusta Heyder, Colorist </unittitle>
+							</extref>
+						</did>	
+				</c03>	
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.2.4</unitid>
+							<unittitle>Sub Sub Sub Series 2.1.2.4: Commercial photographers and colorists </unittitle>
+						</did>
+						
+						<!-- 4 component level -->
+												
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.1</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/americanColony2.1.2.4.1.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.1: American Colony Photographers </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.2</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/asahelCurtis2.1.2.4.2.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.2: Asahel Curtis Commercial Photographer </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.3</unitid>
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.3: Beseler Lantern Slide Co., Inc. </unittitle>
+						</did>	
+										
+					<!-- 5 Component Level -->
+					
+					<c05 level="subseries">
+						<did>
+							<unitid>2.1.2.4.3.1</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/titledPhotographs2.1.2.4.3.1.xml">
+							<unittitle>Sub Sub Sub Sub Sub Series 2.1.2.4.3.1: Tilted Photographs </unittitle>
+							</extref>
+						</did>	
+					</c05>	
+					
+					<c05 level="subseries">
+						<did>
+							<unitid>2.1.2.4.3.2</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/untitledPhotographs2.1.2.4.3.2.xml">
+							<unittitle>Sub Sub Sub Sub Sub Series 2.1.2.4.3.2: Untilted Photographs </unittitle>
+							</extref>
+						</did>	
+					</c05>
+					
+					</c04>	
+					<!-- 5 End -->
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.4</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/geoWBondCo2.1.2.4.4.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.4: Geo. W. Bond Co. </unittitle>
+							</extref>
+						</did>	
+					</c04>
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.5</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/aBonfils2.1.2.4.5.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.5: A. Bonfils (Beyrouth, Syrie) </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.6</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/chicagoTransparency2.1.2.4.6.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.6: Chicago Transparency Co. </unittitle>
+							</extref>
+						</did>	
+					</c04>
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.7</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/chPhotographic2.1.2.4.7.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.7: C. H. Craves Photographic Publisher </unittitle>
+							</extref>
+						</did>	
+					</c04>
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.8</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/ceCummings2.1.2.4.8.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.8: C. E. Cummings </unittitle>
+							</extref>
+						</did>	
+					</c04>
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.9</unitid>
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.9: Curtis and Miller Commercial Photographer </unittitle>
+						</did>	
+									
+					<!-- 5 Component Level -->
+					
+					<c05 level="subseries">
+						<did>
+							<unitid>2.1.2.4.9.1</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/alaskaOregonWashigton2.1.2.4.9.1.xml">
+							<unittitle>Sub Sub Sub Sub Sub Series 2.1.2.4.9.1: Alaska, Oregon and Washington State </unittitle>
+							</extref>
+						</did>	
+					</c05>	
+					
+					<!-- 5 End -->
+					
+					</c04>
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.10</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/detroitPublishing2.1.2.4.10.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.10: Detroit Publishing Company </unittitle>
+							</extref>
+						</did>	
+					</c04>
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.11</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/edmondsonCo2.1.2.4.11.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.11: The Edmondson Co. </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.12</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/elschlagerBros2.1.2.4.12.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.12: Elschlager Bros. </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.13</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/frithSon2.1.2.4.13.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.13: F. Frith and Son </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.14</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/josephHawkes2.1.2.4.14.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.14: Joseph Hawkes </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.15</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/fjHaynesPublisher2.1.2.4.15.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.15: F. J. Haynes, Publisher </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.16</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/wcIves2.1.2.4.16.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.16: W. C. Ives </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.17</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/edwardHKemp2.1.2.4.17.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.17: Edward H. Kemp </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.18</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/chasWKimble2.1.2.4.18.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.18: Chas. W. Kimble </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.19</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/jLevyCie2.1.2.4.19.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.19: J. Levy and Cie </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.20</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/manasseOptician2.1.2.4.20.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.20: Manasse, Optician </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.21</unitid>
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.21: T. H. McAllister Co. </unittitle>
+						</did>	
+						
+						<!-- 5 component Level -->
+						
+					<c05 level="subseries">
+						<did>
+							<unitid>2.1.2.4.21.1</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/countries2.1.2.4.21.1.xml">
+							<unittitle>Sub Sub Sub Sub Sub Series 2.1.2.4.21.1: Countries </unittitle>
+							</extref>
+						</did>	
+					</c05>
+					
+					<c05 level="subseries">
+						<did>
+							<unitid>2.1.2.4.21.2</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/worksOfArt2.1.2.4.21.2.xml">
+							<unittitle>Sub Sub Sub Sub Sub Series 2.1.2.4.21.2: Works of Art </unittitle>
+							</extref>
+						</did>	
+					</c05>	
+					
+					<c05 level="subseries">
+						<did>
+							<unitid>2.1.2.4.21.3</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/miscellany2.1.2.4.21.3.xml">
+							<unittitle>Sub Sub Sub Sub Sub Series 2.1.2.4.21.3: Miscellany </unittitle>
+							</extref>
+						</did>	
+					</c05>	
+					
+						<!-- 5 End -->
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.22</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/mccurryPhoto2.1.2.4.22.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.22: McCurry Photo Co., Inc </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.23</unitid>
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.23: J. Horace McFarland Co. </unittitle>
+						</did>	
+						
+						<!-- 5 Component Level -->
+					
+					<c05 level="subseries">
+						<did>
+							<unitid>2.1.2.4.23.1</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/usa2.1.2.4.23.1.xml">
+							<unittitle>Sub Sub Sub Sub Sub Series 2.1.2.4.23.1: United States of America </unittitle>
+							</extref>
+						</did>	
+					</c05>
+					
+					<c05 level="subseries">
+						<did>
+							<unitid>2.1.2.4.23.2</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/otherCountries2.1.2.4.23.2.xml">
+							<unittitle>Sub Sub Sub Sub Sub Series 2.1.2.4.23.2: Other countries </unittitle>
+							</extref>
+						</did>	
+					</c05>
+					
+					<c05 level="subseries">
+						<did>
+							<unitid>2.1.2.4.23.3</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/miscellany2.1.2.4.23.3.xml">
+							<unittitle>Sub Sub Sub Sub Sub Series 2.1.2.4.23.3: Miscellany </unittitle>
+							</extref>
+						</did>	
+					</c05>
+						<!-- 5 End -->
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.24</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/mcintoshStereopticon2.1.2.4.24.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.24: McIntosh Stereopticon Company </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.25</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/nationalGeographic2.1.2.4.25.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.25: National Geographic Soceity </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.26</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/nationalCashRegister2.1.2.4.26.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.26: National Cash Register Co. </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.27</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/newtonCo2.1.2.4.27.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.27: Newton and Co. </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.28</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/nicholsSlides2.1.2.4.28.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.28: Nichols Slides </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.29</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/chasSPrice2.1.2.4.29.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.29: Chas. S. Price </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.30</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/william2.1.2.4.30.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.30: William H. Rau. Photographer </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.31</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/soulePhotograph2.1.2.4.31.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.31: Soule Photograph Co. </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.32</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/johnHThurston2.1.2.4.32.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.32: John H. Thurston, Stereopticons </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.33</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/underwood2.1.2.4.33.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.33: Underwood and Underwood </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.34</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/arHoggPhotographic2.1.2.4.34.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.34: A. R. Hogg Photographic Co. </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.35</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/charlesPotter2.1.2.4.35.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.35: Charles Potter</unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.4.36</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/deptOfPubInst2.1.2.4.36.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.4.36: Department of Public Instruction </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+						<!-- 4 end -->	
+				</c03>		
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.2.5</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/germanRevolution2.1.2.5.xml">
+							<unittitle>Sub Sub Sub Series 2.1.2.5: German Revolution </unittitle>
+							</extref>
+						</did>	
+					</c03>		
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.2.6</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/hammersleyHill2.1.2.6.xml">
+							<unittitle>Sub Sub Sub Series 2.1.2.6: Hammersley Hill, New York </unittitle>
+							</extref>
+						</did>	
+					</c03>	
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.2.7</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/italy2.1.2.7.xml">
+							<unittitle>Sub Sub Sub Series 2.1.2.7: Italy </unittitle>
+							</extref>
+						</did>	
+					</c03>	
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.2.8</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/military2.1.2.8.xml">
+							<unittitle>Sub Sub Sub Series 2.1.2.8: Military </unittitle>
+							</extref>
+						</did>	
+					</c03>		
+					
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.2.9</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/mountEverest2.1.2.9.xml">
+							<unittitle>Sub Sub Sub Series 2.1.2.9: Mount Everest </unittitle>
+							</extref>
+						</did>	
+					</c03>	
+					
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.2.10</unitid>
+							<unittitle>Sub Sub Sub Series 2.1.2.10: Near East </unittitle>
+						</did>	
+					<!-- 4 component level -->
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.10.1</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/titledPhotographs2.1.2.10.1.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.10.1: Titled Photographs </unittitle>
+							</extref>
+						</did>	
+					</c04>
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.10.2</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/untitledPhotographs2.1.2.10.2.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.10.2: Untitled Photographs </unittitle>
+							</extref>
+						</did>	
+					</c04>
+					
+					<!-- 4 end -->	
+				</c03>	
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.2.11</unitid>
+							<unittitle>Sub Sub Sub Series 2.1.2.11: First World Flight </unittitle>
+						</did>	
+						
+					<!-- 4 component level -->	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.11.1</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/travelogueLecture2.1.2.11.1.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.11.1: Travelogue lecture photographs </unittitle>
+							</extref>
+						</did>	
+					</c04>
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.11.2</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/miscellany2.1.2.11.2.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.11.2: Miscellaneous </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+						
+					<!-- 4 end -->				
+				</c03>	
+					
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.2.12</unitid>
+							<unittitle>Sub Sub Sub Series 2.1.2.12: Miscellaneous Lantern Slides </unittitle>
+						</did>	
+						
+					<!-- 4 component level -->
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.12.1</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/titledPhotographs2.1.2.12.1.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.12.1: Titled Photographs </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					
+					<c04 level="subseries">
+						<did>
+							<unitid>2.1.2.12.2</unitid>
+							<extref xlink:type="simple" xlink:href="LanternSlides2.1.2/untitledPhotographs2.1.2.12.2.xml">
+							<unittitle>Sub Sub Sub Sub Series 2.1.2.12.2: Untilted Photographs </unittitle>
+							</extref>
+						</did>	
+					</c04>	
+					<!-- 4 end -->	
+					
+				</c03>	
+													
+				<!-- 3 End -->
+					
+			</c02>
+			
+			<c02 level="subseries">
+				<did>
+					<unitid>2.1.3</unitid>
+					<unittitle> Sub Sub Series 2.1.3: Photographic prints</unittitle>
+				</did>	
+				
+					<!-- Component level 3 -->
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.3.1</unitid>
+							<unittitle>Sub Sub Sub Series 2.1.3.1: World War I/Travelogues</unittitle>
+						</did>	
+						
+							<!-- 4 Component Template -->
+							<c04 level="subseries">
+								<did>
+									<unitid>2.1.3.1.1</unitid>
+									<unittitle>Sub Sub Sub Sub Series 2.1.3.1.1: Lowell Thomas indexed photographs</unittitle>
+								</did>	
+								
+									<!-- 5 Component Template -->
+									<c05 level="subseries">
+										<did>
+											<unitid>2.1.3.1.1.1</unitid>
+											<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/arabia2.1.3.1.1.1.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.3.1.1.1: Arabia</unittitle>
+											</extref>
+										</did>	
+									</c05>	
+									
+									<!-- 5 Component Template -->
+									<c05 level="subseries">
+										<did>
+											<unitid>2.1.3.1.1.2</unitid>
+											<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/palestine2.1.3.1.1.2.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.3.1.1.2: Palestine</unittitle>
+											</extref>
+										</did>	
+									</c05>	
+									
+									<!-- 5 Component Template -->
+									<c05 level="subseries">
+										<did>
+											<unitid>2.1.3.1.1.3</unitid>
+											<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/egypt2.1.3.1.1.3.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.3.1.1.3: Egypt</unittitle>
+											</extref>
+										</did>	
+									</c05>	
+									
+									<!-- 5 Component Template -->
+									<c05 level="subseries">
+										<did>
+											<unitid>2.1.3.1.1.4</unitid>
+											<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/personal2.1.3.1.1.4.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.3.1.1.4: Personal</unittitle>
+											</extref>
+										</did>	
+									</c05>	
+									
+									<!-- 5 Component Template -->
+									<c05 level="subseries">
+										<did>
+											<unitid>2.1.3.1.1.5</unitid>
+											<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/malaya2.1.3.1.1.5.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.3.1.1.5: Malaya</unittitle>
+											</extref>
+										</did>	
+									</c05>	
+									
+									<!-- 5 Component Template -->
+									<c05 level="subseries">
+										<did>
+											<unitid>2.1.3.1.1.6</unitid>
+											<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/burma2.1.3.1.1.6.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.3.1.1.6: Burma</unittitle>
+											</extref>
+										</did>	
+									</c05>	
+									
+									<!-- 5 Component Template -->
+									<c05 level="subseries">
+										<did>
+											<unitid>2.1.3.1.1.7</unitid>
+											<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/india2.1.3.1.1.7.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.3.1.1.7: India</unittitle>
+											</extref>
+										</did>	
+									</c05>	
+									
+									<!-- 5 Component Template -->
+									<c05 level="subseries">
+										<did>
+											<unitid>2.1.3.1.1.8</unitid>
+											<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/unnumberedPhotographs2.1.3.1.1.8.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.3.1.1.8: Unnumbered photographs</unittitle>
+											</extref>
+										</did>	
+									</c05>	
+									<!-- 5 ends -->
+							</c04>	
+							
+							<c04 level="subseries">
+								<did>
+									<unitid>2.1.3.1.2</unitid>
+									<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/travelogues2.1.3.1.2.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.3.1.2: Travelogues</unittitle>
+									</extref>
+								</did>	
+							</c04>
+							
+							<c04 level="subseries">
+								<did>
+									<unitid>2.1.3.1.3</unitid>
+									<unittitle>Sub Sub Sub Sub Series 2.1.3.1.3: World War I</unittitle>
+								</did>	
+								
+									<!-- 5 Component Template -->
+									<c05 level="subseries">
+										<did>
+											<unitid>2.1.3.1.3.1</unitid>
+											<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/submarines2.1.3.1.3.1.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.3.1.3.1: Submarines</unittitle>
+											</extref>
+										</did>	
+									</c05>	
+									
+									<c05 level="subseries">
+										<did>
+											<unitid>2.1.3.1.3.2</unitid>
+											<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/subjectFiles2.1.3.1.3.2.xml">
+											<unittitle>Sub Sub Sub Sub Sub Series 2.1.3.1.3.2: Subject files</unittitle>
+											</extref>
+										</did>	
+									</c05>
+							</c04>
+							<!-- 4 ends -->
+					</c03>	
+					
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.3.2</unitid>
+							<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/alaska2.1.3.2.xml">
+							<unittitle>Sub Sub Sub Series 2.1.3.2: Alaska</unittitle>
+							</extref>
+						</did>	
+					</c03>
+					
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.3.3</unitid>
+							<unittitle>Sub Sub Sub Series 2.1.3.3: Family and friends</unittitle>
+						</did>	
+						
+							<!-- 4 Component Template -->
+							<c04 level="subseries">
+								<did>
+									<unitid>2.1.3.3.1</unitid>
+									<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/theThomasAndRyanFamily2.1.3.3.1.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.3.3.1: The Thomas and Ryan families</unittitle>
+									</extref>
+								</did>	
+							</c04>	
+							
+							<c04 level="subseries">
+								<did>
+									<unitid>2.1.3.3.2</unitid>
+									<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/francesRyan2.1.3.3.2.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.3.3.2: Frances Ryan Thomas[wife of Lowell]</unittitle>
+									</extref>
+								</did>	
+							</c04>	
+							
+							<c04 level="subseries">
+								<did>
+									<unitid>2.1.3.3.3</unitid>
+									<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/lowellThomas2.1.3.3.3.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.3.3.3: Lowell Thomas</unittitle>
+									</extref>
+								</did>	
+							</c04>	
+							
+							<c04 level="subseries">
+								<did>
+									<unitid>2.1.3.3.5</unitid>
+									<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/lowellThomasJr2.1.3.3.4.xml">
+									<unittitle>Sub Sub Sub Sub Series 2.1.3.3.4: Lowell Thomas, Jr.</unittitle>
+									</extref>
+								</did>	
+							</c04>	
+					</c03>
+					
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.3.4</unitid>
+							<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/forUseInPublications2.1.3.4.xml">
+							<unittitle>Sub Sub Sub Series 2.1.3.4: For use in publications</unittitle>
+							</extref>
+						</did>	
+					</c03>
+					
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.3.5</unitid>
+							<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/tibet2.1.3.5.xml">
+							<unittitle>Sub Sub Sub Series 2.1.3.5: Tibet</unittitle>
+							</extref>
+						</did>	
+					</c03>
+					
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.3.6</unitid>
+							<extref xlink:type="simple" xlink:href="PhotographicPrints2.1.3/subjectFiles2.1.3.6.xml">
+							<unittitle>Sub Sub Sub Series 2.1.3.6: Subject files</unittitle>
+							</extref>
+						</did>	
+					</c03>
+					<!-- 3 ends -->
+			</c02>
+			
+			<c02 level="subseries">
+				<did>
+					<unitid>2.1.4</unitid>
+					<unittitle> Sub Sub Series 2.1.4: Film negatives</unittitle>
+				</did>	
+				
+					<!-- 3 Component Template -->
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.4.1</unitid>
+							<extref xlink:type="simple" xlink:href="FilmNegatives2.1.4/hammersleyHill2.1.4.1.xml">
+							<unittitle>Sub Sub Sub Series 2.1.4.1: Hammersley Hill, New York</unittitle>
+							</extref>
+						</did>	
+					</c03>		
+					
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.4.2</unitid>
+							<extref xlink:type="simple" xlink:href="FilmNegatives2.1.4/oversize2.1.4.2.xml">
+							<unittitle>Sub Sub Sub Series 2.1.4.2: Oversize</unittitle>
+							</extref>
+						</did>	
+					</c03>		
+					
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.4.3</unitid>
+							<extref xlink:type="simple" xlink:href="FilmNegatives2.1.4/subjectFiles2.1.4.3.xml">
+							<unittitle>Sub Sub Sub Series 2.1.4.3: Subject files</unittitle>
+							</extref>
+						</did>	
+					</c03>		
+					<!-- 3 ends -->
+			</c02>
+			
+			<c02 level="subseries">
+				<did>
+					<unitid>2.1.5</unitid>
+					<unittitle> Sub Sub Series 2.1.5: Transparencies</unittitle>
+				</did>	
+				
+					<!-- 3 Component Template -->
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.5.1</unitid>
+							<extref xlink:type="simple" xlink:href="Transparencies2.1.5/35mmSlides2.1.5.1.xml">
+							<unittitle>Sub Sub Sub Series 2.1.5.1: 35 millimeter slides</unittitle>
+							</extref>
+						</did>	
+					</c03>		
+					
+					<c03 level="subseries">
+						<did>
+							<unitid>2.1.5.2</unitid>
+							<extref xlink:type="simple" xlink:href="Transparencies2.1.5/otherTransparencies2.1.5.2.xml">
+							<unittitle>Sub Sub Sub Series 2.1.5.2: Other transparencies</unittitle>
+							</extref>
+						</did>	
+					</c03>		
+					<!-- 3 ends -->
+			</c02>
+			
+			<c02 level="subseries">
+				<did>
+					<unitid>2.1.6</unitid>
+					<extref xlink:type="simple" xlink:href="photographAlbums2.1.6.xml">
+					<unittitle> Sub Sub Series 2.1.6: Photograph albums</unittitle>
+					</extref>
+				</did>	
+			</c02>
+			
+			<c02 level="subseries">
+				<did>
+					<unitid>2.1.7</unitid>
+					<extref xlink:type="simple" xlink:href="postcards2.1.7.xml">
+					<unittitle> Sub Sub Series 2.1.7: Postcards</unittitle>
+					</extref>
+				</did>	
+			</c02>
+			
+			<c02 level="subseries">
+				<did>
+					<unitid>2.1.8</unitid>
+					<extref xlink:type="simple" xlink:href="stereographicCards2.1.8.xml">
+					<unittitle> Sub Sub Series 2.1.8: Stereographic cards</unittitle>
+					</extref>
+				</did>	
+			</c02>
+			
+				
+			<c02 level="subseries">
+				<did>
+					<unitid>2.1.9</unitid>
+					<unittitle> Sub Sub Series 2.1.9: Photographs found with textual materials</unittitle>
+				</did>	
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.9.1</unitid>
+							<unittitle>Sub Sub Sub Series 2.1.9.1: Correspondence</unittitle>
+						</did>
+						
+						<c04 level="subseries">
+							<did>
+								<unitid>2.1.9.1.1</unitid>
+								<extref xlink:type="simple" xlink:href="Photographs2.1.9/fanMail2.1.9.1.1.xml">
+								<unittitle>Sub Sub Sub Series 2.1.9.1.1: Fan mail</unittitle>
+								</extref>
+							</did>	
+						</c04>
+						
+						<c04 level="subseries">
+							<did>
+								<unitid>2.1.9.1.2</unitid>
+								<extref xlink:type="simple" xlink:href="Photographs2.1.9/general2.1.9.1.2.xml">
+								<unittitle>Sub Sub Sub Series 2.1.9.1.2: General</unittitle>
+								</extref>
+							</did>	
+						</c04>		
+		
+				</c03>	
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.9.2</unitid>
+							<extref xlink:type="simple" xlink:href="Photographs2.1.9/deceasedFiles2.1.9.2.xml">
+							<unittitle>Sub Sub Sub Series 2.1.9.2: Deceased files</unittitle>
+							</extref>
+						</did>	
+				</c03>	
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.9.3</unitid>
+							<extref xlink:type="simple" xlink:href="Photographs2.1.9/writings2.1.9.3.xml">
+							<unittitle>Sub Sub Sub Series 2.1.9.3: Writings</unittitle>
+							</extref>
+						</did>	
+				</c03>	
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.9.4</unitid>
+							<extref xlink:type="simple" xlink:href="Photographs2.1.9/topicalFiles2.1.9.4.xml">
+							<unittitle>Sub Sub Sub Series 2.1.9.4: Topical files 1</unittitle>
+							</extref>
+						</did>	
+				</c03>	
+				
+				<c03 level="subseries">
+						<did>
+							<unitid>2.1.9.5</unitid>
+							<extref xlink:type="simple" xlink:href="Photographs2.1.9/topicalFiles2.1.9.5.xml">
+							<unittitle>Sub Sub Sub Series 2.1.9.5: Topical files 2</unittitle>
+							</extref>
+						</did>	
+				</c03>		
+			</c02>
+		</c01>	
+
+<!-- 2 End  -->
+		<c01 level="subseries">
+		<did>
+			<unitid>2.2</unitid>
+			<extref xlink:type="simple" xlink:href="Photographs2.1.9/sketches2.2.xml">
+			<unittitle>Sub Series 2.2: Sketches</unittitle>
+			</extref>
+		</did>	
+		</c01>
+		
+		<c01 level="subseries">
+		<did>
+			<unitid>2.3</unitid>
+			<unittitle>Sub Series 2.3: Oversize graphic materials</unittitle>
+		</did>	
+		
+			<c02 level="subseries">
+				<did>
+					<unitid>2.3.1</unitid>
+					<extref xlink:type="simple" xlink:href="Over-sized2.3/percyBurton2.3.1.xml">
+					<unittitle> Sub Sub Series 2.3.1: Percy Burton</unittitle>
+					</extref>
+				</did>	
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unitid>2.3.2</unitid>
+					<extref xlink:type="simple" xlink:href="Over-sized2.3/cinerama2.3.2.xml">
+					<unittitle> Sub Sub Series 2.3.2: Cinerama</unittitle>
+					</extref>
+				</did>	
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unitid>2.3.3</unitid>
+					<unittitle> Sub Sub Series 2.3.3: Family</unittitle>
+				</did>	
+				<c03 level="subseries">
+					<did>
+						<unitid>2.3.3.1</unitid>
+						<extref xlink:type="simple" xlink:href="Over-sized2.3/thomasRyanFamilies2.3.3.1.xml">
+						<unittitle> Sub Sub Series 2.3.3.1: The Thomas and Ryan families</unittitle>
+						</extref>
+					</did>	
+				</c03>
+				<c03 level="subseries">
+					<did>
+						<unitid>2.3.3.2</unitid>
+						<extref xlink:type="simple" xlink:href="Over-sized2.3/lowellThomasJr2.3.3.2.xml">
+						<unittitle> Sub Sub Series 2.3.3.2: Lowell Thomas, Jr.</unittitle>
+						</extref>
+					</did>	
+				</c03>
+				<c03 level="subseries">
+					<did>
+						<unitid>2.3.3.3</unitid>
+						<extref xlink:type="simple" xlink:href="Over-sized2.3/francesRyanThomas2.3.3.3.xml">
+						<unittitle> Sub Sub Series 2.3.3.3: Frances Ryan Thomas [wife of Lowell]</unittitle>
+						</extref>
+					</did>	
+				</c03>
+				<c03 level="subseries">
+					<did>
+						<unitid>2.3.3.4</unitid>
+						<extref xlink:type="simple" xlink:href="Over-sized2.3/lowellThomas2.3.3.4.xml">
+						<unittitle> Sub Sub Series 2.3.3.4: Lowell Thomas</unittitle>
+						</extref>
+					</did>	
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unitid>2.3.4</unitid>
+					<extref xlink:type="simple" xlink:href="Over-sized2.3/famous2.3.4.xml">
+					<unittitle> Sub Sub Series 2.3.4: Famous</unittitle>
+					</extref>
+				</did>	
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unitid>2.3.5</unitid>
+					<extref xlink:type="simple" xlink:href="Over-sized2.3/firstWorldFlight2.3.5.xml">
+					<unittitle> Sub Sub Series 2.3.5: First World Flight</unittitle>
+					</extref>
+				</did>	
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unitid>2.3.6</unitid>
+					<extref xlink:type="simple" xlink:href="Over-sized2.3/quakerHill2.3.6.xml">
+					<unittitle> Sub Sub Series 2.3.6: Quaker Hill</unittitle>
+					</extref>
+				</did>	
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unitid>2.3.7</unitid>
+					<unittitle> Sub Sub Series 2.3.7: Sports</unittitle>
+				</did>	
+				<c03 level="subseries">
+					<did>
+						<unitid>2.3.7.1</unitid>
+						<extref xlink:type="simple" xlink:href="Over-sized2.3/softball2.3.7.1.xml">
+						<unittitle> Sub Sub Series 2.3.7.1: Softball</unittitle>
+						</extref>
+					</did>	
+				</c03>
+				<c03 level="subseries">
+					<did>
+						<unitid>2.3.7.2</unitid>
+						<extref xlink:type="simple" xlink:href="Over-sized2.3/skiing2.3.7.2.xml">
+						<unittitle> Sub Sub Series 2.3.7.2: Skiing</unittitle>
+						</extref>
+					</did>	
+				</c03>
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unitid>2.3.8</unitid>
+					<extref xlink:type="simple" xlink:href="Over-sized2.3/tibet2.3.8.xml">
+					<unittitle> Sub Sub Series 2.3.8: Tibet</unittitle>
+					</extref>
+				</did>	
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unitid>2.3.9</unitid>
+					<extref xlink:type="simple" xlink:href="Over-sized2.3/worldWarITravelogues2.3.9.xml">
+					<unittitle> Sub Sub Series 2.3.9: World War I/Travelogues</unittitle>
+					</extref>
+				</did>	
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unitid>2.3.10</unitid>
+					<extref xlink:type="simple" xlink:href="Over-sized2.3/countFelixvonLuckner2.3.10.xml">
+					<unittitle> Sub Sub Series 2.3.10: Count Felix von Luckner</unittitle>
+					</extref>
+				</did>	
+			</c02>
+			<c02 level="subseries">
+				<did>
+					<unitid>2.3.11</unitid>
+					<extref xlink:type="simple" xlink:href="Over-sized2.3/miscellany2.3.11.xml">
+					<unittitle> Sub Sub Series 2.3.11: Miscellany</unittitle>
+					</extref>
+				</did>	
+			</c02>
+		</c01>
+	</dsc> 
+</archdesc>
+</ead>
+

@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Syria</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.29</unitid>
+			<unittitle>Syria</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1247 -->
+			<c01>
+				<note>Box 1247</note>
+				<did>
+					<unitid>2.1.1.1.29</unitid>
+					<unittitle>Syria</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>A village in the Lebanons (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">2082</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Railroad in the Lebanons (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">2083</materialspec>
+						<materialspec label="negativenumber">783</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Mount Hermon (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">2084</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Distant view of Hermon</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">2085</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Lebanon girl (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">2202</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Rich Syrian home (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">2203</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Cedars of Lebanon (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">2204</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Muslims at prayer (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">2205</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>White wild roses near Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">2211</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Roadway with trees, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1247" type="box">1247</container>
+						<materialspec label="index">2212</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1247 -->
+			<!-- Box 1248 -->
+			<c01>
+				<note>Box 1248</note>
+				<did>
+					<unitid>2.1.1.1.29</unitid>
+					<unittitle>Syria</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Largest stone ever quarried, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2213</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Largest stone ever quarried, Baalbek (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2214</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Large stones at Baalbek (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2215</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Temple of Venus, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2216</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Temple of Venus, Baalbek (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2217</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Temple of Jupiter, Baalbek (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2218</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Distant view of Baalbek (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2219</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>General view of Baalbek (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2220</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Temple of Bacchus, columns, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2221</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Looking into the Temple of Bacchus, Baalbek (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2222</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Carving of Temple of Jupiter, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2223</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Leaning pillars, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2224</materialspec>
+						<materialspec label="negativenumber">649</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Carvings, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2225</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Frank R. Roberson at altar to temple, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2226</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Five niches in south wall, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2227</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Inner court of temple, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2228</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Carvings, Baalbek (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2229</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Carvings, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2230</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Ruins, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2231</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Detailed ruins, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2232</materialspec>
+						<materialspec label="negativenumber">680</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Stone balls, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2233</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Part of a temple, Baalbek (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2234</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Small temple at Baalbek (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2235</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Temple of Bacchus, Baalbek</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2388</materialspec>
+						<materialspec label="negativenumber">707</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Mosque in Damascus (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2236</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Lemonade vendor, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2237</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Public street letter writer, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2238</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Fruit stand, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2239</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Camels in street scene, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2240</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Street scene, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2241</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Court of house, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2242</materialspec>
+						<materialspec label="negativenumber">121</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Court of house, many plants, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2242A</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Street, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2243</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Street scene, boy on donkey, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2244</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Town hall, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2245</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Barber shop, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2246</materialspec>
+						<materialspec label="negativenumber">679</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Street barber, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2247</materialspec>
+						<materialspec label="negativenumber">668</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Shop in Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2249</materialspec>
+						<materialspec label="negativenumber">750</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Entrance to Greek bazaar, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2250</materialspec>
+						<materialspec label="negativenumber">751</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Street called straight, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2251</materialspec>
+						<materialspec label="negativenumber">677</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Street in Damascus (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2252</materialspec>
+						<materialspec label="negativenumber">790</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Bazaar, makers of Nargheli pipes, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2253</materialspec>
+						<materialspec label="negativenumber">671</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Street view, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">(8122)</materialspec>
+						<materialspec label="negativenumber">557</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Clothing bazaar, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2255</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Court of Syrian home (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2258</materialspec>
+						<materialspec label="negativenumber">780</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Fountain in Damascus (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2259</materialspec>
+						<materialspec label="negativenumber">786</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Tomb of Saladin, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2260</materialspec>
+						<materialspec label="negativenumber">734</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Victoria Hotel, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2261</materialspec>
+						<materialspec label="negativenumber">682</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Cemetery, Damascus (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2262</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Interior of house, Damascus (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2263</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>City of Damascus from west</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2379</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>General view of Damascus from the west</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2380</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Interior of Greek bazaar, Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2381</materialspec>
+						<materialspec label="negativenumber">694</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>View from train, Damascus to Beirut</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2073</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Beyrout [Beirut] (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">2074</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Mrs. Jessie W. Roberson on horseback</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">554</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1248 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

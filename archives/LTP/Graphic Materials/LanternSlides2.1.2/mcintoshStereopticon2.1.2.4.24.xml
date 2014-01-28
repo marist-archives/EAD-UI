@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/LanternSlides2.1.2/mcintoshStereopticon2.1.2.4.24.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>McIntosh Stereopticon Company</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.2.4.24</unitid>
+			<unittitle>McIntosh Stereopticon Company</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1410 -->
+			<c01>
+				<note>Box 1410</note>
+				<did>
+					<unitid>2.1.2.4.24</unitid>
+					<unittitle>McIntosh Stereopticon Company</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>The Great Statue of Christopher Columbus, Genoa, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1410" type="box">1410</container>
+						<materialspec label="index">178</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Castle San Angelo and bridge, Rome Italy</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1410" type="box">1410</container>
+						<materialspec label="index">220</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Basilica of Constantine, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1410" type="box">1410</container>
+						<materialspec label="index">351</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>The Wrestlers, Uffizi Gallery, Florence, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1410" type="box">1410</container>
+						<materialspec label="index">389</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Gallery, The Campo Santo, Genoa, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1410" type="box">1410</container>
+						<materialspec label="index">438</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>The Colosseum, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1410" type="box">1410</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Sarcophagus of Napoleon Bonaparte, Hotel des Invalides, Paris, Franc</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1410" type="box">1410</container>
+						<materialspec label="index">2514</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Hotel des Invalides, Paris, France</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1410" type="box">1410</container>
+						<materialspec label="index">17497</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Sunset on the Seine, Paris, France</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1410" type="box">1410</container>
+						<materialspec label="index">20851</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>The Madeleine Church, interior, Paris, France</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1410" type="box">1410</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1410 -->
+			<!-- Box 1411 -->
+			<c01>
+				<note>Box 1411</note>
+				<did>
+					<unitid>2.1.2.4.24</unitid>
+					<unittitle>McIntosh Stereopticon Company</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Palais Royale, Paris, France</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1411" type="box">1411</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Court of Farewell, Palace of Fontainebleau, France</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1411" type="box">1411</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Map of Panama and Costa Rica</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1411" type="box">1411</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Portals of the Gateway, Garden of the Gods, Colorado</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1411" type="box">1411</container>
+						<materialspec label="index">33</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>George Washington’s barn, Mount Vernon, Virginia</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1411" type="box">1411</container>
+						<materialspec label="index">132</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>A gorgeous sunset</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1411" type="box">1411</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1411 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

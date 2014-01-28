@@ -1,0 +1,4322 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/holland2.1.1.1.10.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Holland</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.10</unitid>
+			<unittitle>Holland</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1184</note>
+				<did>
+					<unitid>2.1.1.1.10</unitid>
+					<unittitle>Holland</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Near the railroad bridge, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3001</materialspec>
+						<materialspec label="negativenumber">55</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Grote Kerk or Church of Saint Lawrence, canal and railroad bridge, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3004</materialspec>
+						<materialspec label="negativenumber">42</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Leaning house and old style architecture, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3005</materialspec>
+						<materialspec label="negativenumber">40</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Statue of poet Hendrik Tollens, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3007</materialspec>
+						<materialspec label="negativenumber">107</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Statue of Erasmus, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3008</materialspec>
+						<materialspec label="negativenumber">100</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Showing sign for baker and Thomson's pudding, Rotteram</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3009</materialspec>
+						<materialspec label="negativenumber">98</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>On the Boompjes, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3132</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Bridge at Boompjes, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3136</materialspec>
+						<materialspec label="negativenumber">167</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Bridges at Boompjes, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3010</materialspec>
+						<materialspec label="negativenumber">80</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>The Boompjes, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3011</materialspec>
+						<materialspec label="negativenumber">72</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Railroad bridge over Mass River (Meuse River), Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3013</materialspec>
+						<materialspec label="negativenumber">66</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Along a canal, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3138</materialspec>
+						<materialspec label="negativenumber">144</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Burgermeister's house, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3016</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Residence, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3018</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>In the business section, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3019</materialspec>
+						<materialspec label="negativenumber">61</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Bit[?] in Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3131</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Old windmill in city, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3133</materialspec>
+						<materialspec label="negativenumber">220</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Fine Residence, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3134</materialspec>
+						<materialspec label="negativenumber">231</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Chimneys, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3137</materialspec>
+						<materialspec label="negativenumber">166</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Park scene, Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3135</materialspec>
+						<materialspec label="negativenumber">130</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Park in Rotterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3139</materialspec>
+						<materialspec label="negativenumber">163</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Wash day, Rotterda,</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3140</materialspec>
+						<materialspec label="negativenumber">284</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Windmill, Delfshaven</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3148</materialspec>
+						<materialspec label="negativenumber">199</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Artistic house, Delfshaven</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3150</materialspec>
+						<materialspec label="negativenumber">156</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Point of departure of Pilgrim Fathers, Delfshaven</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3149</materialspec>
+						<materialspec label="negativenumber">190</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Grote Kerk (cathedral), Dordrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3020</materialspec>
+						<materialspec label="negativenumber">108</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Street scene, Dordrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3141</materialspec>
+						<materialspec label="negativenumber">339</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>House, Dordrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3142</materialspec>
+						<materialspec label="negativenumber">338</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Woman with headdress, Dordrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3143</materialspec>
+						<materialspec label="negativenumber">336</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Canal, Dordrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3144</materialspec>
+						<materialspec label="negativenumber">330</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>City gate, Dordrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3145</materialspec>
+						<materialspec label="negativenumber">328</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Up a canal, Dordrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3146</materialspec>
+						<materialspec label="negativenumber">168</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Canal bit[?], Dordrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3147</materialspec>
+						<materialspec label="negativenumber">145</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Oude Kerk (old church),Tomb of Admiral Maarten van Tromp, Delft</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3021</materialspec>
+						<materialspec label="negativenumber">103</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Nieuwe Kerk (new church), Memorial to William the Silent, Frank R. Roberson in foreground, Delft</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3022</materialspec>
+						<materialspec label="negativenumber">102</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Nieuwe Kerk (new church), showing statue of religion in memorial to William the Silent, Delft</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3023</materialspec>
+						<materialspec label="negativenumber">93</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Nieuwe Kerk (new church), tomb of Hugo Grotius, Delft</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3024</materialspec>
+						<materialspec label="negativenumber">88</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Nieuwe Kerk (new church), Delft</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3153</materialspec>
+						<materialspec label="negativenumber">346</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Nieuwe Kerk (new church), william the Silent and dog, Delft</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3025</materialspec>
+						<materialspec label="negativenumber">65</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Portrait of William the Silent</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3026</materialspec>
+						<materialspec label="negativenumber">296</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Door of Prinsenhof, Delft</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3027</materialspec>
+						<materialspec label="negativenumber">302</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Oude Kerk (old church), leaning tower, Delft</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">3028</materialspec>
+						<materialspec label="negativenumber">291</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<!-- End 2 -->
+
+			</c01>
+			<!-- Box 1185 -->
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1185</note>
+				<did>
+					<unitid>2.1.1.1.10</unitid>
+					<unittitle>Holland</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Spot where William the Silent was murdered, Delft</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3029</materialspec>
+						<materialspec label="negativenumber">292</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>City gate, Delft</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3154</materialspec>
+						<materialspec label="negativenumber">329</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Soldiers, Delft</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3151</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Woman selling fish, Delft</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3152</materialspec>
+						<materialspec label="negativenumber">347</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Street scene, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3218</materialspec>
+						<materialspec label="negativenumber">193</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Canal scene, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3030</materialspec>
+						<materialspec label="negativenumber">54</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Hall of the Knights in Binnenhof, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3031</materialspec>
+						<materialspec label="negativenumber">52</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>States General building, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3217</materialspec>
+						<materialspec label="negativenumber">345</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Spuistraat, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3032</materialspec>
+						<materialspec label="negativenumber">50</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>National monument(1869), The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3033</materialspec>
+						<materialspec label="negativenumber">113</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Passage, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3034</materialspec>
+						<materialspec label="negativenumber">97</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Interior of Grote Kerk(cathedral), with queen's seat, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3035</materialspec>
+						<materialspec label="negativenumber">122</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Grote Kerk(cathedral), where queen attends, the Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3036</materialspec>
+						<materialspec label="negativenumber">86</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Gevangenport(old prison), The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3221</materialspec>
+						<materialspec label="negativenumber">157</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>House of Spinoza, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3037</materialspec>
+						<materialspec label="negativenumber">73</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Houses showing various styles of architecture, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3038</materialspec>
+						<materialspec label="negativenumber">63</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>The queen's palace, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3039</materialspec>
+						<materialspec label="negativenumber">74</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Statue of William the Silent in the plein, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3040</materialspec>
+						<materialspec label="negativenumber">60</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Long path in Het Bosch, near House in the Wood, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3041</materialspec>
+						<materialspec label="negativenumber">124</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>In Het Bosch, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3043</materialspec>
+						<materialspec label="negativenumber">114</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Het Bosch, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3044</materialspec>
+						<materialspec label="negativenumber">111</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Canal in Het Bosch, queen's skating canal, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3045</materialspec>
+						<materialspec label="negativenumber">77</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Wedding carriage, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3219</materialspec>
+						<materialspec label="negativenumber">196</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Funeral procession, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3220</materialspec>
+						<materialspec label="negativenumber">185</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Queen Emma(copy of a photograph)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3047</materialspec>
+						<materialspec label="negativenumber">357</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Queen of Holland(copy of a photograph)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3048</materialspec>
+						<materialspec label="negativenumber">294</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Queen Wilhelmina of Holland and prince consort</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3049</materialspec>
+						<materialspec label="negativenumber">305</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Portrait of Queen Wilhelmina of Holland</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3050</materialspec>
+						<materialspec label="negativenumber">299</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Paul Potter's "The Young Bull", The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3052</materialspec>
+						<materialspec label="negativenumber">293</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Interior of large department store, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3053</materialspec>
+						<materialspec label="negativenumber">303</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Road to Scheveningen, The Hague</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3046</materialspec>
+						<materialspec label="negativenumber">89</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Kurhaus(casino) Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3054</materialspec>
+						<materialspec label="negativenumber">128</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Group of Dutch boys, Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3222</materialspec>
+						<materialspec label="negativenumber">332</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Frieslanders, Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3223</materialspec>
+						<materialspec label="negativenumber">137</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Headdress, Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3224</materialspec>
+						<materialspec label="negativenumber">136</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Street, Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3225</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Street scene, Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3226</materialspec>
+						<materialspec label="negativenumber">252</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Street, Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3227</materialspec>
+						<materialspec label="negativenumber">267</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Tiny house, Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3228</materialspec>
+						<materialspec label="negativenumber">271</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>People digging on beach at Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3229</materialspec>
+						<materialspec label="negativenumber">272</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Woman in chair sitting next to movie camera on beach at Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3229A</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Group on beach at Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3230</materialspec>
+						<materialspec label="negativenumber">274</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Beach, Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3231</materialspec>
+						<materialspec label="negativenumber">279</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Promenade wagon, Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3232</materialspec>
+						<materialspec label="negativenumber">194</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Bathing wagon at Scheveningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3233</materialspec>
+						<materialspec label="negativenumber">275</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>House of Peter the Great, Zaandam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3055</materialspec>
+						<materialspec label="negativenumber">112</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Houses built in church, Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3173</materialspec>
+						<materialspec label="negativenumber">278</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Bridges and old houses, Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3175</materialspec>
+						<materialspec label="negativenumber">251</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Flower garden, Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3170</materialspec>
+						<materialspec label="negativenumber">331</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Gladiolas, near Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3171</materialspec>
+						<materialspec label="negativenumber">283</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Gladiolas, near Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3172</materialspec>
+						<materialspec label="negativenumber">183</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Flowering begonia</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3169</materialspec>
+						<materialspec label="negativenumber">334</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Street leading to Amsterdam Gate, Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3174</materialspec>
+						<materialspec label="negativenumber">273</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Amsterdam gate, Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3176</materialspec>
+						<materialspec label="negativenumber">236</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Grote Kerk(cathedral), meat market, Kermesse buildings, Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3064</materialspec>
+						<materialspec label="negativenumber">290</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Meat market, Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3057</materialspec>
+						<materialspec label="negativenumber">87</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Stadhuis(town hall), Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3058</materialspec>
+						<materialspec label="negativenumber">92</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Statue of Laurens Coster, Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3059</materialspec>
+						<materialspec label="negativenumber">99</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Interior of cathedral showing large organ, Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3060</materialspec>
+						<materialspec label="negativenumber">118</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Interior of cathedral, ship decoration, Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3061</materialspec>
+						<materialspec label="negativenumber">115</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>View over city from cathedral, Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3062</materialspec>
+						<materialspec label="negativenumber">95</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>View from cathedral, Haarlem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3063</materialspec>
+						<materialspec label="negativenumber">45</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Road to Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3164</materialspec>
+						<materialspec label="negativenumber">286</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>Road to Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3167</materialspec>
+						<materialspec label="negativenumber">138</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Road near Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3165</materialspec>
+						<materialspec label="negativenumber">139</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>66</unitid>
+						<unittitle>Road nearby Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3166</materialspec>
+						<materialspec label="negativenumber">140</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>67</unitid>
+						<unittitle>Main street showing stadhuis(town hall), Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1185" type="box">1185</container>
+						<materialspec label="index">3067</materialspec>
+						<materialspec label="negativenumber">83</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<!-- End 2 -->
+
+			</c01>
+			<!-- End 13 -->
+
+			<!-- Box 1186 -->
+
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1186</note>
+				<did>
+					<unitid>2.1.1.1.10</unitid>
+					<unittitle>Holland</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Stadhuis(town hall), Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3068</materialspec>
+						<materialspec label="negativenumber">39</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>The ruins of "The Burg", Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3069</materialspec>
+						<materialspec label="negativenumber">82</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>University gymnasium, Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3159</materialspec>
+						<materialspec label="negativenumber">197</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Soldiers, Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3168</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Dutch soldiers, Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3160</materialspec>
+						<materialspec label="negativenumber">195</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Van der Werf Monument, Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3161</materialspec>
+						<materialspec label="negativenumber">189</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Railroad sign, Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3162</materialspec>
+						<materialspec label="negativenumber">141</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Sidewalk obstruction, Leyden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3163</materialspec>
+						<materialspec label="negativenumber">142</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Dufot[?] drawbridge, railroad station and canal, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3179</materialspec>
+						<materialspec label="negativenumber">171</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Railroad station, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3070</materialspec>
+						<materialspec label="negativenumber">84</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Church of St. Nicholas and Schreierstoren (Tower of Tears) from the harbor, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3071</materialspec>
+						<materialspec label="negativenumber">126</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Schreierstoren (Tower of Tears), Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3183</materialspec>
+						<materialspec label="negativenumber">149</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>The Bourse, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3072</materialspec>
+						<materialspec label="negativenumber">57</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Royal Palace, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3073</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Royal Palace, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3074</materialspec>
+						<materialspec label="negativenumber">48</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Binnen-Amstel, Sophia Plein, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3075</materialspec>
+						<materialspec label="negativenumber">47</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Amstel Hotel and bridge, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3180</materialspec>
+						<materialspec label="negativenumber">162</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Montelbaanstoren Tower, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3076</materialspec>
+						<materialspec label="negativenumber">41</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Shipping in harbor, from government tower, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3077</materialspec>
+						<materialspec label="negativenumber">96</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Fishing boats in Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3182</materialspec>
+						<materialspec label="negativenumber">147</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Fish market and old weigh house, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3078</materialspec>
+						<materialspec label="negativenumber">90</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Post office, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3079</materialspec>
+						<materialspec label="negativenumber">75</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Achterburgwal, Jewish quarter, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3184</materialspec>
+						<materialspec label="negativenumber">150</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Street in Jewish quarter, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3186</materialspec>
+						<materialspec label="negativenumber">287</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Achterburgwal, Jewish quarter, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3187</materialspec>
+						<materialspec label="negativenumber">151</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Death announcer</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3177</materialspec>
+						<materialspec label="negativenumber">160</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Ridder Straat, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3185</materialspec>
+						<materialspec label="negativenumber">288</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Oude Kerk (old church), Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3181</materialspec>
+						<materialspec label="negativenumber">143</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Rembrandt Plein, theater, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3188</materialspec>
+						<materialspec label="negativenumber">134</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Rijksmuseum, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3178</materialspec>
+						<materialspec label="negativenumber">225</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Head of Rembrandt, by himself</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3080</materialspec>
+						<materialspec label="negativenumber">295</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Rembrandt’s “Syndics”, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3082</materialspec>
+						<materialspec label="negativenumber">308</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Rembrandt’s “Night Watch”, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3083</materialspec>
+						<materialspec label="negativenumber">309</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>“Celebration of the Peace of Munster” by Bartholomeus van der Helst, Amsterdam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3084</materialspec>
+						<materialspec label="negativenumber">335</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Stern of boat on canal</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3085</materialspec>
+						<materialspec label="negativenumber">307</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Windmills and canal, road to Broek</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3086</materialspec>
+						<materialspec label="negativenumber">81</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Windmill and house, road between Amsterdam and Broek</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3088</materialspec>
+						<materialspec label="negativenumber">85</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Night scene, road from Amsterdam to Broek</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3189</materialspec>
+						<materialspec label="negativenumber">203</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Tiny house, Broek</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3190</materialspec>
+						<materialspec label="negativenumber">260</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Interior of house, showing beds, Broek</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3089</materialspec>
+						<materialspec label="negativenumber">120</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Canal scene, Edam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3090</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Canal view, Edam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3246</materialspec>
+						<materialspec label="negativenumber">155</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Weighing cheeses in warehouse, Edam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3091</materialspec>
+						<materialspec label="negativenumber">116</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Interior of cheese warehouse, Edam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3092</materialspec>
+						<materialspec label="negativenumber">91</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Dam Hotel in Edam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3245</materialspec>
+						<materialspec label="negativenumber">356</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Pigs in the rain, Edam to Zaandam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3244</materialspec>
+						<materialspec label="negativenumber">210</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Weigh house, Alkmaar</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3093</materialspec>
+						<materialspec label="negativenumber">110</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Old castle, Muiden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3094</materialspec>
+						<materialspec label="negativenumber">79</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Hunebed, Rolde</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3095</materialspec>
+						<materialspec label="negativenumber">56</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Old gate (1578), Hoorn</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1186" type="box">1186</container>
+						<materialspec label="index">3096</materialspec>
+						<materialspec label="negativenumber">43</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 14 -->
+
+			<!-- Box 1187 -->
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1187</note>
+				<did>
+					<unitid>2.1.1.1.10</unitid>
+					<unittitle>Holland</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Weigh house, Hoorn</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3097</materialspec>
+						<materialspec label="negativenumber">109</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Fourteenth century decoration of house in honor of naval victory, Hoorn</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3098</materialspec>
+						<materialspec label="negativenumber">78</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Leaning houses, Grote Oost, Hoorn</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3234</materialspec>
+						<materialspec label="negativenumber">224</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Row of buildings, Hoorn</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3235</materialspec>
+						<materialspec label="negativenumber">218</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Dog cart, Hoorn</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3236</materialspec>
+						<materialspec label="negativenumber">214</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Weighing cheeses, Hoorn</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3237</materialspec>
+						<materialspec label="negativenumber">200</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Tree decoration, Hoorn to Enkhuizen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3240</materialspec>
+						<materialspec label="negativenumber">229</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>House decoration, road between Hoorn and Enkhuizen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3243</materialspec>
+						<materialspec label="negativenumber">154</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Colored doll houses, road from Hoorn to Enkhuizen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3108</materialspec>
+						<materialspec label="negativenumber">68</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Drommedaris Tower, 1540, Enkhuizen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3107</materialspec>
+						<materialspec label="negativenumber">64</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Great lock from Zuiderzee, Enkhuizen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3109</materialspec>
+						<materialspec label="negativenumber">51</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Interior, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3099</materialspec>
+						<materialspec label="negativenumber">123</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Isle of Marken from the sea</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3192</materialspec>
+						<materialspec label="negativenumber">208</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Women of Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3193</materialspec>
+						<materialspec label="negativenumber">234</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Woman washing, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3194</materialspec>
+						<materialspec label="negativenumber">246</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Girls with hay boats, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3197</materialspec>
+						<materialspec label="negativenumber">219</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Frank R. Roberson and Mrs. Roberson in automobile, windmill</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3198</materialspec>
+						<materialspec label="negativenumber">184</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Child with long pole, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3199</materialspec>
+						<materialspec label="negativenumber">177</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Baby with a can, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3200</materialspec>
+						<materialspec label="negativenumber">179</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Small child with mother, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3201</materialspec>
+						<materialspec label="negativenumber">209</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Five children on bench, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3202</materialspec>
+						<materialspec label="negativenumber">249</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Children near harbor, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3203</materialspec>
+						<materialspec label="negativenumber">266</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Two little children, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3204</materialspec>
+						<materialspec label="negativenumber">264</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Women in street, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3205</materialspec>
+						<materialspec label="negativenumber">129</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Main street, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3206</materialspec>
+						<materialspec label="negativenumber">132</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Row of houses, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3207</materialspec>
+						<materialspec label="negativenumber">135</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Near boat landing, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3208</materialspec>
+						<materialspec label="negativenumber">191</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Houses near boat landing, Marken</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3209</materialspec>
+						<materialspec label="negativenumber">265</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Along the Zuiderzee, showing dykes and land below sea level</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3100</materialspec>
+						<materialspec label="negativenumber">301</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Boats on the Zuiderzee, near Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3101</materialspec>
+						<materialspec label="negativenumber">127</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Fishing boats, Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3102</materialspec>
+						<materialspec label="negativenumber">58</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Woman and child, Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3103</materialspec>
+						<materialspec label="negativenumber">94</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Woman and child in headdress, Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3104</materialspec>
+						<materialspec label="negativenumber">49</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Women on road, Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3210</materialspec>
+						<materialspec label="negativenumber">247</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Women walking, Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3211</materialspec>
+						<materialspec label="negativenumber">176</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Man with wide trousers, Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3212</materialspec>
+						<materialspec label="negativenumber">204</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Old man and dyke, Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3213</materialspec>
+						<materialspec label="negativenumber">169</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Man in costume, Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3214</materialspec>
+						<materialspec label="negativenumber">133</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>People standing near fence, Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3215</materialspec>
+						<materialspec label="negativenumber">205</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Group around automobile, Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3216</materialspec>
+						<materialspec label="negativenumber">206</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Lifting bridge on canal, Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3105</materialspec>
+						<materialspec label="negativenumber">44</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Along the dyke, Volendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3106</materialspec>
+						<materialspec label="negativenumber">70</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Grote Markt, Groningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3110</materialspec>
+						<materialspec label="negativenumber">125</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>University church, Groningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3111</materialspec>
+						<materialspec label="negativenumber">104</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>University library, Groningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3112</materialspec>
+						<materialspec label="negativenumber">71</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Library of university, Groningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3113</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Town hall, Groningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3260</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Old watch tower, Groningen</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3261</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>On road to Zwolle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3285</materialspec>
+						<materialspec label="negativenumber">270</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Milk buckets and tubs, on road to Zwolle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3115</materialspec>
+						<materialspec label="negativenumber">76</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Houses in country, Zwolle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3286</materialspec>
+						<materialspec label="negativenumber">241</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Country houses near Zwolle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3287</materialspec>
+						<materialspec label="negativenumber">238</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Children near Zwolle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3288</materialspec>
+						<materialspec label="negativenumber">221</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Children on road to Zwolle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3289</materialspec>
+						<materialspec label="negativenumber">222</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Street in Zwolle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3290</materialspec>
+						<materialspec label="negativenumber">175</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Lock basin at Zwolle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3291</materialspec>
+						<materialspec label="negativenumber">172</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Apothecary sign, Zwolle</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3114</materialspec>
+						<materialspec label="negativenumber">53</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Rhenen, on road to Utrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3262</materialspec>
+						<materialspec label="negativenumber">187</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Fine residence on road to Utrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3270</materialspec>
+						<materialspec label="negativenumber">213</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Statue of John van Nassau, Utrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3263</materialspec>
+						<materialspec label="negativenumber">281</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Cathedral tower, Oudegracht (old canal), Utrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3264</materialspec>
+						<materialspec label="negativenumber">348</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Scene in park, Utrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3265</materialspec>
+						<materialspec label="negativenumber">349</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Canal scene, Utrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3266</materialspec>
+						<materialspec label="negativenumber">351</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>Old houses, 1651, Utrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3267</materialspec>
+						<materialspec label="negativenumber">352</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Nieuwegracht (new canal), Utrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3268</materialspec>
+						<materialspec label="negativenumber">353</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>66</unitid>
+						<unittitle>Old canal (Oudegracht), in Utrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1187" type="box">1187</container>
+						<materialspec label="index">3269</materialspec>
+						<materialspec label="negativenumber">354</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 15 -->
+
+			<!-- Box 1188 -->
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1188</note>
+				<did>
+					<unitid>2.1.1.1.10</unitid>
+					<unittitle>Holland</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Street scene, Utrecht?</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3271</materialspec>
+						<materialspec label="negativenumber">159</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Cathedral tower, Utrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3272</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>General view showing housetops, Utrecht</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3116</materialspec>
+						<materialspec label="negativenumber">119</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Road to Arnhem showing hills</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3279</materialspec>
+						<materialspec label="negativenumber">180</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Postkantoor (post office), Arnhem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3117</materialspec>
+						<materialspec label="negativenumber">106</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Massive architecture, Arnhem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3118</materialspec>
+						<materialspec label="negativenumber">105</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>High school, Arnhem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3119</materialspec>
+						<materialspec label="negativenumber">67</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Stadhuis (town hall), Arnhem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3274</materialspec>
+						<materialspec label="negativenumber">215</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Glass front to house, Arnhem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3275</materialspec>
+						<materialspec label="negativenumber">212</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Soldier’s home, Arnhem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3277</materialspec>
+						<materialspec label="negativenumber">182</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Music Sacrum, Arnhem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3278</materialspec>
+						<materialspec label="negativenumber">187</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Park, Arnhem</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3280</materialspec>
+						<materialspec label="negativenumber">158</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Canal, Schiedam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3126</materialspec>
+						<materialspec label="negativenumber">333</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Street, Schiedam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3127</materialspec>
+						<materialspec label="negativenumber">211</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Old woman sewing, Schiedam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3128</materialspec>
+						<materialspec label="negativenumber">198</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Modern hat on headdress, Schiedam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3129</materialspec>
+						<materialspec label="negativenumber">350</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Children and musician, Schiedam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3130</materialspec>
+						<materialspec label="negativenumber">146</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Sand dunes at Zandvoort</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3155</materialspec>
+						<materialspec label="negativenumber">276</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Little boy at Zandvoort</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3156</materialspec>
+						<materialspec label="negativenumber">250</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Residence, Zeist</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3157</materialspec>
+						<materialspec label="negativenumber">344</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Small residence, Zeist</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3158</materialspec>
+						<materialspec label="negativenumber">280</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Street, Monnickendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3247</materialspec>
+						<materialspec label="negativenumber">263</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Automobile at Monnickendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3248</materialspec>
+						<materialspec label="negativenumber">259</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Street in Monnickendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3249</materialspec>
+						<materialspec label="negativenumber">216</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Street scene, Monnickendam</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3250</materialspec>
+						<materialspec label="negativenumber">161</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Park in Apeldoorn</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3273</materialspec>
+						<materialspec label="negativenumber">114</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Palace at Het Loo</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3281</materialspec>
+						<materialspec label="negativenumber">178</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Avenue of trees leading to Het Loo Palace</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3282</materialspec>
+						<materialspec label="negativenumber">148</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Palace of Het Loo, queen’s summer residence</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3284</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Pig from market, Leeuwarden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3283</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Weigh house, Leeuwarden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3252</materialspec>
+						<materialspec label="negativenumber">226</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Cattle market, Leeuwarden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3253</materialspec>
+						<materialspec label="negativenumber">223</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Apple woman, Leeuwarden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3254</materialspec>
+						<materialspec label="negativenumber">258</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Old woman in Friesland helmet</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3255</materialspec>
+						<materialspec label="negativenumber">257</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Cattle market, Leeuwarden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3256</materialspec>
+						<materialspec label="negativenumber">256</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Cattle from market, Leeuwarden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3257</materialspec>
+						<materialspec label="negativenumber">245</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Street Leeuwarden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3258</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Automobile and people, Leeuwarden</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3259</materialspec>
+						<materialspec label="negativenumber">228</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Women washing, Spakenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3292</materialspec>
+						<materialspec label="negativenumber">340</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Women, Spakenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3293</materialspec>
+						<materialspec label="negativenumber">341</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Child, Spakenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3294</materialspec>
+						<materialspec label="negativenumber">342</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Small child, Spakenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3295</materialspec>
+						<materialspec label="negativenumber">152</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Crowd of children, Spakenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3296</materialspec>
+						<materialspec label="negativenumber">282</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Women and children, Spakenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3297</materialspec>
+						<materialspec label="negativenumber">343</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Crowd around automobile, Spakenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3298</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Boats near houses, Spakenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3299</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Group around doorway, Spakenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3300</materialspec>
+						<materialspec label="negativenumber">165</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Women and children, Spakenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3301</materialspec>
+						<materialspec label="negativenumber">170</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Children, Spakenburg</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3302</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Group of Dutch boys</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3125</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Small boat at sea</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3251</materialspec>
+						<materialspec label="negativenumber">289</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Dog cart (one dog)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3304</materialspec>
+						<materialspec label="negativenumber">235</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>On a country road</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3305</materialspec>
+						<materialspec label="negativenumber">254</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Church on country road</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3306</materialspec>
+						<materialspec label="negativenumber">248</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Canal bit, sailboat</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3307</materialspec>
+						<materialspec label="negativenumber">239</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Canal scene on country road</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3308</materialspec>
+						<materialspec label="negativenumber">242</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Cows</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3309</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Cows</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3310</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Cows</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3311</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Moving houses</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3312</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Storks on roof of house</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3313</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Pasture scene, sheep</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3314</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>House decoration</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3315</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>House decoration</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3316</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Sail set in woods</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3317</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>66</unitid>
+						<unittitle>Sail in fields</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3318</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>67</unitid>
+						<unittitle>Sail in fields</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3319</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>68</unitid>
+						<unittitle>Woman drawing sailboat</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3320</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>69</unitid>
+						<unittitle>Sail in the field</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3321</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>70</unitid>
+						<unittitle>Sailboat on canal</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3322</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>71</unitid>
+						<unittitle>Dutch scene (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3120</materialspec>
+						<materialspec label="negativenumber">358</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>72</unitid>
+						<unittitle>Woman with Friesland helmet</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3121</materialspec>
+						<materialspec label="negativenumber">359</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>73</unitid>
+						<unittitle>Canal and house (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3122</materialspec>
+						<materialspec label="negativenumber">360</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>74</unitid>
+						<unittitle>Boats on the Zuiderzee (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3123</materialspec>
+						<materialspec label="negativenumber">361</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>75</unitid>
+						<unittitle>Dutch boat (copy)</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1188" type="box">1188</container>
+						<materialspec label="index">3124</materialspec>
+						<materialspec label="negativenumber">362</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 16 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

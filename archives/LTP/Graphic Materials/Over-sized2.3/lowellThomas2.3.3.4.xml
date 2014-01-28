@@ -1,0 +1,1560 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.3.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Over-sized2.3/lowellThomas2.3.3.4.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Lowell Thomas</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.3.3.4</unitid>
+			<unittitle>Lowell Thomas</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1627 -->
+			<c01>
+				<note>Box 1627</note>
+				<did>
+					<unitid>2.3.3.4</unitid>
+					<unittitle>Lowell Thomas</unittitle>
+				</did>
+				<c02 level="Item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Lowell Thomas infant photograph (5-7 months)</unittitle>
+						<unitdate label="Date">1892</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Three year old Lowell Thomas standing at right with two unidentified children [photograph]</unittitle>
+						<unitdate label="Date">1895</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Three year old Lowell Thomas standing at right with two unidentified children [photograph]</unittitle>
+						<unitdate label="Date">1895</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>31-verso</unitid>
+						<unittitle>Verso: L.T. on right</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Lowell Thomas at 14 years of age [photograph]</unittitle>
+						<unitdate label="Date">1906</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Lowell Thomas in grade school class photograph</unittitle>
+						<unitdate label="Date">circa 1905</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Lowell Thomas in grade school class photograph [same as item 32]</unittitle>
+						<unitdate label="Date">circa 1905</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>34-verso</unitid>
+						<unittitle>Verso: L.T. 4th from right in second row [apparently incorrect-Lowell Thomas stands at the right directly in front of the principal]; between Nash Glau, no. 3, and Bill Post, no. 4. Cousin Carl T - no. 2, same row. Harold Worchester, 2nd from left in same row, became one of the leading mining engineers in West. Miss Elstine Connor, Teacher; Prof. Taylor, principal.</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Victor High School, Victor, Colorado [photograph]</unittitle>
+						<unitdate label="Date">circa early 1900s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Victor High School, Victor, Colorado [photograph]</unittitle>
+						<unitdate label="Date">circa early 1900s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Garfield School on So. 5th St., where L.T. spent his grammar school years [photograph]</unittitle>
+						<unitdate label="Date">circa early 1900s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>37-verso</unitid>
+						<unittitle>Verso: Garfield School on So. 5th St., where L.T. spent his grammar school years</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Garfield School [same as item 36] [photograph]</unittitle>
+						<unitdate label="Date">circa early 1900s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Lowell Thomas on horseback; verso: L.T. when he carried “samples” for the Portland Assay Office. Perhaps summer of 1907 [photograph]</unittitle>
+						<unitdate label="Date">circa 1907</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>39-verso</unitid>
+						<unittitle>Verso: L.T. when he carried "samples" for the Portland Assay[?] Office. Perhaps Summer of 1907.</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Lowell Thomas on horseback; unusual job; rode 9 hours a day for assay office. Many small mines. Carried samples. Returned next day with sad news [same as item 38] [photograph]</unittitle>
+						<unitdate label="Date">circa 1907</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>40-verso</unitid>
+						<unittitle>Verso: unusual job; rode 9 hours a day for assay office. Many small mines. Carried samples. Returned next day with sad news</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Lowell Thomas at left wearing football uniform;  L.T., ?, Homer Huffacker [photograph]</unittitle>
+						<unitdate label="Date">1907</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>41-verso</unitid>
+						<unittitle>Verso: L.T., ?, Homer Huffacker</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Lowell Thomas practicing football with teammate; Homer Huffacker passes ball, LT about to kick. Mines: Portland I and II; Independence on right [photograph]</unittitle>
+						<unitdate label="Date">1907</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>42-verso</unitid>
+						<unittitle>Verso: Homer Huffacker passes ball, LT about to kick. Mines: Portland I and II; Independence on right</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Lowell Thomas practicing football [same as item 41] [photograph]</unittitle>
+						<unitdate label="Date">1907</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>43-verso</unitid>
+						<unittitle>Verso: In mining boots played on Rocks</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Lowell Thomas poses with the Victor High School football team [Lowell Thomas in striped shirt, second from right in second row] [photograph]</unittitle>
+						<unitdate label="Date">1906</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>44-verso</unitid>
+						<unittitle>Verso: 1908. Left to right:- Front row:- Don Kennedy, Marian Grice, Joe Brill, Middle row:- Andy George, Will Hayes, L.T., Don Black, Top row:- Len Hart, Rene Guerin; Prof ?; Craig, coach; Oren Devy, mgr.; next one don't remember; Charley Eby, "Midge" Frybeger.</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Lowell Thomas poses with the Victor High School football team [Lowell Thomas in striped shirt, second from right in second row] [photograph]</unittitle>
+						<unitdate label="Date">1906</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>45-verso</unitid>
+						<unittitle>Verso: Victor H.S. football team - 1906. L.T. (leaning) quarterback; H.S. Age 16 1906 end�</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Lowell Thomas with fraternity brothers at Valparaiso University [photograph]</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Lowell Thomas poses with two women; note: from left to right, Jeanette Barnes, Lowell Thomas and Marie Timmons. This picture was taken in 1911, the year Thomas graduated from the University of Northern Indiana (Valparaiso University) on the Kissing Bridge, which now spans Salt Creek and leads to Bridge VU Theatre [photograph]</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>47-verso</unitid>
+						<unittitle>Verso: 1st girl friends. L. of professors. U. of N. Indiana Valparaso "poor mans Harvard"</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Note: Pictured above from left to right, Jeanette Barnes, Lowell Thomas, and Marie Timmons. This picture was taken in 1911, the year Thomas graduated from the University of Northern Indiana (Valparaiso University) on the Kissing Bridge, which now spans Salt Creek and leads to Bridge VU theater. Thomas will return on October 17 for Bridge VU Dedication.</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Lowell Thomas poses with two men while at Valparaiso University; verso: 1910; Dr. [?] left, Preston Burtis on right [photograph]</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>49-verso</unitid>
+						<unittitle>Verso: [illegible] Preston Butis [?] on right</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Lowell Thomas speaking to farmers while holding a map of Indiana; LT as map salesman in Indiana and Illinois, summer of 1910 [photograph]</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>50-verso</unitid>
+						<unittitle>Verso: LT as map salesman in Indiana and Illinois, summer of 1910</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Lowell Thomas speaking to farmers while holding a map of Indiana [photograph]</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Lowell Thomas sits in the snow of the Colorado mountains [photograph]</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>52-verso</unitid>
+						<unittitle>Verso: LT in his Colorado Mountains at age 18.</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Lowell Thomas sits in the snow of the Colorado mountains [same as item 50] [photograph]</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Lowell Thomas when editor of the daily paper in Victor, Colorado; facing camera with arms akimbo; large letter "C"� on sweater; en route law school, Chicago [photograph]</unittitle>
+						<unitdate label="Date">circa 1911 - 1912</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>54-verso</unitid>
+						<unittitle>Verso: en route law school, Chicago</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Lowell Thomas when editor of the daily paper in Victor, Colorado; facing camera with arms akimbo; large letter "C"� on sweater [same as item 52] [photograph]</unittitle>
+						<unitdate label="Date">circa 1911 - 1912</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Lowell Thomas working at a mine in Colorado; 1st job after college, 1911 - Job, pick and shovel [photograph]</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>56-verso</unitid>
+						<unittitle>Verso: 1st job after college, 1911 - Job, pick and shovel</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Lowell Thomas [at left] and friends; 1911 or 1912; LT, Gertrude Lamb, Chas. Eby, ?, Jack Pascoe, Frances Lamb, Alan [Allan] Dray, Margaret "Babe" Lamb [photograph]</unittitle>
+						<unitdate label="Date">circa 1911 - 1912</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>57-verso</unitid>
+						<unittitle>Verso: 1911 or 1912; LT, Gertrude Lamb, Chas. Eby, ?, Jack Pascoe, Frances Lamb, Alan [Allan] Dray, Margaret "Babe" Lamb</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Lowell Thomas [at left] and friends [same as item 55] [photograph]</unittitle>
+						<unitdate label="Date">circa 1911 - 1912</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Lowell Thomas on horseback; summer of 1912 or 1913 on Dad's ranch near Durango, on Ute Indian reservation [photograph]</unittitle>
+						<unitdate label="Date">circa 1912 - 1913</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>59-verso</unitid>
+						<unittitle>Verso: summer of 1912 or 1913 on Dad's ranch near Durango, on Ute Indian reservation</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Lowell Thomas on horseback; Summer 1912, cowboy, father's ranch, 4 Corners [same as item 57] [photograph]</unittitle>
+						<unitdate label="Date">circa 1912 - 1913</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>60-verso</unitid>
+						<unittitle>Verso: Summer 1912, cowboy, father's ranch, 4 Corners</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Lowell Thomas holding a rifle stands beside a horse at father Harry G. Thomas's ranch [photograph]</unittitle>
+						<unitdate label="Date">circa 1912 - 1913</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Lowell Thomas holding a rifle stands beside a horse at father Harry G. Thomas's ranch [same as item 59] [photograph]</unittitle>
+						<unitdate label="Date">circa 1912 - 1913</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Lowell Thomas poses between two unidentified men; L.T. middle in his ranch days, in the San Juan Mountains of Southwestern Colorado [photograph]</unittitle>
+						<unitdate label="Date">circa 1912 - 1913</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>63-verso</unitid>
+						<unittitle>Verso: L.T. middle in his ranch days, in the San Juan Mountains of Southwestern Colorado</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>Lowell Thomas poses between two unidentified men [same as item 61] [photograph]</unittitle>
+						<unitdate label="Date">circa 1912 - 1913</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Graduation photograph from unidentified college [Lowell Thomas seated second from right, second row] [photograph]</unittitle>
+						<unitdate label="Date">circa 1911 - 1913</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">12 x 22</extent>
+							<physfacet type="color">sepia</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>66</unitid>
+						<unittitle>Lowell Thomas pointing into the distance on the Alaskan high terrain [photograph]</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">9 x 16</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>67</unitid>
+						<unittitle>Lowell Thomas speaking to reporter while standing between railroad cars [photograph]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>67-verso</unitid>
+						<unittitle>Verso: Myron Ehrenber</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>68</unitid>
+						<unittitle>Lowell Thomas seated at left while unidentified man works at a typewriter [photograph]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>68-verso</unitid>
+						<unittitle>Verso: Myron Ehrenber</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>69</unitid>
+						<unittitle>Lowell Thomas has a bite of dessert as he stands at a lunch counter; verso Myron Ehrenberg [photograph]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>70</unitid>
+						<unittitle>Lowell Thomas in swimsuit with family dog; Pawling, N.Y., Thomas near pool [photograph]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>70-verso</unitid>
+						<unittitle>Verso: Pawling, N.Y., Thomas near pool</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>71</unitid>
+						<unittitle>Lowell Thomas broadcasting before a CBC microphone; Lowell Thomas, Jr. seated at left [photograph]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>72</unitid>
+						<unittitle>Lowell Thomas broadcasting for NBC from Pawling, NY.; family dog seated on table [item is currently on display in Lowell Thomas Gallery] [photograph]</unittitle>
+						<unitdate label="Date">circa 1935</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">19 x 15</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>73</unitid>
+						<unittitle>Lowell Thomas broadcasting before a CBS microphone; Wendall Corey at left, Stewart Granger at right [photograph]</unittitle>
+						<unitdate label="Date">1951</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">16 x 16 1/2</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>74</unitid>
+						<unittitle>Lowell Thomas broadcasting before a CBS microphone; Wendall Corey at left, Stewart Granger at right [same as item 71] [photograph]</unittitle>
+						<unitdate label="Date">1951</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">16 x 16 1/2</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>75</unitid>
+						<unittitle>Lowell Thomas broadcasting before a CBS microphone; Wendall Corey at left, Stewart Granger at right [photograph]</unittitle>
+						<unitdate label="Date">1951</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">16 x 16 1/2</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>76</unitid>
+						<unittitle>Lowell Thomas seated among many men as he broadcasts before a CBS microphone; Lowell Thomas, Jr. stands at right [photograph]</unittitle>
+						<unitdate label="Date">circa late 1940s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">16 x 16 1/2</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>77</unitid>
+						<unittitle>Close-up of Lowell Thomas adjusting a motion picture camera [photograph]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">11 x 13</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>78</unitid>
+						<unittitle>Posed portrait photograph of Lowell Thomas</unittitle>
+						<unitdate label="Date">circa 1930</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">10 x 13</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>79</unitid>
+						<unittitle>Posed portrait photograph of Lowell Thomas</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">17 x 20</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>80</unitid>
+						<unittitle>Posed portrait photograph of Lowell Thomas</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">17 x 20</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>81</unitid>
+						<unittitle>Posed portrait photograph of Lowell Thomas</unittitle>
+						<unitdate label="Date">circa 1970s</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">14 x 19</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>82</unitid>
+						<unittitle>A large charcoal sketch of Lowell Thomas; inscribed in the lower left with the date and Kokomo, Ind. [item is currently on display on the second floor of the Lowell Thomas building]</unittitle>
+						<unitdate label="Date">1939 March 29</unitdate>
+						<container id="1627" type="box">1627</container>
+						<physdesc>
+							<extent unit="inches">25 x 21</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+
+			</c01>
+			<!-- End 1627 -->
+			<!-- Box 1628 -->
+			<c01>
+				<note>Box 1628</note>
+				<did>
+					<unitid>2.3.3.4</unitid>
+					<unittitle>Lowell Thomas</unittitle>
+				</did>
+				<c02 level="Item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Publicity photograph [Literary Digest cover photograph]</unittitle>
+						<unitdate label="Date">1931 September 19</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">11 x 14</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Publicity photograph [Literary Digest cover photograph]</unittitle>
+						<unitdate label="Date">1931 September 19</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">12 1/2 x 9 1/2</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Publicity photograph [Lowell Thomas seated at typewriter]</unittitle>
+						<unitdate label="Date">circa 1933</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">12 x 15</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Publicity photographs [various poses]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">13 x 10</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>4-verso</unitid>
+						<unittitle>Verso: LT early 30s</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Publicity photographs [various poses]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">13 x 10</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Publicity photographs [various poses]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">13 x 10</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Publicity photographs [various poses]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">13 x 10</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Publicity photographs [various poses]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">13 x 10</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Publicity photographs [various poses]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">13 x 10</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Publicity photographs [various poses]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">13 x 10</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Publicity photographs [various poses]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">13 x 10</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Publicity photographs [various poses]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">13 x 10</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Publicity photographs [various poses]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">13 x 10</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Publicity photographs [various poses]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">13 x 10</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Publicity photograph [78 copies]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Publicity photographs [various poses], [2 copies]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Publicity photographs [various poses], [3 copies]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Publicity photographs [various poses], [4 copies]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Publicity photographs [various poses], [1 copy]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Publicity photographs [various poses], [1 copy]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Publicity photographs [various poses], [1 copy]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Publicity photographs [various poses], [1 copy]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Publicity photographs [various poses], [1 copy]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Publicity photographs [Lowell Thomas at The Explorers Club]</unittitle>
+						<unitdate label="Date">circa 1940s - 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>24-verso</unitid>
+						<unittitle>Verso: LT - exp - 30c</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Publicity photographs [Lowell Thomas at The Explorers Club]</unittitle>
+						<unitdate label="Date">circa 1940s - 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>25-verso</unitid>
+						<unittitle>Verso: LT at Exp Club</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Publicity photographs [Lowell Thomas at The Explorers Club]</unittitle>
+						<unitdate label="Date">circa 1940s - 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>26-verso</unitid>
+						<unittitle>Verso: Lowell Thomas in his third floor study filled with [illegible] + souvenirs. He holds the tooth of an arctic Nar whale, sits in front of a portrait of Lawrence of Arabia (to whom he was attached as correspondant). At left are numerous copies of Thomas' own books. Above hangs a Burmese temple gong.</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color"></physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Publicity photographs [2 copies]</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Publicity photographs [4 copies]</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>36-verso</unitid>
+						<unittitle>Verso: Taken at desk at Hampshire House in [?]</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1960s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Publicity photographs</unittitle>
+						<unitdate label="Date">circa 1960s</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">14 x 11</extent>
+							<physfacet type="color">b&amp;w</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="Item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Publicity photograph (80th birthday) [5 copies]</unittitle>
+						<unitdate label="Date">1972</unitdate>
+						<container id="1628" type="box">1628</container>
+						<physdesc>
+							<extent unit="inches">12 x 10</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+
+			</c01>
+			<!-- End 1628 -->
+		</dsc>
+	</archdesc>
+</ead>

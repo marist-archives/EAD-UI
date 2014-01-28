@@ -1,0 +1,793 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Thomas2.1.1.2/firstWorldFlight2.1.1.2.11.xml</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>First World Flight</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.1.2.11</unitid>
+		<unittitle>First World Flight</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		<!-- Box 1329 -->
+<c01>
+<note>Box 1329</note>
+<did>
+<unitid>2.1.1.2.11</unitid>
+<unittitle>First World Flight</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>56</unitid>
+<unittitle>John Harding, Jr., Lowell H. Smith, Henry Ogden, Leslie P. Arnold, Erik H. Nelson, Leigh Wade [from left to right]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5 	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>57</unitid>
+<unittitle>Leigh Wade with his mascots, Jiggs and Maggie	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>58</unitid>
+<unittitle>World Fliers in front of airplane	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>59</unitid>
+<unittitle>Lowell Thomas surrounded by six world fliers in uniform	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7 	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>60</unitid>
+<unittitle>The young lady whose picture on celluloid flew round the world on the instrument-board of the New Orleans	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>61</unitid>
+<unittitle>Eskimos in their kayaks alongside an iceberg, gazing at the first airplanes to ever visit Greenland	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>62</unitid>
+<unittitle>The world cruiser Chicago and New Orleans in the iceberg infested harbor of Fredericksdal in Greenland	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>63</unitid>
+<unittitle>A checkerboard of flooded rice-fields from the cockpit of an American world cruiser flying over China	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>64</unitid>
+<unittitle>Captain Lowell H. Smith and Lieutenant Leslie P. Arnold in the world cruiser Chicago  and Lieutenants Leigh Wade and Henry Ogden in the Boston  winging their way past snowcapped Mount Shasta	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>65</unitid>
+<unittitle>Cruiser with broken engine being trundled into a British hanger by a squad of British soldiers	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>66</unitid>
+<unittitle>World cruisers over the palm fringed coast of Siam	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>67</unitid>
+<unittitle>American world fliers passing over a Chinese junk at the mouth of the Yangtze River near Shanghai on man’s first flight across the Yellow Sea from Japan to China	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>68</unitid>
+<unittitle>First aerial crossing of the Pacific[?] on man’s first flight around the world	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>69</unitid>
+<unittitle>World cruisers over boat	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>70</unitid>
+<unittitle>World cruisers flying over elephants in field	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>71</unitid>
+<unittitle>World cruisers flying over elaborate harbor city on hill	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>72</unitid>
+<unittitle>World cruisers flying over elaborate building	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>73</unitid>
+<unittitle>World cruisers flying over tall building, majority of which is behind trees	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4.5x6.5 	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>74</unitid>
+<unittitle>Two airplanes flying over clouds, taken from airplane flying above	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>75</unitid>
+<unittitle>Boats along coast, land covered in trees, photograph taken from airplane	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>76</unitid>
+<unittitle>Mountain along water, photograph taken from airplane	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>77</unitid>
+<unittitle>Mountain and lake, photograph taken from airplane	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>78</unitid>
+<unittitle>Airplane flying in valley, photograph taken from airplane	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>79</unitid>
+<unittitle>Boat in water, photograph taken from airplane	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>80</unitid>
+<unittitle>Land in distance, photograph taken from airplane	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>81</unitid>
+<unittitle>Icebergs in water	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>82</unitid>
+<unittitle>Airplane flying over water, town and fields in background	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>83</unitid>
+<unittitle>Two airplanes flying, photograph taken from airplane	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>84</unitid>
+<unittitle>Two airplanes flying, mountain in background, photograph taken from airplane	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>85</unitid>
+<unittitle>Small boats rowing toward airplane on water	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>86</unitid>
+<unittitle>Two airplanes flying near mountains in distance	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>87</unitid>
+<unittitle>Machine[?] in water, photograph taken from airplane	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>88</unitid>
+<unittitle>Airplane flying over town, photograph taken from airplane	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>89</unitid>
+<unittitle>Airplane flying in distance over town, photograph taken from airplane	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>90</unitid>
+<unittitle>Two children, two men looking at camera	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>91</unitid>
+<unittitle>Airplane on water, trees in background	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1329" type="box">1329</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1329 -->
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

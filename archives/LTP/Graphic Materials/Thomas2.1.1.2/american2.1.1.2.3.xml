@@ -1,0 +1,2565 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Thomas2.1.1.2/american2.1.1.2.3.xml</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>American Expeditionary Forces</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.1.2.3</unitid>
+		<unittitle>American Expeditionary Forces</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+	<!-- Box 1320 -->
+<c01>
+<note>Box 1320</note>
+<did>
+<unitid>2.1.1.2.3</unitid>
+<unittitle>American Expeditionary Forces</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>35	</unitid>
+<unittitle>Margaret Wilson with American soldiers	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>36</unitid>
+<unittitle>Margaret Wilson with American soldier	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>37</unitid>
+<unittitle>Captain Donald Stone	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>38</unitid>
+<unittitle>Cathedral of Tours	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>39</unitid>
+<unittitle>Cathedral of Tours	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>40</unitid>
+<unittitle>Street lined with buildings, people lining the sidewalk	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>41</unitid>
+<unittitle>Soldier and woman in front of office building	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>42</unitid>
+<unittitle>Two soldiers standing outside café	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.75	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>43</unitid>
+<unittitle>Two men pulling cart in street, automobile in background	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>44</unitid>
+<unittitle>Soldier sleeping on bench next to four women	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>45</unitid>
+<unittitle>Soldiers sitting outside the Y.M.C.A “Eagle Hut”	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>46</unitid>
+<unittitle>Two soldiers and woman standing amongst trees in front of building	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>47</unitid>
+<unittitle>Soldier holding child dressed as sailor, child’s hat says “U.S.S. Long Beach”	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>48</unitid>
+<unittitle>Soldier with cane standing on sidewalk with elaborate building in background	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>49</unitid>
+<unittitle>Soldiers sitting in horse buggy with another buggy full of soldiers behind	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>50</unitid>
+<unittitle>Lowell Thomas tickling woman, soldier and old woman looking on	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>51</unitid>
+<unittitle>Mrs. Frances Ryan Thomas in Paris talking to two soldiers	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>52</unitid>
+<unittitle>Lowell Thomas, operating motion picture camera, records soldier kissing a woman	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>53</unitid>
+<unittitle>Two soldiers talking to a woman, Lowell Thomas operating motion picture camera	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>54</unitid>
+<unittitle>Two soldiers and two women in front of an elaborate building	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>55</unitid>
+<unittitle>Garden of an elaborate building	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>56</unitid>
+<unittitle>Two soldiers and two women in front of elaborate building	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>57</unitid>
+<unittitle>Soldiers and women in front of elaborate building	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>58</unitid>
+<unittitle>Two soldiers talking to children	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>59</unitid>
+<unittitle>Lowell Thomas, Mrs. Frances Ryan Thomas, and Major Piero Tozzi talking to soldiers at outdoor café	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.5x3.25	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>60</unitid>
+<unittitle>Woman attempting to give soldier a flower in pot	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1320" type="box">1320</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2x3	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1320 -->
+<!-- Box 1321 -->
+<c01>
+<note>Box 1321</note>
+<did>
+<unitid>2.1.1.2.3</unitid>
+<unittitle>American Expeditionary Forces</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Soldier talking to woman with basket	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Soldiers and civilians standing in street	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>3</unitid>
+<unittitle>Soldiers standing on sidewalk, children in the street	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>4</unitid>
+<unittitle>Two soldiers standing outside building with women and children	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>5</unitid>
+<unittitle>Aerial view of city and ships by docks, blimp flying in distance	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>6</unitid>
+<unittitle>Tree lined street, people walking down street next to river	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>7</unitid>
+<unittitle>Many soldiers overlooking small town	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>8</unitid>
+<unittitle>Aerial view of country road and river lined with houses and trees	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>9</unitid>
+<unittitle>Soldier standing among rocks [ruins?] overlooking house and fields	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>10</unitid>
+<unittitle>Soldier looking over fields, houses from a hill	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>11</unitid>
+<unittitle>Two soldiers pointing up a hill at soldiers standing on ruins	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>12</unitid>
+<unittitle>Automobile driving on street lined with trees	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>13</unitid>
+<unittitle>Group of soldiers sitting in field, hills in background	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.5x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>14</unitid>
+<unittitle>Group of soldiers in field, military equipment in foreground	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.5x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>15</unitid>
+<unittitle>Soldiers standing in front of statue, more soldiers in background	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>16</unitid>
+<unittitle>Spectators watching soldiers in ceremony	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>17</unitid>
+<unittitle>Soldiers marching through street, large crowd of spectators watching	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>18</unitid>
+<unittitle>Soldiers marching through street, spectators watching from sidewalk	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>19</unitid>
+<unittitle>Soldiers filling street in distance, spectators lining the sidewalk	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>20</unitid>
+<unittitle>Soldiers marching down street, children running alongside the soldiers	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>21</unitid>
+<unittitle>Soldiers marching down street, close-up, child marching next to soldiers	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>22</unitid>
+<unittitle>Soldiers marching in street, women and children watching	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.6	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>23</unitid>
+<unittitle>Close-up of American military wagon	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>24</unitid>
+<unittitle>Soldiers and nuns standing together in doorway	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>25</unitid>
+<unittitle>Two soldiers, one holding two guns, one holding a gas mask	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>26</unitid>
+<unittitle>Soldiers on ship	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>27</unitid>
+<unittitle>Soldiers on ship looking at camera	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>28</unitid>
+<unittitle>Soldiers on ship	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>29</unitid>
+<unittitle>Soldiers in automobile driving through town street	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>30</unitid>
+<unittitle>Soldiers sitting outside at table, eating, automobile in background	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>31</unitid>
+<unittitle>Soldiers helping two women fill baskets, house in background	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>32</unitid>
+<unittitle>Soldiers in line, going into kitchen at base	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>33</unitid>
+<unittitle>Overhead view of city and boats at docks	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>34</unitid>
+<unittitle>Ship in harbor, tree branches on bottom and left	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>35</unitid>
+<unittitle>Soldiers sitting on large machine	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>36</unitid>
+<unittitle>Troops marching past military buildings [?]	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>37</unitid>
+<unittitle>Three soldiers in front of house in wooded area	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>38</unitid>
+<unittitle>Soldiers standing outside building surrounded by trees	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>39</unitid>
+<unittitle>Four military men looking at camera as soldiers on horseback walk past	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>40</unitid>
+<unittitle>Seven military men standing on deck of ship	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>41</unitid>
+<unittitle>Soldiers examining crashed airplane in field	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>42</unitid>
+<unittitle>Truck full of soldiers in a town	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>43</unitid>
+<unittitle>Two tanks angled out of trenches toward sky	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>44</unitid>
+<unittitle>Airplane just off ground, other airplanes on either side	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>45</unitid>
+<unittitle>Family and dog looking at airplane, two cows in front of airplane	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>46</unitid>
+<unittitle>Pilot sitting in airplane next to plane hanger	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>47</unitid>
+<unittitle>Pilots congregated in front of line of airplanes, man operating motion picture camera	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>48</unitid>
+<unittitle>Two men sitting in airplane	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>49</unitid>
+<unittitle>Workers standing nearby airplane	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>50</unitid>
+<unittitle>Men surveying front propeller on airplane	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>51</unitid>
+<unittitle>Workers standing next to propeller of airplane, pilot sitting on airplane	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>52</unitid>
+<unittitle>Airplane in cloud covered sky	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>53</unitid>
+<unittitle>Airplane flying in cloud covered sky	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>54</unitid>
+<unittitle>Soldiers standing in front of destroyed house looking at a box	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>55</unitid>
+<unittitle>Man standing in doorway of building, buildings on either side destroyed	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>56</unitid>
+<unittitle>Brick building, half destroyed	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>57</unitid>
+<unittitle>Unidentified structure in ruins	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>58</unitid>
+<unittitle>Unidentified structure in ruins	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>59</unitid>
+<unittitle>Two standing buildings among ruins	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>60</unitid>
+<unittitle>Building lined streets, many buildings in ruins, sidewalk filled with ruins	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>61</unitid>
+<unittitle>Half-destroyed buildings, street in foreground	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>62</unitid>
+<unittitle>Two automobiles on street next to half destroyed house, ruins in foreground	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>63</unitid>
+<unittitle>Men surveying ruins of large building	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>64</unitid>
+<unittitle>Man standing in ruins, looking into the remaining part of building	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>65</unitid>
+<unittitle>Street lined with ruined buildings, column falling in center	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>66</unitid>
+<unittitle>Man pointing to a wall partly in ruins	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>67</unitid>
+<unittitle>Group of men standing in ruins, looking at camera	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>68</unitid>
+<unittitle>Officers with pistols climbing through the ruins of a building, wires hanging from above	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>69</unitid>
+<unittitle>Officers pointing pistols at another soldier amid ruins	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>70</unitid>
+<unittitle>Mrs. Frances Ryan Thomas, Harry G. Thomas, and Major Piero Tozzi standing amid ruins	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">1.5x3	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>71</unitid>
+<unittitle>Mrs. Frances Ryan Thomas, Harry G. Thomas, and Major Piero Tozzi standing amid ruins talking to two other men	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>72</unitid>
+<unittitle>Mrs. Frances Ryan Thomas, and Major Piero Tozzi standing amid ruins with two others, looking at camera	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>73</unitid>
+<unittitle>Mrs. Frances Ryan Thomas, Harry G. Thomas, and Major Piero Tozzi standing amid ruins looking to side	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>74</unitid>
+<unittitle>Mrs. Frances Ryan Thomas, Harry G. Thomas, and Major Piero Tozzi standing in front of ruined house	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>75</unitid>
+<unittitle>Mrs. Frances Ryan Thomas standing in front of farmhouse	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>76</unitid>
+<unittitle>House in ruins	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>77</unitid>
+<unittitle>Soldiers on the S.S. Leviathon	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>78</unitid>
+<unittitle>Soldiers on S.S. Leviathon watching boat	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>79</unitid>
+<unittitle>Machinery and soldiers on deck of S.S. Leviathon	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>80</unitid>
+<unittitle>Soldier standing against machinery on deck of S.S. Leviathon	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>81</unitid>
+<unittitle>Soldier using lasso on S.S. Leviathon, other soldiers looking on	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>82</unitid>
+<unittitle>Soldiers sitting on decks of S.S. Leviathon next to life boats	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>83</unitid>
+<unittitle>Place Stanislas, Lorraine	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>84</unitid>
+<unittitle>Statue of George Washington, Paris	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>85</unitid>
+<unittitle>Lowell Thomas at a monument for Waldeck Rousseau, reflection, Paris	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>86</unitid>
+<unittitle>Mrs. Frances Ryan Thomas in automobile outside the Hotel Regina, motion picture camera on front of car, Paris	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>87</unitid>
+<unittitle>Lowell Thomas with motion picture camera, and Mrs. Frances Ryan Thomas in automobile outside the Hotel Regina, Paris	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>88</unitid>
+<unittitle>Man and woman in horse drawn cart	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>89</unitid>
+<unittitle>Two women, man, and child in horse drawn carriage in front of ruins	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>90</unitid>
+<unittitle>Two men, two women, and child in horse drawn cart in front of ruins	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1321" type="box">1321</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1321 -->
+<!-- Box 1322 -->
+<c01>
+<note>Box 1322</note>
+<did>
+<unitid>2.1.1.2.3</unitid>
+<unittitle>American Expeditionary Forces</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>View of church spires from window, Paris	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Street scene, cathedral in distance, Paris	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>3</unitid>
+<unittitle>Street scene, tower in distance	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>4</unitid>
+<unittitle>Large fountain in front of ornate building, man sitting on ground in front of fountain	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>5</unitid>
+<unittitle>Crowd of people and automobile in front of the Hotel Cailleux	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>6</unitid>
+<unittitle>Le Matin, Paris	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>7</unitid>
+<unittitle>Five men, standing next to automobile, reading map	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>8</unitid>
+<unittitle>Ornate room, France [?]	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1322" type="box">1322</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1322 -->
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

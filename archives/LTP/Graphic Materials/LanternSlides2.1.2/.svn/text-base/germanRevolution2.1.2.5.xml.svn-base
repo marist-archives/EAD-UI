@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>German Revolution</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.5</unitid>
+		<unittitle>German Revolution</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		<!-- Box 1425 -->
+<c01>
+<note>Box 1425</note>
+<did>
+<unitid>2.1.2.5</unitid>
+<unittitle>German Revolution</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Soldiers stand guard in storefront	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Group of soldiers on armored vehicle	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Group of soldiers on rooftop	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Soldiers manning machine gun on rooftop	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Soldiers manning machine gun in street	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Soldiers manning machine gun above archway of building	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Soldiers and civilian manning machine gun in street	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Soldiers and civilians manning machine gun	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Soldiers manning rifles behind low wall	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Soldiers with rifles behind barricade	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Soldiers and civilian manning rifles behind barricade of newspapers, rear view	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Soldiers behind barricade, rear view	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Line of soldiers, rifles and machine gun in hand	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Group of soldiers stand before the gate of a building	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Soldiers stand before ruins of building	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Armored vehicle in street	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Soldiers gather at shattered windows of Rudolf Mosse Building	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Soldiers stand on balcony of building with shattered windows	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Group of soldiers	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Large gathering of soldiers and civilians on bridge	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Soldiers and civilians gather on bridge	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Injured soldiers on parade	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Large rally in front of Berlin Cathedral	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Speaker at rally	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Speaker at rally	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Speaker at rally, close-up	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Rally, several signs on speaker platform	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Large rally	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1425" type="box">1425</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1425 -->
+<!-- Box 1426 -->
+<c01>
+<note>Box 1426</note>
+<did>
+<unitid>2.1.2.5</unitid>
+<unittitle>German Revolution</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Large rally	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Large rally, red flags prominent	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Large rally, red flags prominent	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Soldiers rally, many red flags, sign: “Roter Soldatenbund”	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Soldiers rally	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Soldiers and civilians gather around sign: “Fur Ebert Scheidemann! Gegen Spartakus!”	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Soldiers and civilians setting papers on fire	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Crowd of people in street	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Large crowd of people gathers in front of building	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Large rally	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Large rally	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Large rally	
+</unittitle>
+<unitdate label="Date">1919	
+</unitdate>
+<container id="1426" type="box">1426</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x3	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1426 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

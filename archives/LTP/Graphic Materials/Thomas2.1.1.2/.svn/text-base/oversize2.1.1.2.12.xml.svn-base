@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Oversize</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.1.2.12</unitid>
+		<unittitle>Oversize</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+	<!-- Box 1330 -->
+<c01>
+<note>Box 1330</note>
+<did>
+<unitid>2.1.1.2.12</unitid>
+<unittitle>Oversize</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Ancestors [split glass plate negative]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1330" type="box">1330</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">8x10	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Ancestors [split glass plate negative]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1330" type="box">1330</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">8x10	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>3</unitid>
+<unittitle>Ancestors [split glass plate negative]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1330" type="box">1330</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">8x10	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>4</unitid>
+<unittitle>Isaac’s Tomb, Abraham’s Tomb, Mayor of Jerusalem and two British soldiers at surrender of Jerusalem [split glass plate negative]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1330" type="box">1330</container>
+<materialspec label="index">2-281 2-282 2-283	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">6.5x8.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>5</unitid>
+<unittitle>View from airplane of Port Said (aerial view), Sudan sandstorm [split glass plate negative]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1330" type="box">1330</container>
+<materialspec label="index">3-104 3-105	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">6.5x8.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>6</unitid>
+<unittitle>Lowell Thomas and T. E. Lawrence standing in front of tent	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1330" type="box">1330</container>
+<materialspec label="index">4-3	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">6.5x8.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>7</unitid>
+<unittitle>Lowell Thomas with motion picture camera in airplane before taking off for a flight from Egypt to Jerusalem	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1330" type="box">1330</container>
+<materialspec label="index">4-17	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">6.5x8.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>8</unitid>
+<unittitle>Two airplanes in clouds, one plane in cloud, squadron on ground	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1330" type="box">1330</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">6.5x8.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>9</unitid>
+<unittitle>Linton Wells (copy made for Lowell Thomas)	
+</unittitle>
+<unitdate label="Date">1925 July 1	
+</unitdate>
+<container id="1330" type="box">1330</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">6.5x8.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>10</unitid>
+<unittitle>Map of Near East, Petra indicated with bright red star	
+</unittitle>
+<unitdate label="Date">1920	
+</unitdate>
+<container id="1330" type="box">1330</container>
+<materialspec label="index">1-206	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">6.5x8.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>11</unitid>
+<unittitle>Auda Abu Tayi, center, and two brothers	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1330" type="box">1330</container>
+<materialspec label="index">1-71	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">6.5x8.5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1330 -->
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

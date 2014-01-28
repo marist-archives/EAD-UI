@@ -1,0 +1,2347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.9.xsl"?><!-- styelsheet for photographs2.1.9 -->
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Topical files 2</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.9.5</unitid>
+		<unittitle>Topical files 2</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	<arrangement><p></p></arrangement>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		 <!-- Start the new box from component no. 1 -->
+		 <!-- Items within the box in component no. 2 -->
+<!-- Box 1616 -->
+<c01>
+<note>Box 1616</note>
+<did>
+<unitid>2.1.9.5</unitid>
+<unittitle>Topical files 2</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Chaquib Abdul-Karim	
+</unittitle>
+<unitdate label="Date">1952	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Margaret Anastasio	
+</unittitle>
+<unitdate label="Date">1975	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>John Anderson [color photograph]	
+</unittitle>
+<unitdate label="Date">1968	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>W. F. Andrews (“Andy”)  [includes photograph of Lowell Thomas] [color photograph]	
+</unittitle>
+<unitdate label="Date">1957	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>M. Ray Applegate [includes photograph of Lowell Thomas] 	
+</unittitle>
+<unitdate label="Date">1952	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 38	
+</unitid>
+<unittitle>Richard D. Applegate [includes photograph of Lowell Thomas]	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 39	
+</unitid>
+<unittitle>N. W. Ayer and Son [includes photograph of Lowell Thomas]	
+</unittitle>
+<unitdate label="Date">circa 1946 	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 40 	
+</unitid>
+<unittitle>Retta Barnette	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 41	
+</unitid>
+<unittitle>Frank J. Berger 	
+</unittitle>
+<unitdate label="Date">1955 	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 42	
+</unitid>
+<unittitle>Herbert D. Bergman 	
+</unittitle>
+<unitdate label="Date">1976	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 43	
+</unitid>
+<unittitle>William B. Black [color photographs]	
+</unittitle>
+<unitdate label="Date">1976	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 44	
+</unitid>
+<unittitle>Marie Blood [color photograph]	
+</unittitle>
+<unitdate label="Date">1979	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 45	
+</unitid>
+<unittitle>Nora and Heriberto Bohtlingk	
+</unittitle>
+<unitdate label="Date">circa 1957	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 46	
+</unitid>
+<unittitle>Hazel and Howell Bond	
+</unittitle>
+<unitdate label="Date">circa 1957 	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 47	
+</unitid>
+<unittitle>Colonel and Mrs. Daniel F. Boone [color photograph]	
+</unittitle>
+<unitdate label="Date">1979	
+</unitdate>
+<container id="1616" type="box">1616</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1616 -->
+<!-- Box 1617 -->
+<c01>
+<note>Box 1617</note>
+<did>
+<unitid>2.1.9.5</unitid>
+<unittitle>Topical files 2</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Houston Branch 	
+</unittitle>
+<unitdate label="Date">1956	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Clarita and Alec Bright [color photograph]	
+</unittitle>
+<unitdate label="Date">circa 1965	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Marjan Frank Broda	
+</unittitle>
+<unitdate label="Date">1944	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>C. O. Brown 	
+</unittitle>
+<unitdate label="Date">1953	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Larry Dean Brown [color photograph] 	
+</unittitle>
+<unitdate label="Date">1976 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Marshall A. Brown 	
+</unittitle>
+<unitdate label="Date">1944	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Olga M. Buck 	
+</unittitle>
+<unitdate label="Date">1962 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Buick Motor Division [includes photographs of Lowell Thomas]	
+</unittitle>
+<unitdate label="Date">1942 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9 	
+</unitid>
+<unittitle>Stanley F. Carey 	
+</unittitle>
+<unitdate label="Date">1977	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Robert L. Carpenter	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>James T. Chamness [color photograph]	
+</unittitle>
+<unitdate label="Date">1980	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Fred G. Clark [includes photograph of Lowell Thomas]	
+</unittitle>
+<unitdate label="Date">1958	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+<c03 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>[Lowell Thomas]	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>[Herbert Hoover, front row center]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Arthur J. Conlon [includes photograph of Lowell Thomas]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Nancy Cooke [color photograph]	
+</unittitle>
+<unitdate label="Date">1979 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Ronald Crane [color photograph]	
+</unittitle>
+<unitdate label="Date">1979 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 16 	
+</unitid>
+<unittitle>Betty Cross [color photograph] 	
+</unittitle>
+<unitdate label="Date">1980 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Tom Curry [includes photograph of Lowell Thomas] 	
+</unittitle>
+<unitdate label="Date">1946	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Nola and Glenn Dolberg	
+</unittitle>
+<unitdate label="Date">1975	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Mina Dole	
+</unittitle>
+<unitdate label="Date">1973	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Dixie Dowrie	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Peter Dumont	
+</unittitle>
+<unitdate label="Date">1944	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Boontown Elks	
+</unittitle>
+<unitdate label="Date">1941 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>John Elliott [includes photographs of Lowell Thomas] [color photographs] 	
+</unittitle>
+<unitdate label="Date">1973	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Violet and Frank Fisher 	
+</unittitle>
+<unitdate label="Date">1941	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>G - miscellaneous   	
+</unittitle>
+<unitdate label="Date">1943 - circa 1950 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Ewing Galloway 	
+</unittitle>
+<unitdate label="Date">1952	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Joe Girard	
+</unittitle>
+<unitdate label="Date">circa 1975	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+<c03 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>[Gerald R. Ford, left] 	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Clayton Spaulding Going	
+</unittitle>
+<unitdate label="Date">1943	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Edward Stanley Gomme	
+</unittitle>
+<unitdate label="Date">1977 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 30 	
+</unitid>
+<unittitle>Al Gordon [color photograph]	
+</unittitle>
+<unitdate label="Date">1972	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Albro B. Gregory [color photograph] 	
+</unittitle>
+<unitdate label="Date">1980 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Susan Grogan 	
+</unittitle>
+<unitdate label="Date">1958 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Merle H. Guise	
+</unittitle>
+<unitdate label="Date">1962 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>H - Miscellaneous [includes photograph of Lowell Thomas] 	
+</unittitle>
+<unitdate label="Date">1944 - 1945 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Maude Hadden 	
+</unittitle>
+<unitdate label="Date">1946 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Charles G. Hagedorn [includes photograph of Lowell Thomas] 	
+</unittitle>
+<unitdate label="Date">1972 - 1974 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Johnny Haines	
+</unittitle>
+<unitdate label="Date">1970	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 38	
+</unitid>
+<unittitle>E. E. Hale 	
+</unittitle>
+<unitdate label="Date">1943	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 39 	
+</unitid>
+<unittitle>Mary Otwell Hall [color photograph]	
+</unittitle>
+<unitdate label="Date">1967 - 1974 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 40 	
+</unitid>
+<unittitle>Andy Will Hatch	
+</unittitle>
+<unitdate label="Date">1947	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 41	
+</unitid>
+<unittitle>H armon R. Helmericks [color photograph] 	
+</unittitle>
+<unitdate label="Date">1974	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 42	
+</unitid>
+<unittitle>George W. Hill	
+</unittitle>
+<unitdate label="Date">1948 - 1949 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 43	
+</unitid>
+<unittitle>Lowell Hill	
+</unittitle>
+<unitdate label="Date">1970	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 44	
+</unitid>
+<unittitle>George R. Hofman [color photograph]	
+</unittitle>
+<unitdate label="Date">1972 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 45	
+</unitid>
+<unittitle>Maurice Holland [color photograph]	
+</unittitle>
+<unitdate label="Date">1972	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 46	
+</unitid>
+<unittitle>Homer H. Hoffaker 	
+</unittitle>
+<unitdate label="Date">1965 - 1972 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 47	
+</unitid>
+<unittitle>Dottie Horne [color photograph]	
+</unittitle>
+<unitdate label="Date">1973 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 48	
+</unitid>
+<unittitle>George R. Hutchinson 	
+</unittitle>
+<unitdate label="Date">1975 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 49	
+</unitid>
+<unittitle>Betty W. Keenan [color photographs]	
+</unittitle>
+<unitdate label="Date">1974	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 50	
+</unitid>
+<unittitle>Joan Klein [color photograph] 	
+</unittitle>
+<unitdate label="Date">1978 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 51	
+</unitid>
+<unittitle>Roger Krupp	
+</unittitle>
+<unitdate label="Date">circa 1975	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 52	
+</unitid>
+<unittitle>L - Miscellaneous 	
+</unittitle>
+<unitdate label="Date">1940 - 1949 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 53	
+</unitid>
+<unittitle>Francis Lamar 	
+</unittitle>
+<unitdate label="Date">circa 1941	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 54	
+</unitid>
+<unittitle>George Lambros, Jr. 	
+</unittitle>
+<unitdate label="Date">1959	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 55	
+</unitid>
+<unittitle>Lancaster and Chester Railroad Company 	
+</unittitle>
+<unitdate label="Date">1970 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 56	
+</unitid>
+<unittitle>Christine Larson [color photograph]	
+</unittitle>
+<unitdate label="Date">circa 1960 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 57	
+</unitid>
+<unittitle>Harry O. Lathum 	
+</unittitle>
+<unitdate label="Date">circa 1949 - 1952 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 58	
+</unitid>
+<unittitle>William O. Lau [color photographs] 	
+</unittitle>
+<unitdate label="Date">circa 1973 - 1976 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 59	
+</unitid>
+<unittitle>Laurence G. Leavitt	
+</unittitle>
+<unitdate label="Date">1952	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 60	
+</unitid>
+<unittitle>Paul Lerman	
+</unittitle>
+<unitdate label="Date">1945	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 61	
+</unitid>
+<unittitle>George Kin Leung [color photograph] 	
+</unittitle>
+<unitdate label="Date">circa 1957 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 62	
+</unitid>
+<unittitle>John Libi [includes color photograph]	
+</unittitle>
+<unitdate label="Date">1961 - 1965 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 63	
+</unitid>
+<unittitle>Alexander Litchard	
+</unittitle>
+<unitdate label="Date">1958 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 64	
+</unitid>
+<unittitle>Walt Lockwood	
+</unittitle>
+<unitdate label="Date">1961 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 65	
+</unitid>
+<unittitle>Carl and Laura Lomen [color photograph] 	
+</unittitle>
+<unitdate label="Date">1970 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 66	
+</unitid>
+<unittitle>Captain George William Lyons, Jr. 	
+</unittitle>
+<unitdate label="Date">1948 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 67	
+</unitid>
+<unittitle>Sandra G. Macartney 	
+</unittitle>
+<unitdate label="Date">1962 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 68	
+</unitid>
+<unittitle>Phoebe Wann Mackey 	
+</unittitle>
+<unitdate label="Date">1977 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 69	
+</unitid>
+<unittitle>L. Stanley Manierre 	
+</unittitle>
+<unitdate label="Date">1954	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 70	
+</unitid>
+<unittitle>Marine Studios	
+</unittitle>
+<unitdate label="Date">1950 - 1951 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 71	
+</unitid>
+<unittitle>Bill Mark 	
+</unittitle>
+<unitdate label="Date">1952 - 1969 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 72	
+</unitid>
+<unittitle>Frank V. Maroney 	
+</unittitle>
+<unitdate label="Date">1959 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 73	
+</unitid>
+<unittitle>Elizabeth and Joe Marshall [color photograph]	
+</unittitle>
+<unitdate label="Date">circa 1967 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 74	
+</unitid>
+<unittitle>Joe and Joyce Martin 	
+</unittitle>
+<unitdate label="Date">1974 - 1975 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 75	
+</unitid>
+<unittitle>Mrs. Robert N. McKee [color photographs]	
+</unittitle>
+<unitdate label="Date">1963 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 76	
+</unitid>
+<unittitle>Harry H. Mead 	
+</unittitle>
+<unitdate label="Date">1957 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 77	
+</unitid>
+<unittitle>Harold Meixell 	
+</unittitle>
+<unitdate label="Date">1954 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 78	
+</unitid>
+<unittitle>George T. Miller	
+</unittitle>
+<unitdate label="Date">1969 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 79	
+</unitid>
+<unittitle>Beaufort Mooramong 	
+</unittitle>
+<unitdate label="Date">1956 - 1963 	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 80	
+</unitid>
+<unittitle>Don Mozley 	
+</unittitle>
+<unitdate label="Date">1966	
+</unitdate>
+<container id="1617" type="box">1617</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1617 -->
+<!-- Box 1618 -->
+<c01>
+<note>Box 1618</note>
+<did>
+<unitid>2.1.9.5</unitid>
+<unittitle>Topical files 2</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Naomi Murray and Richard “Dick” Seldon	
+</unittitle>
+<unitdate label="Date">1962	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>M - miscellaneous	
+</unittitle>
+<unitdate label="Date">1939 - circa 1954 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Carlton S. Nash 	
+</unittitle>
+<unitdate label="Date">1953 - 1957 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Donald W. Nass [includes photographs of Lowell Thomas] [color photographs] 	
+</unittitle>
+<unitdate label="Date">1979 - 1980 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Captain Harry Newak [includes photographs of Lowell Thomas] 	
+</unittitle>
+<unitdate label="Date">1974 - 1980 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>William G. O’Brien	
+</unittitle>
+<unitdate label="Date">1948 - 1954 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Oscar F. Olson	
+</unittitle>
+<unitdate label="Date">1957	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Parker Pen Company 	
+</unittitle>
+<unitdate label="Date">1953	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9 	
+</unitid>
+<unittitle>D. C. Paschke 	
+</unittitle>
+<unitdate label="Date">1947 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Pawling, New York (Frances Graber) [includes photographs of Lowell Thomas]	
+</unittitle>
+<unitdate label="Date">circa 1939	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Edward Payne	
+</unittitle>
+<unitdate label="Date">1943 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Harry Raymond Pierce	
+</unittitle>
+<unitdate label="Date">1952 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Olive Nagel Porter	
+</unittitle>
+<unitdate label="Date">1963	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>The Potter School [color photographs]	
+</unittitle>
+<unitdate label="Date">1963 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Robert W. Pottschmidt [color photograph]	
+</unittitle>
+<unitdate label="Date">1980 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 16 	
+</unitid>
+<unittitle>R. P. Probasco 	
+</unittitle>
+<unitdate label="Date">1938 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Private James Norman Richardson	
+</unittitle>
+<unitdate label="Date">circa 1945 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>M. Ritu Rana 	
+</unittitle>
+<unitdate label="Date">1968 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Walter Orr Roberts 	
+</unittitle>
+<unitdate label="Date">1965 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Fred R. Robinson 	
+</unittitle>
+<unitdate label="Date">1955	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Nelson Rockefeller 	
+</unittitle>
+<unitdate label="Date">1973 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Louis A. Romanet, “Kabluk of the Eskimo”	
+</unittitle>
+<unitdate label="Date">1944 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Harold Salisbury 	
+</unittitle>
+<unitdate label="Date">1966	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>John R. Samuelson [includes photograph of Lowell Thomas] 	
+</unittitle>
+<unitdate label="Date">1952 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>John Sandison [color photographs] 	
+</unittitle>
+<unitdate label="Date">1979 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+<c03 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Verso: J. S., Patti Sandison, Debbie Boone, Pat Boone	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Verso: Bob Hope, J. S.	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Albert Sarber [color photograph]	
+</unittitle>
+<unitdate label="Date">1972 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>A. Schaefflin 	
+</unittitle>
+<unitdate label="Date">1968	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Albert Schenlin	
+</unittitle>
+<unitdate label="Date">1957 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>A. H. Scott	
+</unittitle>
+<unitdate label="Date">1944	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 30 	
+</unitid>
+<unittitle>Henry L. Scott Concerts 	
+</unittitle>
+<unitdate label="Date">1953 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Harrison L. Scullion 	
+</unittitle>
+<unitdate label="Date">1964	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Ed Seiler [color photographs] 	
+</unittitle>
+<unitdate label="Date">1968 - circa 1971 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Bob Sheehan [includes photograph of Lowell Thomas] 	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Sasha Siemel 	
+</unittitle>
+<unitdate label="Date">1950 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Edith and Howard Smith 	
+</unittitle>
+<unitdate label="Date">1961	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Harry L. Smith [plane crash photographs]	
+</unittitle>
+<unitdate label="Date">1975 March	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Frank Springer-Miller	
+</unittitle>
+<unitdate label="Date">1956	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 38	
+</unitid>
+<unittitle>Glen M. Stadler	
+</unittitle>
+<unitdate label="Date">circa 1973 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 39 	
+</unitid>
+<unittitle>Joanie Stadler [color photograph]	
+</unittitle>
+<unitdate label="Date">1980 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 40 	
+</unitid>
+<unittitle>Yvonne H. Stevenson 	
+</unittitle>
+<unitdate label="Date">1964 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 41	
+</unitid>
+<unittitle>A. E. Strecker [includes photograph of Lowell Thomas] 	
+</unittitle>
+<unitdate label="Date">1952 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 42	
+</unitid>
+<unittitle>Kenneth Strumm [color photograph]	
+</unittitle>
+<unitdate label="Date">1978 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 43	
+</unitid>
+<unittitle>Mrs. John J. Sweeney 	
+</unittitle>
+<unitdate label="Date">1945 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 44	
+</unitid>
+<unittitle>S - Miscellaneous 	
+</unittitle>
+<unitdate label="Date">circa 1938 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 45	
+</unitid>
+<unittitle>Nick J. Terzakis [includes photograph of Lowell Thomas]	
+</unittitle>
+<unitdate label="Date">1949 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 46	
+</unitid>
+<unittitle>Tey Manufacturing Corporation 	
+</unittitle>
+<unitdate label="Date">1950 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 47	
+</unitid>
+<unittitle>Earl M. Thacker [color photograph]	
+</unittitle>
+<unitdate label="Date">1957 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 48	
+</unitid>
+<unittitle>Henry A. Thomas [color photographs]	
+</unittitle>
+<unitdate label="Date">circa 1975 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 49	
+</unitid>
+<unittitle>Captain L. R. Thomas [color photograph]	
+</unittitle>
+<unitdate label="Date">circa 1970 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 50	
+</unitid>
+<unittitle>Raymond Thornburg 	
+</unittitle>
+<unitdate label="Date">1961 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 51	
+</unitid>
+<unittitle>David H. Tilley 	
+</unittitle>
+<unitdate label="Date">1978	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 52	
+</unitid>
+<unittitle>Ina and Sandy Treat [color photograph] 	
+</unittitle>
+<unitdate label="Date">circa 1979 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 53	
+</unitid>
+<unittitle>The Treats [color photograph]	
+</unittitle>
+<unitdate label="Date">1968 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 54	
+</unitid>
+<unittitle>J. David Truby	
+</unittitle>
+<unitdate label="Date">1973 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 55	
+</unitid>
+<unittitle>Tyree [color photograph] 	
+</unittitle>
+<unitdate label="Date">circa 1980 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 56	
+</unitid>
+<unittitle>T - Miscellaneous 	
+</unittitle>
+<unitdate label="Date">circa 1950 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 57	
+</unitid>
+<unittitle>James Van Nierkerk 	
+</unittitle>
+<unitdate label="Date">circa 1965 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 58	
+</unitid>
+<unittitle>Char Vincent [includes photograph of Lowell Thomas] [color photograph]	
+</unittitle>
+<unitdate label="Date">1957 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 59	
+</unitid>
+<unittitle>Allen Wallis [includes photograph of Lowell Thomas]	
+</unittitle>
+<unitdate label="Date">1972 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 60	
+</unitid>
+<unittitle>Charles Perry Weimar [color photograph]	
+</unittitle>
+<unitdate label="Date">1978 	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 61	
+</unitid>
+<unittitle>Elbert and Uma Wickes [color photograph]	
+</unittitle>
+<unitdate label="Date">1975	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 62	
+</unitid>
+<unittitle>C. Bruce Wright [includes photograph of Lowell Thomas] 	
+</unittitle>
+<unitdate label="Date">1970	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 63	
+</unitid>
+<unittitle>Takashi Yoshimoto 	
+</unittitle>
+<unitdate label="Date">1962	
+</unitdate>
+<container id="1618" type="box">1618</container>
+<materialspec label="index"></materialspec>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1618 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

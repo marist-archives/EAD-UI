@@ -1,0 +1,3376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.7.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Photograph albums</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.6</unitid>
+			<unittitle>Photograph albums</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1597 -->
+			<c01>
+				<note>Box 1597</note>
+				<did>
+					<unitid>2.1.6</unitid>
+					<unittitle>Photograph albums</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>High Adventure with Lowell Thomas (New Guinea)</unittitle>
+						<unitdate label="Date">1957</unitdate>
+						<container id="1597" type="box">1597</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Page 1]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Page 2]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Page 3]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Page 4]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Page 5]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Page 6]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Page 7]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Page 8]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Page 9]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Page 10]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Page 11]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Page 12]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Page 13]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Page 14]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Page 15]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Page 16]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Page 17]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Page 18]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Page 19]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Page 20]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Page 21]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Page 22]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Page 23]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Page 24]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[Page 25]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[Page 26]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[Page 27]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[Page 28]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[Page 29]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[Page 30]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[Page 31]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[Page 32]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[Page 33]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[Page 34]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[Page 35]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>[Page 36]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>[Page 37]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>[Page 38]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>[Page 39]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>[Page 40]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>[Page 41]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>[Page 42]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>[Page 43]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>[Page 44]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>[Page 45]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>[Page 46]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>[Page 47]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>[Page 48]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>[Page 49]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>[Page 50]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>[Page 51]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>[Page 52]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>[Page 53]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>[Page 54]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>[Page 55]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>[Page 56]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>[Page 57]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>[Page 58]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>[Page 59]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60</unitid>
+							<unittitle>[Page 60]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61</unitid>
+							<unittitle>[Page 61]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62</unitid>
+							<unittitle>[Page 62]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63</unitid>
+							<unittitle>[Page 63]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64</unitid>
+							<unittitle>[Page 64]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65</unitid>
+							<unittitle>[Page 65]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66</unitid>
+							<unittitle>[Page 66]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67</unitid>
+							<unittitle>[Page 67]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68</unitid>
+							<unittitle>[Page 68]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69</unitid>
+							<unittitle>[Page 69]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70</unitid>
+							<unittitle>[Page 70]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71</unitid>
+							<unittitle>[Page 71]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72</unitid>
+							<unittitle>[Page 72]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73</unitid>
+							<unittitle>[Page 73]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74</unitid>
+							<unittitle>[Page 74]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75</unitid>
+							<unittitle>[Page 75]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76</unitid>
+							<unittitle>[Page 76]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77</unitid>
+							<unittitle>[Page 77]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78</unitid>
+							<unittitle>[Page 78]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79</unitid>
+							<unittitle>[Page 79]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80</unitid>
+							<unittitle>[Page 80]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81</unitid>
+							<unittitle>[Page 81]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82</unitid>
+							<unittitle>[Page 82]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83</unitid>
+							<unittitle>[Page 83]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84</unitid>
+							<unittitle>[Page 84]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85</unitid>
+							<unittitle>[Page 85]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86</unitid>
+							<unittitle>[Page 86]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87</unitid>
+							<unittitle>[Page 87]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88</unitid>
+							<unittitle>[Page 88]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89</unitid>
+							<unittitle>[Page 89]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90</unitid>
+							<unittitle>[Page 90]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91</unitid>
+							<unittitle>[Page 91]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92</unitid>
+							<unittitle>[Page 92]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93</unitid>
+							<unittitle>[Page 93]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94</unitid>
+							<unittitle>[Page 94]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95</unitid>
+							<unittitle>[Page 95]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96</unitid>
+							<unittitle>[Page 96]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>High Adventure with Lowell Thomas (Australian Outback)</unittitle>
+						<unitdate label="Date">1957 - 1958</unitdate>
+						<container id="1597" type="box">1597</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Page 1]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Page 2]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Page 3]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Page 4]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Page 5]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Page 6]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Page 7]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Page 8]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Page 9]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Page 10]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Page 11]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Page 12]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Page 13]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Page 14]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Page 15]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Page 16]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Page 17]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Page 18]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Page 19]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Page 20]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Page 21]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Page 22]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Page 23]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Page 24]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[Page 25]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[Page 26]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[Page 27]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[Page 28]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[Page 29]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[Page 30]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[Page 31]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[Page 32]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[Page 33]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[Page 34]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[Page 35]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>[Page 36]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>[Page 37]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>[Page 38]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>[Page 39]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>[Page 40]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>[Page 41]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>[Page 42]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>[Page 43]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>[Page 44]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>[Page 45]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>[Page 46]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>[Page 47]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>[Page 48]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>[Page 49]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>[Page 50]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>[Page 51]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>[Page 52]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>[Page 53]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>[Page 54]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>[Page 55]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>[Page 56]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>[Page 57]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>[Page 58]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>[Page 59]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60</unitid>
+							<unittitle>[Page 60]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61</unitid>
+							<unittitle>[Page 61]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62</unitid>
+							<unittitle>[Page 62]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63</unitid>
+							<unittitle>[Page 63]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64</unitid>
+							<unittitle>[Page 64]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65</unitid>
+							<unittitle>[Page 65]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66</unitid>
+							<unittitle>[Page 66]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67</unitid>
+							<unittitle>[Page 67]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68</unitid>
+							<unittitle>[Page 68]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69</unitid>
+							<unittitle>[Page 69]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70</unitid>
+							<unittitle>[Page 70]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71</unitid>
+							<unittitle>[Page 71]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72</unitid>
+							<unittitle>[Page 72]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73</unitid>
+							<unittitle>[Page 73]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74</unitid>
+							<unittitle>[Page 74]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75</unitid>
+							<unittitle>[Page 75]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76</unitid>
+							<unittitle>[Page 76]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77</unitid>
+							<unittitle>[Page 77]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78</unitid>
+							<unittitle>[Page 78]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79</unitid>
+							<unittitle>[Page 79]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80</unitid>
+							<unittitle>[Page 80]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81</unitid>
+							<unittitle>[Page 81]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82</unitid>
+							<unittitle>[Page 82]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83</unitid>
+							<unittitle>[Page 83]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84</unitid>
+							<unittitle>[Page 84]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85</unitid>
+							<unittitle>[Page 85]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86</unitid>
+							<unittitle>[Page 86]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87</unitid>
+							<unittitle>[Page 87]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88</unitid>
+							<unittitle>[Page 88]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89</unitid>
+							<unittitle>[Page 89]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90</unitid>
+							<unittitle>[Page 90]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91</unitid>
+							<unittitle>[Page 91]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92</unitid>
+							<unittitle>[Page 92]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93</unitid>
+							<unittitle>[Page 93]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94</unitid>
+							<unittitle>[Page 94]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95</unitid>
+							<unittitle>[Page 95]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96</unitid>
+							<unittitle>[Page 96]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97</unitid>
+							<unittitle>[Page 97]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98</unitid>
+							<unittitle>[Page 98]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99</unitid>
+							<unittitle>[Page 99]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100</unitid>
+							<unittitle>[Page 100]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>101</unitid>
+							<unittitle>[Page 101]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>102</unitid>
+							<unittitle>[Page 102]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>103</unitid>
+							<unittitle>[Page 103]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>104</unitid>
+							<unittitle>[Page 104]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>105</unitid>
+							<unittitle>[Page 105]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>106</unitid>
+							<unittitle>[Page 106]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>107</unitid>
+							<unittitle>[Page 107]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>108</unitid>
+							<unittitle>[Page 108]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>109</unitid>
+							<unittitle>[Page 109]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>110</unitid>
+							<unittitle>[Page 110]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>111</unitid>
+							<unittitle>[Page 111]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>112</unitid>
+							<unittitle>[Page 112]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>113</unitid>
+							<unittitle>[Page 113]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>114</unitid>
+							<unittitle>[Page 114]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>115</unitid>
+							<unittitle>[Page 115]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>116</unitid>
+							<unittitle>[Page 116]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>117</unitid>
+							<unittitle>[Page 117]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>118</unitid>
+							<unittitle>[Page 118]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>119</unitid>
+							<unittitle>[Page 119]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>120</unitid>
+							<unittitle>[Page 120]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>121</unitid>
+							<unittitle>[Page 121]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>122</unitid>
+							<unittitle>[Page 122]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>123</unitid>
+							<unittitle>[Page 123]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>124</unitid>
+							<unittitle>[Page 124]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>125</unitid>
+							<unittitle>[Page 125]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>126</unitid>
+							<unittitle>[Page 126]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>127</unitid>
+							<unittitle>[Page 127]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>128</unitid>
+							<unittitle>[Page 128]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>129</unitid>
+							<unittitle>[Page 129]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>130</unitid>
+							<unittitle>[Page 130]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>131</unitid>
+							<unittitle>[Page 131]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>132</unitid>
+							<unittitle>[Page 132]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>133</unitid>
+							<unittitle>[Page 133]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>134</unitid>
+							<unittitle>[Page 134]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>135</unitid>
+							<unittitle>[Page 135]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>136</unitid>
+							<unittitle>[Page 136]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>137</unitid>
+							<unittitle>[Page 137]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>138</unitid>
+							<unittitle>[Page 138]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>139</unitid>
+							<unittitle>[Page 139]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>140</unitid>
+							<unittitle>[Page 140]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>141</unitid>
+							<unittitle>[Page 141]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>142</unitid>
+							<unittitle>[Page 142]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>143</unitid>
+							<unittitle>[Page 143]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>144</unitid>
+							<unittitle>[Page 144]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>145</unitid>
+							<unittitle>[Page 145]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>146</unitid>
+							<unittitle>[Page 146]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>147</unitid>
+							<unittitle>[Page 147]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>148</unitid>
+							<unittitle>[Page 148]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>149</unitid>
+							<unittitle>[Page 149]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>150</unitid>
+							<unittitle>[Page 150]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>151</unitid>
+							<unittitle>[Page 151]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>152</unitid>
+							<unittitle>[Page 152]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>153</unitid>
+							<unittitle>[Page 153]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>154</unitid>
+							<unittitle>[Page 154]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>155</unitid>
+							<unittitle>[Page 155]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>156</unitid>
+							<unittitle>[Page 156]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>157</unitid>
+							<unittitle>[Page 157]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>158</unitid>
+							<unittitle>[Page 158]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>159</unitid>
+							<unittitle>[Page 159]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>160</unitid>
+							<unittitle>[Page 160]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>161</unitid>
+							<unittitle>[Page 161]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>162</unitid>
+							<unittitle>[Page 162]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>163</unitid>
+							<unittitle>[Page 163]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>164</unitid>
+							<unittitle>[Page 164]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>165</unitid>
+							<unittitle>[Page 165]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>166</unitid>
+							<unittitle>[Page 166]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>167</unitid>
+							<unittitle>[Page 167]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>168</unitid>
+							<unittitle>[Page 168]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>169</unitid>
+							<unittitle>[Page 169]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>170</unitid>
+							<unittitle>[Page 170]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>171</unitid>
+							<unittitle>[Page 171]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>172</unitid>
+							<unittitle>[Page 172]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>173</unitid>
+							<unittitle>[Page 173]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>174</unitid>
+							<unittitle>[Page 174]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>175</unitid>
+							<unittitle>[Page 175]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>176</unitid>
+							<unittitle>[Page 176]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>177</unitid>
+							<unittitle>[Page 177]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>178</unitid>
+							<unittitle>[Page 178]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>179</unitid>
+							<unittitle>[Page 179]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>180</unitid>
+							<unittitle>[Page 180]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>181</unitid>
+							<unittitle>[Page 181]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>182</unitid>
+							<unittitle>[Page 182]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>183</unitid>
+							<unittitle>[Page 183]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>184</unitid>
+							<unittitle>[Page 184]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>185</unitid>
+							<unittitle>[Page 185]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>186</unitid>
+							<unittitle>[Page 186]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>187</unitid>
+							<unittitle>[Page 187]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>188</unitid>
+							<unittitle>[Page 188]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>189</unitid>
+							<unittitle>[Page 189]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>190</unitid>
+							<unittitle>[Page 190]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>191</unitid>
+							<unittitle>[Page 191]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>192</unitid>
+							<unittitle>[Page 192]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>193</unitid>
+							<unittitle>[Page 193]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>194</unitid>
+							<unittitle>[Page 194]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>195</unitid>
+							<unittitle>[Page 195]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>196</unitid>
+							<unittitle>[Page 196]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>197</unitid>
+							<unittitle>[Page 197]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>198</unitid>
+							<unittitle>[Page 198]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>199</unitid>
+							<unittitle>[Page 199]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>200</unitid>
+							<unittitle>[Page 200]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Macalaster College - Lowell Thomas guest lecturer</unittitle>
+						<unitdate label="Date">1966</unitdate>
+						<container id="1597" type="box">1597</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Page 1]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Page 2]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Page 3]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Page 4]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Page 5]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Page 6]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Page 7]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Page 8]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Page 9]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Page 10]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Page 11]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Page 12]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Page 13]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Page 14]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Page 15]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Page 16]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Page 17]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Page 18]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Page 19]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Page 20]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Page 21]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Page 22]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Page 23]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Page 24]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[Page 25]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[Page 26]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[Page 27]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[Page 28]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[Page 29]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[Page 30]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[Page 31]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[Page 32]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[Page 33]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[Page 34]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[Page 35]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>[Page 36]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>[Page 37]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>[Page 38]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>[Page 39]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>[Page 40]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>[Page 41]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>[Page 42]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>[Page 43]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>[Page 44]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>[Page 45]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>[Page 46]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>[Page 47]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>[Page 48]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>[Page 49]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>[Page 50]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>[Page 51]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>[Page 52]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>[Page 53]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>[Page 54]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>[Page 55]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>[Page 56]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>[Page 57]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>[Page 58]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>[Page 59]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Winter Olympic Dinner, Cherry Hills Country Club [concerning Denver's bid for the 1976 Winter Olympics]</unittitle>
+						<unitdate label="Date">1968 March 18</unitdate>
+						<container id="1597" type="box">1597</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Album cover]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Page 1]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Page 2]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Page 3]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Page 4]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Page 5]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Page 6]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Page 7]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Page 8]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Page 9]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Page 10]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Page 11]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Page 12]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Page 13]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Page 14]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Page 15]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Page 16]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Page 17]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Page 18]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Page 19]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Page 20]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Page 21]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Page 22]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Page 23]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[Page 24]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[Page 25]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[Page 26]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[Page 27]</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<!-- End 1597 -->
+			<!-- Box 1598 -->
+			<c01>
+				<note>Box 1598</note>
+				<did>
+					<unitid>2.1.6</unitid>
+					<unittitle>Photograph albums</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>The Lowell Thomas Institute of Communicating Arts at Human Resources Center, A Presentation to Lowell Thomas</unittitle>
+						<unitdate label="Date">1968 October 23</unitdate>
+						<container id="1598" type="box">1598</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Album cover]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Page 1]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Page 2]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Page 3]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Page 4]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Page 5]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Page 6]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Page 7]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Page 8]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Page 9]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Page 10]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Page 11]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Page 12]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Page 13]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Page 14]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Page 15]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Page 16]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Page 17]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Page 18]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Page 19]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Page 20]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Page 21]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Page 22]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Page 23]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[Page 24]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[Page 25]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[Page 26]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[Page 27]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[Page 28]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[Page 29]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[Page 30]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[Page 31]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[Page 32]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>With Lowell in Nepal - To the World's Best Traveling Companion from Miggs &amp; Dick Durrance</unittitle>
+						<unitdate label="Date">circa 1970s</unitdate>
+						<container id="1598" type="box">1598</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Page 1]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Page 2]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Page 3]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Page 4]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Page 5]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Page 6]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Page 7]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Page 8]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Page 9]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Page 10]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Page 11]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Page 12]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Page 13]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Page 14]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Page 15]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Page 16]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Page 17]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Page 18]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Page 19]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Lowell Thomas' Thirty-ninth Birthday</unittitle>
+						<unitdate label="Date">1975 April</unitdate>
+						<container id="1598" type="box">1598</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Album cover]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Item found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>[Inside of item found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Photograph found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>[Verso of photograph found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Photograph found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Photograph found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Photograph found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Photograph found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Page 1]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Page 2]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Page 3]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Page 4]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Page 5]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Page 6]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Page 7]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Page 8]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Page 9]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Page 10]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Page 11]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Page 12]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Page 13]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Page 14]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Page 15]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Page 16]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Page 17]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[Page 18]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[Page 19]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[Page 20]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[Page 21]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[Page 22]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[Page 23]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[Page 24]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>A Tribute to Lowell Thomas by the University of Denver</unittitle>
+						<unitdate label="Date">1976 May 14</unitdate>
+						<container id="1598" type="box">1598</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Cover of program found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Part of program found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Part of program found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Part of program found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Page 1]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Page 2]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Page 3]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Page 4]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Page 5]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Page 6]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Page 7]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Page 8]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Page 9]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Page 10]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Page 11]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Page 12]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Page 13]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Page 14]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Page 15]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Page 16]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Page 17]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Page 18]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Page 19]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Page 20]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[Page 21]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[Page 22]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[Page 23]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[Page 24]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[Page 25]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[Page 26]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[Page 27]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[Page 28]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[Page 29]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[Page 30]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[Page 31]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>[Page 32]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>[Page 33]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>[Page 34]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>[Part of program found in album]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>[Part of program found in album]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>For Lowell Thomas 46th Anniversary of His 40th</unittitle>
+						<unitdate label="Date">1978 April 6</unitdate>
+						<container id="1598" type="box">1598</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Album cover]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Page 1]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Page 2]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Page 3]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Page 4]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Page 5]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Page 6]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Page 7]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Page 8]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Page 9]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Page 10]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Page 11]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Page 12]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Page 13]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Page 14]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Page 15]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Page 16]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Page 17]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Page 18]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Page 19]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Page 20]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Page 21]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Page 22]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Page 23]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[Page 24]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[Page 25]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[Page 26]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[Page 27]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[Page 28]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[Page 29]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[Page 30]</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<!-- End 1598 -->
+		</dsc>
+	</archdesc>
+</ead>

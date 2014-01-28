@@ -1,0 +1,3274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>England</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.8</unitid>
+			<unittitle>England</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1179</note>
+				<did>
+					<unitid>2.1.1.1.8</unitid>
+					<unittitle>England</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Front view of cathedral in Truro</unittitle>
+						<unitdate label="Date">1912 June 28</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17115</materialspec>
+						<materialspec label="negativenumber">362</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Salisbury Cathedral, general view through trees</unittitle>
+						<unitdate label="Date">1912 July 2</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17172</materialspec>
+						<materialspec label="negativenumber">403</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Salisbury Cathedral, West front</unittitle>
+						<unitdate label="Date">1912 July 2</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17173</materialspec>
+						<materialspec label="negativenumber">404</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>High Street gate, Salisbury</unittitle>
+						<unitdate label="Date">1912 July 2</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17174</materialspec>
+						<materialspec label="negativenumber">405</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Avenue of trees along road, Wilton to Salsibury</unittitle>
+						<unitdate label="Date">1912 July 2</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17175</materialspec>
+						<materialspec label="negativenumber">406</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Entrance to village of Baiford St. Martin, near Salisbury</unittitle>
+						<unitdate label="Date">1912 July 2</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17176</materialspec>
+						<materialspec label="negativenumber">407</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Stonehenge ruins, near Salsibury</unittitle>
+						<unitdate label="Date">1912 July 2</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17178</materialspec>
+						<materialspec label="negativenumber">409</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Frank R. Roberson in front of Stonegenge, near Salisbury</unittitle>
+						<unitdate label="Date">1912 July 2</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17179</materialspec>
+						<materialspec label="negativenumber">409</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Village of Wherewell, street scene, near Salisbury</unittitle>
+						<unitdate label="Date">1912 July 2</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17180</materialspec>
+						<materialspec label="negativenumber">410</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Winchester Cathedral, Winchester</unittitle>
+						<unitdate label="Date">1912 July 2</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17181</materialspec>
+						<materialspec label="negativenumber">411</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Country church near Winchester</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17182</materialspec>
+						<materialspec label="negativenumber">412</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Abbot Hospital, Guilford, automobile in street</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17183</materialspec>
+						<materialspec label="negativenumber">413</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>High Street, Guilford</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17184</materialspec>
+						<materialspec label="negativenumber">415</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Meat shop in Guilford</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17185</materialspec>
+						<materialspec label="negativenumber">414</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Angel Hotel, yard, Guilford</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17186</materialspec>
+						<materialspec label="negativenumber">416</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Castle in Guilford, Frank R. Roberson sitting on bench</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17187</materialspec>
+						<materialspec label="negativenumber">417</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Charter house school, Godalming</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17188</materialspec>
+						<materialspec label="negativenumber">4128</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Entrance lodge between Guilford and Haleswere</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17190</materialspec>
+						<materialspec label="negativenumber">420</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Garden Herbaceous charter house school, Godalming</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17190</materialspec>
+						<materialspec label="negativenumber">421</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>George Elliott's house, Brookbank Shooter Mill</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17192</materialspec>
+						<materialspec label="negativenumber">422</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Tennyson House, Aldworth, Blackdowns</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17194</materialspec>
+						<materialspec label="negativenumber">424</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Tennyson's house from entrance, Aldworth, Blackdowns</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17195</materialspec>
+						<materialspec label="negativenumber">425</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Tennyson's house, Aldworth, Blackdowns</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17196</materialspec>
+						<materialspec label="negativenumber">426</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Tennyson's house, Aldworth, General view of house Blackdowns</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17197</materialspec>
+						<materialspec label="negativenumber">427</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Terrace and house of Tennyson, Blackdowns</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17202</materialspec>
+						<materialspec label="negativenumber">432</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Garden and terrace of Tennyson house, Blackdowns</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17203</materialspec>
+						<materialspec label="negativenumber">433</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Garden steps of Tennyson house, Aldworth, Blackdowns</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17205</materialspec>
+						<materialspec label="negativenumber">435</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Road scene entering Tennyson's home, Aldworth, Blackdowns</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17206</materialspec>
+						<materialspec label="negativenumber">436</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>The Rookery, home of John Evelyn, Wotton</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17207</materialspec>
+						<materialspec label="negativenumber">437</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Church and churchyard, Wotton</unittitle>
+						<unitdate label="Date">1912 July 3</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17209</materialspec>
+						<materialspec label="negativenumber">439</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Street scene in Canterbury, Weavers</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17210</materialspec>
+						<materialspec label="negativenumber">440</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>West gate entrance into Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17211</materialspec>
+						<materialspec label="negativenumber">441</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Entrance to town by west gate, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17212</materialspec>
+						<materialspec label="negativenumber">442</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Homes of Canterbury Weavers</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17213</materialspec>
+						<materialspec label="negativenumber">443</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Mercery Lane looking toward cathedral, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17214</materialspec>
+						<materialspec label="negativenumber">444</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Christ church gate, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17215</materialspec>
+						<materialspec label="negativenumber">445</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Remains of Cloisters, Canterbury Cathedral</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17216</materialspec>
+						<materialspec label="negativenumber">446</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Cathedral from school green, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17217</materialspec>
+						<materialspec label="negativenumber">447</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Town of Canterbury Cathedral</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17218</materialspec>
+						<materialspec label="negativenumber">449</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Yard of residence near cathedral, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17219</materialspec>
+						<materialspec label="negativenumber">450</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Archbishop's palace, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17220</materialspec>
+						<materialspec label="negativenumber">451</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Outside view of the Cloisters, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17221</materialspec>
+						<materialspec label="negativenumber">452</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Inside view of the Cloisters, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17222</materialspec>
+						<materialspec label="negativenumber">453</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Baptistry of Canterbury Cathedral</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17223</materialspec>
+						<materialspec label="negativenumber">454</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>The Nave [aisle] of Canterbury Cathedral</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17224</materialspec>
+						<materialspec label="negativenumber">455</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Old Tower at monastery of St. Augustine, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17225</materialspec>
+						<materialspec label="negativenumber">456</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>City wall, Canterbury, Frank R. Roberson in foreground</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17226</materialspec>
+						<materialspec label="negativenumber">457</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Old Stevenson engine, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17227</materialspec>
+						<materialspec label="negativenumber">458</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Norman stairs, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17228</materialspec>
+						<materialspec label="negativenumber">459</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Graveyard and flowers at St. Martin's church, officer on left, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1179" type="box">1179</container>
+						<materialspec label="index">17229</materialspec>
+						<materialspec label="negativenumber">459</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<!-- End 2 -->
+			</c01>
+			<!-- Box 8 -->
+
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1180</note>
+				<did>
+					<unitid>2.1.1.1.8</unitid>
+					<unittitle>England</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>St. Martin's church, Canterbury</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17230</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Hop Kiln and sheep, near Chatham</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17233</materialspec>
+						<materialspec label="negativenumber">462</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Hotel, halfway house in Gad's Hill</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17234</materialspec>
+						<materialspec label="negativenumber">464</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Home of Charles Dickens, Gad's Hill</unittitle>
+						<unitdate label="Date">1912 July 4</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17235</materialspec>
+						<materialspec label="negativenumber">465</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>King Edward III's arch, London</unittitle>
+						<unitdate label="Date">1912 July 5</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17238</materialspec>
+						<materialspec label="negativenumber">467</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Nelson Monument, Trafalgar Square, London</unittitle>
+						<unitdate label="Date">1912 July 5</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17239</materialspec>
+						<materialspec label="negativenumber">468</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Horse Guards, London</unittitle>
+						<unitdate label="Date">1912 July 5</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17240</materialspec>
+						<materialspec label="negativenumber">469</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Downing Street, foreign office, London</unittitle>
+						<unitdate label="Date">1912 July 5</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17241</materialspec>
+						<materialspec label="negativenumber">470</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Old building on High Holborn Street, London</unittitle>
+						<unitdate label="Date">1912 July 5</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17242</materialspec>
+						<materialspec label="negativenumber">471</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Law courts, street scene, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17243</materialspec>
+						<materialspec label="negativenumber">472</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Thames embankment and House of Parliament, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17244</materialspec>
+						<materialspec label="negativenumber">473</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Buckingham Palace, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17245</materialspec>
+						<materialspec label="negativenumber">474</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Side view of Westminister Abbey, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17246</materialspec>
+						<materialspec label="negativenumber">475</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Queen Victoria in front of Buckingham Palace, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17247</materialspec>
+						<materialspec label="negativenumber">476</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Queen Victoria statue in front of Buckingham Palace, near view, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17248</materialspec>
+						<materialspec label="negativenumber">477</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Frank Roberson next to soldier standing guard at Buckingham Palace, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17249</materialspec>
+						<materialspec label="negativenumber">478</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>The Admiralty arch in the mall, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17250</materialspec>
+						<materialspec label="negativenumber">479</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Lodge at entrance to Hyde Park, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17251</materialspec>
+						<materialspec label="negativenumber">481</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>American Embassy, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17252</materialspec>
+						<materialspec label="negativenumber">481</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Frank Roberson looking at entrance to American Embassy, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17253</materialspec>
+						<materialspec label="negativenumber">482</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Rotton Row, Hyde Park, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17254</materialspec>
+						<materialspec label="negativenumber">483</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Albert Memorial, general view, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17255</materialspec>
+						<materialspec label="negativenumber">484</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Africa, Albert Memorial, detail statutary, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17256</materialspec>
+						<materialspec label="negativenumber">485</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>America, Albert Memorial, detail statuary, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17257</materialspec>
+						<materialspec label="negativenumber">486</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Europe, Albert Memorial, detail statuary, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17258</materialspec>
+						<materialspec label="negativenumber">487</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Asia, Albert Memorial, detail statuary, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17259</materialspec>
+						<materialspec label="negativenumber">488</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Central groups, Albert Memorial, detail statuary, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17260</materialspec>
+						<materialspec label="negativenumber">489</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>"Rose", Hampton court</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17261</materialspec>
+						<materialspec label="negativenumber">490</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>House boat on Thames as seen from Hampton Court</unittitle>
+						<unitdate label="Date">1912 July 2</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17264</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Armerial border, Hampton Court</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17341</materialspec>
+						<materialspec label="negativenumber">493</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Rose bed "La France" and "Dorothy Perkins", Hampton Court</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17347</materialspec>
+						<materialspec label="negativenumber">504</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>View of Thames River and house boats from Hampton court</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17348</materialspec>
+						<materialspec label="negativenumber">505</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Palace from avenue of elms along riverway, Hampton Court</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17350</materialspec>
+						<materialspec label="negativenumber">507</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Palace from East, Hampton Court</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17351</materialspec>
+						<materialspec label="negativenumber">508</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Mrs. Roberson in Hampton court</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17354</materialspec>
+						<materialspec label="negativenumber">511</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Lovers on bench, Hampton Court</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17355</materialspec>
+						<materialspec label="negativenumber">512</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Bank of England, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17261</materialspec>
+						<materialspec label="negativenumber">323</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Albert Hall, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17262</materialspec>
+						<materialspec label="negativenumber">490</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Sicilain Avenue, London</unittitle>
+						<unitdate label="Date">1912 July 6</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17268</materialspec>
+						<materialspec label="negativenumber">516</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>St. Paul's from the strand, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17269</materialspec>
+						<materialspec label="negativenumber">517</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>St. Paul's cathedral looking up street, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17270</materialspec>
+						<materialspec label="negativenumber">519</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Fuller's Candy Store and Ye Olde Cheshire Cheese, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17271</materialspec>
+						<materialspec label="negativenumber">518</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Thames embankment wall, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17272</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Front view of St. Paul's cathedral, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17273</materialspec>
+						<materialspec label="negativenumber">520</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>St. Paul's cathedral, dome, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17274</materialspec>
+						<materialspec label="negativenumber">521</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Cheapside and bow bells, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17275</materialspec>
+						<materialspec label="negativenumber">522</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Royal exchange, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17276</materialspec>
+						<materialspec label="negativenumber">524</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Mansion house, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17277</materialspec>
+						<materialspec label="negativenumber">525</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Looking up Oxford Street, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17278</materialspec>
+						<materialspec label="negativenumber">526</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Peter Robinson store, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17279</materialspec>
+						<materialspec label="negativenumber">527</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Selfridge's store, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1180" type="box">1180</container>
+						<materialspec label="index">17280</materialspec>
+						<materialspec label="negativenumber">528</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<!-- End 2 -->
+
+			</c01>
+			<!-- End 8 -->
+
+			<!-- Box 1181 -->
+
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1181</note>
+				<did>
+					<unitid>2.1.1.1.8</unitid>
+					<unittitle>England</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>London Pavilion, Piccadilly Circus</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17281</materialspec>
+						<materialspec label="negativenumber">529</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Pall Mall, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17282</materialspec>
+						<materialspec label="negativenumber">530</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Government buildings, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17283</materialspec>
+						<materialspec label="negativenumber">531</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>"Big Ben" clock tower, house of Parliament, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17284</materialspec>
+						<materialspec label="negativenumber">532</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>West Towers of Westminister Abbey, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17285</materialspec>
+						<materialspec label="negativenumber">533</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>North doorway, Westminister Abbey, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17286</materialspec>
+						<materialspec label="negativenumber">534</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>North doorway, Westminister Abbey, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17287</materialspec>
+						<materialspec label="negativenumber">535</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>House of Parliament, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17288</materialspec>
+						<materialspec label="negativenumber">536</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Rear of Westminister, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17289</materialspec>
+						<materialspec label="negativenumber">537</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Imperial Institute, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17290</materialspec>
+						<materialspec label="negativenumber">539</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Tower of London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17292</materialspec>
+						<materialspec label="negativenumber">540</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Milton's statue and church, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17293</materialspec>
+						<materialspec label="negativenumber">541</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>London Bridge and Lambette Palace</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17294</materialspec>
+						<materialspec label="negativenumber">5444</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Chealsea church, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17295</materialspec>
+						<materialspec label="negativenumber">610</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>House of Parliament from across the Thames, London</unittitle>
+						<unitdate label="Date">1912 July 7</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17296</materialspec>
+						<materialspec label="negativenumber">545</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Lake view from Cedar Avenue, Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">561?</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Pagoda in Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17299</materialspec>
+						<materialspec label="negativenumber">349</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Kew Gardens Tea House, Roberson Party at lunch, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17300</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Lily pond, Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17302</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Lily pond, Kew Gradens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17302A</materialspec>
+						<materialspec label="negativenumber">562</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Lily pond, Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17303</materialspec>
+						<materialspec label="negativenumber">565</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Japanese Temple gate, Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17311</materialspec>
+						<materialspec label="negativenumber">569</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Roses on wall by lake front, Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17312</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Roses on terrace, Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17313</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Kew Gardens lake and geese, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Kew Gardens lake and roses on terrace, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Floral arch over walkway, Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Pagoda and garden, Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17318</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Gator lily pond, Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17320</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Rose arches, Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17321</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Frank Roberson and Mrs. Roberson in walkway at Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17322</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Shirley poppy field, Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17327</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Roses "Lyon", Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17328</materialspec>
+						<materialspec label="negativenumber">577</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Roses "La Tosca", Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17329</materialspec>
+						<materialspec label="negativenumber">578</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Rose "American Pillar", Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17330</materialspec>
+						<materialspec label="negativenumber">579</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Herbaceous border, Kew Gardens, Kew</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17333</materialspec>
+						<materialspec label="negativenumber">582</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>View of Thames River, Richmond</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17336</materialspec>
+						<materialspec label="negativenumber">585</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Frank Roberson, looking at view of Thames and Richmond Bridge, Richmond</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17337</materialspec>
+						<materialspec label="negativenumber">586</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>View of Thames at Richmond</unittitle>
+						<unitdate label="Date">1912 July 8</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17338</materialspec>
+						<materialspec label="negativenumber">587</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Y.M.C.A. building, London</unittitle>
+						<unitdate label="Date">1912 July 9</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17372</materialspec>
+						<materialspec label="negativenumber">588</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Hyde Park Corner, London</unittitle>
+						<unitdate label="Date">1912 July 9</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17373</materialspec>
+						<materialspec label="negativenumber">589</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Harrod's store in Brompton row, London</unittitle>
+						<unitdate label="Date">1912 July 9</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17374</materialspec>
+						<materialspec label="negativenumber">590</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Brompton Oratory, Parish church, London</unittitle>
+						<unitdate label="Date">1912 July 9</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17375</materialspec>
+						<materialspec label="negativenumber">591</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Outside of Victoria and ALbert museum, London</unittitle>
+						<unitdate label="Date">1912 July 9</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17376</materialspec>
+						<materialspec label="negativenumber">592</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>View of Thames from Tower Bridge</unittitle>
+						<unitdate label="Date">c.1912 July 10</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17377</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Two towers, Westminister Abbey, side view, London</unittitle>
+						<unitdate label="Date">c.1912 July 10</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17378</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Moat and walls of London Tower, London</unittitle>
+						<unitdate label="Date">c.1912 July 10</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17379</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Moat and walls of London Tower, London</unittitle>
+						<unitdate label="Date">c.1912 July 10</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17379A</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Cheyne Row, Chelsea, Thomas Carlyle's house, London</unittitle>
+						<unitdate label="Date">1912 July 11</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17356</materialspec>
+						<materialspec label="negativenumber">609</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>St. Peter's Church, London</unittitle>
+						<unitdate label="Date">1912 July 12</unitdate>
+						<container id="1181" type="box">1181</container>
+						<materialspec label="index">17370</materialspec>
+						<materialspec label="negativenumber">624</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 9 -->
+
+			<!-- Box 1182 -->
+			<c01>
+				<!-- Start the new box from component no. 1 -->
+				<note>Box 1182</note>
+				<did>
+					<unitid>2.1.1.1.8</unitid>
+					<unittitle>England</unittitle>
+				</did>
+				<!-- Items within the box in component no. 2 -->
+
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Waldorf Hotel, London</unittitle>
+						<unitdate label="Date">1912 July 12</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">17371</materialspec>
+						<materialspec label="negativenumber">625</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Ruined tower of abbey, Marquis of Ripon's estate, Ripon</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">17606</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>English lake looking back at Grainiere</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">17655</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>"Dekalb Nursuries, Adolf Muller", caption</unittitle>
+						<unitdate label="Date">circa 1912</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Two pictures, "Practical work in poultry" and "Placement training in floriculture"</unittitle>
+						<unitdate label="Date">circa 1912</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Sleeping bums on bench on embankment of Thames River, London</unittitle>
+						<unitdate label="Date">circa 1912</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Man asleep on Thames embankment, London</unittitle>
+						<unitdate label="Date">circa 1912</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Messenger boy, London</unittitle>
+						<unitdate label="Date">circa 1912</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Sheep</unittitle>
+						<unitdate label="Date">circa 1912</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Sheep coming up narrow lane</unittitle>
+						<unitdate label="Date">circa 1912</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Sheep, man on horse</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>White cliffs of Dover</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>White cliffs of Dover, birds in foreground</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>View of the Cherwell, Oxford, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">BB</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>New College bell tower and cloisters, Oxford, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">SS</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>His Majesty King George V, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">3X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Tomb of Her Late Majesty and Prince Consort, the Royal Mausoleum, Frogmore, copy</unittitle>
+						<unitdate label="Date">1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">7X</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Alexandra, the Queen Mother, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Queen Mary in coronation robes, copy and old man from Tenby, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">KK</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Books, copy and Jack Blandiver, Wells Cathedral, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">MM</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Sheep on road near cottage, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">YY</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Small boats at sea, copy, and sheep on road near cottage, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">LL</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Boats in Tenby, copy, and Vicars Close, Wells copy [split negative]</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">OO</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>The Doone Valley, copy, and water meets Lynmouth, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>View of countryside and ocean, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Building with waterwheel, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">GG</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Building with waterwheel, close-up, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">PP</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Waterwheel in action, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">JJ</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>View of tower and park, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">0211</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Street scene, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">XX</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>View of city, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index">UU</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>A place of worship bombarded by the Germans: A shell hole in the Baptist Chapel, Hartlepool, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>One of the many holiday residences at Scarborough shelled by the Germans: A boarding house on St. Nicholas Street, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>The last of the Emden, a famous naval duel ended, the Illustrated London News, copy</unittitle>
+						<unitdate label="Date">1914</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Where German shells killed English women and children, Scarborough, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>A room in a house in Wykeham Street, Scarborough, wrecked by a German shell, copy, and children looking at wrecked house, Cleavland Road, Hartlepool, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Dignity and Impudence, Sir Edward Landseer, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Alexander and Diogenes, Sir, Edward Landseer, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>The Virgin's Child, St. John and St. Nicholas, Raffaello Sanzio, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>The Holy Family, Bartolome Esteban Murillo, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>St. John and the Lamb, Bartolome Esteban Murillo, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Head of a Girl, Jean Baptiste Greuze, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>The Vision of a Knight, Raffaello Sanzio, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>The Vale of Rest, John E. Millais, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>The Infant Samuel kneeling at prayer, Joshua Reynolds, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Portrait of a Lady with a Child, George Romney, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Childe Harold's Pilgrimage, Italy, Joseph M. W. Turner, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Spaniels of King Charles's breed, Sir Edward Landseer, copy</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Portrait of Miss Bowles, Joshua Reynolds, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Looking at mountains from the ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Looking at mountains from the ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Town on the shore</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Loading automobile onto ship</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Sheep in road</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>View of automobile</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Three women carrying baskets</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Two women carrying baskets on backs</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Two women in hats</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Two women in hats talking</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Man driving donkey cart</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Old man driving donkey cart</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Old man driving donkey cart</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Woman driving cart</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>Old man</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Man and sheep in road</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>66</unitid>
+						<unittitle>Man and sheep in road</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>67</unitid>
+						<unittitle>Sheep in road</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>68</unitid>
+						<unittitle>Forest along the shore</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>69</unitid>
+						<unittitle>Forest on the shore</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>70</unitid>
+						<unittitle>Looking at mountain from ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>71</unitid>
+						<unittitle>View of mountains from the ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>72</unitid>
+						<unittitle>View of land from the ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>73</unitid>
+						<unittitle>View of land from the ocean</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>74</unitid>
+						<unittitle>Sunset</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>75</unitid>
+						<unittitle>Sunset</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1182" type="box">1182</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 10 -->
+		</dsc>
+	</archdesc>
+</ead>	

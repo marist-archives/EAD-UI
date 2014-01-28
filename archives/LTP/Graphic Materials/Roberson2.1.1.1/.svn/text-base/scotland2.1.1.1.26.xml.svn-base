@@ -1,0 +1,1857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Scotland</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.26</unitid>
+			<unittitle>Scotland</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1242 -->
+			<c01>
+				<note>Box 1242</note>
+				<did>
+					<unitid>2.1.1.1.26</unitid>
+					<unittitle>Scotland</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Detail of window at Melrose Abbey, Melrose</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20001</materialspec>
+						<materialspec label="negativenumber">802</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>General view of Melrose Abbey, Melrose</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20002</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Melrose Abbey from cemetery, Melrose</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20003</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Bruce’s heart, Melrose Abbey, Melrose</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20004</materialspec>
+						<materialspec label="negativenumber">821</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Interior and East window of Melrose Abbey</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20005</materialspec>
+						<materialspec label="negativenumber">822</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>West end of Melrose Abbey</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20006</materialspec>
+						<materialspec label="negativenumber">823</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Dryburgh Abbey, picaresque ruin, Dryburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20007</materialspec>
+						<materialspec label="negativenumber">824</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Arbistie corner at Dryburgh Abbey, Dryburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20008</materialspec>
+						<materialspec label="negativenumber">825</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Detail of Dryburgh Abbey, Dryburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20009</materialspec>
+						<materialspec label="negativenumber">826</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Tomb of Sir Walter Scott at Dryburgh Abbey, Dryburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20010</materialspec>
+						<materialspec label="negativenumber">827</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Sir Walter Scott’s burial place in St. Mary’s aisle, Dryburgh Abbey</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20011</materialspec>
+						<materialspec label="negativenumber">828</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Abbotsford from the rear, Sir Walter Scott’s home, Abbotsford</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20012</materialspec>
+						<materialspec label="negativenumber">829</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Vistae of Abbotsford Sir William Scott’s house, Abbottsford</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20013</materialspec>
+						<materialspec label="negativenumber">829</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>“Abbotsford”, home of Sir Walter Scott, from opposite bank of the Tweed, Abbotsford</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20014</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Abbotsford, house of Sir William Scott, from opposite bank of river, Abbotsford</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20015</materialspec>
+						<materialspec label="negativenumber">830</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Road to Edinburgh, from opposite side of Tweed River</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1242" type="box">1242</container>
+						<materialspec label="index">20019</materialspec>
+						<materialspec label="negativenumber">831</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1242 -->
+			<!-- Box 1243 -->
+			<c01>
+				<note>Box 1243</note>
+				<did>
+					<unitid>2.1.1.1.26</unitid>
+					<unittitle>Scotland</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Looking up at Edinburgh Castle, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20020</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Looking up at Edinburgh Castle, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20021</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Edinburgh Castle through the trees, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20022</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Edinburgh Castle and fountain, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20023</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Looking up at Edinburgh Castle, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20024</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>University buildings from Princess Street Gardens, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20025</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>University buildings and art gallery, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20026</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>John Knox’s house, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20027</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Art gallery, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>The walk in Princess Street Gardens, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20029</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Walk and art gallery in Princess Street Gardens, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20033</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Sir William Scott Memorial and Livingston Statue at Princess Street Gardens, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20034</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Princess Street Gardens and William Scott Memorial, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20035</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>William Scott statue in William Scott memorial, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20036</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Princess Street Gardens on other side of art gallery, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20037</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>North British Hotel, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 22</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20038</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Princess Street looking toward Calbon Hall, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 23</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20040</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Holyroad Palace, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 23</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20041</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Soldier of the “Black Watch” at Holyroad Palace, Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 23</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20042</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Fishwomen with Frank R. Roberson, outside Edinburgh</unittitle>
+						<unitdate label="Date">1912 July 24</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20044</materialspec>
+						<materialspec label="negativenumber">836</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Firth of Forth bridge</unittitle>
+						<unitdate label="Date">1912 July 24</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20045</materialspec>
+						<materialspec label="negativenumber">837</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Stirling Castle, Stirling</unittitle>
+						<unitdate label="Date">1912 July 24</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20046</materialspec>
+						<materialspec label="negativenumber">838</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>House of Fair maid of Perth, Perth</unittitle>
+						<unitdate label="Date">1912 July 24</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20047</materialspec>
+						<materialspec label="negativenumber">839</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Countryside scene</unittitle>
+						<unitdate label="Date">1912 July 25</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20050</materialspec>
+						<materialspec label="negativenumber">842</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Stream near Loch Oich</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20053</materialspec>
+						<materialspec label="negativenumber">847</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Entrance to Caledian Canal, Banavie</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20054</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Road along Caledonian Canal</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20055</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Railway car, Banavie</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20058</materialspec>
+						<materialspec label="negativenumber">851</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Canal, lock at Banavie</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20059</materialspec>
+						<materialspec label="negativenumber">852</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Ruined tower along Caledonian Canal</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20062</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Car on ferry, hold up, Ballachulish</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20063</materialspec>
+						<materialspec label="negativenumber">855</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Car on ferry, before landing, Ballachulish</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20064</materialspec>
+						<materialspec label="negativenumber">856</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Car on ferry, ready to land, Ballachulish</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20065</materialspec>
+						<materialspec label="negativenumber">857</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Mountains and stream, near Glencoe</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20066</materialspec>
+						<materialspec label="negativenumber">858</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Looking through mountains, Glencoe</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20067</materialspec>
+						<materialspec label="negativenumber">859</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Mountains and Glen, Glencoe</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20068</materialspec>
+						<materialspec label="negativenumber">860</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Crowd at ruins, Iona</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20069</materialspec>
+						<materialspec label="negativenumber">861</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Ruins of church and Mr. Frank R. Roberson, Iona</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20070</materialspec>
+						<materialspec label="negativenumber">862</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Ruins of church, sheep in foreground, Iona</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20071</materialspec>
+						<materialspec label="negativenumber">863</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Cathedral and St. Martin’s Cross, Iona</unittitle>
+						<unitdate label="Date">1912 July 26</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20072</materialspec>
+						<materialspec label="negativenumber">864</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Detail of St. Martin’s Cross, Iona</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20073</materialspec>
+						<materialspec label="negativenumber">865</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Arch in cathedral, Iona</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20074</materialspec>
+						<materialspec label="negativenumber">866</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Crowd of nubber necker’s at Maclean’s Cross, Iona</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20075</materialspec>
+						<materialspec label="negativenumber">867</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Tombs at Iona, perhaps Macbeth, Iona</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20126</materialspec>
+						<materialspec label="negativenumber">868</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Distant view of church and ruins, Iona</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20127</materialspec>
+						<materialspec label="negativenumber">869</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>“Grenadier” through trees, Iona</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20128</materialspec>
+						<materialspec label="negativenumber">870</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Village of Iona</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20129</materialspec>
+						<materialspec label="negativenumber">871</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>“Grenadier” from Iona</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20130</materialspec>
+						<materialspec label="negativenumber">872</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Frank R. Roberson looking up in Fingal’s Cave, Staffa</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20131</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Frank R. Roberson in Triv Y Als cave, Staffa Island</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20132</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Fingal’s Cave, looking toward sea, Staffa</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20133</materialspec>
+						<materialspec label="negativenumber">874</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Looking out of Fingal’s Cave, Staffa Island</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1243" type="box">1243</container>
+						<materialspec label="index">20134</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1243 -->
+			<!-- Box 1244 -->
+			<c01>
+				<note>Box 1244</note>
+				<did>
+					<unitid>2.1.1.1.26</unitid>
+					<unittitle>Scotland</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Frank R. Roberson looking into Fingal’s Cave, Staff</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20135</materialspec>
+						<materialspec label="negativenumber">875</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>“Grenadier” at Fingal’s Cave, Staffa</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20136</materialspec>
+						<materialspec label="negativenumber">876</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Rock formation at Fingal’s Cave, Staffa</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20137</materialspec>
+						<materialspec label="negativenumber">877</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Showing formation at Fingal’s Cave, Staffa</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20138</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Rock formation, Staffa</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20139</materialspec>
+						<materialspec label="negativenumber">879</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>“Grenadier” at Fingal’s Cave, Staffa</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20140</materialspec>
+						<materialspec label="negativenumber">878</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Cliffs, Staffa</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20141</materialspec>
+						<materialspec label="negativenumber">880</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Bridge and stream</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20144</materialspec>
+						<materialspec label="negativenumber">883</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Bridge and stream, near Loch Lomond</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20146</materialspec>
+						<materialspec label="negativenumber">883</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Loch Lomond toward Beu Lomond</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20147</materialspec>
+						<materialspec label="negativenumber">885</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Loch Katrine from the Stronachlacer lauding, Loch Katrine</unittitle>
+						<unitdate label="Date">1912 July 28</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20151</materialspec>
+						<materialspec label="negativenumber">887</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Loch Arklet near Loch Katrine</unittitle>
+						<unitdate label="Date">1912 July 28</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20153</materialspec>
+						<materialspec label="negativenumber">889</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Loch Katrine, Lirver end</unittitle>
+						<unitdate label="Date">1912 July 29</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20154</materialspec>
+						<materialspec label="negativenumber">890</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Lower end, Loch Katrine, east end of lake</unittitle>
+						<unitdate label="Date">1912 July 29</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20076</materialspec>
+						<materialspec label="negativenumber">891</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Loch Katrine, lower end, near Ellen’s Isle</unittitle>
+						<unitdate label="Date">1912 July 29</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20077</materialspec>
+						<materialspec label="negativenumber">892</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Road in Trossachs</unittitle>
+						<unitdate label="Date">1912 July 29</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20078</materialspec>
+						<materialspec label="negativenumber">893</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Beu venue from the Trossachs Hotel</unittitle>
+						<unitdate label="Date">1912 July 29</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20079</materialspec>
+						<materialspec label="negativenumber">894</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Brieg of Turk, Trossachs, near Loch Achray</unittitle>
+						<unitdate label="Date">1912 July 29</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20080</materialspec>
+						<materialspec label="negativenumber">895</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Loch Vennachar, Trossach’s Scotch Lake District</unittitle>
+						<unitdate label="Date">1912 July 29</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20081</materialspec>
+						<materialspec label="negativenumber">896</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Road scene, Loch Lomond</unittitle>
+						<unitdate label="Date">1912 July 30</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20082</materialspec>
+						<materialspec label="negativenumber">897</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Road scene near Torbet Hotel, Loch Lomond</unittitle>
+						<unitdate label="Date">1912 July 30</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20083</materialspec>
+						<materialspec label="negativenumber">898</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Road scene, Loch Lomond</unittitle>
+						<unitdate label="Date">1912 July 30</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20084</materialspec>
+						<materialspec label="negativenumber">899</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Road scene, near Loch Lomond</unittitle>
+						<unitdate label="Date">1912 July 30</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20085</materialspec>
+						<materialspec label="negativenumber">900</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Road near Loch Lomond</unittitle>
+						<unitdate label="Date">1912 July 30</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20086</materialspec>
+						<materialspec label="negativenumber">901</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>House and trees near Loch Lomond</unittitle>
+						<unitdate label="Date">1912 July 29</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20088</materialspec>
+						<materialspec label="negativenumber">904</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Road view, Loch Lomond</unittitle>
+						<unitdate label="Date">1912 July 30</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20089</materialspec>
+						<materialspec label="negativenumber">905</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>City Hall and George Square, Glasgow</unittitle>
+						<unitdate label="Date">1912 July 30</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20090</materialspec>
+						<materialspec label="negativenumber">906</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>City Hall, vertical view, Glasgow</unittitle>
+						<unitdate label="Date">1912 July 30</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20092</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Hat store, Glasgow</unittitle>
+						<unitdate label="Date">1912 July 30</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20093</materialspec>
+						<materialspec label="negativenumber">4-907</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Street scene, Glasgow</unittitle>
+						<unitdate label="Date">1912 July 30</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20094</materialspec>
+						<materialspec label="negativenumber">907</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Street scene, shopping district, Glasgow</unittitle>
+						<unitdate label="Date">1912 July 30</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20095</materialspec>
+						<materialspec label="negativenumber">2-907</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Store windows, Glasgow</unittitle>
+						<unitdate label="Date">1912 July 27</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20096</materialspec>
+						<materialspec label="negativenumber">5-907</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Front of university building, Glasgow</unittitle>
+						<unitdate label="Date">1912 July 30</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20097</materialspec>
+						<materialspec label="negativenumber">9-907</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Street scene, retail stores, Glasgow</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20098</materialspec>
+						<materialspec label="negativenumber">3-907</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Tiva bridge of Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20101</materialspec>
+						<materialspec label="negativenumber">908</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Burns statue, Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20102</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Home of Robert Burns showing garden and sun dial, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20103</materialspec>
+						<materialspec label="negativenumber">911</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Auld Alloway Kirk, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20106</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Frank R. Roberson at Brig O’Doon, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20109</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Begonias bed at foot of Burns memorial</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20110</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Herbaceous planting about Burns Memorial, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20111</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>General view of Burns Memorial from Brig O’Doon, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20113</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Fam O’Shaufer and the Sand Lord Souber, Johnny, Burns Memorial, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20114</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Brig O’Doon Bridge as seen from foot of Burns Memorial, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20115</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Brig O’Doon from Burns Memorial, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20116</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Looking up stream to Brig O’Doon, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20117</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Looking up stream from Brig O’Doon Bridge, Alloway, Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20118</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Brig O’Doon Bridge, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20119</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Brig O’Doon Bridge, close-up, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20120</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Hayfields, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20121</materialspec>
+						<materialspec label="negativenumber">10-908</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Landscape planting around Burns Memorial and monument, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20122</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Border of annuals, Burns Memorial, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20123</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Burns Memorial, Alloway, near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1244" type="box">1244</container>
+						<materialspec label="index">20124</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1244 -->
+			<!-- Box 1245 -->
+			<c01>
+				<note>Box 1245</note>
+				<did>
+					<unitid>2.1.1.1.26</unitid>
+					<unittitle>Scotland</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Front view of Burns Cottage, Alloway, Near Ayr</unittitle>
+						<unitdate label="Date">1912 July 31</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">20125</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Loch Lush, reflections in water</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">20049</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Loch Lush near Fort Augustus</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">20048</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Bridge over stream, Fort Augustus and Fort Williams</unittitle>
+						<unitdate label="Date">1912 July</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index">20057</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Roslyn church, Roslyn</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1245" type="box">1245</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1245 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

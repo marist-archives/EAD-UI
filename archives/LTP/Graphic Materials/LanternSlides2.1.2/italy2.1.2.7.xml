@@ -1,0 +1,792 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/LanternSlides2.1.2/italy2.1.2.7.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Italy</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.2.7.</unitid>
+			<unittitle>Italy</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1429 -->
+			<c01>
+				<note>Box 1429</note>
+				<did>
+					<unitid>2.1.2.7</unitid>
+					<unittitle>Italy</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Lowell Thomas, Major Piero Tozzi and other soldiers in automobile</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Lowell Thomas and Major Piero Tozzi sitting at table in an Italian plaza</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Lowell Thomas speaks to injured man, Major Piero Tozzi and other men stand beside them</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Lowell Thomas and three soldiers talking in an Italian plaza</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Lowell Thomas and soldiers in trench on the Italian front</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Lowell Thomas with back to camera and soldiers inspect aftermath of bombing</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Lowell Thomas stands in car parked on dirt road, other soldiers accompany him</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Lowell Thomas greeted by soldier [General Giuseppe “Peppino” Garibaldi?], other soldiers beside them, airplane in background</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Lowell Thomas, soldier and woman sit at table on sidewalk, woman in doorway</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Lowell Thomas and woman standing in road alongside a sea wall</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Drapery covers church entrance, Lowell Thomas with back to camera, distant view</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Lowell Thomas inspects ruins of a building</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Lowell Thomas interviews a woman as they stand amid ruins of a building</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Mrs. Frances Ryan Thomas stands amid ruins of a building</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Mrs. Frances Ryan Thomas served by a waiter as she sits at a table in an Italian plaza</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Mrs. Frances Ryan Thomas, Major Piero Tozzi and other soldiers standing in garden</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Mrs. Frances Ryan Thomas with back to camera, Major Piero Tozzi and others stand beside gondola in Venice canal</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Mrs. Frances Ryan Thomas and Major Piero Tozzi stand with backs to camera in the plaza of a church</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Mrs. Frances Ryan Thomas, Major Piero Tozzi and other soldier stand before façade of building</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Distant view of Mrs. Frances Ryan Thomas, Major Piero Tozzi, and others standing in road beside building in ruins</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Mrs. Frances Ryan Thomas, Harry G. Thomas and Major Piero Tozzi observing a small statue</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Mrs. FrancesRyan Thomas[?], ruins of building</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Mrs. Frances Ryan Thomas stands in an Italian plaza, distant view</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Plaza, Mrs. Frances Ryan Thomas[?] in distance</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Luisa Tetrazzini, Major Piero Tozzi, and Harry G. Thomas stand in front of Luisa’s limousine</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Luisa Tetrazzini, assisted by chauffer, steps out of limousine, Lowell Thomas and Mrs. Frances Ryan Thomas stand beside her</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Major Piero Tozzi and other soldiers</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Major Piero Tozzi talks to older gentleman in street</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Two soldiers [Major Piero Tozzi?] sit at table in Italian plaza</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Two soldiers stand on guard under tall archway</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Two soldiers standing in shadow of building</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Ruins of building, man in foreground</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Several people stand within ruins of building</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Ruins of building</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>River seen through archway</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1429" type="box">1429</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1429 -->
+			<!-- Box 1430 -->
+			<c01>
+				<note>Box 1430</note>
+				<did>
+					<unitid>2.1.2.7</unitid>
+					<unittitle>Italy</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Large gathering of people, Italian and United States flags</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Injured man</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Soldiers talking in plaza</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Red Cross wagon and workers</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Female Red Cross workers</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Crowd of people on platform, railway bridge</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Gondolier, Venice</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Teatro Olimpico, Vicenza</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Castle San Angelo, Rome</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Distant view of Italian plaza</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Building with shattered windows</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Ruins</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Barbed wire fence</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Archway</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Unidentified building and plaza</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Canal, Venice[?]</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Man stands before statue, Italy[?]</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Soldiers outside hospital and building in ruins, Italy[?]</unittitle>
+						<unitdate label="Date">1918-1919</unitdate>
+						<container id="1430" type="box">1430</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1430 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

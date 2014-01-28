@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.2.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Photographs2.1.9/deceasedFiles2.1.9.2.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Deceased files</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.9.2</unitid>
+			<unittitle>Deceased files</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1611 -->
+			<c01>
+				<note>Box 1611</note>
+				<did>
+					<unitid>2.1.9.2</unitid>
+					<unittitle>Deceased files</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Bernt Balchen [includes photograph of  Lowell Thomas]</unittitle>
+						<unitdate label="Date">1953</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note: Envelope that contained photographs</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Man and woman standing in front of board that reads "Balchen"]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas talking with a woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Man standing in front of board full of pictures]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Prosper Buranelli</unittitle>
+						<unitdate label="Date">circa 1930</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Portrait of Prosper Buranelli]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Portrait of Prosper Buranelli]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>P. A. "Cap" Burtis [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Dec - 1910; Marian Murphy, Lowell Thomas, Amy Crowell, Aurel Burtis</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Dec - 1910; Marian Murphy, Lowell Thomas, Amy Crowell, Aurel Burtis</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: P. A. Burtis 1/30-1969; Dear Tommy: I can't resist sending you this picture. The magnet you have carried all thru the years is proven by this snap-shot. I am wondering where Aurel borrowed the furs. Cap</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Percy Burton</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Portrait of Percy Burton]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: file Percy Burton</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Colonel Philip Cochran [includes photograph of Lowell Thomas] [color photograph]</unittitle>
+						<unitdate label="Date">1944</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Four men mounted on horses, LT second from left]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Captain Robert Crawford</unittitle>
+						<unitdate label="Date">1944</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Capt. Bob Crawford, Army Pilot, singing for the men on the Aleutians. 8-28-44</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Capt. Bob Crawford, Army Pilot, singing for the men on the Aleutians. 8-28-44</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: Capt. Bob Crawford, Army Pilot, singing for the men on the Aleutians. 8-28-44</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Mary Davis [color photographs]</unittitle>
+						<unitdate label="Date">circa 1950 - 1960</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Three women standing together]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Three women standing together]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Mary Davis (headstone) [color photographs]</unittitle>
+						<unitdate label="Date">1965</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note: Mrs. G.E. Nicks; Quaker Hill; Pawling, New York; Mary - Dec 29 - 1965</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Mary Davis (headstone) [color photograph]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Mary Davis (headstone) [color photograph]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Mary Davis (headstone) [color photograph]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Mary Davis (headstone) [color photograph]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Mary Davis (headstone) [color photograph]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Mary Davis (headstone) [color photograph]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Mary Davis (headstone) [color photograph]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Mary Davis (headstone) [color photograph]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Mary Davis (headstone) [color photograph]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Mike Fitzmaurice</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Mike Fitzmaurice]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Joe Kirkwood</unittitle>
+						<unitdate label="Date">circa 1953 - 1970</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Man (Joe Kirkwood?) with giant fish]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Man (Joe Kirkwood?) with giant fish]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Tex O'Reilly</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Tex O'Reilly, Jack Dempsey, Henry Hettling. Taken Oct. 1941 Vet. Hospital Sunmount N.Y</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Tex O'Reilly, Jack Dempsey, Henry Hettling. Taken Oct. 1941 Vet. Hospital Sunmount N.Y</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Leonhard Seppala (dog monument)</unittitle>
+						<unitdate label="Date">circa 1968</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Balto Monument]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: [Written in shorthand]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Hubert S. Stevens</unittitle>
+						<unitdate label="Date">circa 1944 - 1952</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: New Electric Sports Timer Shown to Officials and Press</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1] Olympic Timing Equipment for World Ski Championships Shown to Officials and Press</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2] At the finish a beam of light is trained on a photo-electric cell</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Longines Equipment used in timing the World Ski Championships</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Earl Thacker [color photos of Richard Penhallow's home at Kamuela, Hawaii]</unittitle>
+						<unitdate label="Date">1971</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [Letter from Earl M. Thacker to Lowell Thomas] Enclosed are some snapshots of the Richard Penhalloe home at Kamuela on the big island of Hawaii</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Fireplace of massive flat pahoehoe slabs could be duplicated by slate or other flat rock formations. Bookshelves surround the fireplace creating the appearance that the fireplace is recessed</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Fireplace of massive flat pahoehoe slabs could be duplicated by slate or other flat rock formations. Bookshelves surround the fireplace creating the appearance that the fireplace is recessed</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Another exterior of the bunger [?] land showing the vine covered loggia for shadowing the wall toward sunset</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Another exterior of the bunger [?] land showing the vine covered loggia for shadowing the wall toward sunset</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>A corner of the glassed lanai, note the massive log posts and chapiters framing the glass paneled sliding doors</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: A corner of the glassed lanai, note the massive log posts and chapiters framing the glass paneled sliding doors</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Showing end of a section of wall by a door jamb, concrete is visible there and door frame is fitted against it.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Showing end of a section of wall by a door jamb, concrete is visible there and door frame is fitted against it.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Exterior detail of a corner of the outside wall. The first step is a trench 2' deep under the wall. This is filled to ground level with poured concrete - called a "curtain wall" or "bearer wall." Then stones are built up one foot at a time, backed by a form of vertical ply-wood 4' high. [?] foot of height; rock work is interrupted, and "sloppy" concrete is bucketed in behind the stones. When this hardens, the stones are held in place by it. When the inside plywood form is removed from the finished stone wall 4' high, it leaves a smooth concrete face which can be concealed by veneer or some other wall cover (matting)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Exterior detail of a corner of the outside wall. The first step is a trench 2' deep under the wall. This is filled to ground level with poured concrete - called a "curtain wall" or "bearer wall." Then stones are built up one foot at a time, backed by a form of vertical ply-wood 4' high. [?] foot of height; rock work is interrupted, and "sloppy" concrete is bucketed in behind the stones. When this hardens, the stones are held in place by it. When the inside plywood form is removed from the finished stone wall 4' high, it leaves a smooth concrete face which can be concealed by veneer or some other wall cover (matting)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Interior of outside wall is: concrete face inside of filled stone for the bottom four feet, and the smooth side of the half-round logs for the top of feet. Matting or veneer inside of concrete face which binds the stones. The interior partitions, of which the wall where the picture hangs, are of vertical 1" x 8" T&amp;G redwood</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Interior of outside wall is: concrete face inside of filled stone for the bottom four feet, and the smooth side of the half-round logs for the top of feet. Matting or veneer inside of concrete face which binds the stones. The interior partitions, of which the wall where the picture hangs, are of vertical 1" x 8" T&amp;G redwood</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Felix von Luckner (headstone)</unittitle>
+						<unitdate label="Date">1967</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: My dear Tommy, It is first now that I feel able to write you about my beloved Felix</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Photograph of Count Felix von Luckner's headstone]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>George Wallace [color photograph]</unittitle>
+						<unitdate label="Date">1966</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note: "The Explorer"; A Shweizer 3-32 sailplane. All metal aluminum alloy. Wing spread 57 feet. Designed for 10G. Gliding ratio 34 - 1. Most fully instrumented sailplane in the world. Equipped for high altitude and to be used as a platform in an endeavor to detect and identify Clear Air Turbulence. This is a picture of "The Explorer" in test flight. Elmira, New York - August 10, 1966</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Two seater airplane in flight]</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1611 -->
+		</dsc>
+	</archdesc>
+</ead>

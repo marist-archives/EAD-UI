@@ -1,0 +1,690 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/LanternSlides2.1.2/worksOfArt2.1.2.4.21.2.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Works of art</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.2.4.21.2</unitid>
+			<unittitle>Works of art</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1391 -->
+			<c01>
+				<note>Box 1391</note>
+				<did>
+					<unitid>2.1.2.4.21.2</unitid>
+					<unittitle>Works of art</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Holy Family by Sandro Botticelli</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>The Primavera by Sandro Botticelli</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Madonna and Child with St. Sebastian by Antonio da Correggio</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Christ Presented to the People (Ecce Homo) by Antonio da Correggio</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Spring Festival by Eduardo Ettore Forti</unittitle>
+						<unitdate label="Date">1903</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>In the Time of Nero by Eduardo Ettore Forti</unittitle>
+						<unitdate label="Date">1905</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>The Starting Line by Edurado Ettore Forti</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>The Damstadt Madonna by Hans Holbein the Younger</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Self-Portrait by Hans Holbein the Younger</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Martin Luther by Hans Holbein the Younger</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>The Knight Errant by Sir John Everett Millais</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Benjamin Disraeli, Earl of Beaconsfield by Sir John Everett Millais</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Hope by George Frederic Watts</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Sir Galahad by George Frederic Watts</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>A Lover of Art by Lawrence Alma-Tadema</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Coronation of the Virgin by Fra Angelico</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Self-Portrait by Raphael, Uffizi Gallery, Florence, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1391" type="box">1391</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1391 -->
+			<!-- Box 1392 -->
+			<c01>
+				<note>Box 1392</note>
+				<did>
+					<unitid>2.1.2.4.21.2</unitid>
+					<unittitle>Works of art</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Girolamo Savanarola as St. Peter Martyr by Fra Bartolomeo</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>The Meeting by Marie Bashkirtseff</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Madonna Degli Alberetti by Giovanni Bellini</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Pleasant Hours in the House of Lucullus by Gustave Clarence Rudolphe Boulanger</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>The Intervention of the Sabine Women by Jacques-Louis David, the Louvre</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Gates of Paradise by Lorenzo Ghiberti, The Baptistry, Florence, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>The Bohemian Girl by Fraz Hals</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Cleopatra by Kent[?]</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Shoeing by Sir Edwin Henry Landseer, National Gallery</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>St. John and Christ Child by Bartolome Esteban Murrillo</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Four Bulls by Paulus Potter</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>A Strawberry Girl by Sir Joshua Reynolds, National Gallery, London, England</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Elevation of the Cross by Peter Paul Rubens</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Flora by Tiziano Vecelli (Titian), Uffizi Gallery, Florence, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Self-Portrait by Diego Velasquez</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Princess Mary Stuart and Prince William of Orange by Anthony van Dyck</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>A Chariot Race by Alex Wagner</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Wall painting at casino, Monte Carlo</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Christian Martyrs in Roman Arena, artist unknown</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Kiss of Judas by Ignazio Jacometti, Scala Sancta, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index">26</materialspec>
+						<physdesc>
+							<extent unit="inches">3x3</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>David by Michelangelo, Accademia Gallery</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index">755</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>The Grinder Florence, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index">847</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Statue of Apollo, The Vatican Museum</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index">13598</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>The Fall of Jericho by Lorenzo Ghiberti, Doors of the Baptistry, Florence, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index">3632</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Laocoön and His Sons, The Vatican Museum, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index">3638</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>The Erba Monument by Santo Saccomanno, Cemetery of Staglieno, Genoa, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index">4061</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>The Morning, Palace of the Luxembourg, museum, Paris, France</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index">15289</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Self-Portrait by Joshua Reynolds</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Self-Portrait with Pug Dog by William Hogarth</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Heads of Six of Hogarth’s Servants by William Hogarth</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1392" type="box">1392</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1392 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

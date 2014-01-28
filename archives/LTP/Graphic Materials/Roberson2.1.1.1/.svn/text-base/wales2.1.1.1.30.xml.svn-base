@@ -1,0 +1,2067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Wales</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.30</unitid>
+			<unittitle>Wales</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1248 -->
+			<c01>
+				<note>Box 1248</note>
+				<did>
+					<unitid>2.1.1.1.30</unitid>
+					<unittitle>Wales</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Front of interior gate of Beaumaris castle</unittitle>
+						<unitdate label="Date">1912 June 16</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">19101</materialspec>
+						<materialspec label="negativenumber">23-142</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Ivy colored walls on Beaumaris Castle, Beaumaris</unittitle>
+						<unitdate label="Date">1912 June 16</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">19102</materialspec>
+						<materialspec label="negativenumber">24-142</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Doorway into Beaumaris Castle courtyard, Beaumaris</unittitle>
+						<unitdate label="Date">1912 June 16</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">19103</materialspec>
+						<materialspec label="negativenumber">25-142</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Doorway into Beaumaris Castle courtyeard, Beaumaris</unittitle>
+						<unitdate label="Date">1912 June 16</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">19104</materialspec>
+						<materialspec label="negativenumber">27-142</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Exterior of Beaumaris Castle, Beaumaris</unittitle>
+						<unitdate label="Date">1912 June 16</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">19105</materialspec>
+						<materialspec label="negativenumber">28-142</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Road scene in Beaumaris, Isle of Auglesey</unittitle>
+						<unitdate label="Date">1912 June 16</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">19106</materialspec>
+						<materialspec label="negativenumber">143</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Beaches along road near Menai Bridge</unittitle>
+						<unitdate label="Date">1912 June 16</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">19109</materialspec>
+						<materialspec label="negativenumber">146</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>Penmaenmawr Mountain</unittitle>
+						<unitdate label="Date">1912 June 16</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">19110</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Penmaenmawr Mountain</unittitle>
+						<unitdate label="Date">1912 June 16</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">19111</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>66</unitid>
+						<unittitle>Conway Castle from outside the walls</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">19112</materialspec>
+						<materialspec label="negativenumber">149</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>67</unitid>
+						<unittitle>Approaching Conway Castle, castle under trees</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1248" type="box">1248</container>
+						<materialspec label="index">19113</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1248 -->
+			<!-- Box 1249 -->
+			<c01>
+				<note>Box 1249</note>
+				<did>
+					<unitid>2.1.1.1.30</unitid>
+					<unittitle>Wales</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Exterior walls around town of Conway Castle</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19114</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Conway Castle from shore, general view</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19115</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Conway Castle with water foreground</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19116</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Conway Castle and suspension bridge</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19117</materialspec>
+						<materialspec label="negativenumber">6-149</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Two towers of Conway Castle</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19118</materialspec>
+						<materialspec label="negativenumber">7-149</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Tower of Conway Castle, overgrown with vines</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19119</materialspec>
+						<materialspec label="negativenumber">8-149</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Tower at entrance of Conway Castle</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19120</materialspec>
+						<materialspec label="negativenumber">9-149</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Looking at tower through archway at Conway Castle</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19121</materialspec>
+						<materialspec label="negativenumber">10-149</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Looking at tower through archway at Conway Castle, nearer view</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19122</materialspec>
+						<materialspec label="negativenumber">11-149</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>“Chapel” at Conway Castle</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19123</materialspec>
+						<materialspec label="negativenumber">12-149</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Tower with turret at Conway Castle</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19124</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Person on top of Conway Castle, among plants [broken]</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19125</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Flowers on ruins of Conway Castle, showing two towers</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19126</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Part of Conway Castle from outside the walls</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19127</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Bauquettery Hall at Conway Castle</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19128</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Smallest house in Great Britain</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19129</materialspec>
+						<materialspec label="negativenumber">151</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Oldest house in Wales from 1300 A.D., Conway</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19130</materialspec>
+						<materialspec label="negativenumber">152</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Upper gate, looking into city, Conway</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19131</materialspec>
+						<materialspec label="negativenumber">153</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Gate on water front looking toward castle, Conway</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19132</materialspec>
+						<materialspec label="negativenumber">154</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Esplanade at Llandudno</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19133</materialspec>
+						<materialspec label="negativenumber">155</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Esplanade from hillside, Llandudno</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19134</materialspec>
+						<materialspec label="negativenumber">156</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>General view of Esplanade, Llandudno</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19135</materialspec>
+						<materialspec label="negativenumber">157</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Looking toward Orme Drive, Llandunuo</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19136</materialspec>
+						<materialspec label="negativenumber">158</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Great Orme Drive, Llandudno</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19137</materialspec>
+						<materialspec label="negativenumber">159</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Great Orme Drive, Llandudno</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19137A</materialspec>
+						<materialspec label="negativenumber">159</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Road scene, road to Betws-y-coed to Llandudno</unittitle>
+						<unitdate label="Date">1912 June 17</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19138</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Llanberis Pass, showing two lakes in distance</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19139</materialspec>
+						<materialspec label="negativenumber">161</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Pen-y-gwryd Hotel</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19141</materialspec>
+						<materialspec label="negativenumber">163</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Mount Snowdon, highest mountain in Wales</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19142</materialspec>
+						<materialspec label="negativenumber">164</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Digitalis, wild Foxgloves</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19146</materialspec>
+						<materialspec label="negativenumber">167</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Gwynant Pass</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19140</materialspec>
+						<materialspec label="negativenumber">162</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Pass of Gwynant, Llyn Gwyant in background</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19143</materialspec>
+						<materialspec label="negativenumber">165</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Vale of Gwynant, showing lake</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19144</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Llyn Gwynant, lake and mountains</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19145</materialspec>
+						<materialspec label="negativenumber">166</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Llyn Gwynant, nearer view of lake</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19147</materialspec>
+						<materialspec label="negativenumber">168</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Road scene entering Beddgelert</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19149</materialspec>
+						<materialspec label="negativenumber">171</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Road scene near Beddgelert, rhododendrons at driveway entrance</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19150</materialspec>
+						<materialspec label="negativenumber">170</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Frank R. Roberson entering Beddgelert in automobile</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19151</materialspec>
+						<materialspec label="negativenumber">172</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Frank R. Roberson and party entering Beddgelert in automobile</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19152</materialspec>
+						<materialspec label="negativenumber">173</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Road scene, entering Beddgelert, rhododendrons at entrance</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19153</materialspec>
+						<materialspec label="negativenumber">174</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Rhododendrons near Beddgelert</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19154</materialspec>
+						<materialspec label="negativenumber">175</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>View of Mount Snowdon from near Beddgelert</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19155</materialspec>
+						<materialspec label="negativenumber">176</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Vale of Gwynant, near Beddgelert, automobile in foreground</unittitle>
+						<unitdate label="Date"></unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19156</materialspec>
+						<materialspec label="negativenumber">177</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Scenery and stream at Port Glaslyn</unittitle>
+						<unitdate label="Date">1912 July 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19158</materialspec>
+						<materialspec label="negativenumber">179</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Port Glaslyn, stream</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19159</materialspec>
+						<materialspec label="negativenumber">180</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Sheep near Canarvon</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19160</materialspec>
+						<materialspec label="negativenumber">181</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Canarvon Castle under trees, taken from Auglesey</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19161</materialspec>
+						<materialspec label="negativenumber">182</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Inside Canarvon Castle</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19162</materialspec>
+						<materialspec label="negativenumber">183</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Eagle Tower at Canarvon Castle</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1249" type="box">1249</container>
+						<materialspec label="index">19163</materialspec>
+						<materialspec label="negativenumber">185</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1249 -->
+			<!-- Box 1250 -->
+			<c01>
+				<note>Box 1250</note>
+				<did>
+					<unitid>2.1.1.1.30</unitid>
+					<unittitle>Wales</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>View of Canarvon Castle from Eagle Tower</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19164</materialspec>
+						<materialspec label="negativenumber">184</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Interior of Canarvon Castle looking toward Queen’s gate</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19165</materialspec>
+						<materialspec label="negativenumber">186</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Main entrance gate at Canarvon Castle</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19166</materialspec>
+						<materialspec label="negativenumber">187</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Prince of Wales’s gate at Canarvon Castle</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19167</materialspec>
+						<materialspec label="negativenumber">188</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Pitt picture in stone at Slauberis Pass on way from Canarvon to Beddgelert</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19168</materialspec>
+						<materialspec label="negativenumber">189</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>House near Port Glaslyn</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19169</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Road and hotel at Tyn-y-groes</unittitle>
+						<unitdate label="Date">1912 June 18</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19170</materialspec>
+						<materialspec label="negativenumber">191</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Landscape near Tyn-y-groes</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19172</materialspec>
+						<materialspec label="negativenumber">193</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Rhododendrons and lake at Tyn-y-groes</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19175</materialspec>
+						<materialspec label="negativenumber">196</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Road scene near Tyn-y-groes</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19176</materialspec>
+						<materialspec label="negativenumber">197</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>From pass looking to Tal-y-llyn</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19177</materialspec>
+						<materialspec label="negativenumber">198</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Near view of lake at Tal-y-llyn</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19178</materialspec>
+						<materialspec label="negativenumber">199</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Entering valley at Tal-y-llyn</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19179</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>“Corris” from hill top</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19180</materialspec>
+						<materialspec label="negativenumber">200</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Street scene and monument at Machynlleth</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19181</materialspec>
+						<materialspec label="negativenumber">201</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Glimpse toward church in Llanrhystud</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19182</materialspec>
+						<materialspec label="negativenumber">202</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Kilgerran Castle</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19184</materialspec>
+						<materialspec label="negativenumber">204</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Cross in church yard in Nevern</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19185</materialspec>
+						<materialspec label="negativenumber">205</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Entrance to Nevern church, Nevern</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19186</materialspec>
+						<materialspec label="negativenumber">206</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Approach to Nevern church</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19187</materialspec>
+						<materialspec label="negativenumber">207</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Church, near view at Nevern</unittitle>
+						<unitdate label="Date">1912 June 19</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19188</materialspec>
+						<materialspec label="negativenumber">208</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Fishguard Bay Hotel and Breakwater, Fishguard</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19190</materialspec>
+						<materialspec label="negativenumber">210</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Fishguard Harbor, Fishguard</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19191</materialspec>
+						<materialspec label="negativenumber">211</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Dining room at the Fishguard Bay Hotel, Fishguard</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19192</materialspec>
+						<materialspec label="negativenumber">212</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Fishguard Breakwater, Fishguard</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19193</materialspec>
+						<materialspec label="negativenumber">213</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Railroad station at Fishguard</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19194</materialspec>
+						<materialspec label="negativenumber">214</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Interior of Old Bishop’s Palace, and sheep in St. David’s</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19195</materialspec>
+						<materialspec label="negativenumber">215</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Cathedral and Bishop’s Palace in St. David’s</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19196</materialspec>
+						<materialspec label="negativenumber">216</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Distant view of Bishop’s palace in St. David’s</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19197</materialspec>
+						<materialspec label="negativenumber">217</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Ruins of St. Mary’s College in St. David’s</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19198</materialspec>
+						<materialspec label="negativenumber">218</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Interior of Bishop’s Palace with sheep in it, St. David’s</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19199</materialspec>
+						<materialspec label="negativenumber">219</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Derail of Bishop’s Palace, St. David’s</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19200</materialspec>
+						<materialspec label="negativenumber">221</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Street toward cathedral with valerian at St. David’s</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19201</materialspec>
+						<materialspec label="negativenumber">222</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Rear view of cathedral, St. David’s</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19202</materialspec>
+						<materialspec label="negativenumber">223</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Stream behind cathedral and ruins of Bishop’s Palace</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19203</materialspec>
+						<materialspec label="negativenumber">224</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Interior of cathedral at St. David’s</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19204</materialspec>
+						<materialspec label="negativenumber">225</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Flemish Cross, St. David’s</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19205</materialspec>
+						<materialspec label="negativenumber">226</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Carew Castle from across the river, Carew</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19207</materialspec>
+						<materialspec label="negativenumber">228</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Close-up of tower at Carew Castle, Carew</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19208</materialspec>
+						<materialspec label="negativenumber">229</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Rear of Carew Castle, Carew</unittitle>
+						<unitdate label="Date">1912 June 20</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19209</materialspec>
+						<materialspec label="negativenumber">230</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Pembroke Castle from outside the walls, Pembroke</unittitle>
+						<unitdate label="Date">1912 June 21</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19210</materialspec>
+						<materialspec label="negativenumber">231</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Big gateway of Pembroke Castle, Pembroke</unittitle>
+						<unitdate label="Date">1912 June 21</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19211</materialspec>
+						<materialspec label="negativenumber">232</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Torvers, Pembroke Castle, Norman Keep, Pembroke</unittitle>
+						<unitdate label="Date">1912 June 21</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19212</materialspec>
+						<materialspec label="negativenumber">233</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Town walls, Southwest gateway, “Five Arches”, Tenby</unittitle>
+						<unitdate label="Date">1912 June 21</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19213</materialspec>
+						<materialspec label="negativenumber">234</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Walls and towers around Tenby, city hall in tower in foreground, Tenby</unittitle>
+						<unitdate label="Date">1912 June 21</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19214</materialspec>
+						<materialspec label="negativenumber">235</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Grotto looking out over beach and island, Tenby</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19215</materialspec>
+						<materialspec label="negativenumber">236</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Along beach at Tenby</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19216</materialspec>
+						<materialspec label="negativenumber">237</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Beach and houses in Tenby</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19217</materialspec>
+						<materialspec label="negativenumber">238</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Manorbier Castle, taken from outside, Tenby</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19218</materialspec>
+						<materialspec label="negativenumber">239</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Drawbridge at Manorbier Castle, Tenby</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1250" type="box">1250</container>
+						<materialspec label="index">19219</materialspec>
+						<materialspec label="negativenumber">240</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1250 -->
+			<!-- Box 1251 -->
+			<c01>
+				<note>Box 1251</note>
+				<did>
+					<unitid>2.1.1.1.30</unitid>
+					<unittitle>Wales</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Interior of Manorbier Castle showing dwelling house, Tenby</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19220</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Stairway of Manorbier Castle, Tenby</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19221</materialspec>
+						<materialspec label="negativenumber">242</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Chimney and fireplace of Manorbier Castle</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19222</materialspec>
+						<materialspec label="negativenumber">243</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Scene along canal, Glynneath</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19225</materialspec>
+						<materialspec label="negativenumber">246</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Coal town, Mount Ash</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19226</materialspec>
+						<materialspec label="negativenumber">247</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Coal town, Mount Ash</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19227</materialspec>
+						<materialspec label="negativenumber">248</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Coal town</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19228</materialspec>
+						<materialspec label="negativenumber">249</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Caerphilly Castle, big entrance gate</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19229</materialspec>
+						<materialspec label="negativenumber">250</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Outside view of Caerphilly Castle, Caerphilly</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19230</materialspec>
+						<materialspec label="negativenumber">251</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Outside view of big gate, Caerphilly Castle, Caerphilly</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19231</materialspec>
+						<materialspec label="negativenumber">252</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Old leaning tower, Caerphilly Castle, Caerphilly</unittitle>
+						<unitdate label="Date">1912 June 22</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19232</materialspec>
+						<materialspec label="negativenumber">253</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Queen’s Street, Cardiff</unittitle>
+						<unitdate label="Date">1912 June 23</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19233</materialspec>
+						<materialspec label="negativenumber">254</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>St. Mary’s Street, Cardiff</unittitle>
+						<unitdate label="Date">1912 June 23</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19234</materialspec>
+						<materialspec label="negativenumber">255</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>St. Mary Street, showing decorations in honor of king, Cardiff</unittitle>
+						<unitdate label="Date">1912 June 23</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19235</materialspec>
+						<materialspec label="negativenumber">255</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Outside view of Cardiff Castle, Cardiff</unittitle>
+						<unitdate label="Date">1912 June 23</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19236</materialspec>
+						<materialspec label="negativenumber">257</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Cardiff Castle and moat, Cardiff</unittitle>
+						<unitdate label="Date">1912 June 23</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19237</materialspec>
+						<materialspec label="negativenumber">258B</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Billboard of great western ad, Cardiff</unittitle>
+						<unitdate label="Date">1912 June 23</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19238</materialspec>
+						<materialspec label="negativenumber">256</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Stone monkey on wall of Cardiff Castle, Cardiff</unittitle>
+						<unitdate label="Date">1912 June 23</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19239</materialspec>
+						<materialspec label="negativenumber">259</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>City hall, Cardiff</unittitle>
+						<unitdate label="Date">1912 June 23</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19240</materialspec>
+						<materialspec label="negativenumber">260</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Law courts and street scene, Cardiff</unittitle>
+						<unitdate label="Date">1912 June 23</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19241</materialspec>
+						<materialspec label="negativenumber">261</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Caerphilly Castle, Seanuig[?] tower from outside, Caerphilly</unittitle>
+						<unitdate label="Date">1912 June 23</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">262</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>General view of Caerphilly Castle, Caerphilly</unittitle>
+						<unitdate label="Date">1912 June 23</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19243</materialspec>
+						<materialspec label="negativenumber">263</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Cattle in pasture, near Newport</unittitle>
+						<unitdate label="Date">1912 June 23</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19244</materialspec>
+						<materialspec label="negativenumber">264</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Castle at Newport</unittitle>
+						<unitdate label="Date">1912</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index">19189</materialspec>
+						<materialspec label="negativenumber">209</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Two small Welsh boys, Conway</unittitle>
+						<unitdate label="Date">circa 1912</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Little girl, Conway</unittitle>
+						<unitdate label="Date">circa 1912</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Three children on donkeys, Llandudno</unittitle>
+						<unitdate label="Date">circa 1912</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Bridal couple, Llandudno</unittitle>
+						<unitdate label="Date">circa 1912</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Fish woman, copy, and oyster women, Llangwm, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Llangwm fish woman, copy and Llangwm fish woman, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Any oysters or prawns sir, copy and Llangwm fish woman, copy [split negative]</unittitle>
+						<unitdate label="Date">before 1913</unitdate>
+						<container id="1251" type="box">1251</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1251 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

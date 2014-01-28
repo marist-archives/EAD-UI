@@ -1,0 +1,2412 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/LanternSlides2.1.2/usa2.1.2.4.23.1.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>United States of America</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.2.4.23.1</unitid>
+			<unittitle>United States of America</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1393 -->
+			<c01>
+				<note>Box 1393</note>
+				<did>
+					<unitid>2.1.2.4.23.1</unitid>
+					<unittitle>United States of America</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>General view of the Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Vista from Court of the Four Seasons, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Looking toward Court of the Four Seasons, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Statue of Ceres, Court of the Four Seasons, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Spring Fountain, Court of the Four Seasons, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Summer Fountain, Court of the Four Seasons, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Winter group sculpture, Court of the Four Seasons, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Autumn group sculpture, Court of the Four Seasons, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Bull of Sacrifice, Court of the Four Seasons, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Aquatic nymphs sculpture, Court of Abundance, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Detail of fountain, Court of Abundance, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Court of Abundance and Mulgardt’s Tower, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Mulgardt’s Tower, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Court of the Universe, Arch of the Rising Sun, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Morning sculpture, Court of the Universe, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Horticulture Hall, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Horticulture Hall and South Garden, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>South Garden, Festival Hall, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Fountain, Palace of Fine Arts, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Fountain, Palace of Fine Arts, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Columns and lagoon, Palace of Fine Arts, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Palace of Education, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Portal sculpture, Palace of Education, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Palace of Agriculture, Column of Progress, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Adventurous bowman, Column of Progress, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>North Sea sculpture, Fountain of Energy, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1393" type="box">1393</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1393 -->
+			<!-- Box 1394 -->
+			<c01>
+				<note>Box 1394</note>
+				<did>
+					<unitid>2.1.2.4.23.1</unitid>
+					<unittitle>United States of America</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>South Sea sculpture, Fountain of Energy, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>The Victor sculpture, Fountain of Energy, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>South Garden, Fountain of Energy, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Fountain of Youth, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Fountain of El Dorado, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Tower of Jewels looking through portal of Agriculture Hall, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Tower of Jewels from South Garden, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Italian Tower and Tower of Jewels, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Night view of Arch of the Rising Sun, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Oregon building, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Bell tower, California building, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>The Argentine building, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Christiana, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Tivoli entrance, Denmark, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Wildflower sculpture, by Edward Berge, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Mural, Earth, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Mural, Earth, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Mural, Air, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Mural, Air, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Unidentified building, Panama-Pacific International Exposition, San Francisco, California</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Sunset, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Cloud shadows, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>View from parapet, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Looking toward San Francisco, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Grandeur Point, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Sunset from Sunset Point, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Sunset and clouds, Rowes Point, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Looking east from Maricopa Point, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Noon near Moran Point, Painted Desert on opposite plateau, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Looking west from Hopi Point, Grand Canyon [Incorrect title on color slide - see Roberson Glass Negative #2.1.9.11.23]</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Noon, Thor’s Hammer, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Bright Angel Canyon in winter, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Plateau, Bright Angel Trail, Zoroaster Tower, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Looking up Bright Angel Canyon, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Morning, The Battleship and Bright Angel Canyon from near hotel, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1394" type="box">1394</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1394 -->
+			<!-- Box 1395 -->
+			<c01>
+				<note>Box 1395</note>
+				<did>
+					<unitid>2.1.2.4.23.1</unitid>
+					<unittitle>United States of America</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Strata of the Battleship, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Upper part of Bright Angel Trail as seen from Grandeur Point, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Three castles as seen from Grand View, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Looking east from Grand View, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Cloud shadows from Grand View Point towards Wotan’s Throne, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>El Tovar Hotel, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Station at Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Tramway, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Leaping man, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Leaping man, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Photographer at Big Horn, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Trail party, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Trail party, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>A steep place on trail, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>On trail, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Pack mules, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Indians at Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Indians and hut at Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Indian hut and boy, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Indian children, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Indifferent Indian baby, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Indian baby at Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Flowers, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Mahogany wood, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Vista, Grand Canyon[?]</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Bottom of trail, Yucca plant, Grand Canyon[?]</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Old Faithful Inn, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Lake Hotel, tourists leaving before the fog lifts, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Upper Basin, Old Faithful geyser, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Upper Basin, crater of the Grand Geyser, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Upper Basin, Giant Geyser, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Upper Basin, Sponge Geyser, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Upper Basin, Punch Bowl, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Upper Geyser Basin from distance, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Morning Glory pool, Upper Geyser Basin, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Norris Geyser Basin, mud volcano, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1395" type="box">1395</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1395 -->
+			<!-- Box 1396 -->
+			<c01>
+				<note>Box 1396</note>
+				<did>
+					<unitid>2.1.2.4.23.1</unitid>
+					<unittitle>United States of America</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Norris Geyser Basin, Emerald Pool, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Norris Geyser Basin, Gray Pool, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Bear at Norris Geyser Basin, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Norris Basin, Bath Tub, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Lone Star Geyser, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Monmoth, town, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>On way to Mammoth Hot Springs, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Cupid’s Cave, Mammoth Hot Springs, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Liberty Cap at Mammoth Hot Springs, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Pulpit Terrace, Mammoth Hot Springs, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Pulpit Terrace, Mammoth Hot Springs, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Cleopatra Terrace, Mammoth Hot Springs, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Part of Jupiter Terraces, Mammoth Hot Springs, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Side view showing strongest colors of Mammoth Paint Pots, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>The Grand Canyon of Yellowstone from Artist Point, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>The Grand Canyon of Yellowstone from Artist Point, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>The Grand Canyon of Yellowstone from Artist Point, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Toward falls from Inspiration Point, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>View from Grandview Point, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Looking across canyon from Grandview Point, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>The lengthening shadows northwest from Grandview Point, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Lower falls from Grandview Point, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Lower falls, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Engleman spruce on way to Thumb, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Fishing Cone at Thumb Lunch Station, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Kepler Cascades, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>The Hoodoos, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Obsidian Cliff, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Golden Gate, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>The Bee Hive, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Christmas Tree Park, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Terrace, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Eagle’s nest, rock, on way to Gardiner, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Deer, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Adder’s Tongue, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Adder’s Tongue, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1396" type="box">1396</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1396 -->
+			<!-- Box 1397 -->
+			<c01>
+				<note>Box 1397</note>
+				<did>
+					<unitid>2.1.2.4.23.1</unitid>
+					<unittitle>United States of America</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Prismatic Lake and crust formation at Excelsior Basin, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Pool on Excelsior Basin, Yellowstone National Park</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Park Hill, Estes Park, Colorado</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>False larkspur, Estes Park, Colorado</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Purple loco, Estes Park, Colorado</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Candytuft, Estes Park, Colorado</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Roses and Virginia creeper, Fresno, California</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">3xx329</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Prairie queen roses, Kearney Park, Fresno, California</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">18xx228</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Cedar of Lebanon, Pasadena, California</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">3xx276</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Bed of primroses, Redlands, California</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">16xx772</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Gold of ophir rose, Santa Clara, California</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">18xx312</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Rose edging and standard rose, Elizabeth Park, Hartford, Connecticut</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">18x930</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Sunken Garden, Goodwin Estate, Hartford, Connecticut</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">7x223</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Canal on private estate, near Coconut Grove, Florida</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">3xx426</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>American elm, known as Washington elm, Cambridge Square, Boston, Massachusetts</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">21050</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Roses, Larz Anderson Park, Brookline, Massachusetts</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">18x103</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Rosa grandiflora, Sargent Estate, Brookline, Massachusetts</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Rhododendrons, Sargent Estate, Brookline Massachusetts</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">18334</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Rhododendrons, Sargent Estate, Brookline Massachusetts</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">19x34</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Scotch rose, Sargent[?] Estate, Brookline, Massachusetts</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Gardens, Dr. Weld Estate, Brookline, Massachusetts</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">7680</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Avenue of white pine, Hunnewell Estate, Massachusetts</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">16x653</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Poet’s Narcissus and swans, Ames Place, North Easton, Massachusetts</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">1433x</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Picking tomatoes near Petricktown, New Jersey</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">20x244</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Tulip bed, Prospect Park, Brooklyn, New York</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">20x29</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Pansy bed, Prospect Park, Brooklyn, New York</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">16xx309</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Field of peonies, Queens, New York</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">16xx18x</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Rose garden, Oyster Bay, Long Island, New York</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">18x369</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Rhododendron bed, near Roslyn, Long Island, New York</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">18x492</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Rhododendron, Westbury, Long Island, New York</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">18xx250</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Climbing rose, Portland, Oregon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">18xx469</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Roses on house, Portland, Oregon</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">18xx392</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Rock oak near Harrisburg, Pennsylvania</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">17012</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Rhododendrons, P.A.V. Widener Estate near Jenkintown, Pennsylvania</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">18x451</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>On the Wissahickon Drive, near Philadelphia, Pennsylvania</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">23132</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Azaleas and magnolias, South Carolina</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index">1x373</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Ogden Canyon, Utah</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1397" type="box">1397</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1397 -->
+			<!-- Box 1398 -->
+			<c01>
+				<note>Box 1398</note>
+				<did>
+					<unitid>2.1.2.4.23.1</unitid>
+					<unittitle>United States of America</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Horse chestnuts on Capitol lawn, Washington, D.C.</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1398" type="box">1398</container>
+						<materialspec label="index">1866</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Elm tree, Washington, D.C.</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1398" type="box">1398</container>
+						<materialspec label="index">2127x</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Palisade Park, Green River, Wyoming</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1398" type="box">1398</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Near Green River, Wyoming</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1398" type="box">1398</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Niagara Falls, winter, New York</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1398" type="box">1398</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Niagara Falls, night, New York</unittitle>
+						<unitdate label="Date">circa 1900-1915</unitdate>
+						<container id="1398" type="box">1398</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1398 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

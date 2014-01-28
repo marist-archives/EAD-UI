@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.5.1.xsl"?><!-- styelsheet for 35 millimeter slides -->
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>35 millimeter slides</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.5.1</unitid>
+		<unittitle>35 millimeter slides</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	<arrangement><p></p></arrangement>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		 <!-- Start the new box from component no. 1 -->
+		 <!-- Items within the box in component no. 2 -->
+<!-- Box 1582 -->
+<c01>
+<note>Box 1582</note>
+<did>
+<unitid>2.1.5.1</unitid>
+<unittitle>35 millimeter slides</unittitle>
+</did>
+
+<c02 level="cell">
+<did>
+<unitid>1-20</unitid>
+<unittitle>Tibet</unittitle>
+<unitdate label="Date">1949</unitdate>
+<container id="1582" type="box">1582</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1582 -->
+<!-- Box 1583 -->
+<c01>
+<note>Box 1583</note>
+<did>
+<unitid>2.1.5.1</unitid>
+<unittitle>35 millimeter slides</unittitle>
+</did>
+
+<c02 level="cell">
+<did>
+<unitid>1-6	
+</unitid>
+<unittitle>Tibet	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1583" type="box">1583</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>7-12 	
+</unitid>
+<unittitle>Carousel number 1 [Hammersley Hill Estate (circa 1975); golf (circa 1954)]	
+</unittitle>
+<unitdate label="Date">circa 1954, circa 1975	
+</unitdate>
+<container id="1583" type="box">1583</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>12-15	
+</unitid>
+<unittitle>Carousel number 2 [golf; Lowell and Frances Thomas; zoo; Colorado Women’s College; Will Rogers Shrine of the Sun; skiing]	
+</unittitle>
+<unitdate label="Date">circa 1970s	
+</unitdate>
+<container id="1583" type="box">1583</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>16-19	
+</unitid>
+<unittitle>Carousel number 3 [golf]	
+</unittitle>
+<unitdate label="Date">1954, circa 1973	
+</unitdate>
+<container id="1583" type="box">1583</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>Carousel number 4 [Cripple Creek/Victor, Colorado (1973); Utah; Florida; Lake Mead; Las Vegas]	
+</unittitle>
+<unitdate label="Date">1973, circa 1970s	
+</unitdate>
+<container id="1583" type="box">1583</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1583 -->
+<!-- Box 1584 -->
+<c01>
+<note>Box 1584</note>
+<did>
+<unitid>2.1.5.1</unitid>
+<unittitle>35 millimeter slides</unittitle>
+</did>
+
+<c02 level="cell">
+<did>
+<unitid>1-3	
+</unitid>
+<unittitle>Carousel number 4 (continued from previous box) [Cripple Creek/Victor, Colorado (1973); Utah; Florida; Lake Mead; Las Vegas]	
+</unittitle>
+<unitdate label="Date">1973, circa 1970s	
+</unitdate>
+<container id="1584" type="box">1584</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>3-6	
+</unitid>
+<unittitle>Carousel number 5 [Tibet-3 slides (1949); golf with Lowell and Frances Thomas; family gathering; Lowell Thomas and Richard Nixon; Oral Roberts in Alaska; Lowell Thomas broadcasting; miscellaneous]	
+</unittitle>
+<unitdate label="Date">1949, circa 1970s	
+</unitdate>
+<container id="1584" type="box">1584</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>7-9	
+</unitid>
+<unittitle>Carousel number 6 [extended family]	
+</unittitle>
+<unitdate label="Date">circa 1970s	
+</unitdate>
+<container id="1584" type="box">1584</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>9-16	
+</unitid>
+<unittitle>Carousel number 7 [golf; Hammersley Hill Estate; Toronto featuring the M.V. Lowell Thomas Discoverer cruise ship;  	
+</unittitle>
+<unitdate label="Date">circa 1970s	
+</unitdate>
+<container id="1584" type="box">1584</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>16-20	
+</unitid>
+<unittitle>Carousel number 8 [Christmas; unveiling of Thomas E. Dewey commemorative plaque at Christ Church on Quaker Hill (undated); Bob’s graduation ceremony at Pawling High School (circa 1971); Alaska; skiing]	
+</unittitle>
+<unitdate label="Date">circa 1971, circa 1970s	
+</unitdate>
+<container id="1584" type="box">1584</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1584 -->
+<!-- Box 1585 -->
+<c01>
+<note>Box 1585</note>
+<did>
+<unitid>2.1.5.1</unitid>
+<unittitle>35 millimeter slides</unittitle>
+</did>
+
+<c02 level="cell">
+<did>
+<unitid>1-2	
+</unitid>
+<unittitle>Carousel number 8 (continued from previous box) [Christmas; unveiling of Thomas E. Dewey commemorative plaque at Christ Church on Quaker Hill (undated); Bob’s graduation ceremony at Pawling High School (circa 1971); Alaska; skiing]	
+</unittitle>
+<unitdate label="Date">circa 1971, circa 1970s	
+</unitdate>
+<container id="1585" type="box">1585</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>2-6	
+</unitid>
+<unittitle>Carousel number 9 [The Explorers Club (1908 - circa 1970s); first lunar landing (1969); Africa (undated); Tibet-3 slides (1949); T. E. Lawrence-2 slides (1918); Lowell Thomas, Jr. (circa 1962)]	
+</unittitle>
+<unitdate label="Date">1908 - circa 1970s	
+</unitdate>
+<container id="1585" type="box">1585</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>6-10	
+</unitid>
+<unittitle>Carousel number 10 [The Explorers Club-explorers and exploration (circa early 1900s - 1960s); Tibet-3 slides (1949)	
+</unittitle>
+<unitdate label="Date">circa early 1900s - 1960s	
+</unitdate>
+<container id="1585" type="box">1585</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>11-14	
+</unitid>
+<unittitle>Carousel number 11 [Hammersley Hill Estate; golf (circa 1970s, circa 1954); Hawaii?]	
+</unittitle>
+<unitdate label="Date">circa 1954, circa 1970s	
+</unitdate>
+<container id="1585" type="box">1585</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>14-17	
+</unitid>
+<unittitle>Carousel number 12 [Grand Teton National Park; Lowell and Frances Thomas; Lion Country Safari (undated); unidentified houses and people	
+</unittitle>
+<unitdate label="Date">circa 1970s, undateds	
+</unitdate>
+<container id="1585" type="box">1585</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>17-19	
+</unitid>
+<unittitle>Carousel number 13 [Christmas; West Point football game; wedding; golf; Hawaii; Lowell and Frances Thomas; Lowell Thomas and unidentified man (circa 1950s); unidentified people and places]	
+</unittitle>
+<unitdate label="Date">circa 1950s, circa 1970s	
+</unitdate>
+<container id="1585" type="box">1585</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>Carousel number 14 [Lowell Thomas broadcasts from a hospital; graduation; Florida]	
+</unittitle>
+<unitdate label="Date">circa 1960s - 1970s	
+</unitdate>
+<container id="1585" type="box">1585</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1585 -->
+<!-- Box 1586 -->
+<c01>
+<note>Box 1586</note>
+<did>
+<unitid>2.1.5.1</unitid>
+<unittitle>35 millimeter slides</unittitle>
+</did>
+
+<c02 level="cell">
+<did>
+<unitid>1-2	
+</unitid>
+<unittitle>Carousel number 14 (continued from previous box) [Lowell Thomas broadcasts from a hospital; graduation; Florida]	
+</unittitle>
+<unitdate label="Date">circa 1960s - 1970s	
+</unitdate>
+<container id="1586" type="box">1586</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>2-6	
+</unitid>
+<unittitle>Carousel number 15 [Lowell and Frances Thomas; skiing; miscellaneous	
+</unittitle>
+<unitdate label="Date">circa late 1960s - 1970s	
+</unitdate>
+<container id="1586" type="box">1586</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>6-12	
+</unitid>
+<unittitle>Carousel number 16 [Europe; commercially purchased slides of Europe]	
+</unittitle>
+<unitdate label="Date">circa 1972	
+</unitdate>
+<container id="1586" type="box">1586</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>13-17	
+</unitid>
+<unittitle>Carousel number 17 [Canada; California; Mexico]	
+</unittitle>
+<unitdate label="Date">circa late 1960s	
+</unitdate>
+<container id="1586" type="box">1586</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>17-18	
+</unitid>
+<unittitle>Carousel number 18 [Iceland, England and Ireland (many commercially purchased slides)]	
+</unittitle>
+<unitdate label="Date">circa 1972	
+</unitdate>
+<container id="1586" type="box">1586</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>18 - 20	
+</unitid>
+<unittitle>Carousel number 19 [South America]	
+</unittitle>
+<unitdate label="Date">circa 1972	
+</unitdate>
+<container id="1586" type="box">1586</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1586 -->
+<!-- Box 1587 -->
+<c01>
+<note>Box 1587</note>
+<did>
+<unitid>2.1.5.1</unitid>
+<unittitle>35 millimeter slides</unittitle>
+</did>
+
+<c02 level="cell">
+<did>
+<unitid>1-2	
+</unitid>
+<unittitle>Carousel number 19 (continued from previous box) [South America]	
+</unittitle>
+<unitdate label="Date">circa 1972	
+</unitdate>
+<container id="1587" type="box">1587</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>2-5	
+</unitid>
+<unittitle>Carousel number 20 [South America]	
+</unittitle>
+<unitdate label="Date">circa 1972	
+</unitdate>
+<container id="1587" type="box">1587</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>5-6	
+</unitid>
+<unittitle>Carousel number 21 [American West]	
+</unittitle>
+<unitdate label="Date">circa 1972	
+</unitdate>
+<container id="1587" type="box">1587</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>7-11	
+</unitid>
+<unittitle>Carousel number 22 [Europe; California]	
+</unittitle>
+<unitdate label="Date">circa 1971	
+</unitdate>
+<container id="1587" type="box">1587</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>11-17	
+</unitid>
+<unittitle>Carousel number 23 [Europe (most commercially purchase slides)]	
+</unittitle>
+<unitdate label="Date">circa 1971	
+</unitdate>
+<container id="1587" type="box">1587</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>18-20	
+</unitid>
+<unittitle>Carousel number 24 [Lowell Thomas Estate] Note: An audio cassette recording titled Lowell Thomas Estate accompanies this slide presentation	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1587" type="box">1587</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1587 -->
+<!-- Box 1588 -->
+<c01>
+<note>Box 1588</note>
+<did>
+<unitid>2.1.5.1</unitid>
+<unittitle>35 millimeter slides</unittitle>
+</did>
+
+<c02 level="cell">
+<did>
+<unitid>1-3	
+</unitid>
+<unittitle>Carousel number 24 (continued from previous box) [Lowell Thomas Estate] Note: An audio cassette recording titled Lowell Thomas Estate accompanies this slide presentation	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1588" type="box">1588</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>4-9	
+</unitid>
+<unittitle>Carousel number 25 [Lowell Thomas Estate]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1588" type="box">1588</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>9-15	
+</unitid>
+<unittitle>Carousel number 26 [Schooner Bowdoin] Note: An audio cassette recording and a transcript titled Schooner Bowdoin accompany this slide presentation	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1588" type="box">1588</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>16-20	
+</unitid>
+<unittitle>Carousel number 26 [Prayer Tower Presentation, Oral Roberts University] Note: An audio cassette recording and a transcript titled Prayer Tower Presentation, Oral Roberts University accompany this slide presentation	
+</unittitle>
+<unitdate label="Date">1975	
+</unitdate>
+<container id="1588" type="box">1588</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1588 -->
+<!-- Box 1589 -->
+<c01>
+<note>Box 1589</note>
+<did>
+<unitid>2.1.5.1</unitid>
+<unittitle>35 millimeter slides</unittitle>
+</did>
+
+<c02 level="cell">
+<did>
+<unitid>1-2	
+</unitid>
+<unittitle>Carousel number 26 (continued from previous box) [Prayer Tower Presentation, Oral Roberts University] Note: An audio cassette recording and a transcript titled Prayer Tower Presentation, Oral Roberts University accompany this slide presentation	
+</unittitle>
+<unitdate label="Date">1975	
+</unitdate>
+<container id="1589" type="box">1589</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>3-8 	
+</unitid>
+<unittitle>Carousel number 27 [Quaker Hill slide presentation]	
+</unittitle>
+<unitdate label="Date">circa 1973	
+</unitdate>
+<container id="1589" type="box">1589</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>9-11	
+</unitid>
+<unittitle>Carousel number 28 [Alaska Methodist University, part 1]	
+</unittitle>
+<unitdate label="Date">1972 February 15	
+</unitdate>
+<container id="1589" type="box">1589</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>11-13	
+</unitid>
+<unittitle>Carousel number 29 [Alaska Methodist University, part 2]	
+</unittitle>
+<unitdate label="Date">1972 February 15	
+</unitdate>
+<container id="1589" type="box">1589</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>13-20	
+</unitid>
+<unittitle>Carousel number 30 [Mount Rainier mountain climbing and skiing expedition with unidentified individuals]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1589" type="box">1589</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1589 -->
+<!-- Box 1590 -->
+<c01>
+<note>Box 1590</note>
+<did>
+<unitid>2.1.5.1</unitid>
+<unittitle>35 millimeter slides</unittitle>
+</did>
+
+<c02 level="cell">
+<did>
+<unitid>1-3	
+</unitid>
+<unittitle>Carousel number 31 [New Guinea]	
+</unittitle>
+<unitdate label="Date">circa 1969	
+</unitdate>
+<container id="1590" type="box">1590</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>4-12	
+</unitid>
+<unittitle>Carousel number 32  [Lowell Thomas and Christl Thalhammer tour the world, including Greece, Egypt and New Guinea] 	
+</unittitle>
+<unitdate label="Date">circa 1963	
+</unitdate>
+<container id="1590" type="box">1590</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>13-20	
+</unitid>
+<unittitle>Kodachrome box number 1 [Quaker Lake} Note: A listing of slides accompanies this slide presentation	
+</unittitle>
+<unitdate label="Date">1940	
+</unitdate>
+<container id="1590" type="box">1590</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1590 -->
+<!-- Box 1591 -->
+<c01>
+<note>Box 1591</note>
+<did>
+<unitid>2.1.5.1</unitid>
+<unittitle>35 millimeter slides</unittitle>
+</did>
+
+<c02 level="cell">
+<did>
+<unitid>1-7	
+</unitid>
+<unittitle>Kodachrome box number 2 [Iran]	
+</unittitle>
+<unitdate label="Date">circa 1969	
+</unitdate>
+<container id="1591" type="box">1591</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>8-11	
+</unitid>
+<unittitle>Kodachrome box number 3 [India; visit with the Dalai Lama and other Tibetans]	
+</unittitle>
+<unitdate label="Date">circa 1963	
+</unitdate>
+<container id="1591" type="box">1591</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>11 	
+</unitid>
+<unittitle>Kodachrome box number 4 [Glacier Park (Lowell Thomas, Jr.)]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1591" type="box">1591</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>12-13	
+</unitid>
+<unittitle>Kodachrome box number 5 [Lowell Thomas, Jr.]	
+</unittitle>
+<unitdate label="Date">circa early 1940s	
+</unitdate>
+<container id="1591" type="box">1591</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>14-15	
+</unitid>
+<unittitle>Kodachrome box number 6 [Mrs. Frances Ryan Thomas at Quaker Hill]	
+</unittitle>
+<unitdate label="Date">1940	
+</unitdate>
+<container id="1591" type="box">1591</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>16-18	
+</unitid>
+<unittitle>Kodachrome box number 7 [Outdoor gathering of men (possibly Bohemian Grove)]	
+</unittitle>
+<unitdate label="Date">circa 1971	
+</unitdate>
+<container id="1591" type="box">1591</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>Kodachrome box number 8 [Mineral King, California]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1591" type="box">1591</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>Kodachrome miscellaneous box 1 [Tibet duplicates]	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1591" type="box">1591</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1591 -->
+<!-- Box 1592 -->
+<c01>
+<note>Box 1592</note>
+<did>
+<unitid>2.1.5.1</unitid>
+<unittitle>35 millimeter slides</unittitle>
+</did>
+
+<c02 level="cell">
+<did>
+<unitid>1-2	
+</unitid>
+<unittitle>Kodachrome miscellaneous box 1 (continued from previous box) [slide 1: Lowell Thomas and others on ski slope [Alta, Utah?]; slide 2-3: Commercially purchased slides of Australasia; slide 4-5: The Lowell Thomas rose; slide 6: Conrad Hilton on horseback, circa 1964; remaining slides of unidentified people and places]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Slides found with photographic prints: Lowell Thomas (Antarctica - from Cape Town to McMurdo Station, 1963):   slide 1: Rear Admiral James R. Reedy and Lowell Thomas prepare to board one of the LC-130s of VX-6, Air Development Squadron, for the non-stop flight from Cape Town, South Africa to McMurdo Station, Antarctica;     slide 2: Crews of both LC-130s shortly before departure on historic flight (non-stop) from Cape Town, South Africa to McMurdo Station, Antarctica. Left to right: front row - Lieutenant Commander Richard G. Dickerson, plane commander of lead plane, Rear Admiral James R. Reedy, Commander Task Force Forty Three, Commander George R. Kelly, Commanding Officer Air Development Squadron (VX-6), and Lieutenant Commander William B. Kurlak, plane commander of second plane;   slide 3: Rear Admiral James R. Reedy, Lowell Thomas and pilots of VX-6 discuss plans for the non-stop flight by two LC-130s from Cape Town to McMurdo Station, Antarctica. Left to right: Lieutenant Commander Richard G. Dickerson, Lowell Thomas, Rear Admiral James R. Reedy, Commander Task Force 43, Lieutenant Commander Donald E. Miller and Commander George R. Kelly, Commanding Officer of Air Development VX-6; slide 4: The two LC-130s of VX-6, Air Development Squadron, ready to taxi out for take-off for the non-stop flight from Cape Town to McMurdo Station, Antarctica;  slide 5: LC-130 aircraft #148320 of Air Development Squadron VX-6 at Naval Air Station, Rota, Spain where two of the squadron planes stopped for a crew rest during the flight to McMurdo Station;  slide 6: LC-130 #148318 sits at the end of the running in preparation for take-off on the non-stop flight from Cape Town to McMurdo Station, Antarctica;     slide 7: Rear Admiral James R. Reedy and Lowell Thomas	
+</unittitle>
+<unitdate label="Date">circa 1950s - 1970s	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Slides found with photographic prints: [slide 1-6: Lowell Thomas (Antarctica, 1962); slide 7: Lowell Thomas (broadcasting, circa 1970s); slide 8-12: Lowell Thomas (photographs from H. T. Cowling, circa 1950s); slide 13-15: Lowell Thomas (Cripple Creek/Victor, Colorado, 1967); slide 14-18: Lowell Thomas (dogs, circa 1970s)]	
+</unittitle>
+<unitdate label="Date">circa 1950s - 1970s	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Slides found with photographic prints: [slide 1-8: Lowell Thomas (portrait painting, circa 1973); slide 9-15: Lowell Thomas (ski painting, undated)]	
+</unittitle>
+<unitdate label="Date">circa 1973	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Slides found with photographic prints: [slide 1-14: Lowell Thomas (skiing at Alta, Utah, circa 1964)]	
+</unittitle>
+<unitdate label="Date">circa 1964	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Slides found with photographic prints: [slide 1: Lowell Thomas (trip to Dharamsala, 1963); slide 2-3: Lowell Thomas (alone, circa 1970s); slide 4: Lowell Thomas (with Mrs. Frances Ryan Thomas, circa 1950s); slide 5-9: Lowell Thomas (with Mrs. Marianna Munn Thomas at the American Academy of Achievement banquet, circa late 1970s); slide 10-11: Lowell Thomas (with two unidentified men, circa 1960s); slide 12: Lowell Thomas Home, circa 1964; slide 13: Lowell Thomas Remembers, set in South Carolina, circa 1970s]	
+</unittitle>
+<unitdate label="Date">circa 1950s - 1970s	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Slides found with photographic prints: [slide 1-2: cartoon (“That-a-way” caricature, undated); slide 3:  Cinerama (Japan, 1957); slide 4-5: Mary Davis, undated; slide 6: Earthquake Park, Alaska, circa 1973; slide 7-12: The Explorers Club; slide 13-18: Golf, circa 1954]	
+</unittitle>
+<unitdate label="Date">circa 1954 - 1973	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Slides found with photographic prints: [slide 1-11: Golf, circa 1954; slide 12-14: High Adventure with Lowell Thomas (North Pole), 1957; slide 15-16: Marco Polo painting at Capital Cities Corporation, circa 1971; slide 17: Nepal (Lowell Thomas on elephant), 1957; slide 18: New Guinea, undated; slide 19: Poster promoting Lowell Thomas on WMT radio, 1951 (from Vern Hansen); slide 20: Doctor Gordon Powell, Reverand Graham, Governor of New South Wales and lady sending a salute to Lowell Thomas, circa 1963]	
+</unittitle>
+<unitdate label="Date">1951 - circa 1971	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>Slides found with photographic prints: [slide 1-2: Earl Thacker and Lowell Thomas, circa 1970; slide 3-8: Erling Strom (painting), undated]	
+</unittitle>
+<unitdate label="Date">circa 1970S	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>Slides found with photographic prints: [slide 1-15: Christl Thalhammer]	
+</unittitle>
+<unitdate label="Date">circa 1963 - 1964	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>Slides found with photographic prints: [slide 1-15: Christl Thalhammer]	
+</unittitle>
+<unitdate label="Date">circa 1963 - 1964	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>Slides found with photographic prints: [slide 1-10: Christl Thalhammer]	
+</unittitle>
+<unitdate label="Date">circa 1963 - 1964	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>Slides found with photographic prints: [slide 1: World War II (Chiang Kai-shek, Lowell Thomas, General Albert C. Wedemeyer)]	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+
+<c02 level="cell">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>Slides found with photographic prints: [slide 1-4: Tibet (Dalai Lama)]	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1592" type="box">1592</container>
+</did>
+</c02>
+
+</c01>
+<!-- End 1592 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

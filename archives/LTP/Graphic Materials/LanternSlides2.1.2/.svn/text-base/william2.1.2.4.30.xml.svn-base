@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>William H. Rau, Photographer</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.4.30</unitid>
+		<unittitle>William H. Rau, Photographer</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		<!-- Box 1413 -->
+<c01>
+<note>Box 1413</note>
+<did>
+<unitid>2.1.2.4.30</unitid>
+<unittitle>William H. Rau, Photographer</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Pennsylvania Station[?], arrival of 12:50 A.M. train, New York City, New York	
+</unittitle>
+<unitdate label="Date">circa 1900-1920	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">2047	
+</materialspec>
+<physdesc>
+<extent unit="inches">	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Statue of Liberty, New York City, New York	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">7161	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Niagara Falls, brink of American Falls from Prospect Park	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">22881	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Main reading room, Public Library, New York City, New York	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">072712	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Paul Revere’s house, Boston, Massachusetts	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">668	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>State House, Boston, Massachusetts	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">672	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Sunken Gardens, Philadelphia, Pennsylvania	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">7183	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Interior of restored State House, Philadelphia, Pennsylvania	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">17902	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Liberty Bell and stairway, restored State House, Philadelphia, Pennsylvania	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">19906	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Chestnut Street, west of 9th Street, Philadelphia, Pennsylvania	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">27928	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Ford’s Theater where President Abraham Lincoln was shot, Washington, D.C.	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">965	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Monument and United States Capitol dome, Washington, D.C.	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">3930	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>The rotunda, United States Capitol, Washington, D.C.	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">7244	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Ceiling, dome of the United States Capitol, Washington, D.C.	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">10043	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1413 -->
+<!-- Box 1414 -->
+<c01>
+<note>Box 1414</note>
+<did>
+<unitid>2.1.2.4.30</unitid>
+<unittitle>William H. Rau, Photographer</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Interior of Pension Bureau, Washington, D.C.	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">10061	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Grand stairway, main vestibule, Library of Congress, Washington, D.C.	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">16656	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>United States Capitol, full view from new Congressional Library, Washington, D.C.	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">22427	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>South public entrance to the White House, Washington, D.C.	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">25180	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Tomb of George Washington, Mount Vernon, Virginia	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">846	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Michigan Avenue, Chicago, Illinois	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">29139	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Cathedral, Milan, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">11458	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Grand Canal, Venice, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">11530	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Scene in the arcade under the Doge’s Palace, Venice, Italy	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">19771	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Grand staircase, Grand Opera House, Paris, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">4461	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Latona Fountain, Versailles Palace, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">9719	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Fountain in Palais Royale, Paris, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">12025	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Lake, Bois de Boulogne, Paris, France	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">12041	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>The Eiffel Tower illuminated, Paris Exposition, Paris, France	
+</unittitle>
+<unitdate label="Date">1900	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">20524	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Gerolsan Waterfall, Baden-Baden, Germany	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">9350	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Courtyard, Heidelberg Castle, Germany	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">11858	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>The Jungfraujoch, Interlaken, Switzerland	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">6201	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Native Porter, Ecuador	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">8541	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>La Paz, from the Plaza, Bolivia	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">8666	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Amber Crystal Palace, interior, Jeypore, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">25573	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Amber Crystal Palace, interior, Jeypore, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">25575	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Everyday life in the Vale of Cashmere looking southwest to quaint bridge and houses in the City of the Sun, India	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Armenian patriarchs leaving church of the Holy Sepulchre on Easter Sunday, Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">22553	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Pilgrims carrying fire from Church of the Holy Sepulchre, Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">22558	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Cavern below the Sacred rock at the Mosque of Omar, Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">22586	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Jewish fisherman by the sea of Galilee, Tiberias, Palestine	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">22723	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Crusader’s Tower, Ramleh	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Entrance to gorge, Petra	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">16996	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>A glorious burst of sunrays	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">27663	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Statuary, Eve	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">397	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Statuary, Bird’s Nest	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">13316	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Statuary, The Drone Bee	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">13319	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Statuary, Misfortune	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">13344	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Statuary, Butterfly, Love Blinds, and Vanity	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">13366	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Statuary, Water Babies	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">13460	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Painting, Empress of France, Josephine	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1414" type="box">1414</container>
+<materialspec label="index">3236	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1414 -->
+<!-- Box 1415 -->
+<c01>
+<note>Box 1415</note>
+<did>
+<unitid>2.1.2.4.30</unitid>
+<unittitle>William H. Rau, Photographer</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Painting, Napoleon’s Farewell to Josephine by Laslett John Pott	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1415" type="box">1415</container>
+<materialspec label="index">12633	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Painting, Naboths Being Stoned	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1415" type="box">1415</container>
+<materialspec label="index">28064	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Painting, Marriage Portrait of Isaac Massa and Beatrix van der Laen by Frans Hals	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1415" type="box">1415</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Panorama of unidentified city	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1415" type="box">1415</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Unidentified building	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1415" type="box">1415</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Unidentified street scene, many carriages in foreground	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1415" type="box">1415</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Many unidentified people pose for photograph	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1415" type="box">1415</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Tree-lined lane	
+</unittitle>
+<unitdate label="Date">circa 1900-1920 	
+</unitdate>
+<container id="1415" type="box">1415</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1415 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

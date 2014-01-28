@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.4.xsl"?>
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>qwerty</titleproper>
+<author>Marist Archives and Special Collections</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Marist Archives and Special Collections</publisher>
+<address>
+<addressline>3399 North Road</addressline>
+<addressline>Poughkeepsie, New York - 12601 </addressline>
+</address>
+</publicationstmt>
+</filedesc>
+</eadheader>
+<!-- Archival Description portion of EAD -->
+<archdesc level="subseries">
+<did>
+<unitid countrycode="us" repositorycode="MMM">1243</unitid>
+<unittitle>qwerty</unittitle>
+<unitdate type="inclusive"></unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+<repository>
+<corpname>Marist College</corpname>
+</repository>
+<abstract level="abstract">MMM</abstract>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<scopecontent>
+<p>MMM</p>
+</scopecontent>
+<accessrestrict>
+<p>MMM</p>
+</accessrestrict>
+<userestrict>
+<p>MMM</p>
+</userestrict>
+<!-- Components Description of EAD -->
+<dsc type="combined">
+
+<!-- Box 1 -->
+<c01>
+<note>Box 1</note>
+<did>
+<unitid>1243</unitid>
+<unittitle>qwerty</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>1</unitid>
+<unittitle>w</unittitle>
+<unitdate label="Date">1</unitdate>
+<container id="1" type="box">1</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1 -->
+<!-- Box 2 -->
+<c01>
+<note>Box 2</note>
+<did>
+<unitid>1243</unitid>
+<unittitle>qwerty</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>2</unitid>
+<unittitle>ee</unittitle>
+<unitdate label="Date">2</unitdate>
+<container id="2" type="box">2</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 2 -->
+</dsc>
+	</archdesc>
+	</ead>	

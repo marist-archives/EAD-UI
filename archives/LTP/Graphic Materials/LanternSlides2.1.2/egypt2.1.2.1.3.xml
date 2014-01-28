@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/LanternSlides2.1.2/egypt2.1.2.1.3.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Egypt</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.2.1.3</unitid>
+			<unittitle>Egypt</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1342 -->
+			<c01>
+				<note>Box 1342</note>
+				<did>
+					<unitid>2.1.2.1.3</unitid>
+					<unittitle>Egypt</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Sailboat in Suez Canal at sunset</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-7</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>View of three pyramids from airplane (aerial view)</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-15</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>View of three pyramids from airplane (aerial view)</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-15</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Heliopolis</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-19</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Barracks of Egyptian army from airplane (aerial view)</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-21</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>View of Egypt from airplane, best view (aerial view)</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-22</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Lowell Thomas on camel in front of Sphinx, paying Egyptian, Great Pyramid of Giza in background</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-28</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Lowell Thomas on camel in front of Sphinx, paying Egyptian, Great Pyramid of Giza in background</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-28</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Cheops pyramid from airplane (aerial view)</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-30</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Pyramid, palm trees, and men sitting in the foreground</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-33</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Pyramid and double palm trees in center</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-35</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Pyramid and double palm trees in center</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-35</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Pyramid and double palm trees in center</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-35</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Three pyramids of Giza and Sphinx, silhouette</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-45</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Veiled girl, full length</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-49</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Sphinx head</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-51</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Lowell Thomas and Egyptian cobbler</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-52</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Four little Armenian children</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-54</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Two Armenian men and old woman</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-57</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Two Armenian men and old woman</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-57</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Two Armenian men and old woman</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-57</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Two Armenian men and old woman</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-57</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Old Armenian</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-58</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Old Armenian</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-58</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Old Armenian</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-58</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Two Australian soldiers watch Armenian women sew at a refugee camp</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-60</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Two Australian soldiers watch Armenian women sew at a refugee camp</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-60</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Two Australian soldiers watch Armenian women sew at a refugee camp</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-60</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Sailboat in Suez Canal at sunset, best view</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-72</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Sailboat in Suez Canal at sunset, best view</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-72</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Well of Moses, Lowell Thomas and three soldiers eating lunch</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index">3-76</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1342 -->
+			<!-- Box 1343 -->
+			<c01>
+				<note>Box 1343</note>
+				<did>
+					<unitid>2.1.2.1.3</unitid>
+					<unittitle>Egypt</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Well of Moses, Lowell Thomas and three soldiers eating lunch</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1343" type="box">1343</container>
+						<materialspec label="index">3-76</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>British soldier lying under palm tree</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1343" type="box">1343</container>
+						<materialspec label="index">3-77</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Pyramid, double palm tree, no people</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1343" type="box">1343</container>
+						<materialspec label="index">3-84</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Lowell Thomas on donkey, palace of governor in Khartown</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1343" type="box">1343</container>
+						<materialspec label="index">3-96</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Omdurman, panorama</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1343" type="box">1343</container>
+						<materialspec label="index">3-98</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Omdurman, panorama</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1343" type="box">1343</container>
+						<materialspec label="index">3-98</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>A Sudan train</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1343" type="box">1343</container>
+						<materialspec label="index">3-103</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Sudan sandstorm [With Lawrence in Arabia caption:  sand storm rolling down on Khartoum]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1343" type="box">1343</container>
+						<materialspec label="index">3-105</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Sudan sandstorm [With Lawrence in Arabia caption:  sand storm rolling down on Khartoum]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1343" type="box">1343</container>
+						<materialspec label="index">3-105</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Sudan sandstorm [With Lawrence in Arabia caption:  sand storm rolling down on Khartoum]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1343" type="box">1343</container>
+						<materialspec label="index">3-105</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Tents of troops arriving from India, Suez</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1343" type="box">1343</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1343 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Miscellany</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.4.23.3</unitid>
+		<unittitle>Miscellany</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+	<!-- Box 1409 -->
+<c01>
+<note>Box 1409</note>
+<did>
+<unitid>2.1.2.4.23.3</unitid>
+<unittitle>Miscellany</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Davis wax beans	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">2184	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>A bunch of pineapple oranges	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">15280	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>A branch of oranges on tree	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">15320	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>A cluster of peas	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">16X384	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Cherries	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">3XX320	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Cherries 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">3XX323	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Scotch heather	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">932	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Scotch heather	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">976	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Scotch heather	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">977	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Japanese iris 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">9357	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Lilium Henryi	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">12939	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Lilium Speciosum 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">12940	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Narcissus flowers	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Narcissus obvallaris	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">14453	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Dark red peony, single flower	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">16XX167	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Roses	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">18X55	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Rose hedge	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">18X472	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Rose hedge, “Caroline Testout”	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">18XX464	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Rose, “Gardenia”	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">18X538	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Darwin tulips	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">20X47	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Wisteria	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">22327	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Tulip	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Tulips	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Orchid, Cahleya Schroederae 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Orchid	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Larkspur	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Saint Mary Magdalene by Carlo Dolci 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Head of a Girl, Druze[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Miss Bowles by Sir Joshua Reynolds	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Painting (copy)	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1409" type="box">1409</container>
+<materialspec label="index">28X	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1409 -->
+<!-- Box 1410 -->
+<c01>
+<note>Box 1410</note>
+<did>
+<unitid>2.1.2.4.23.3</unitid>
+<unittitle>Miscellany</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Frederic Chopin[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">47X	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Statuary	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Astoria Hotel	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">23X	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>People lounging on deck of ship	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">98	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Residence of John D. Rockefeller	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">181	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Porter carrying large box	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">205X	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Park bench	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">572	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Wood scene	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">753	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Shipwreck on coast	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Queenstown, American ship	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Princess Maria, Crown Princess of Sweden	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Speckled trout	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Dream Mountains, as in the night they brood on things eternal	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>A listing of canals of the world	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Veiled woman	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>River	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Street scene	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Close-up of young man	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Unidentified monument 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Estate	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Buildings	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Building	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Building 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Flag 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Western[?] road 	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Canal[?]	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>View of boats near shore	
+</unittitle>
+<unitdate label="Date">circa 1900-1915 	
+</unitdate>
+<container id="1410" type="box">1410</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1410 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

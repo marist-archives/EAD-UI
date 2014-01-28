@@ -1,0 +1,3346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.2.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Photographs2.1.9/writings2.1.9.3.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>writings</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.9.3</unitid>
+			<unittitle>writings</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1611 -->
+			<c01>
+				<note>Box 1611</note>
+				<did>
+					<unitid>2.1.9.3</unitid>
+					<unittitle>writings</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Adventures of a Camera Artist by Francis Yeats-Brown</unittitle>
+						<unitdate label="Date">circa early 1920s</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>36. On the Himalayas, looking towards the plains, blanketed by monsoon-clouds.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: 36. On the Himalayas, looking towards the plains, blanketed by monsoon-clouds.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>28. On the way to Mandalay "where the dawn comes up like thunder."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: 28. On the way to Mandalay "where the dawn comes up like thunder."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>The coming of the "Jagannath Car" Puri. 15. Filming the vast throngs of pilgrims that gather &amp; greet the Juggernath, "Lord of the World."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: The coming of the "Jagannath Car" Puri. 15. Filming the vast throngs of pilgrims that gather &amp; greet the Juggernath, "Lord of the World."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>unusual view of the Taj Mahal from the wall around the garden. Early morning picture. 21. The Taj Mahal at Dawn, seen from the Western flanking tower. An unusual view.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: unusual view of the Taj Mahal from the wall around the garden. Early morning picture. 21. The Taj Mahal at Dawn, seen from the Western flanking tower. An unusual view.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>31. Ready for the torrid suns of Afghanistan</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: 31. Ready for the torrid suns of Afghanistan</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>The main gate way to Jalalabad. The Afghan city. 33. Jalalabad gate, on the way to Kabul.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: The main gate way to Jalalabad. The Afghan city. 33. Jalalabad gate, on the way to Kabul.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>After a raid on a auto party in the Khyber pass. 32. Re-enacting for the film, and auto-hold up that had occurred the previous week, when two mail clerks were murdered in the Khyber pass.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: After a raid on a auto party in the Khyber pass. 32. Re-enacting for the film, and auto-hold up that had occurred the previous week, when two mail clerks were murdered in the Khyber pass.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>38. Tropical twilight is soon over,but for a brief instant or two, it condenses all the beauty of more Northern sunsets.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: 38. Tropical twilight is soon over,but for a brief instant or two, it condenses all the beauty of more Northern sunsets.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>#-34 Amir H.M. Amanullah Khan on this Throne. 35. H.M. the Amir listening to the speech of the Bolshevik envoy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: #-34 Amir H.M. Amanullah Khan on this Throne. 35. H.M. the Amir listening to the speech of the Bolshevik envoy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Elephant caravan in Upper Perak, H.M.S. H.A.C.+T. on Elephant. 26. After big game in the Burmese jungle</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Elephant caravan in Upper Perak, H.M.S. H.A.C.+T. on Elephant. 26. After big game in the Burmese jungle</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Tomb of Abraham, Issac, Jacob, Sarah, Rachel and Rebecca in the mosque at Hebron where no outsiders had ever penetrated before except Kaiser + King Edward. [Harry] Chase + L.T. narrowly escaped death here.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: Tomb of Abraham, Issac, Jacob, Sarah, Rachel and Rebecca in the mosque at Hebron where no outsiders had ever penetrated before except Kaiser + King Edward. [Harry] Chase + L.T. narrowly escaped death here.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>18. The modern vail serves but to enhance the charm of the Moslem girl. It is very rarely, however that she will consent to be photographed.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso: 18. The modern vail serves but to enhance the charm of the Moslem girl. It is very rarely, however that she will consent to be photographed.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Back to Mandalay by Lowell Thomas (Philip G. Cochran) [photographs not used as illustrations]</unittitle>
+						<unitdate label="Date">1943</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Col. Philip G. Cochran- Released for Publication -Credit- Oficial Photo U.S. Air Forces</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Col. Philip G. Cochran- Released for Publication -Credit- Oficial Photo U.S. Air Forces</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Page 248 67559#c 10 Gaty[?] + Cochran</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Page 248 67559#c 10 Gaty[?] + Cochran</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[?] Taylor?</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: [?] Taylor?</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>60676 A. C. - Lt. Kincaid and crew of the 305th Bomb group, beside a Boeing B-17 Flying Fortress. 8 October 43 England.; This Picture not ours at all. (Bill Taylor) Ann</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: 60676 A. C. - Lt. Kincaid and crew of the 305th Bomb group, beside a Boeing B-17 Flying Fortress. 8 October 43 England.; This Picture not ours at all. (Bill Taylor) Ann</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Burma Jack by Lowell Thomas and Jack Girsham</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Close-up of man wearing hat]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Lt. Col. John K. Little -Ret. 2401 E. Gregory Kansas City, 30, Missouri; Clients address No.1. Killen Wild Buffalo shot by Capt. Girsham a request by Assam Goat[?]. This Buffalo killed 7 people in N. Assam. 1952</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Lt. Col. John K. Little -Ret. 2401 E. Gregory Kansas City, 30, Missouri; Clients address No.1. Killen Wild Buffalo shot by Capt. Girsham a request by Assam Goat[?]. This Buffalo killed 7 people in N. Assam. 1952</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>No. 2 Bastar State. [?] C.P. Tiger shot by Pop Hawkins; 10' exact between legs: 11' 10" skinned 23" round fore-arm 60: girth/chest</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: No. 2 Bastar State. C.P. Tiger shot by Pop Hawkins; 10' exact between legs: 11' 10" skinned 23" round fore-arm 60: girth/chest</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Bastar State C.P. Buffalos bull's head + Nancy Hawkins - Buffalo shot by Pop Hawkins No. 4</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Bastar State C.P. Buffalos bull's head + Nancy Hawkins - Buffalo shot by Pop Hawkins No. 4</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Bonsola-Darrang Dist. Assam. Julia Tea Foster[?] at Haunay's [?] bungalow' 4th January 1958; This tiger was shot at Hirajuli T. E. while hunting the Belseei[?] man-eater. Tigers had to be treated as "suspect" in the man-eating domain. No one could give a definite description of the man-eater; so no chances had to be taken. No. 5</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Bonsola-Darrang Dist. Assam. Julia Tea Foster[?] at Haunay's [?] bungalow' 4th January 1958; This tiger was shot at Hirajuli T. E. while hunting the Belseei[?] man-eater. Tigers had to be treated as "suspect" in the man-eating domain. No one could give a definite description of the man-eater; so no chances had to be taken. No. 5</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>No. 17 November 8th 1966. Last [?] raider shot before leaving India.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: No. 17 November 8th 1966. Last [?] raider shot before leaving India.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>No. 6 1958 [?] T. E. Darrang District-Asssam</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: No. 6 1958 [?] T. E. Darrang District-Asssam</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>No. 7; 1 A.S. 1st December 1961 Solgai T.E + P.O Cachan [?] District</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: No. 7; 1 A.S. 1st December 1961 Solgai T.E + P.O Cachan [?] District</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>No. 8 - Bastar State. C.J. Nancy Hawkins climbing into a machau from which she shot teo leopards.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: No. 8 - Bastar State. C.P. Nancy Hawkins climbing into a machau from which she shot teo leopards.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>No. 9 Bastar State. C.P.; Nancy Hawkins + two leopards shot by herself. "Lady with the leopards"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: No. 9 Bastar State. C.P.; Nancy Hawkins + two leopards shot by herself. "Lady with the leopards"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>No. 10; Shot at Chandig hat T. E. Haflong Road 17.12.59; Jimmy Henry[?], manager of .</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: No. 10; Shot at Chandig hat T. E. Haflong Road 17.12.59; Jimmy Henry[?], manager of .</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>No. 10 Chaudighat T. E. Cachar Dist. 17th December 1959; [?] the hunter + tracker carry my rifle, standing behind the head of elephant</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso: No. 10 Chaudighat T. E. Cachar Dist. 17th December 1959; [?] the hunter + tracker carry my rifle, standing behind the head of elephant</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Jack Girsham. No. 12; Capt. John Jones</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso: Jack Girsham. No. 12; Capt. John Jones</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Jack Girsham. No. 11; extreme left: Capt John Jones + self with Kachin[?] villagers in the</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso: Jack Girsham. No. 11; extreme left: Capt John Jones + self with Kachin[?] villagers in the</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>No. 13. Nancy Hawkins with 2 wild-boar, 1 peacock, 1 hair. Shot in Bastar State. C.P.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso: No. 13. Nancy Hawkins with 2 wild-boar, 1 peacock, 1 hair. Shot in Bastar State. C.P.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Verso: "The Lady of Riga": No. 14 Bastar State C.P; Tiger + Nancy Hawkins, tiger shot by Pop Hawkins</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16-verso</unitid>
+							<unittitle>"The Lady of Riga": No. 14 Bastar State C.P; Tiger + Nancy Hawkins, tiger shot by Pop Hawkins</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>No. 15 1958 Assam; [?] T.E. - Dauang District. James Hauny + slef with</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso: No. 15 1958 Assam; [?] T.E. - Dauang District. James Hauny + slef with</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>No. 16 "End of a eat the lifter." Cjharmura[?]-Cachas District January 1960</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18-verso</unitid>
+							<unittitle>Verso: No. 16 "End of a eat the lifter." Cjharmura[?]-Cachas District January 1960</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>No. 15 The Head Leopard Tinkharia T.E. 1958. James Hanniay + self</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19-verso</unitid>
+							<unittitle>Verso: No. 15 The Head Leopard Tinkharia T.E. 1958. James Hanniay + self</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Note[PDF]: 1. Myself seated on killer wild bullalo shot in N. Assam.-India. 2. Massive tiger shot by ["Pop"]T. B. Hawkins 4. Nancy Hawking + buffaloes bull's head</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Climbing Mount Everest: Through Mysterious Tibet to the World's Highest Mountain presented by Lowell Thomas</unittitle>
+						<unitdate label="Date">1924</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>General C. G. Bruce</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: leader of the expedition now on its way back from Mt. Everest</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: General the Honorable C. G. Bruce, leader of both the recent fatal expedition and the previous one of 1922</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>The Himalayas between India and Tibet; The Himalayas - highest mountains in the world - with Mount Everest top left hand corner</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: The Himalayas between India and Tibet; The Himalayas - highest mountains in the world - with Mount Everest top left hand corner</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note: Sketch of the country through which the expeditions have all passsed on their way from India to Mouont Everest, a distance of 350 by trail or 100 miles by airline</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Portrait of man of the Himalayas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Note: Seven of these man of the Himalayas were swept away in an avalance on the second Everest expedition</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Through the Himalayas from India to Tibet</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Through the Himalayas from India to Tibet</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Note: The pass that leads across the Himalayas from the lush-lands of India to the cleak plateau of Tibet</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Bruce and fellow adventurers</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: Bruce and fellow adventurers</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Note: General Bruce in the centre, surrounded by his fellow adventurers. George Leigh-Mallory, the famous climber who broke all world records and who recently met his death at the summit of Mount Everest, is on the extreme left.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>The governor of a province</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: The governor of a province</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Note: The Governor of a Tibetan Province</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Tibetan girl in holiday garb</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Note: Tibetan girl in holiday garb</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>In holiday garb</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso: In holiday garb</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Note: A woman of Tibet in gala costume</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>One of the peaks adjoinin Everest</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Note: One of the peaks adjoinin Everest</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>A woman of Tibet</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19-verso</unitid>
+							<unittitle>Verso: A woman of Tibet</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Note: A Tibetan woman showing their peculiar headdress</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Searching for uninvited guests in her sister's hair</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21-verso</unitid>
+							<unittitle>Verso: Searching for uninvited guests in her sister's hair</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Note: Searching for uninvited guests in her sister's hair</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>A holy chief lama (monk or abbot) in Tibet-</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23-verso</unitid>
+							<unittitle>Verso: A holy chief lama (monk or abbot) in Tibet-</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>Note: A Tibetan monk - or lama</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>A Tibetan soldier from the "Everest" film at the Regent. He is wearing a necklace of human bones</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25-verso</unitid>
+							<unittitle>Verso: A Tibetan soldier from the "Everest" film at the Regent. He is wearing a necklace of human bones</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Note: A Tibetan warrior who has killed a hundred men</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>The turrets of a monastery</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27-verso</unitid>
+							<unittitle>Verso: The turrets of a monastery</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>Note: The turrets of a Tibetan monastery with the Himalayas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>A Tibetan monastery</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29-verso</unitid>
+							<unittitle>Verso: A Tibetan monastery</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>Note: A typical Tibetan monastery perched high up on a mountian peak in the most inaccessible place in the region</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>Captain Geoffrey Bruce, left; Captain Finch, right.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31-verso</unitid>
+							<unittitle>Verso: [smeared] Captain Geoffrey Bruce, left; Captain Finch, right.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>Note: Captain Geoffrey Bruce, left, and Captain Finch, right.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>A Tibetan mountain of death</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33-verso</unitid>
+							<unittitle>Verso: A Tibetan mountain of death</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>Note: A Tibetan "Mountain of Death"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>One of the three untrodden peaks that form the summit of Everest</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35-verso</unitid>
+							<unittitle>Verso: one of the [smeared]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>Note: One of the three untrodden peaks that form the summit of Everest</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Colonel A. A. Gaujot</unittitle>
+						<unitdate label="Date">circa 1930</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Colonel A. A. Gaujot</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas concerning Colonel A. A. Gaujot</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: From M[?] Republican, Williamson, Wia[?] - 2 col half-tone cut</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Good Evening Everybody: From Cripple Creek to Samarkand by Lowell Thomas</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Lowell Thomas, Pres. Roosevelt</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Thomas, Pres. Roosevelt</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>L.T. and the "Nine Old Men," including Robert Montgomery, Gene Tunney, Gene Sarazen, Prosper Buranelli, Neil McElroy, Eddie Rickenbacker, etc.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: L.T. and the "Nine Old Men," including Robert Montgomery, Gene Tunney, Gene Sarazen, Prosper Buranelli, Neil McElroy, Eddie Rickenbacker, etc.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Early Atlantic fliers. Lindberg - Chamberlain - Amelia Earheart, Balchen etc.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Early Atlantic fliers. Lindberg - Chamberlain - Amelia Earheart, Balchen etc.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Pepino Garibaldi</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Pepino Garibaldi - 1917</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>L.T. and wife heading for the Malay Forest</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: L.T. and wife heading for the Malay Forest</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>L. T. (right) with General "Hap" Arnold</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: L. T. (right) with General "Hap" Arnold</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Mr. + Mrs. Lowell Thomas and Gustav Lindenthal the famous builder of the great bridges across the Hudson River. In the background is Mr. Otto Merlsle, founder and head of the german airlines - Lufthansa. Picture taken at Tempelhof aerodome in Berlin, in 1926</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Mr. + Mrs. Lowell Thomas and Gustav Lindenthal the famous builder of the great bridges across the Hudson River. In the background is Mr. Otto Merlsle, founder and head of the german airlines - Lufthansa. Picture taken at Tempelhof aerodome in Berlin, in 1926</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>L.T. flanked by "Amos and Andy"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: L.T. flanked by "Amos and Andy"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Caption: L.T. filming a tragedy in the Khybar Pass, where tragedies are an almost daily occurrence. Just ahead of L.T.'s partya mail car was proceeding. It was ambushed by mountaineers. The occupants of the car were shot.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Party in group with Sakeis, [Harry] Chase squatting on right</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Party in group with Sakeis, [Harry] Chase squatting on right</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>L.T. and Field Marshall Lord Allenby, Commander-in-Chief of the victorious army that led the last and greatest of the crusades which freed the Holy Land from the Turks.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: L.T. and Field Marshall Lord Allenby, Commander-in-Chief of the victorious army that led the last and greatest of the crusades which freed the Holy Land from the Turks.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>1200 feet below sea level, Dead Sea Valley during Palestine campaign</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso: 1200 feet below sea level, Dead Sea Valley during Palestine campaign</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1611 -->
+			<!-- Box 1612 -->
+			<c01>
+				<note>Box 1612</note>
+				<did>
+					<unitid>2.1.9.3</unitid>
+					<unittitle>writings</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Good Evening Everybody: From Cripple Creek to Samarkand by Lowell Thomas</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Greenville, "The Treaty City" home of Lowell Thomas, Annie Oakley, Zachary Lansdowne</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Man in uniform]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Caption: 262,490 telegrams; Homer Cain, L.T., Prosper Brunelli</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[man at desk with mustache]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[L.T. with skis on mountain]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[L.T., nine men and chained raccoon in front of airplane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Man in middle; Gibbons</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Lowell Thomas, Lowell Thomas, Jr. and two dogs in front of NBC microphones</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Camera Place; [?] Man - woman - and child; Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: Camera Place; [?] Man - woman - and child; Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Lowell Thomas with Herbert Hoover on porch steps]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Maj. Martin - Alva Harvey; Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: Maj. Martin - Alva Harvey; Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Malaysia; Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso: Malaysia; Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[L.T. riding elephant]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[L.T. as teenager in Colorado]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Caption: Mass meeting at Victor on June 6th, 1904 into which members of the Western Federation of Miners fired</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[L.T. in front of NBC microphone]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Cartoon of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Good Evening Everybody: From Cripple Creek to Samarkand by Lowell Thomas (Afghanistan)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[L.T. in Afghanistan]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Afghanistan; Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>L.T. in the foreground, chatting with the Amir of Afghanistan, King Amanullah Khan, in black astrakhan[?]; and a number of the King's brothers, in the grounds of the royal palace at Kabul.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: L.T. in the foreground, chatting with the Amir of Afghanistan, King Amanullah Khan, in black astrakhan[?]; and a number of the King's brothers, in the grounds of the royal palace at Kabul.; Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Caption: L.T. and party near the Afghan end of the Khyber Pass. In the distance are the mountains and the desert of Afghanistan. The white tents are those of British soldiers encamped at the Indo-Adghan frontier.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Good Evening Everybody: From Cripple Creek to Samarkand by Lowell Thomas (Arabia)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Cannon firing in Arabia]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>The author mounted on a thoroughbred Arabian horse. The Arabs think almost as much of their horses as they do of the members of their own family. They even keep them in the same tent.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: The author mounted on a thoroughbred Arabian horse. The Arabs think almost as much of their horses as they do of the members of their own family. They even keep them in the same tent.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Good Evening Everybody (T. E. Lawrence)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas and T.E. Lawrence]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[T.E. Lawrence]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Good Evening Everybody</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>So Long until Tomarrow (sketches and cartoons)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Prosper Brunelli</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[man with pilot goggles]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Caption: Speed it up Luke We gotta git word to Lowell we open against the Mets mighty soon an' he's supposed to pitch fer us.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Caption: "The majority of radio commentators take a standing or sitting position."</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>So Long until Tomorrow [includes color photographs]</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Task Force Forty Three - 20 Nov '62; Mr. Lowell Thomas (left), renown American radio and news commentator, Rear Admiral David M. Tyree</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Task Force Forty Three - 20 Nov '62; Mr. Lowell Thomas (left), renown American radio and news commentator, Rear Admiral David M. Tyree, USN, Commander, U. S. Naval Support Force Antarctica (center) and U.S. Commerce Secretary the Hon. Luther H. Hodges at the South Pole. (This is an original + must be returned to Wm. Morrow + Co. Publicity Dept.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Task Force Forty Three - 20 Nov '62; Mr. Lowell Thomas (left), renown American radio and news commentator, Rear Admiral David M. Tyree</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Task Force Forty Three - 20 Nov '62; Mr. Lowell Thomas (left), renown American radio and news commentator, Rear Admiral David M. Tyree, USN, Commander, U. S. Naval Support Force Antarctica (center) and U.S. Commerce Secretary the Hon. Luther H. Hodges at the South Pole. (This is an original + must be returned to Wm. Morrow + Co. Publicity Dept.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Sir Edmund Hillery, Wernher von Braun, Capt. Finn Ronne (Antarctic explorer), L.T., Tom Gilliard (New Guinea explorer)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Sir Edmund Hillery, Wernher von Braun, Capt. Finn Ronne (Antarctic explorer), L.T., Tom Gilliard (New Guinea explorer)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Sir Edmund Hillery, Wernher von Braun, Capt. Finn Ronne (Antarctic explorer), L.T., Tom Gilliard (New Guinea explorer)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Left: Frank Stinchfield, famous orthopedic surgion who performed a miricle on me when when we returned from Tibet. "Capt. Eddie" on the right - at the 80th birthday arranged by Fran and L.T. Jr.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Left: Frank Stinchfield, famous orthopedic surgion who performed a miricle on me when when we returned from Tibet. "Capt. Eddie" on the right - at the 80th birthday arranged by Fran and L.T. Jr.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Group given honorary degrees at June, 1977 Dartmouth commencement. Front row, Melvin Douglas, Helen Gahagan Douglas, President John Kemeny, William E. Buchanan. Standing, Yale Professor David Davis, L.T., Sr., Ray Kroc of MacDonalds' fame and legendary football coach Earl Blaik.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Group given honorary degrees at June, 1977 Dartmouth commencement. Front row, Melvin Douglas, Helen Gahagan Douglas, President John Kemeny, William E. Buchanan. Standing, Yale Professor David Davis, L.T., Sr., Ray Kroc of MacDonalds' fame and legendary football coach Earl Blaik.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Lowell Thomas sitting between two men at a table]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Lowell Thomas standing with four other men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>L.T. and Mrs. Hobe Ramsay - founder and head of The Deafness Research Foundation, also a one-time golf champion + friend of Red Moltey; Calette Ramsay</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: L.T. and Mrs. Hobe Ramsay - founder and head of The Deafness Research Foundation, also a one-time golf champion + friend of Red Moltey; Calette Ramsay</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Caption: Hoover (center), Chancellor Burgstahler (left) and Lowell Thomas (right) doze behind Bishop Welch (standing, left) and President Flemming</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: June 11, 1949 Ohio Wesleyan University</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Note: While the 100 86-year-old Bishop (Hunt[?] Welch) makes a long speech inducting Arthur Flemming into the office of Chancellor at Ohio Wesleyan University, in the background three have fallen sound asleep -- on the left retiring Chancellor - Dr. Burgstahler, President Herbert Hoover and L.T.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Walter Hagen, who some golf experts believe to have been the greatest golfer of all time.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Note: Walter Hagen, who some golf experts believe to have been the greatest golfer of all time.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>As we circled the North Pole we drink to our companion, Admiral Donald MacMillan who had been with Peary. Then he proposed a toast to his companions, Matt Henson in particular, and all the 400 explorers who lost their lives attempting to reach the Pole.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Note: As we circled the North Pole we drink to our companion, Admiral Donald MacMillan who had been with Peary. Then he proposed a toast to his companions, Matt Henson in particular, and all the 400 explorers who lost their lives attempting to reach the Pole.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>With Explorer Oral Roberts, on Mount McKinley</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso: With Explorer Oral Roberts, on Mount McKinley</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>So Long until Tomorrow [includes color photographs]</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Another degree, this time at the University of Vermont</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Another degree, this time at the University of Vermont</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>L.T., Jr. and his B-25 [more written semi-legibly]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: L.T. Jr. and his B-25 [more written semi-legibly]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>L.T. Jr., (an his flying pal Ed Seiler) find first world flight flagship on mountain in Alaska where it crashed in 1924.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: L.T. Jr., (an his flying pal Ed Seiler) find first world flight flagship on mountain in Alaska where it crashed in 1924.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas posing with his hat on his knee in front of old building]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Close-up of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Lowell Thomas walking among a crowd of people]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>The History of Civilization Fireplace.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: The History of Civilization Fireplace.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>L.T. Jr. and his mother [Frances Ryan Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: L.T. Jr. and his mother</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>One of my favorite pictures [Close-up of Frances Ryan Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: One of my favorite pictures</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Please cut me out - L. T.; Fran and Sun Oil Tycoon Joe Pew.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Please cut me out - L. T.; Fran and Sun Oil Tycoon Joe Pew.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>L.T. Sr. in Assam on a search for a man-eating tiger.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: L.T. Sr. in Assam on a search for a man-eating tiger.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>How do you like the outfit? Riding on an elephant in the royal procession wearing tails and a top hat!</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso: How do you like the outfit? Riding on an elephant in the royal procession wearing tails and a top hat!</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Father Ross, who for two years conducted Mass, while holding a 6-gun under his cassack.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso: Father Ross, who for two years conducted Mass, while holding a 6-gun under his cassack.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>So Long until Tomorrow</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Count Felix von Luckner, "The Sea Devil," whom Gen. Patton saved from the Russians.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Count Felix von Luckner, "The Sea Devil," whom Gen. Patton saved from the Russians.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Fred Wather[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Fred Wather[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Cooper 18D[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Cooper 18D[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>The Marquis degli Albizzi, super-athlete.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: The Marqius degli Albizzi, super-athlete.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Reeves</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Reeves</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>With Taunegs, Timbuetee. Southern Sahara [Tuaregs?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: With Taunegs, Timbuetee. Southern Sahara</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>So Long until Tomorrow (Prosper Buranelli)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Prosper prepares to bolt from THIS IS YOUR LIFE show.; L.T. with Prosper Buranelli and Ralph Edwards ("This Is Your Life")</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Prosper prepares to bolt from THIS IS YOUR LIFE show.; L.T. with Prosper Buranelli and Ralph Edwards ("This Is Your Life")</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>So Long until Tomorrow (President Dwight D. Eisenhower)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Washn. D.C. - Flanked by Harry Kaluime (left) Vice President of Warner Bors., + Lowell Thomas, Pres. Eishenhower is shown arriving at a Washington Cinema to view a special private showing of Cinerame" 7/6/55; President Eisenhower, one of the many millions who came to see Cinerama, the process than created a screen revolution</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Washn. D.C. - Flanked by Harry Kaluime (left) Vice President of Warner Bors., + Lowell Thomas, Pres. Eishenhower is shown arriving at a Washington Cinema to view a special private showing of Cinerame" 7/6/55; President Eisenhower, one of the many millions who came to see Cinerama, the process than created a screen revolution</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[L.T. with Eisenhower, circa 1940s]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>So Long until Tomorrow (Hammersley Hill)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Hammersley Hill, which has had only two owners since Queen Anne made it a grant to the Hammersley family, more than 200 years ago.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Hammersley Hill, which has had only two owners since Queen Anne made it a grant to the Hammersley family, more than 200 years ago.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Hammersley Hill]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>So Long until Tomorrow (President Herbert Hoover)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>President Hoover and my Dad.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: President Hoover and my Dad.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Herbert Hoover]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>So Long until Tomorrow (T. E. Lawrence)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>T.E. Lawrence on his racing camel. In battle he accidently shot it in the head.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: T.E. Lawrence on his racing camel. In battle he accidently shot it in the head.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>So Long until Tomorrow (Jayne Mansfield)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>L.T. + Jayne Mansfield</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: L.T. + Jayne Mansfield</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>So Long until Tomorrow: From Quaker Hill to Kathmandu by Lowell Thomas (Nepal)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>King of Nepal - Diamond Crown + Bird of Paradise; Mahendra Bir Bikram Shah Deva, King of Shangri La, wearing his crown of diamonds, emeralds, rubies and the white plume of the Bird of Paradise</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: King of Nepal - Diamond Crown + Bird of Paradise; Mahendra Bir Bikram Shah Deva, King of Shangri La, wearing his crown of diamonds, emeralds, rubies and the white plume of the Bird of Paradise</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>The priceless birds of paradise sunbursts we presented to the King and Queen of Nepal at Kathmandu</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: The priceless birds of paradise sunbursts we presented to the King and Queen of Nepal at Kathmandu</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>So Long until Tomorrow: From Quaker Hill to Kathmandu by Lowell Thomas (New Guinea)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>With Canibals in New Guinea the man who came to dinner, and then decided to run like H.-</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: With Canibals in New Guinea the man who came to dinner, and then decided to run like H.-</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>So Long until Tomorrow: From Quaker Hill to Kathmandu by Lowell Thomas (Petra)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>A rose-red temple carved like a cameo from the face of the mountain. (only to be used by permission of Lowell Thomas)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: A rose-red temple carved like a cameo from the face of the mountain. (only to be used by permission of Lowell Thomas)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>"Pharaoh's Treasury" or the "Temple of Isis" (only to be used by permission of Lowell Thomas)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: "Pharaoh's Treasury" or the "Temple of Isis" (only to be used by permission of Lowell Thomas)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>So Long until Tomorrow: From Quaker Hill to Kathmandu by Lowell Thomas (Skiing)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>John Gow, a champion skier in spite of having lost both legs. He is following me.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: John Gow, a champion skier in spite of having lost both legs. He is following me.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>When I tried in vain to make skiers of two ex-heavyweight champions: -Eddie Eagan (amateure); and Gene Tunny, the legendary pro</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note: When I tried in vain to make skiers of two ex-heavyweight champions: -Eddie Eagan (amateure); and Gene Tunny, the legendary pro</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Ski champion Toni Matt, the only skier ever to schuss[?] the Mt. Washington precipice known as the Tuckerman Headwall.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Ski champion Toni Matt, the only skier ever to schuss[?] the Mt. Washington precipice known as the Tuckerman Headwall.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Erling Strom, conquerer of Mt. McKinley, with a ski companion</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Erling Strom, conquerer of Mt. McKinley, with a ski companion</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Sig Buchmayr executes an acrobatic jump on the Tuckerman Headwall</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Sig Buchmayr executes an acrobatic jump on the Tuckerman Headwall</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>I prefer this one. But cut off woman on left an the two on right. Caption: - Jim Parker (skis) who was last in the unexplored rapids of the Indus. On right, Chris Young, co-star with Jim in Search for Paradise</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: I prefer this one. But cut off woman on left an the two on right. Caption: - Jim Parker (skis) who was last in the unexplored rapids of the Indus. On right, Chris Young, co-star with Jim in Search for Paradise</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>So Long until Tomorrow: From Quaker Hill to Kathmandu by Lowell Thomas (Jim Thorpe)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Many believe him to have been the greatest all around athlete of all time, the legendary Jim Thorpe, with Lowell Jr, at the Taft School</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Many believe him to have been the greatest all around athlete of all time, the legendary Jim Thorpe, with Lowell Jr, at the Taft School</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>So Long until Tomorrow: From Quaker Hill to Kathmandu by Lowell Thomas (Tibet)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>The Potala - one of the wonders of the world. Almost as lofty as the Empire State Building built without elevators and no steel. Polata-reflection. A few pedestrians in fore.[ground]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: The Potala - one of the wonders of the world. Almost as lofty as the Empire State Building built without elevators and no steel. Polata-reflection. A few pedestrians in fore.[ground]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>L.T. Jr., Rimshi Kyipup, Luishahr Djoza Lama, Secretary of War, Dorje Changwaba and L.T. Sr.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: L.T. Jr., Rimshi Kyipup, Luishahr Djoza Lama, Secretary of War, Dorje Changwaba and L.T. Sr.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Each evening we paid our men who had provided the caravan for that day</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Each evening we paid our men who had provided the caravan for that day</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>After the accident, homeward bound -- hopefully -- across the lofty Tibetan plateau, while his bearers chanted: "Oh Lord Buddha, lighten out load!"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: After the accident, homeward bound -- hopefully -- across the lofty Tibetan plateau, while his bearers chanted: "Oh Lord Buddha, lighten out load!"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>First broadcast ever made from Tibet. Also, the first ever made anywhere with battery equipment.; L.T. Sr. recording a broadcast by candlelight, in a dark bungalow on the way to Lhasa. 1st ever in Tibet - and 1st anywhere with battery equipment.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: First broadcast ever made from Tibet. Also, the first ever made anywhere with battery equipment.; L.T. Sr. recording a broadcast by candlelight, in a dark bungalow on the way to Lhasa. 1st ever in Tibet - and 1st anywhere with battery equipment.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Dalai Lama on an outdoor throne. On the right, Tokra, a high lama selected to rule until Dalai Lama came of age.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Dalai Lama on an outdoor throne. On the right, Tokra, a high lama selected to rule until Dalai Lama came of age.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>His Holiness, age 16 on his throne at Norbu Linga. The Lord Chamberlain on right</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: His Holiness, age 16 on his throne at Norbu Linga. The Lord Chamberlain on right</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Injured Newscaster Returns with Message fro Truman New York Noted author and newscaster Lowell Thomas (center), who was injured when he was thrown by a horse on a Tibetian mountain pass, is shown being greeted by his father, Dr. Harry C. Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: Injured Newscaster Returns with Message fro Truman New York Noted author and newscaster Lowell Thomas (center), who was injured when he was thrown by a horse on a Tibetian mountain pass, is shown being greeted by his father, Dr. Harry C. Thomas, on his arrival, with his son, Lowell, Jr. (left), at LaGuardia Airport today. Thomas told newsmen that after his injury, he was carried for 16 days and nights by native bearers to a town where he could recieve medical aid. Although his injury has been diagnosed as a broken thigh bone, he is able to walk on crutches. Also, Thomas is carrying a personal message from the Tibetian government to President Truman along with an official scroll from the Dalai Lama, the boy ruler of the inaccessible nation. Thomas is believed the first westerner in history to be given such a message from the religious rulers of Tibet. MCS 10/16/49</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Note: [envelope] We return from Tibet, and are met by my father</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>So Long until Tomorrow: From Quaker Hill to Kathmandu by Lowell Thomas (Bertha Spafford Vester)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Bertha Vester, a modern Florence Nightingale whose humanitarian work spanned some seven decades.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Bertha Vester, a modern Florence Nightingale whose humanitarian work spanned some seven decades.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: Bertha Vester</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>So Long until Tomorrow: From Quaker Hill to Kathmandu by Lowell Thomas (World War II)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[L.T. with General Patton]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[L.T. with Chiang Kai-Shek]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Captain Eddie (Rickenbacker) and General Jimmy (Doolittle) help me celebrate an anniversary</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note: Captain Eddie (Rickenbacker) and General Jimmy (Doolittle) help me celebrate an anniversary</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Commander Grow</unittitle>
+						<unitdate label="Date">circa early 1930s</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Study in Contrasts [semi-legible] note the plane in the back - a forced landing in a rever bed - [?] in a storm. [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Study in Contrasts [semi-legible] note the plane in the back - a forced landing in a rever bed - [?] in a storm. [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>In camp on my [?] Azupizin[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: in camp on my [?] Azupizin[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>86- Crossing the Aquippa[?] rivers at Aquippign[? - Exploration. Fording  streams on the trail</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: 86- Crossing the Aquippa[?] rivers at Aquippign[? - Exploration. Fording  streams on the trail</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Up stream in canoe 1 mile an hour - The use paddles going down.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: up stream in canoe 1 mile an hour - The use paddles going down.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>83 [?] a white chief not [?]- note the wad of Coca in each cheek</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: 83 [?] a white chief not [?]- note the wad of Coca in each cheek</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>The Never Neverland Back of the Beyond by Lowell Thomas</unittitle>
+						<unitdate label="Date">circa late 1950s</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas standing with two other men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas standing with three other men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Men climbing down rocky side with camera equipment, Lowell Thomas toward center]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas standing on rocky hillside]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas wiping sweat from his brow]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Lowell Thomas talking with another man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas, second from right, in group picture]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>These Men Shall Never Die by Lowell Thomas</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>The Battle of Coral Sea: Japanese Aircraft Carrier, Ryukaku. Note U.S. Navy torpedo plans veering off to the right after dropping aerial torpedo (white splash, right center.)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: The Battle of Coral Sea: Japanese Aircraft Carrier, Ryukaku. Note U.S. Navy torpedo plans veering off to the right after dropping aerial torpedo (white splash, right center.)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>June 12, 1942 - The Battle of the Coral Sea: (k) The Japanese Aircraft Carrier, Ryukaku being circled by three U.S. Navy torpedo planes, which are closing in for another attack.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: June 12, 1942 - The Battle of the Coral Sea: (k) The Japanese Aircraft Carrier, Ryukaku being circled by three U.S. Navy torpedo planes, which are closing in for another attack.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Sept. 7, 1942 - Battle of Midway, June 4th, 5th and 6th, 1942: General view of burning oil tanks on Midway Island after they were hit by Japanese bombs. Note the gooney birds in the foreground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Sept. 7, 1942 - Battle of Midway, June 4th, 5th and 6th, 1942: General view of burning oil tanks on Midway Island after they were hit by Japanese bombs. Note the gooney birds in the foreground.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Sept. 7, 1942 - Battle of Midway, June 4th, 5th and 6th, 1942: A general view of the damage done on Midway Island before the Japanese raiders were beaten off.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Sept. 7, 1942 - Battle of Midway, June 4th, 5th and 6th, 1942: A general view of the damage done on Midway Island before the Japanese raiders were beaten off.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Sept. 7, 1942 - Battle of Midway, June 4th, 5th and 6th, 1942: This is what was left of a Japanese Zero plane shot down on Midway during the raid.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Sept. 7, 1942 - Battle of Midway, June 4th, 5th and 6th, 1942: This is what was left of a Japanese Zero plane shot down on Midway during the raid.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Sept. 7, 1942 - Battle of Midway, June 4th, 5th and 6th, 1942: The interior of one of the hangers on Midway Island, damaged during the raid.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Sept. 7, 1942 - Battle of Midway, June 4th, 5th and 6th, 1942: The interior of one of the hangers on Midway Island, damaged during the raid.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Sept. 7, 1942 - Battle of Midway, June 4th, 5th and 6th, 1942: "There go the Marines!" Marine bombers take off from Midway Island to intercept the enemy coming to attack this American outpost.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Sept. 7, 1942 - Battle of Midway, June 4th, 5th and 6th, 1942: "There go the Marines!" Marine bombers take off from Midway Island to intercept the enemy coming to attack this American outpost.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>December 21, 1942 - Stricken Japanese Cargo Ships - Four plumes of smoke, one just barely discernible on the horizon near the tip of the island in the background, arise from as many Japanese cargo vessels destroyed by U.S. forces in the Battle of Guadalcanal. The vessels were found beached at Tassafaronga, about 7 1/2 miles west of U.S. positions on Guadalcanal November 15, 1942 and were destroyed by bombs, artillery and naval gun fire. In addition the enemy lost 11 warships, including one battleship, and eight transports and suffered damage to seven other wasships. American losses in the battle were two light cruisers and six destroyers.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: December 21, 1942 - Stricken Japanese Cargo Ships - Four plumes of smoke, one just barely discernible on the horizon near the tip of the island in the background, arise from as many Japanese cargo vessels destroyed by U.S. forces in the Battle of Guadalcanal. The vessels were found beached at Tassafaronga, about 7 1/2 miles west of U.S. positions on Guadalcanal November 15, 1942 and were destroyed by bombs, artillery and naval gun fire. In addition the enemy lost 11 warships, including one battleship, and eight transports and suffered damage to seven other wasships. American losses in the battle were two light cruisers and six destroyers.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>December 28, 1942 - Japanese transports, hit by U.S. surface ships and aircraft, are seen beached and burning at Tassafaronge, seven and one half miles from American positions on Guadalcanal, on November 16, 1942. They were the only ships to reach the island of a powerful Japanese fleet which attempted a mass attack on Guadalcanal, but which was crushed in the fleet actions of Nov. 12-15.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: December 28, 1942 - Japanese transports, hit by U.S. surface ships and aircraft, are seen beached and burning at Tassafaronge, seven and one half miles from American positions on Guadalcanal, on November 16, 1942. They were the only ships to reach the island of a powerful Japanese fleet which attempted a mass attack on Guadalcanal, but which was crushed in the fleet actions of Nov. 12-15.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>An American task force is shown while being attached from the air in the Battle of Santa Cruz, Oct. 26, 1942. A Carrier on the right is sharply turning. The U.S. destroyer SMITH (center) has just been struck by a burning, falling Japanese plane. On the left two screening vessels are seen.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: An American task force is shown while being attached from the air in the Battle of Santa Cruz, Oct. 26, 1942. A Carrier on the right is sharply turning. The U.S. destroyer SMITH (center) has just been struck by a burning, falling Japanese plane. On the left two screening vessels are seen.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>HAVOC--Carnage wrought among Japanese attackers who tried unsuccessfully to storm Marines machine gun positions during Battle of Tenaru River, August 21, 1942.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: HAVOC--Carnage wrought among Japanese attackers who tried unsuccessfully to storm Marines machine gun positions during Battle of Tenaru River, August 21, 1942.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>These Men Shall Never Die by Lowell Thomas</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>5th Air Force</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: 5th Air Force</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Lt. Col. Merritt A. Edson, USMC</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Lt. Col. Merritt A. Edson, USMC</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Ensign Francis R. Register U.S.N.R.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Ensign Francis R. Register U.S.N.R.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Schmidt, Albert Andrew, U.S. Marine Corps.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Schmidt, Albert Andrew, U.S. Marine Corps.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Verso: Comdr. H.J. Schonland U.S.N.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Comdr. H.J. Schonland U.S.N.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>1. Lieutenant Harold H. (Swede) Larsen, commander of the Navy's famous Torpedo Squadron Eight, has been on Pacific duty since before Pearl Harbor. His squadron has just completed four months active duty off Guadalcanal during which only one plane was lost in 27 attacks on Nipponese ships and positions. The ribbons on his breast include those of the Navy Cross and the Distinguished Flying Cross."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: 1. Lieutenant Harold H. (Swede) Larsen, commander of the Navy's famous Torpedo Squadron Eight, has been on Pacific duty since before Pearl Harbor. His squadron has just completed four months active duty off Guadalcanal during which only one plane was lost in 27 attacks on Nipponese ships and positions. The ribbons on his breast include those of the Navy Cross and the Distinguished Flying Cross."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Maj. John F. Dobbin</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Maj. John F. Dobbin</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Only Navy Nurse to Escape from Corregidor - Miss Ann Agnes Bernatitus, USNNC, the only Navy nurse to escape from Bataan and the siege of Corregidor, left the Manila Bay fortress on a submarine two days before the surrender. She returned to this country only a few days ago.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: Only Navy Nurse to Escape from Corregidor - Miss Ann Agnes Bernatitus, USNNC, the only Navy nurse to escape from Bataan and the siege of Corregidor, left the Manila Bay fortress on a submarine two days before the surrender. She returned to this country only a few days ago.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>January 2, 1943 - This is machinist Donald E. Runyon, USN, of Fighting Squadron Six, who shot down eight Japanese planes in aerial combat during the month of August, 1942. He bagged four of the planes in a single day. Runyon lives in Ellisville, Miss.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: January 2, 1943 - This is machinist Donald E. Runyon, USN, of Fighting Squadron Six, who shot down eight Japanese planes in aerial combat during the month of August, 1942. He bagged four of the planes in a single day. Runyon lives in Ellisville, Miss.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Lieut. Comr. Frank W. Fenno, Jr. USN</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Lieut. Comr. Frank W. Fenno, Jr. USN</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Major Walter C. Beckham, De Funiak Springs, Fla. (Missing) Fifty-seven combat missions. 123:20 combat hours. Eighteen enemy planes destroyed. Distinguished Service Cross, Silver Star, Distunguished Flying Cross with three clusters, Air Medal with three clusters.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Note: Major Walter C. Beckham, De Funiak Springs, Fla. (Missing) Fifty-seven combat missions. 123:20 combat hours. Eighteen enemy planes destroyed. Distinguished Service Cross, Silver Star, Distunguished Flying Cross with three clusters, Air Medal with three clusters.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Colonel Duncan and Major Beckham chatting at the snack bar after a mission.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Note: Colonel Duncan and Major Beckham chatting at the snack bar after a mission.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Walter C. Beckham</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso: Walter C. Beckham</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Maj. Walter Beckham</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16-verso</unitid>
+							<unittitle>Verso: Maj. Walter Beckham</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>1st Lt. David C. Waybur Cavalry. 3rd Reconnaissance Troop, 3rd Infantry Div., USA</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso: 1st Lt. David C. Waybur Cavalry. 3rd Reconnaissance Troop, 3rd Infantry Div., USA</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>LT. + J.G. Nicholas Nooy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18-verso</unitid>
+							<unittitle>Verso: LT. + J.G. Nicholas Nooy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>LT. J.G. Nicholas Nooy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19-verso</unitid>
+							<unittitle>Verso: LT. J.G. Nicholas Nooy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Lieutenant Junior Grade Nicholas Nooy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20-verso</unitid>
+							<unittitle>Verso: Lieutenant Junior Grade Nicholas Nooy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>Pvt. Joseph Martinez</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21-verso</unitid>
+							<unittitle>Verso: Pvt. Joseph Martinez</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Joe Martinez, Right cartrage belt on shoulder</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22-verso</unitid>
+							<unittitle>Verso: Joe Martinez, Right cartrage belt on shoulder</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>Lt. Jerry Kisters</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23-verso</unitid>
+							<unittitle>Verso: Lt. Jerry Kisters</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>Lt. Jerry Kisters</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24-verso</unitid>
+							<unittitle>Verso: Lt. Jerry Kisters</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>Lt. Jerry Kisters</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25-verso</unitid>
+							<unittitle>Verso: Lt. Jerry Kisters</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>Lt. Robert Spence Johnson, Mesa, Arizona</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26-verso</unitid>
+							<unittitle>Verso: Lt. Robert Spence Johnson, Mesa, Arizona</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>Lt. Robert Spence Johnson, Mesa, Arizona</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27-verso</unitid>
+							<unittitle>Verso: Lt. Robert Spence Johnson, Mesa, Arizona</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>Lt. Robert Spence Johnson, Mesa, Arizona</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28-verso</unitid>
+							<unittitle>Verso: Lt. Robert Spence Johnson, Mesa, Arizona</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>To my most beloved family, From "Donnie Boy"; Don S. Gentile</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29-verso</unitid>
+							<unittitle>Verso: To my most beloved family, From "Donnie Boy"; Don S. Gentile</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>To my most beloved family, From Don; Don S. Gentile</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30-verso</unitid>
+							<unittitle>Verso: To my most beloved family, From Don; Don S. Gentile</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>Don S. Gentile</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31-verso</unitid>
+							<unittitle>Verso: Don S. Gentile</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>Captain Charles Purcell Cecil, USN - Helena Series</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32-verso</unitid>
+							<unittitle>Verso: Captain Charles Purcell Cecil, USN - Helena Series</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>Duane W. Beeson</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33-verso</unitid>
+							<unittitle>Verso: Duane W. Beeson</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>Capt. Duane W. Beeson</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34-verso</unitid>
+							<unittitle>Verso: Capt. Duane W. Beeson</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>Captain Richard Ira Bong</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35-verso</unitid>
+							<unittitle>Verso: Captain Richard Ira Bong</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>Capt. Richard I. Bong (now mayor)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36-verso</unitid>
+							<unittitle>Verso: Capt. Richard I. Bong (now mayor)</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>Lieutenant Commander Frederick B. Warder, USN</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37-verso</unitid>
+							<unittitle>Verso: Lieutenant Commander Frederick B. Warder, USN</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>Note[PDF]: [letter from Mary Warder to Lowell Thomas concening photograph of Commander Warder</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>Pvt. Junior N. Van Noy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>Note: Pvt. Junior N. Van Noy</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>These Men Shall Never Die by Lowell Thomas</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Portrait of uniformed man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Man hugging a baby]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Three men standing together on road, the two at the sides are wearing graduation caps and gowns]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Group of men in uniforms standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Boy standing on steps]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[House]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Receiving DFC from Brig. Gen. W.C. Woodbury.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Receiving DFC from Brig. Gen. W.C. Woodbury.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Two men in flight gear, shaking hands in front of airplane propellar]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Carl + Capt. Mahnoin[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: Carl + Capt. Mahnoin[?]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>These Men Shall Never Die by Lowell Thomas</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>December 1, 1942 - (h) Casablanca, French Morocco - Two French destroyers (foreground) and a light French cruiser beached north of Casablanca Harbor.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: December 1, 1942 - (h) Casablanca, French Morocco - Two French destroyers (foreground) and a light French cruiser beached north of Casablanca Harbor.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>December 1, 1942 - (c) Casablanca, French Morocco - On the morning after the first attack this aerial reconnaissance photo was taken from a U.S. Navy plane. It shows five burning French ships in the various harbors of Casablanca. One can be seen burnign at the end of the large pier (top). Theother four are in the outer harbor, ranging from center to left, and the extreme lower left corner. At the end of the large pier, the French merchantship Porthos can be seen lying on its side.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: December 1, 1942 - (c) Casablanca, French Morocco - On the morning after the first attack this aerial reconnaissance photo was taken from a U.S. Navy plane. It shows five burning French ships in the various harbors of Casablanca. One can be seen burnign at the end of the large pier (top). Theother four are in the outer harbor, ranging from center to left, and the extreme lower left corner. At the end of the large pier, the French merchantship Porthos can be seen lying on its side.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>December 1, 1942 - (d) Casablanca, French Morocco - A closeup view from the starboard side of the unfinished French battleship, Jean Bart, discloses damage near the bow and near the stern. Note also the shade and pier damaged as the result of bombing and shell fire from U. S. Fleet.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: December 1, 1942 - (d) Casablanca, French Morocco - A closeup view from the starboard side of the unfinished French battleship, Jean Bart, discloses damage near the bow and near the stern. Note also the shade and pier damaged as the result of bombing and shell fire from U. S. Fleet.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>September, 1942 - HIT--Periscope photograph made by Pacific Fleet Submarine shows big Japanese freighter (not the case as in accompanying picture) broken in two after torpedoing in enemy homeland waters, and sinking.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: September, 1942 - HIT--Periscope photograph made by Pacific Fleet Submarine shows big Japanese freighter (not the case as in accompanying picture) broken in two after torpedoing in enemy homeland waters, and sinking.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>An American Sub's Eye View of Sinking of a Japanese Destroyer: This remarkable photograph, the first combat action photograph taken through the periscope of an American submarine, shows and enemy destroyer of one of the latest and largest types after it had been struck by two torpedoes launched by the submarine from which the picture was taken. The destroyer sank in nine minutes. Note the Rising Sin insignia on top of the turret to the left, ehich serves as an identification mark for aircraft. Also note the two men in white scrambling over the conning tower to the right. The marks on the left and the center line are etchings on the periscope.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: An American Sub's Eye View of Sinking of a Japanese Destroyer: This remarkable photograph, the first combat action photograph taken through the periscope of an American submarine, shows and enemy destroyer of one of the latest and largest types after it had been struck by two torpedoes launched by the submarine from which the picture was taken. The destroyer sank in nine minutes. Note the Rising Sin insignia on top of the turret to the left, ehich serves as an identification mark for aircraft. Also note the two men in white scrambling over the conning tower to the right. The marks on the left and the center line are etchings on the periscope.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>USS San Francisco (CA38), Heavy Cruiser</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: USS San Francisco (CA38), Heavy Cruiser</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>The plane takes off in a cloud of spray as the mission "gets under way."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: The plane takes off in a cloud of spray as the mission "gets under way."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Last Pre War Photos from Wake Island - Wake Island as seen from the bow of a Navy Patrol Vessel</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: Last Pre War Photos from Wake Island - Wake Island as seen from the bow of a Navy Patrol Vessel</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[US Airplane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>November 6, 1942 - Remnant of a Rising Sun Bomber -- This wing section was the largest single piece remaining of a Japanese bomber after its bomb load was touched off by a U.S. Marine anti-aircraft shell at 20,000 feet. The plane disintegrated in the sky, bits raining down over a wide area.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: November 6, 1942 - Remnant of a Rising Sun Bomber -- This wing section was the largest single piece remaining of a Japanese bomber after its bomb load was touched off by a U.S. Marine anti-aircraft shell at 20,000 feet. The plane disintegrated in the sky, bits raining down over a wide area.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Boeing B-17A</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: Boeing B-17A</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>December 2, 1942 - USS Oklahoma: Rescue crews are shown here working on the upturned hull of the 29,000-ton battleship USS Oklahoma, which capsised in Pearl Harbor after being blasted by Japanese warplanes. Holes were burned through the hull to permit the rescue of some of the men trapped below. Note one of the Oklahoma'S launches in the foreground. The battleship, USS Marylandis in the background.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso: December 2, 1942 - USS Oklahoma: Rescue crews are shown here working on the upturned hull of the 29,000-ton battleship USS Oklahoma, which capsised in Pearl Harbor after being blasted by Japanese warplanes. Holes were burned through the hull to permit the rescue of some of the men trapped below. Note one of the Oklahoma'S launches in the foreground. The battleship, USS Marylandis in the background.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>The USS Oklahoma, shown capsised following Japanese attack at Pearl Harbor, Hawaii Dec. 7, 1941.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso: The USS Oklahoma, shown capsised following Japanese attack at Pearl Harbor, Hawaii Dec. 7, 1941.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>December 2, 1942 - USS Maryland: Moored inboard of the USS Oklahoma which capsized, the 31,500 -ton Maryland was damaged slightly and was one of the first ships to rejoin the fleet after the Japanese attack."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso: December 2, 1942 - USS Maryland: Moored inboard of the USS Oklahoma which capsized, the 31,500 -ton Maryland was damaged slightly and was one of the first ships to rejoin the fleet after the Japanese attack."</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>American soldiers are shown giving a drink to a dying Jap. Bataan Peninsula, P.I.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Note: American soldiers are shown giving a drink to a dying Jap. Bataan Peninsula, P.I.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Anti-tank troops moving an anti-tank gun into the firing position during recent maneuvers in P.I.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Note: Anti-tank troops moving an anti-tank gun into the firing position during recent maneuvers in P.I.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>These soldiers are shown listening in to the "Voice of Freedom." Somewhere behind the lines this newscast was a constant headache to the Japs. Hatnan Peninsula, P.I.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Note: These soldiers are shown listening in to the "Voice of Freedom." Somewhere behind the lines this newscast was a constant headache to the Japs. Hatnan Peninsula, P.I.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>On the Trail of the Condor by Lowell Thomas (suggestions for illustrations)</unittitle>
+						<unitdate label="Date">circa 1931</unitdate>
+						<container id="1612" type="box">1612</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note: Pan America, Suggestions for Illustrations</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Aconcagua - highest peak of the Americas, taken from Panagra Mailplane between Santiago, Chile, and Buenos Aries</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Aconcagua - highest peak of the Americas, taken from Panagra Mailplane between Santiago, Chile, and Buenos Aries</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Mollando</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Mollando</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Coastal Andes South of Huarmey</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Coastal Andes South of Huarmey</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Country Club, Lima</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Country Club, Lima</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Las Palmas Aerodrome, Lima. Showing part of The Pan-American Grace[?] Airways air fleet.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Las Palmas Aerodrome, Lima. Showing part of The Pan-American Grace[?] Airways air fleet.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Panagna Liner over Camana, Peru</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Panagna Liner over Camana, Peru</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Man and mule in penguin rookery]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Lima 11,500, Alt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso: Lima 11,500, Alt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Panagra Mail and Paneryer Planes in flight between Trujillo and Lima, Peru.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Panagra Mail and Paneryer Planes in flight between Trujillo and Lima, Peru.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Pan-American Grace Airways "Panagra" - Ford Trimotor Panagra Mail Plane Flying Paupa[?] between Mandoza and Buenos Aires</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: Pan-American Grace Airways "Panagra" - Ford Trimotor Panagra Mail Plane Flying Paupa[?] between Mandoza and Buenos Aires</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1612 -->
+		</dsc>
+	</archdesc>
+</ead>

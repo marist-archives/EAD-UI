@@ -1,0 +1,2859 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/LanternSlides2.1.2/untitledPhotographs2.1.2.4.3.2.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Untitled photographs</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.2.4.3.2</unitid>
+			<unittitle>Untitled photographs</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1373 -->
+			<c01>
+				<note>Box 1373</note>
+				<did>
+					<unitid>2.1.2.4.3.2</unitid>
+					<unittitle>Untitled photographs</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Man seated on pole</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">1332</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Men working cloth[?]</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">8418</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">28116</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Boy on donkey</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">28126</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">28150</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Building exterior, Bulgarian flag</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">28153</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Soldiers on parade</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">28192</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Panorama</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">28217</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Panorama of canyon</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">28219</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Panorama of canyon</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">28222</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Panorama of canyon</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">28223</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Panorama of canyon</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">28239</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Arch</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">35105</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">35108</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Tower</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">35138</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Flag of France</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index">36948</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>View of the Basilica Palladiani and the clock tower, Vicenza, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Arc de Triomphe du Carrousel, Paris, France</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Panorama, seaside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Panorama, seaside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Panorama, seaside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Panorama, seaside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Panorama, seaside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Panorama, seaside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Panorama, seaside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Panorama, rocks and seaside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1373" type="box">1373</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1373 -->
+			<!-- Box 1374 -->
+			<c01>
+				<note>Box 1374</note>
+				<did>
+					<unitid>2.1.2.4.3.2</unitid>
+					<unittitle>Untitled photographs</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Panorama, rocks and seaside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Panorama, seaside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Panorama, city and seaside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Panorama, city and seaside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Panorama, waterfalls</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Panorama, mountains</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Panorama, mountains and lake</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Panorama, mountains</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Panorama, mountains</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Panorama, mountains</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Panorama, mountains, man in foreground</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Panorama, mountains, building and men in distance</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Panorama, mountains and clouds</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Panorama, mountains in distance</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Panorama, mountains</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Panorama, mountains and buildings</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Panorama, lake, mountains in distance</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Panorama, mountains</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Panorama, mountains, men in boat in foreground</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Panorama, town, mountains in distance</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Panorama, city</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Panorama, town, tree in foreground</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Panorama, town</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Panorama, town</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Panorama, town</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Panorama, town</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Panorama</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Panorama</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Panorama</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Panorama</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Panorama</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Panorama</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Panorama</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Church</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Plaza of church</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Building facade</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>St. Mark’s Basilica, Venice, Italy</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1374" type="box">1374</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1374 -->
+			<!-- Box 1375 -->
+			<c01>
+				<note>Box 1375</note>
+				<did>
+					<unitid>2.1.2.4.3.2</unitid>
+					<unittitle>Untitled photographs</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Damaged buildings</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Ruins of buildings</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Building exterior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Building interior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Building interior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Building interior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Building interior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Building interior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Building interior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Building interior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Building interior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Building interior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Building interior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Building interior</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1375" type="box">1375</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1375 -->
+			<!-- Box 1376 -->
+			<c01>
+				<note>Box 1376</note>
+				<did>
+					<unitid>2.1.2.4.3.2</unitid>
+					<unittitle>Untitled photographs</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Men in uniform</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Man in uniform</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Man in uniform</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Man in uniform</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Man in uniform</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Man in uniform</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Man in uniform</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Man in uniform</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Man carrying walking stick and sack</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Man fishing</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Man carrying brooms</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Man with large basket on head</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Men wearing hats</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Clergyman</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Man</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Man</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Man</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Man</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Man</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Woman</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Woman</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1376" type="box">1376</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1376 -->
+			<!-- Box 1377 -->
+			<c01>
+				<note>Box 1377</note>
+				<did>
+					<unitid>2.1.2.4.3.2</unitid>
+					<unittitle>Untitled photographs</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Woman</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Woman</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Family</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Soldier aboard ship</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Soldiers aboard ship</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Soldiers aboard ship</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Soldier, snow</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Soldiers, snow</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Soldiers, snow</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Soldiers, snow</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Soldier, trench</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Soldiers, trench</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Soldiers, trench</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Soldiers, trench</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Two soldiers by waterside</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Soldier asleep on road</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Soldier on balcony</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Soldier and child</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Soldiers, Germany</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Soldiers gather before building</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Soldiers on horseback</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Soldiers on parade</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Soldiers looking through binoculars from ridge</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Soldiers posing</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Soldiers posing</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>First officer of San Pablo</unittitle>
+						<unitdate label="Date">circa 1918</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Second officer of San Pablo, Mr. Small</unittitle>
+						<unitdate label="Date">circa 1918</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Captain of San Pablo with his bulldog looking through a life saver</unittitle>
+						<unitdate label="Date">circa 1918</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Amphitheater</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Arched bridge</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Bridge</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Canal</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Cabins</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Arch</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Arch</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Two men and a woman</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1377" type="box">1377</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1377 -->
+			<!-- Box 1378 -->
+			<c01>
+				<note>Box 1378</note>
+				<did>
+					<unitid>2.1.2.4.3.2</unitid>
+					<unittitle>Untitled photographs</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Man lying down with large rock on him</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Man with skis</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Bicyclists</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Train depot</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Railway station</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Ships in harbor</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Ships in harbor</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Pier, horse drawn wagons</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Wagon train</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Cattle pulling plow</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Barrels on pier</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Man standing beside oxen pulling wagon</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Dwelling, horses</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Sleds pulled by horses</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Painting</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Painting</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Painting</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Totem</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Statue</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Sculpture of lion</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Sculpture</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Pond</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Trees</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Trees</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Trees</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Trees</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Trees</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Trees</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Trees</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Flowers</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Daffodils</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Map of North Sea and Baltic Sea</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Map of South America</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Map of Balkan states</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Map of India</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Mexico[?]</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Passion play</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Panorama, mountains, man in foreground</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Hotel Pesada del los Expressos</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1378" type="box">1378</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1378 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

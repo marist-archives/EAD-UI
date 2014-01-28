@@ -1,0 +1,4513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Malaya</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.1.5</unitid>
+		<unittitle>Malaya</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+<!-- Box 1344 -->
+<c01>
+<note>Box 1344</note>
+<did>
+<unitid>2.1.2.1.5</unitid>
+<unittitle>Malaya</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Ipoh Town Hall, people on street 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-600	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Lahat Mine looking down on buildings in huge pit	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-603	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Gopeng consolidated mine, panorama of pit	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-605	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Gopeng Consolidated Mine, coolie with basket in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-606	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Lahat Mine with Lowell Thomas in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-607	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Lahat Mine with Lowell Thomas in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-607	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Lahat Mine, two hydraulic monitors	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-609	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Lahat Mine, one hydraulic monitor, side view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-610	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Smaller mine, nearer view, seven men working	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-615	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Person fishing and tin mining	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-619	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Person fishing and tin mining, more action (Note: have Miss Heyder make line and net as distinct as possible)	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-620	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Person fishing and tin mining, more action (Note: have Miss Heyder make line and net as distinct as possible)	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-620	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Man wearing hat covered with white clay 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-624	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Sakai family in front of their home looking away from camera	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-629	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Sakai family in front of their home with dog, looking at camera	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-630	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Sakai family in front of their home, one man, two women, babies, and little girl 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-631	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Sakai house, woman standing holding baby, old woman sitting	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-633	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Sakai family in front of home 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-635	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Two Sakai men with blowpipe 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-636	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Old Sakai man, full figure 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-637	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Old Sakai man, close-up 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-638	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Sakai man wearing sarong skirt	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-639	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Sakai man with sarong skirt, close-up, side view 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-640	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Sakai man with head like prize fighter 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-642	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Sakai beauty holding baby 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-645	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Old Sakai woman pounding betel nut, front view 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-648A	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Old woman chewing betel nut 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-649	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Kuala Lumpur government building	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-652	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Kuala Lumpur bungalow on High Hill	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-653	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Kuala Lumpur mosque	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index">6-654	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1344 -->
+<!-- Box 1345 -->
+<c01>
+<note>Box 1345</note>
+<did>
+<unitid>2.1.2.1.5</unitid>
+<unittitle>Malaya</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Malay house on piles, low tide, many poles in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-662	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Malay house on piles, low tide, many poles in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-662	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Malay village at fairly high tide, ladders in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-664	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Malay village at fairly high tide, five sampans	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-665	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Malay Village at fairly high tide, sampan reflection	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-666	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Malay Village at fairly high tide, sampan reflection	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-666	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Malay house on piles, good reflection	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-667	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Duncan Roberts’s bungalow from sea, low tide	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-668	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Mrs. Frances Ryan Thomas reading to Lowell Thomas at Duncan Robert’s bungalow	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-670	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Sunrise over sea near Duncan Roberts’s bungalow, low tide 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-676	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Sunrise through palms near Duncan Roberts’s bungalow, small boat in distance 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-678	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Fishing boat passing palms  (Lowell Thomas note: Put clouds from another negative in sky for slide)	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-683	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Fishing boat passing palms  (Lowell Thomas note: Put clouds from another negative in sky for slide)	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-683	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Bungalow where Harry Chase lived when at Duncan Roberts’s house 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-685	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Duncan Roberts planting palms 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-686	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Bungalow, sailing boats, Lowell Thomas (wearing bathing costume) running on beach 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-687	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Small junk, pointed sail, front view 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-700	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Small junk with pointed sail and sampan under sail following behind 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-701	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Small junk with pointed sail, front view 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-702	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Junk with two pointed sails, large front sail, front view, distant 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-705	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Junk with two pointed sails, large front sail, front view, nearer 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-706	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Large junk with three sails, and steamer in distance 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-707	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Small vessel which is cross between junk and sailing ship with three sails 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-709	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Large junk with three sails, extra fine copy	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-710 	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Large junk, other ships in background	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Large junk with three sails, small portion of stern of steamer showing on left 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-711	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Large junk with three sails, two sail junk on left 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-712	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Large junk with three sails, row boat in distance 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-713	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Large junk with three sails, row boat almost alongside 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-714	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Large junk with three sails, masts of junks and large sailing ships in distance 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-715	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Large junk with three sails, masts of junks and large sailing ships in distance 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-715	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Panorama of Singapore from fort looking down High Street 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-720	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Singapore Harbor from clock tower, bridge in foreground 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-722	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Singapore Harbor from clock tower, bridge in foreground 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-722	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Statue of Sir Thomas Raffles 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-724	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Sampans in river with one marked “1755” in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-730	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Sampans in river, group of men in right hand corner	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1345" type="box">1345</container>
+<materialspec label="index">6-731	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1345 -->
+<!-- Box 1346 -->
+<c01>
+<note>Box 1346</note>
+<did>
+<unitid>2.1.2.1.5</unitid>
+<unittitle>Malaya</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Sampans in river, group of men in right hand corner	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-731	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Sampans in river, looking down from clock tower	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-732	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Sampans in river, looking down from clock tower	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-732	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Junk in river, tree on right 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-735	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Chinese funeral, seven coolies carrying decorated closed sedan chair, picket fence in background 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-743	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Close-up of laughing Malay girl	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-746	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Close-up of laughing Malay girl	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-746	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Chinese hawker sitting beside his baskets and felt hat beside him	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-749	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Soo Kim Lan, M.D. holding red flower	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-753	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Soo Kim Lan, M.D. holding red flower	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-753	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Gladys McIntire, M.D., front view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-754	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Gladys McIntire, M.D., front view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-754	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Chinese mother and father, Lim Pang Kioh	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-755	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Chinese woman with five children	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-756	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Two grown daughters, front view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-757	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Two grown daughters, back view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-758	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Auntie	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-760	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Large girl and smaller girl with two braids in hair	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-761	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Large girl and smaller girl with two braids in hair	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-761	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Little girl holding baby, another girl next to them	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-764	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Chinese woman smoking a cigarette carrying a parasol	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-765	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Chinese woman smoking a cigarette carrying a parasol	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-765	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Old Chinese man with baby on knee, his wife at his side 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-778	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Old Chinese man with baby on knee, his wife at his side 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-778	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Indian Beau Brummel standing beside Chinese sign 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-782	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Chinese beggar with long hair and beard 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-784	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Chinese beggar with long hair and beard 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-784	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Street vendor with canned meat boxes 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-788	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Street vendor with canned meat boxes 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-788	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Vendor carrying shoes in basket 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-789	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Coolie woman carrying grass 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-792	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Coolie woman carrying grass 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-792	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Old woman carrying bundle of rattan 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-794	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Malay man with kite 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-796	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Smiling boy with pigtail 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-797	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Little girl carrying school books 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1346" type="box">1346</container>
+<materialspec label="index">6-798	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1346 -->
+<!-- Box 1347 -->
+<c01>
+<note>Box 1347</note>
+<did>
+<unitid>2.1.2.1.5</unitid>
+<unittitle>Malaya</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Soon Fatt 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-799	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Soon Fatt 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-799	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Woman snake charmer, holding baby and cobra in one arm, and holding up two fingers on the other hand 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-800	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Lowell Thomas stopping woman with baby	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-802	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Lowell Thomas stopping woman with baby	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-802	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Chinese woman with baby on back, side view 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-804	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Chinese temple, pile of lumber and lamppost on left 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-830	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Chinese temple with garden in Penang 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-832	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Travellers Palm, Eastern and Oriental Hotel in Penang 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-835	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Looking through palm grove	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-842	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Typical Malay campong in coconut grove, two houses showing	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-845	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Malay house with two storied thatched roof, Malacca bullock cart on left	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-846	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Oldest church in Malacca	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-857	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Old gate Malacca, Lowell Thomas wearing pith helmet in rickshaw on left	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-861	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Yard of Malacca sticks, old man cutting sticks looking straight ahead	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-864	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Malay and little girl in yard of Malacca sticks	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-865	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>River in Malacca, two boats with sails unfurled 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-867	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Yang Tuan of Negri Sembilan 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-874	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Yang Tuan, Honorable Mr. Hill, Res.[?] others standing behind them 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-875b	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Palace of Yang Tuan, close-up	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-876	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Kuala Lumpur, Selangor club	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-878	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Railway station in Kuala Lumpur, best picture	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-879	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Government building, best picture 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-881	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Resident’s bungalow, the Honorable Mr. and Mrs. Marks	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-882	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Honorable W. G. Maxwell and Lowell Thomas  	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-889	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Honorable W. G. Maxwell, three quarter length 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-890	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Honorable W. G. Maxwell, bust	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-891	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Sultan and Lowell Thomas looking at each other, servant holding umbrella over Sultan	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-899	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Sultan standing under umbrella held  by servant	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-901	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Sultan on throne alone 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-902	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Sultan and Rajahs on throne	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-903	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Sultan holding court under a palm tree, vertical view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-904	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Sultan’s tea party, H.H. not looking at camera, Mrs. Frances Ryan Thomas sitting at table	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-910	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Sultan and horse, close-up	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-912	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Sultan and horse, side view of horse’s head, near view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-913	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Raja Haroun, thirty-five years old, twenty-seven children 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1347" type="box">1347</container>
+<materialspec label="index">6-916	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1347 -->
+<!-- Box 1348 -->
+<c01>
+<note>Box 1348</note>
+<did>
+<unitid>2.1.2.1.5</unitid>
+<unittitle>Malaya</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Queer limestone butte near K.K.[?]	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-918	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Queer limestone butte from railway tunnel	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-919	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Captain Hubert Berkeley slightly turned, with elephants and people surrounding 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-950	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Captain Hubert Berkeley in front of 110 year old elephant 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-951	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Perak River near K.K.[?]	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-923	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Man watching Lowell Thomas in a houseboat with a pole in his hand, nearer view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-927	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Captain Hubert Berkeley, “White Raja of Perak”, in saddle, close-up 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-937	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Captain Hubert Berkeley, “White Raja of Perak”, in saddle, close-up	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-937	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Captain Hubert Berkeley, “White Raja of Perak”, standing near horse 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-939	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Captain Hubert Berkeley, elephants, and group, close-up 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-949	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Captain Hubert Berkeley in front of 110 year old elephant, close-up 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-952	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Elephants bathing, branches of tree on left 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-960	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Medicine man	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-968	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Medicine man on rogue elephant	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-969	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Wild elephant in stockade, side view, horizontal view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-970C	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Our jungle camp  (Lowell Thomas note: Cut out some foreground)	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-973	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Haji holding knife, telling stories, Lowell Thomas in left foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-973B	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Haji, close-up, serious 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-973C	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Haji, close-up, laughing 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-973D	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Harry Chase, Lowell Thomas, and 18 elephants	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-976	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Lowell Thomas in howdah, trunk up	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-977A	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Lowell Thomas crossing river on elephant, distant view 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-977C	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Captain Hubert Berkeley and elephants looking in front of house, Captain looking front 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-978	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Captain Hubert Berkeley and elephants in front of house, Captain’s feet wider apart	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-980	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Captain Hubert Berkeley in front of a bullock, children in foreground, bullock looking at  camera	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-982	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Captain Hubert Berkeley, one bullock, one calf and children, Captain’s hands in pockets	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-985	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Captain Hubert Berkeley feeding bullock	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-986	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Victor of cock fight 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-998	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Laughing Malay holding spear and kris 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-1000	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Malay holding beautifully-colored bird 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-1003	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Tamil band dancing, slightly better 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-1013	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Little Tamil dancer holding pole 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-1015	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Tamil baby sitting down 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-1026	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Jungle close-up, Lowell Thomas in foreground	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-1033	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Two tall trees, bullock cart on road below  (Lowell Thomas note: Put all of picture in slide)	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-1037	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>One tall tree, bullock cart and driver (Lowell Thomas note: Cut out foreground)	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1348" type="box">1348</container>
+<materialspec label="index">6-1038	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1348 -->
+<!-- Box 1349 -->
+<c01>
+<note>Box 1349</note>
+<did>
+<unitid>2.1.2.1.5</unitid>
+<unittitle>Malaya</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Looking down on winding road through jungle of Pahang	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1040	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Big creeper strangling full grown tree, top of tree is all that remains (Lowell Thomas note: Put entire picture in slide)	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1041	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Tall tree beside road, circular flow in plate	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1043	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Sakai holding durian fruit at chest	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1046	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Sakai boy carrying armload of red jungle vegetables	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1047	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Jungle bush, pods are crimson	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1049	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Lowell Thomas and two Sakai girls	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1058	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Sakai girl	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1059	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Mrs. Speakman and two Sakai girls	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1060	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Sakai belle with dagger, side view	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1066	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Sakai belle with dagger, front view, close-up 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1066	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Sakai belle leaning against tree, lighting cigarette 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1067	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Sakai belle leaning against tree, smoking	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1069	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Sakai belle, close-up of head 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1071	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Old Sakai woman laughing with cloth in hand	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1077	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Sakai woman with cloth on shoulder 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1078	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Two Sakai women in loin cloths 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1079	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Two Sakai women in loin cloths, standing nearer together 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1080	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Small Sakai boy smoking 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1081	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Sakai boy getting light from smoking brother 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1082	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Sakai hill tribe of upper Perak under bamboo lean-to 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1089	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Girl with splint through nose holding baby and leaf 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1092	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Sakai man, three children and woman with bamboo through nose 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1097	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Sakai man smoking cheroot, woman with spear and blowpipe 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1098	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Sakai man smoking cheroot, woman with spear and blowpipe 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1098	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Sakai man’s head, side view, close-up 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1100	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Houseboat, close-up under tree, Lowell Thomas on deck, elephant bathing nearby 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1108	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Houseboat, close-up under tree, Lowell Thomas on deck, elephant bathing nearby 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1108	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Rubber plantation, Lowell Thomas walking along roadway 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1109	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Panorama of rubber plantation 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1111	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Rubber plantation[?]	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Five Tamils covered with white mud 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1117	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Tamil, head up and on one side, covered with white mud 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1118	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>“Tiger” Manap 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1122	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Lowell Thomas standing in boat shooting at crocodiles in mangrove swamp 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1128	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Lowell Thomas standing in boat cranking motion picture camera in mangrove swamp 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1349" type="box">1349</container>
+<materialspec label="index">6-1129	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1349 -->
+<!-- Box 1350 -->
+<c01>
+<note>Box 1350</note>
+<did>
+<unitid>2.1.2.1.5</unitid>
+<unittitle>Malaya</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Four tigers 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">6-1134	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Two tigers [enlarged part of 6-1134]	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">6-1134A	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Taiping Hill from government building grounds 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">6-1142	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Gordon Morse receiving curtain lecture from Lowell Thomas 	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">6-1146	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Special train, Lowell Thomas on front with motion picture camera  (Lowell Thomas note: Cut out a bit of foreground and one side)	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">6-1152	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Special train, close-up	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">6-1154	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Lowell Thomas portrait in Malay costume	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1350" type="box">1350</container>
+<materialspec label="index">6-1165	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1350 -->
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

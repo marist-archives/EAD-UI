@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Passion plays</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.20</unitid>
+			<unittitle>Passion plays</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1235 -->
+			<c01>
+				<note>Box 1235</note>
+				<did>
+					<unitid>2.1.1.1.20</unitid>
+					<unittitle>Passion plays</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Ober-Ammergen from a distance, villas</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9001</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>The entrance into Jerusalem</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9048</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Head of Judas, played by Johann Zwink</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9049</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Monastery at Ettel, near Ober-Ammergen</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9051</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>King Ludwig’s cavalry, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9095</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Annas Sebastian Lang, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9096</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Christ crowned with thorns, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9097</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Peter and Philip, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9103</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Peter, portrayed by Andreas Lang, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9104</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>General view of Ober-Ammergen, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9106</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Children bearing palms, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9107</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Peter cutting of the soldiers’ ear, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9108</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Judas and the merchants, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9109</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>James and Matthew, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9110</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Two children, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9111</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Jesus before the Sanhedrin, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9112</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Peter’s betrayal, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9113</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Christ’s farewell from his mother, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9114</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Christ in Bethany, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9115</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Pontius Pilate played by Sebastian Bauer, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9117</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Judas and the merchants, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9118</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Two Pharisees, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9119</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Christ praying, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9120</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Nathaniel Rupert Breitsamter, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9121</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Peter’s remorse, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9122</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Christ meeting his mother on the way to the cross, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9123</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>The last supper, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9124</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>The feet washing, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9125</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>The crucifixion, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9126</materialspec>
+						<materialspec label="negativenumber">7</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Christ scorned by the soldiers, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9127</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Christ blessing the cup, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9128</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Mary Magdalene portrayed by Marie Mayer, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9129</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>The prayer after the last supper, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9130</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Christ and his mother at Bethany, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9131</materialspec>
+						<materialspec label="negativenumber">11</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Mary, portrayed by Ottilie Zwink, praying, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9132</materialspec>
+						<materialspec label="negativenumber">2</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Christ taking leave of his mother, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9134</materialspec>
+						<materialspec label="negativenumber">13</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Judas portrayed by Johaan Zwink, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9135</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Christ being crowned with thorns, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9137</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Peter and John, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9138</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Judas receiving the silver, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9139</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Christ before Pontius Pilate, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9140</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Tableau adoration of the cross, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9141</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Jesus, portrayed by Anton Lang, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9142</materialspec>
+						<materialspec label="negativenumber">6</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Prolog portrayed by Anton Lechner, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9143</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Jesus going to Jerusalem, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9144</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Group of children, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9145</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>The merchants before the Sanhedrin, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1235" type="box">1235</container>
+						<materialspec label="index">9146</materialspec>
+						<materialspec label="negativenumber">9</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1235 -->
+			<!-- Box 1236 -->
+			<c01>
+				<note>Box 1236</note>
+				<did>
+					<unitid>2.1.1.1.20</unitid>
+					<unittitle>Passion plays</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>The last supper, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9147</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Pontius Pilate and the priests, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9149</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Judas before Pontius Pilate , copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9150</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Two priests, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9153</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Veronica portrayed by Marie Schmid, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9154</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Group of children, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9155</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Christ before Herod, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9156</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Christ prepared for the cross, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9157</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>John played by Alfred Bierling, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9158</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Driving the merchants from the temple, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9159</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Jesus entering Jerusalem, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9160</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Taking Christ from the cross, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9161</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>The chorus, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9162</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>The betrayal, copy</unittitle>
+						<unitdate label="Date">1910</unitdate>
+						<container id="1236" type="box">1236</container>
+						<materialspec label="index">9163</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1236 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

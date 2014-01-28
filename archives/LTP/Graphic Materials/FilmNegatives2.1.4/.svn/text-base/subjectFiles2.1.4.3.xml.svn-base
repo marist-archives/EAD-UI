@@ -1,0 +1,2991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.4.xsl"?><!-- styelsheet for Film Negatives -->
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Subject files</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.4.3</unitid>
+		<unittitle>Subject files</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	<arrangement><p></p></arrangement>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		 <!-- Start the new box from component no. 1 -->
+		 <!-- Items within the box in component no. 2 -->
+<!-- Box 1570 -->
+<c01>
+<note>Box 1570</note>
+<did>
+<unitid>2.1.4.3</unitid>
+<unittitle>Subject files</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Advertising Club	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Afghanistan	
+</unittitle>
+<unitdate label="Date">1921 - 1922 	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Airplane crash	
+</unittitle>
+<unitdate label="Date">1920s	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Airplanes	
+</unittitle>
+<unitdate label="Date">1920s	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Airport Runway Photographs	
+</unittitle>
+<unitdate label="Date">circa 1950s	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Alaska	
+</unittitle>
+<unitdate label="Date">circa 1915 - 1916 	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Alaska	
+</unittitle>
+<unitdate label="Date">circa 1915 - 1916 	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Alaska	
+</unittitle>
+<unitdate label="Date">circa 1915 - 1916 	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Alaska	
+</unittitle>
+<unitdate label="Date">circa 1915 - 1916 	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Alaska	
+</unittitle>
+<unitdate label="Date">circa 1915 - 1916 	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Alaska	
+</unittitle>
+<unitdate label="Date">circa 1915 - 1916 	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Alaska (petrified forest)	
+</unittitle>
+<unitdate label="Date">circa 1915 - 1916 	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Alaska (Lowell Thomas)	
+</unittitle>
+<unitdate label="Date">circa 1915 - 1916 	
+</unitdate>
+<container id="1570" type="box">1570</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1570 -->
+<!-- Box 1571 -->
+<c01>
+<note>Box 1571</note>
+<did>
+<unitid>2.1.4.3</unitid>
+<unittitle>Subject files</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Alaska (Vance photographs)	
+</unittitle>
+<unitdate label="Date">1929 - 1930 	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Alaska [glass negatives]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Alaska [glass negatives]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Alaska	
+</unittitle>
+<unitdate label="Date">circa 1950s	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Alaska - Lowell Thomas, Jr.	
+</unittitle>
+<unitdate label="Date">circa 1964	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Amos ‘N’ Andy	
+</unittitle>
+<unitdate label="Date">1959	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Ancestors	
+</unittitle>
+<unitdate label="Date">circa late 1800s - 1900 	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8 	
+</unitid>
+<unittitle>Antarctica	
+</unittitle>
+<unitdate label="Date">1956 - 1966 	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9 	
+</unitid>
+<unittitle>General Henry “ Hap” Arnold and Lowell Thomas	
+</unittitle>
+<unitdate label="Date">1927	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Bohemian Grove	
+</unittitle>
+<unitdate label="Date">circa 1961 - 1962	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Leon Blum, Premier of France, and Lowell Thomas	
+</unittitle>
+<unitdate label="Date">circa 1936 - 1938	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Broadcasting	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Broadcasting	
+</unittitle>
+<unitdate label="Date">1941 September 9	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Broadcasting	
+</unittitle>
+<unitdate label="Date">1930s - circa 1950s	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Prosper Buranelli [passport photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Robert Campbell	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Capital Cities	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Cartoons	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>China	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Cinerama	
+</unittitle>
+<unitdate label="Date">1950s	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Cinerama (Indus River - Christopher Young, photographer)	
+</unittitle>
+<unitdate label="Date">circa 1956	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Cinerama (Lowell Thomas and President Dwight D. Eisenhower)	
+</unittitle>
+<unitdate label="Date">1955	
+</unitdate>
+<container id="1571" type="box">1571</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1571 -->
+<!-- Box 1572 -->
+<c01>
+<note>Box 1572</note>
+<did>
+<unitid>2.1.4.3</unitid>
+<unittitle>Subject files</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Clover Brook	
+</unittitle>
+<unitdate label="Date">circa 1920s	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Clover Brook (Provensen event)	
+</unittitle>
+<unitdate label="Date">circa 1927	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>College Days	
+</unittitle>
+<unitdate label="Date">circa 1909 - 1912	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>College Degrees	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Cripple Creek, Victor Colorado	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Mary Davis	
+</unittitle>
+<unitdate label="Date">circa late 1950s - 1960	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Dionne quintuplets, Canada	
+</unittitle>
+<unitdate label="Date">1941	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Dog monument	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Dogs	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Dick Durrance	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Early Atlantic fliers (Charles Lindbergh, Clarence D. Chamberlin, Amelia Earhart and others)	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>European Skyways	
+</unittitle>
+<unitdate label="Date">1926	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>European Skyways	
+</unittitle>
+<unitdate label="Date">1926	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>European Skyways	
+</unittitle>
+<unitdate label="Date">1926	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>European Skyways	
+</unittitle>
+<unitdate label="Date">1926	
+</unitdate>
+<container id="1572" type="box">1572</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1572 -->
+<!-- Box 1573 -->
+<c01>
+<note>Box 1573</note>
+<did>
+<unitid>2.1.4.3</unitid>
+<unittitle>Subject files</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>European Skyways	
+</unittitle>
+<unitdate label="Date">1926	
+</unitdate>
+<container id="1573" type="box">1573</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>European Skyways	
+</unittitle>
+<unitdate label="Date">1926	
+</unitdate>
+<container id="1573" type="box">1573</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Example of popularity	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1573" type="box">1573</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>The Explorers Club	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1573" type="box">1573</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Family	
+</unittitle>
+<unitdate label="Date">circa 1920s	
+</unitdate>
+<container id="1573" type="box">1573</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Family	
+</unittitle>
+<unitdate label="Date">circa 1920s	
+</unitdate>
+<container id="1573" type="box">1573</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Family	
+</unittitle>
+<unitdate label="Date">circa 1920s - 1930s	
+</unitdate>
+<container id="1573" type="box">1573</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1573 -->
+<!-- Box 1574 -->
+<c01>
+<note>Box 1574</note>
+<did>
+<unitid>2.1.4.3</unitid>
+<unittitle>Subject files</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Family	
+</unittitle>
+<unitdate label="Date">circa 1920s - 1930s	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Family	
+</unittitle>
+<unitdate label="Date">circa 1920s - 1930s	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Family	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Family: Christmas (Lowell and Mrs. Marianna Munn Thomas)	
+</unittitle>
+<unitdate label="Date">circa 1979	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Family: Early family	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Family: Early family	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Family: Frances Ryan Thomas	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Family: Frances Ryan Thomas	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Family: Frances Ryan Thomas	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Family: Frances Ryan Thomas (Ohio)	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Family: Frances Ryan Thomas (found in Frances’s personal papers)	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Family: Mr. and Mrs. Lowell Thomas 	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Family: Lowell Thomas (childhood)	
+</unittitle>
+<unitdate label="Date">circa 1982 - 1900	
+</unitdate>
+<container id="1574" type="box">1574</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1574 -->
+<!-- Box 1575 -->
+<c01>
+<note>Box 1575</note>
+<did>
+<unitid>2.1.4.3</unitid>
+<unittitle>Subject files</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Family: Lowell Thomas and Lowell Thomas, Jr.	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Family: Lowell Thomas, Mrs. Frances Ryan Thomas and grandchildren	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Family: Lowell Thomas, Jr. and Mrs. Tay Thomas, Jr.	
+</unittitle>
+<unitdate label="Date">circa 1940s - 1950s	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Family reunion	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Famous	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>First World Flight	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Fox Movietone	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Friends	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Golf	
+</unittitle>
+<unitdate label="Date">circa 1950 - 1970s	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Greenville, Ohio	
+</unittitle>
+<unitdate label="Date">circa 1952 - 1968 	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Jack Girsham [for possible use in Burma Jack	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Hammersley Hill	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Hawaiian Debating team and Lowell Thomas	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>“Heart Attack”	
+</unittitle>
+<unitdate label="Date">1963	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Father Theodore Hesburgh, President of Notre Dame	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>High Adventure with Lowell Thomas (New Guinea and Timbuktu)	
+</unittitle>
+<unitdate label="Date">circa late 1950s	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Hollansburg, Ohio	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Honors	
+</unittitle>
+<unitdate label="Date">circa 1930 - 1976 	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Herbert Hoover(includes visit to Baghdad)	
+</unittitle>
+<unitdate label="Date">circa 1940s - early 1950s	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Horses	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>King Hussein of Jordan and Lowell Thomas	
+</unittitle>
+<unitdate label="Date">1964	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Marshal Joseph Joffre	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Josephine Kaas	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Hans von Kaltenborn	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>King George of Greece	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Kirkman, Iowa	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Thomas Lamont, Jr.  	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Leather Trunk Series (Alaska)	
+</unittitle>
+<unitdate label="Date">1916	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Leather Trunk Series - Eskimos	
+</unittitle>
+<unitdate label="Date">circa 1916	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Leather Trunk Series - Grand Canyon	
+</unittitle>
+<unitdate label="Date">1916	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Leather Trunk Series - President Woodrow Wilson	
+</unittitle>
+<unitdate label="Date">circa 1914 - 1916	
+</unitdate>
+<container id="1575" type="box">1575</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1575 -->
+<!-- Box 1576 -->
+<c01>
+<note>Box 1576</note>
+<did>
+<unitid>2.1.4.3</unitid>
+<unittitle>Subject files</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Live broadcast on location	
+</unittitle>
+<unitdate label="Date">1951	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Maine Lumberjacks	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Marco Polo painting	
+</unittitle>
+<unitdate label="Date">circa 1960s - 1970s	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Marist Honorary Degree	
+</unittitle>
+<unitdate label="Date">1981	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>George McManus	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Montage photographs 	
+</unittitle>
+<unitdate label="Date">circa 1960s - 1970s	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Mount Rainier National Park	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Torakichi Nakamura (golf champion)	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Jawaharlal Nehru	
+</unittitle>
+<unitdate label="Date">circa 1950s	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>New Guinea	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Nine Old Men softball team	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Olympics	
+</unittitle>
+<unitdate label="Date">1968	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Olympics trophy	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Bill Paley	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Passenger flight around the world (Pan American World Airways)	
+</unittitle>
+<unitdate label="Date">1947	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Personalities 	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 17 	
+</unitid>
+<unittitle>Personalities 	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Personalities 	
+</unittitle>
+<unitdate label="Date">circa 1958 - 1981 	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Personalities 	
+</unittitle>
+<unitdate label="Date">1938 - 1980 	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Personalities 	
+</unittitle>
+<unitdate label="Date">1923 - 1972 	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Personalities 	
+</unittitle>
+<unitdate label="Date">1938 - 1970 	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Personalities 	
+</unittitle>
+<unitdate label="Date">1934 - 1973 	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Personalities 	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Personalities 	
+</unittitle>
+<unitdate label="Date">1962 - 1973 	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Personalities: Broadcasters	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Personalities: Entertainers	
+</unittitle>
+<unitdate label="Date">circa 1963 - 1974 	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Personalities: Foreign Statesmen	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Personalities: Military	
+</unittitle>
+<unitdate label="Date">circa 1950	
+</unitdate>
+<container id="1576" type="box">1576</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1576 -->
+<!-- Box 1577 -->
+<c01>
+<note>Box 1577</note>
+<did>
+<unitid>2.1.4.3</unitid>
+<unittitle>Subject files</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Personalities: Political Figures	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Personalities: Sports Figures	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Quaker Hill	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Chip Rafferty	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Edward V. “Eddie” Rickenbacker and James H. “Jimmy” Doolittle with Lowell Thomas	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>John Roberts	
+</unittitle>
+<unitdate label="Date">circa 1950s	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Nelson Rockefeller	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Norman Rockwell	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Franklin Delano Roosevelt	
+</unittitle>
+<unitdate label="Date">1938	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Theodore Roosevelt, Jr., Mrs. Roosevelt and Mr. and Mrs. Lowell Thomas	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Sahuaro Ski Club	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>John P. Sawyer	
+</unittitle>
+<unitdate label="Date">circa 1960	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Willy Schaefler	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Shah of Iran, Reza Pahlavi	
+</unittitle>
+<unitdate label="Date">circa 1970s	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Skiing	
+</unittitle>
+<unitdate label="Date">circa 1970s	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Skiing	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>So Long Until Tomorrow	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Softball	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Softball	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>South Pole	
+</unittitle>
+<unitdate label="Date">1962	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Staff	
+</unittitle>
+<unitdate label="Date">1961	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Silas Strawn tribute	
+</unittitle>
+<unitdate label="Date">circa 1968	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Erling Strom	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Sultan of Perak, Malaya	
+</unittitle>
+<unitdate label="Date">1921 - 1922	
+</unitdate>
+<container id="1577" type="box">1577</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1577 -->
+<!-- Box 1578 -->
+<c01>
+<note>Box 1578</note>
+<did>
+<unitid>2.1.4.3</unitid>
+<unittitle>Subject files</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Christl Thalhammer	
+</unittitle>
+<unitdate label="Date">circa 1963	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Christl Thalhammer	
+</unittitle>
+<unitdate label="Date">circa 1963 - 1964	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Christl Thalhammer, Adventures with the New Guinea Headhunters	
+</unittitle>
+<unitdate label="Date">1965	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Kurt Thalhammer	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Lowell Thomas (alone)	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Lowell Thomas (alone)	
+</unittitle>
+<unitdate label="Date">circa 1960s - 1981	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Lowell Thomas (portraits) [color]	
+</unittitle>
+<unitdate label="Date">1979 - 1981 	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Lowell Thomas (publicity photographs)	
+</unittitle>
+<unitdate label="Date">circa 1950s	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Lowell Thomas (publicity photographs - Morocco)	
+</unittitle>
+<unitdate label="Date">1958	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Lowell Thomas (miscellaneous photographs)	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Lowell Thomas, Jr.	
+</unittitle>
+<unitdate label="Date">1930s - 1960s	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Mostyn Thomas (opera singer)	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Tibet	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Tibet	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Tibet	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Tibet	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Tibet	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Tibet	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1578" type="box">1578</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1578 -->
+<!-- Box 1579 -->
+<c01>
+<note>Box 1579</note>
+<did>
+<unitid>2.1.4.3</unitid>
+<unittitle>Subject files</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Tibet	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Tibet (Sven Hedin)	
+</unittitle>
+<unitdate label="Date">1951	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Niles Trammel	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Travel Hall of Fame	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Travelogue (1,000,000th visitor)	
+</unittitle>
+<unitdate label="Date">circa 1919 - early 1920s	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Travelogue poster (With Allenby in Palestine and with Lawrence in Arabia)	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Trip to China and Tibet	
+</unittitle>
+<unitdate label="Date">1977	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Trip to China and Tibet	
+</unittitle>
+<unitdate label="Date">1977	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Trip to China and Tibet	
+</unittitle>
+<unitdate label="Date">1977	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Senator Tydings and Admiral Halsey	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Max Valentiner	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Bertha Spafford Vester	
+</unittitle>
+<unitdate label="Date">1965	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Paula von Hellens	
+</unittitle>
+<unitdate label="Date">circa 1966 - 1967 	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Count Felix Von Luckner	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Count Felix Von Luckner and Lowell Thomas, Jr.	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Mrs. Frieda Ward-Jerusalem	
+</unittitle>
+<unitdate label="Date">circa 1968	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Waterfall	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Western Union telegrams (266,000 received by Lowell Thomas)	
+</unittitle>
+<unitdate label="Date">1934	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Jim Whittaker	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Sir Hubert Wilkins	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Sir Hubert Wilkins (photographs for use in Arctic Knight: Sir Hubert Wilkins by Lowell Thomas)	
+</unittitle>
+<unitdate label="Date">circa late 1950s - 1960s	
+</unitdate>
+<container id="1579" type="box">1579</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1579 -->
+<!-- Box 1580 -->
+<c01>
+<note>Box 1580</note>
+<did>
+<unitid>2.1.4.3</unitid>
+<unittitle>Subject files</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Sir Hubert Wilkins and Bernt Balchen (High Adventure with Lowell Thomas television series)	
+</unittitle>
+<unitdate label="Date">1957 December	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Winter Sports Carnival at Lake Placid	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Woman (negative found in French diary)	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Admiral John Lorimer Warden	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>World War I	
+</unittitle>
+<unitdate label="Date">circa 1917 - 1918 	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>World War I (Arabia, Egypt, Palestine)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>World War I (Arabia, Egypt, Palestine)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>World War I (Lowell Thomas indexed photographs)	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>World War II	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>World War II (Lowell Thomas, Chiang Kai-shek and General Albert C. Wedemeyer)	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Harrison Forman and Chairman Mao Tse-Tung [Zedong]	
+</unittitle>
+<unitdate label="Date">1944	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>World War II (Lowell Thomas and General George S. Patton)	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Miscellaneous photographs	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Miscellaneous photographs	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1580" type="box">1580</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1580 -->
+<!-- Box 1581 -->
+<c01>
+<note>Box 1581</note>
+<did>
+<unitid>2.1.4.3</unitid>
+<unittitle>Subject files</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>35 millimeter negative roll [softball]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1581" type="box">1581</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>35 millimeter negative roll [softball]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1581" type="box">1581</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>35 millimeter negative roll [softball]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1581" type="box">1581</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>35 millimeter negative roll [softball]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1581" type="box">1581</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>35 millimeter negative roll [swimming]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1581" type="box">1581</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>35 millimeter negative roll [Lowell Thomas, Jr. in uniform]	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1581" type="box">1581</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>35 millimeter negative roll [skiing]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1581" type="box">1581</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>35 millimeter negative roll [miscellaneous photographs]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1581" type="box">1581</container>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>35 millimeter negative roll [miscellaneous photographs]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1581" type="box">1581</container>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>35 millimeter negative roll [miscellaneous photographs]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1581" type="box">1581</container>
+</did>
+</c02>
+
+</c01>
+<!-- End 1581 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

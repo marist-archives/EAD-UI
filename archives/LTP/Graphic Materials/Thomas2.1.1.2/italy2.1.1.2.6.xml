@@ -1,0 +1,2002 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Thomas2.1.1.2/italy2.1.1.2.6.xml</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Italy</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.1.2.6</unitid>
+		<unittitle>Italy</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		 <!-- Box 1323 -->
+<c01>
+<note>Box 1323</note>
+<did>
+<unitid>2.1.1.2.6</unitid>
+<unittitle>Italy</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>49</unitid>
+<unittitle>Lowell Thomas and Mrs. Frances Ryan Thomas eating at table	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>50</unitid>
+<unittitle>Lowell Thomas and Mrs. Frances Ryan Thomas eating at table,  looking at camera	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>51</unitid>
+<unittitle>Lowell Thomas and Mrs. Frances Ryan Thomas standing in street, looking at each other	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>52</unitid>
+<unittitle>Lowell Thomas and Mrs. Frances Ryan Thomas at the Trevi Fountain in Rome, Italy	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>53</unitid>
+<unittitle>Lowell Thomas and Mrs. Frances Ryan Thomas outside a building talking to soldiers	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>54</unitid>
+<unittitle>Lowell Thomas and two other men in front of planes, looking at camera	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>55</unitid>
+<unittitle>Lowell Thomas standing with many military men outside a building	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>56</unitid>
+<unittitle>Lowell Thomas in automobile with soldiers driving past soldiers on horses	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>57</unitid>
+<unittitle>Lowell Thomas and many military men standing in street	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>58</unitid>
+<unittitle>Lowell Thomas and Major Piero Tozzi drinking outside a café	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>59</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Major Piero Tozzi at the Ponte Vechio	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>60</unitid>
+<unittitle>Mrs. Frances Ryan Thomas at the Trevi Fountain	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>61</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Major Piero Tozzi talking with three soldiers in front of large building	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>62</unitid>
+<unittitle>Mrs. Frances Ryan Thomas talking to two women and man	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>63</unitid>
+<unittitle>Mrs. Frances Ryan Thomas talking to two women and man	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>64</unitid>
+<unittitle>Mrs. Frances Ryan Thomas talking to man and woman	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>65</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Major Piero Tozzi in car, two military men in front seat	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>66</unitid>
+<unittitle>Mrs. Frances Ryan Thomas sitting in parked car next to river	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>67</unitid>
+<unittitle>Mrs. Frances Ryan Thomas standing with military man, looking at nearby airplanes	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>68</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and a military man in front of airplane	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>69</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Major Piero Tozzi in automobile	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>70</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Major Piero Tozzi stand on bridge over canal, Venice	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>71</unitid>
+<unittitle>Mrs. Frances Ryan Thomas along riverside, close-up	
+</unittitle>
+<unitdate label="Date">1917-1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1323 -->
+<!-- Box 1324 -->
+<c01>
+<note>Box 1324</note>
+<did>
+<unitid>2.1.1.2.6</unitid>
+<unittitle>Italy</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas and Major Piero Tozzi standing amid ruins of coliseum	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Military battery, Mrs. Frances Ryan Thomas at left with back to camera	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>3</unitid>
+<unittitle>Frances Ryan Thomas on Piave front	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>4</unitid>
+<unittitle>Mrs. Frances Ryan Thomas standing in field looking at a church in ruins	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>5</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Harry G. Thomas standing on bridge in Florence, Italy, Ponte Vecchio in background	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>6</unitid>
+<unittitle>Mrs. Frances Ryan Thomas standing in doorway of train	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>7</unitid>
+<unittitle>Mrs. Frances Ryan Thomas standing on sidewalk	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>8</unitid>
+<unittitle>Mrs. Frances Ryan Thomas, portrait in front of building	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>9</unitid>
+<unittitle>Portrait of Mrs. Frances Ryan Thomas sitting down	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>10</unitid>
+<unittitle>Mrs. Frances Ryan Thomas standing in distance in St. Peter’s Square, Vatican City	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>11</unitid>
+<unittitle>Mrs. Frances Ryan Thomas talking to the Prince of Wales, other soldiers scattered	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>12</unitid>
+<unittitle>Mrs. Frances Ryan Thomas talking to soldier in courtyard of the American Red Cross	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>13</unitid>
+<unittitle>Mrs. Frances Ryan Thomas kneeling down, feeding many pigeons	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>14</unitid>
+<unittitle>Mrs. Frances Ryan Thomas, standing up, feeding pigeons	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>15</unitid>
+<unittitle>Mrs. Frances Ryan Thomas sitting in gondola in Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>16</unitid>
+<unittitle>Lowell Thomas, Mrs. Frances Ryan Thomas, and Harry G. Thomas in front of St. Peter’s Cathedral in Vatican City	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>17</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Harry G. Thomas sitting at restaurant table, eating	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>18</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Harry G. Thomas sitting at a restaurant table, eating	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>19</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Harry G. Thomas sitting at restaurant table	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>20</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Harry G. Thomas talking to others on street	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>21</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Harry G. Thomas talking to others on street	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>22</unitid>
+<unittitle>Harry G. Thomas talking to two others on street	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>23</unitid>
+<unittitle>Mrs. Frances Ryan Thomas talking to Luisa Tetrazzini outside automobile	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>24</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Major Piero Tozzi surrounded by birds	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>25</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Major Piero Tozzi speaking to soldiers at the Red Cross	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>26</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Major Piero Tozzi facing each other	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>27</unitid>
+<unittitle>Mrs. Frances Ryan Thomas climbing into gondola with the help of Major Piero Tozzi	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>28</unitid>
+<unittitle>Lowell Thomas, Mrs. Frances Ryan Thomas, Harry G. Thomas, and Luisa Tetrazzini standing on steps of large building	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>29</unitid>
+<unittitle>Lowell Thomas, Mrs. Frances Ryan Thomas, Harry G. Thomas and Luisa Tetrazzini standing on steps of large building next to automobile	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>30</unitid>
+<unittitle>Lowell Thomas, Mrs. Frances Ryan Thomas, Harry G. Thomas, Major Piero Tozzi, and Luisa Tetrazzini standing in front of Silvering fountain	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>31</unitid>
+<unittitle>Lowell Thomas, Mrs. Frances Ryan Thomas, Harry G. Thomas, Major Piero Tozzi and Luisa Tetrazzini sitting at table, smiling	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>32</unitid>
+<unittitle>Lowell Thomas, Mrs. Frances Ryan Thomas, Harry G. Thomas, and Luisa Tetrazzini talking at outdoor table	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>33</unitid>
+<unittitle>Mrs. Frances Ryan Thomas, Harry G. Thomas, Major Piero Tozzi, and Luisa Tetrazzini at outdoor table, looking at each other	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>34</unitid>
+<unittitle>Lowell Thomas, Mrs. Frances Ryan Thomas, Harry G. Thomas, and Major Piero Tozzi at outdoor table	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>35</unitid>
+<unittitle>Elaborate building with small pool in front, people on sidewalk	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>36</unitid>
+<unittitle>Six men standing in front of mountains, lined up, looking at camera, Adamello, Italy	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>37</unitid>
+<unittitle>Man and woman sitting at table, outside house covered with vines, woman feeding man	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>38</unitid>
+<unittitle>Man and woman standing outside house, looking up	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>39</unitid>
+<unittitle>Mrs. Frances Ryan Thomas in a building with large columns	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">1.5x3	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>40</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Major Piero Tozzi talking to a woman and man in front of trees	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>41</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Major Piero Tozzi talking to a man and woman in front of trees	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>42</unitid>
+<unittitle>Mrs. Frances Ryan Thomas and Major Piero Tozzi standing amid ruins	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2x3	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>43</unitid>
+<unittitle>Small dome building behind columns in ruins	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2x3	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>44</unitid>
+<unittitle>St. Peter’s Square, fountain, Vatican City	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.25	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>45</unitid>
+<unittitle>St. Peter’s Square, crowd of people near columns, Vatican City	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.25	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>46</unitid>
+<unittitle>Obelisk in the Piazza de Popolo, Rome	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.25	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>47</unitid>
+<unittitle>Fountain of the Naiads, Piazza della Repubblica, Rome	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>48</unitid>
+<unittitle>Street scene, Florence Duomo in distance, Florence	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.25	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>49</unitid>
+<unittitle>Baptistery of the Cathedral of Pisa, Leaning Tower of Pisa in distance	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>50</unitid>
+<unittitle>Street scene, Verona clock tower in distance, Verona	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>51</unitid>
+<unittitle>Doge’s Palace, Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>52</unitid>
+<unittitle>Doge’s Palace, distant view, Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.25	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>53</unitid>
+<unittitle>Gondola, Basilica Di San Marcos in distance, Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>54</unitid>
+<unittitle>Docked boats, Basilica Di San Marcos, in distance at left, bell tower of St. Mark’s Square in distance at right, Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.25	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>55</unitid>
+<unittitle>Street scene along waterfront, bell tower of St. Mark’s Square in distance, Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>56</unitid>
+<unittitle>Rialto Bridge, two women and a man walking along canal, Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.25	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>57</unitid>
+<unittitle>Ornate building near small bridge, Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.25	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>58</unitid>
+<unittitle>Buildings along canal, two boats in foreground, Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.25	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>59</unitid>
+<unittitle>Gondolas, people talking along street, Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>60</unitid>
+<unittitle>Hotel Europe, Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>61</unitid>
+<unittitle>Grand Canal Hotel and waterfront buildings, Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>62</unitid>
+<unittitle>Man wearing suit standing next to canal, Venice	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.25	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>63</unitid>
+<unittitle>Street scene, statue of a lion in foreground	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>64</unitid>
+<unittitle>Street scene, laundry hanging from balcony	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>65</unitid>
+<unittitle>Two men standing with carriage outside Hotel Pension Pincio, Italy [?]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>66</unitid>
+<unittitle>Two men, one pointing at poster for “La Vedova Allegra” at American Kursaal	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>67</unitid>
+<unittitle>Men standing next to columns	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>68</unitid>
+<unittitle>Crowd of people near ornate building with arch and sign for the American Red Cross	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.25	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>69</unitid>
+<unittitle>Ornate arch with many statues, Italy [?]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.25	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>70</unitid>
+<unittitle>Woman holding broom, standing next to statue, Italy [?]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did><unitid>71</unitid>
+<unittitle>Two men in military uniforms surrounded by tall buildings	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>72</unitid>
+<unittitle>Large group watching men on balcony of American Red Cross	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>73</unitid>
+<unittitle>Military men walking in square, American Red Cross in distance	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1324" type="box">1324</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1324 -->
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

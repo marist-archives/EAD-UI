@@ -1,0 +1,11703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.3.xsl"?>
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Submarines</titleproper>
+<author>Marist Archives and Special Collections</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Marist Archives and Special Collections</publisher>
+<address>
+<addressline>3399 North Road</addressline>
+<addressline>Poughkeepsie, New York - 12601 </addressline>
+</address>
+</publicationstmt>
+</filedesc>
+</eadheader>
+<!-- Archival Description portion of EAD -->
+<archdesc level="subseries">
+<did>
+<unitid countrycode="us" repositorycode="MMM">2.1.3.1.3.1</unitid>
+<unittitle>Submarines</unittitle>
+<unitdate type="inclusive"></unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+<repository>
+<corpname>Marist College</corpname>
+</repository>
+<abstract level="abstract">MMM</abstract>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<scopecontent>
+<p>MMM</p>
+</scopecontent>
+<accessrestrict>
+<p>MMM</p>
+</accessrestrict>
+<userestrict>
+<p>MMM</p>
+</userestrict>
+<!-- Components Description of EAD -->
+<dsc type="combined">
+
+<!-- Box 1510 -->
+<c01>
+<note>Box 1510</note>
+<did>
+<unitid>2.1.3.1.3.1</unitid>
+<unittitle>Submarines</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Submarines: Commander J. G. Bower	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Note: Photos borrowed from Comm. Bower	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Submarines: Danish steamer Nordsven	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Note: Danish streamer Nordsven	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Submarines: France	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Submarines: Commander Konrad Gansser of U-boat 156	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>Three photographs with captions	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>Two photographs with captions	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>Three photographs with captions	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>Three photographs with captions	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>Two photographs with captions	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>Mounted photograph with captions	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>Note: German Photos from Gausser of U-156. His story is with Valeateners [?]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Submarines: Great Britain	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Submarines: Great Britain - captured steamer Parkgate	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Submarines: Great Britain - Sea of Marmara	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Submarines: Great Britain - sinking of the Korfu	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>Note: U-35 prints, Sinking of the "Korfu," also "Brisbane River," film is not consistent here	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Submarines: Great Britain - sinking of the Patagonier	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Note: U-35 Sinking of Patagonier, m.g. under retouched	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>Submarines: Great Britain - sinking of the Nentmore	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>Submarines: Greece - sinking of the India	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>Note: U-35 prints, Sinking of "India" of Greece	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>Submarines: Max Horton	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>Submarines: Illustrations	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>Submarines: Italy	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>Submarines: Captain Waldemar Kophamel	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>Commander Korner	
+</unittitle>
+<container id="1510" type="box">1510</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Note: Korner pictures, save for the next books	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+<!-- End 1510 -->
+<!-- Box 1511 -->
+<c01>
+<note>Box 1511</note>
+<did>
+<unitid>2.1.3.1.3.1</unitid>
+<unittitle>Submarines</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Submarines: T. L. Seith photographs	
+</unittitle>
+<container id="1511" type="box">1511</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Note: Survivors of the British streamer Clan Matheson, sunk in collision with U.S.S. Western Front while zig-zagging through war zone. May 23 1918 1:30 A.M.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle> Types of guns manned by Naval Armed Guard aboard transports and merhcant ships carrying munitions and supplies to France	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Note: Types of guns manned by Naval Armed Guard aboard transports and merhcant ships carrying munitions and supplies to France	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>A French derigible on patrol duty off the coast of France	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>Note: A French derigible on patrol duty off the coast of France	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle> S. S. Luckenback after a 5 hour battle with a German submarine. This was the longest naval battle during the war in which the American Navy participated	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>Note: S. S. Luckenback after a 5 hour battle with a German submarine. This was the longest naval battle during the war in which the American Navy participated	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>A captured German submarine in the mouth of the Gironde River, France.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>Note: A captured German submarine in the mouth of the Gironde River, France.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>U-58 captured November 19 1929 off Queenstown Ireland	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>Note: U-58 captured November 19 1929 off Queenstown Ireland	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>Envelope	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Submarines: Submarines	
+</unittitle>
+<container id="1511" type="box">1511</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>25	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>26	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>27	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>28	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>29	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>30	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>31	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>32	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>33	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>34	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>35	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>36	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>37	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>38	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>39	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>40	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>41	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>42	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>43	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>44	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Submarines: Submarines	
+</unittitle>
+<container id="1511" type="box">1511</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>German merchant super-submarine Deutschland as she started on her perilous dash to sea where hostile cruisers lie in wait	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Note: German merchant super-submarine Deutschland as she started on her perilous dash to sea where hostile cruisers lie in wait	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>25	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>26	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>27	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>28	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>29	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>30	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>31	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>32	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>33	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>34	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>35	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>36	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Submarines: Submarines	
+</unittitle>
+<container id="1511" type="box">1511</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>25	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>26	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>27	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>28	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>29	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>30	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>31	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>32	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>33	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>34	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>35	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>36	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>37	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>38	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>39	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>40	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Submarines: Submarines	
+</unittitle>
+<container id="1511" type="box">1511</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>25	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>26	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>27	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>28	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>29	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>30	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>31	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>32	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>33	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>34	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>35	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>36	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Submarines: Submarines	
+</unittitle>
+<container id="1511" type="box">1511</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>25	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>26	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>27	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>28	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>29	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Submarines: U-boats	
+</unittitle>
+<container id="1511" type="box">1511</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Note: 4 - pictures of some ship in her various disguises; 2 - of her tricky deck house + funnel; 1 - her commander disguised as a commercial traveller; 1 - rescued crew; 1 - the [illegible] mystery ship Commander Godfrey Herbert disguised as a Dutch captain.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>25	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>26	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>27	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>28	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>29	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>30	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>31	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>32	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>33	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>34	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+<!-- End 1511 -->
+<!-- Box 1512 -->
+<c01>
+<note>Box 1512</note>
+<did>
+<unitid>2.1.3.1.3.1</unitid>
+<unittitle>Submarines</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Submarines: Max Valentiner - family photos	
+</unittitle>
+<container id="1512" type="box">1512</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Val with parents. Valentiner (cabinet card)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Val with parents. Valentiner	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Max Valentiner at 1 yrs (cabinet card)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Max Valentiner at 1 yrs	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Max in August 1883? (cabinet card)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Max in August 1883? Valentiner	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>View [?] his first sailor suit. (cabinet card)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: View [?] his first sailor suit. Velentiner Max	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Johanna the servant girl. [more illegible] (cabinet card)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Johanna the servant girl. [more illegible] Return to Valentiner	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description] (cabinet card)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle> Valentiner's father	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Valentiner's father. Return to Valentiner	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Valentiners children	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Valentiners children	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Valentiners' two boys, Max + Claus.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Valentiners' two boys, Max + Claus. (Valentiner)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>Max and Claus Valentiner (two sons).	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Max and Claus Valentiner (two sons). Return to Valentiner	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>Mrs. Max Valentiner + boys in Breslau. Heine [?] Frau in kinder in Auto, Breslau 1927.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Mrs. Max Valentiner + boys in Breslau. Heine [?] Frau in kinder in Auto, Breslau 1927. Return to Valentiner	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>Commander Max Valentiner (cabinet card)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Commander Max Valentiner, U-38	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>Valentiner (cabinet card)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>Valentiner	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Submarines: Max Valentiner - family	
+</unittitle>
+<container id="1512" type="box">1512</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Plowen school in 1897 (cabinet card)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Ploner Gymnasium 1897. Plowen school in 1897.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>in Ploen 1897 (Max and Monty) (cabinet card)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: in Ploen 1897 (Max and Monty) Valentiner	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Ploen 1899 At school at Ploen Max at right end. (cabinet card)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Ploen 1899 At school at Ploen Max at right end.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>School in Ploen Valentiner at lower right (cabinet card)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: School in Ploen Valentiner at lower right. [some german?] Return to Valentiner.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Mrs. Valentiner + two brothers at time she was married (mounted photograph)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Mrs. Valentiner + two brothers at time she was married	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>(mounted Photograph)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Mrs. Valentiner when v. first met her (15) (mounted photograph)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Mrs. Valentiner when v. first met her (15) Valentiner.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Am grossen Ploener See [German for 'On Great Ploen Lake']. Schoolboy at Ploen (mounted photograph)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Am grossen Ploener See [German for 'On Great Ploen Lake']. Schoolboy at Ploen. Valentiner.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>As schoolboy at Ploen (mounted photograph)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: As schoolboy at Ploen	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Submarines: Max Valentiner - U-boats	
+</unittitle>
+<container id="1512" type="box">1512</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>25	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>26	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>27	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>28	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>29	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>30	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>31	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>32	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>33	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>34	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>35	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>36	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>37	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>38	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>39	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>40	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>41	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>42	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>43	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>44	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>45	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>46	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>47	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>48	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>49	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Submarines: Max Valentiner - U-boats	
+</unittitle>
+<container id="1512" type="box">1512</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>25	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>26	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>27	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>28	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>29	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>30	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>31	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>32	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>33	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>34	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>35	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>36	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>37	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>38	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>39	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>40	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>41	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>42	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>43	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>44	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>45	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>46	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>47	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>48	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>49	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>50	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>51	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>52	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>53	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>54	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>55	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>56	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>57	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>58	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>59	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>60	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>61	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>62	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>63	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>64	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>65	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>66	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>67	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>68	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>69	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>70	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>71	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>72	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>73	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>74	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>75	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>76	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>77	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>78	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>79	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>80	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>81	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>82	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>83	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>84	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>85	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>86	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>87	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>88	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>89	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>90	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>91	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>92	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>93	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>94	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>95	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Submarines: Max Valentiner - U-boats	
+</unittitle>
+<container id="1512" type="box">1512</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Note:	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Note:	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Note:	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Note:	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>Note:	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>Note:	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>Note:	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>Note:	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>Note:	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>Note:	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Submarines: Max Valentiner - U-boats	
+</unittitle>
+<container id="1512" type="box">1512</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Submarines: Max Valentiner - U-boats	
+</unittitle>
+<container id="1512" type="box">1512</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Submarines: Georg Ritter von Trapp	
+</unittitle>
+<container id="1512" type="box">1512</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+<!-- End 1512 -->
+</dsc>
+</archdesc>
+</ead>

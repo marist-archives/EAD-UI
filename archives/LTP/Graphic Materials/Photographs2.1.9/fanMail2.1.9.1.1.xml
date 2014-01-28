@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.2.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Photographs2.1.9/fanMail2.1.9.1.1.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Fan mail</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.9.1.1</unitid>
+			<unittitle>Fan mail</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1611 -->
+			<c01>
+				<note>Box 1611</note>
+				<did>
+					<unitid>2.1.9.1.1</unitid>
+					<unittitle>Fan mail</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Botanic Gardens, Washington, D.C. [color photograph]</unittitle>
+						<unitdate label="Date">1945</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Botannic Gardens in Spring time Wash D.C. [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Botannic Gardens in Spring time Wash D.C. [?]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Jackson Park[?]</unittitle>
+						<unitdate label="Date">1927</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>July 1927, Jackson Park Chicago Ill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: July 1927, Jackson Park Chicago Ill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: Letter from William Saunders of Toronto to Lowell Thomas</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Mash letters</unittitle>
+						<unitdate label="Date">1933 - circa 1945</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>1933 [Woman sitting in  chair]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: 1933</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>My brothers house in Germany. Lernrensberg [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: My brothers house in Germany. Lernrensberg [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>my relatives in Germany in[?] Orthal Finny[?[</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: my relatives in Germany in[?] Orthal Finny[?[</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Three women and two men, together for a picture]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>My brother my sister in law my nice[?] Hilde or [?] me in Germany</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: My brother my sister in law my nice[?] Hilde or [?] me in Germany</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Three women and little girl on hillside]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Die liebe Loiel minner alif." [?] Finny[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Die liebe Loiel minner alif." [?] Finny[?]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Miscellaneous photographs</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>This gigantic cherry tree stands six miles north of Madisonville, Kentucky on the farm of Thomas Mitchell. This tree has a spread of eighty feet a height of sixty feet and�</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: This gigantic cherry tree stands six miles north of Madisonville, Kentucky on the farm of Thomas Mitchell. This tree has a spread of eighty feet a height of sixty feet and�</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Grand building and pool]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Snowy house]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Road leading to large building]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Four men posing for a picture]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Names for war</unittitle>
+						<unitdate label="Date">1944 - 1947</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>My son, Bob, who is in Australia along with others lke him. I am trying not to fail him and them. A.R.S.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: My son, Bob, who is in Australia along with others lke him. I am trying not to fail him and them. A.R.S.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>L. Doris Saubom[?] Pieinions[?], N.. [?] 1945, Sunset Cottage, taken after 9 was so ill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: L. Doris Saubom[?] Pieinions[?], N.. [?] 1945, Sunset Cottage, taken after 9 was so ill.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Dories birthday [?] 3rd 1947</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Dories birthday [?] 3rd 1947</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Doris and Son[?] 5th Ave Hotel St Petersberg Fla- Waffle shop "Dori with crew"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Doris and Son[?] 5th Ave Hotel St Petersberg Fla- Waffle shop "Dori with crew"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Doris and Ira 1944</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Doris and Ira 1944</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>L. Doris Sauborn, 1934 St Pete, First year Dori was taken sick</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid></unitid>
+							<unittitle>Verso: L. Doris Sauborn, 1934 St Pete, First year Dori was taken sick</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Namesake</unittitle>
+						<unitdate label="Date">1935 - 1944</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>"Your Name Sake." Lowell Thomas Cantrell age 6 mo. 14 Day's born Dec. 23 1941</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: "Your Name Sake." Lowell Thomas Cantrell age 6 mo. 14 Day's born Dec. 23 1941</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Lowell at 16 months, The  "wow-wow" is a husky who in its earlier years was a dog team leader in the N.W.T. "Junior" is where all good doggies go now.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Lowell at 16 months, The  "wow-wow" is a husky who in its earlier years was a dog team leader in the N.W.T. "Junior" is where all good doggies go now.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter attached to photograph 6.2]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter attached to photograph 6.2]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Dear Sir, we listened to your news broadcasts + liked you so much when our little son was born we named him (Lowell Thomas) He is now two years of age. I am enclosing a picture�</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Note[PDF]: Dear Sir, we listened to your news broadcasts + liked you so much when our little son was born we named him (Lowell Thomas) He is now two years of age. I am enclosing a picture�</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Dear Friend, Will drop you a line are[?] to as I am so interested in your announcement over the radio. I thought you were such a fine man I named my baby after you. I am sending you�</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter] Dear Friend, Will drop you a line are[?] to as I am so interested in your announcement over the radio. I thought you were such a fine man I named my baby after you. I am sending you�</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Lowell Brame, Orlando Fla- 2100 Elizabeth St.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Lowell Brame, Orlando Fla- 2100 Elizabeth St.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Note[PDF]: [letter attached to photograph 6.8]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Lowell Thomas [attached to note 6.11]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso: Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter attached to photograph 6.10]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter attached to photograph 6.10]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Lowell Thomas 3 yrs old, Strausburg Ohio 129 Second st S.W. son or Mr + Mrs. Charles R. Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso: Lowell Thomas 3 yrs old, Strausburg Ohio 129 Second st S.W. son or Mr + Mrs. Charles R. Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>Mr. Lowell Thomas: Here is a picture of little Lowell Thomas Spencer: Age 2 1/2 years old and he lives at New Lebanon, Ohio. He loves to stand be the radio and�</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Note[PDF]: Mr. Lowell Thomas: Here is a picture of little Lowell Thomas Spencer: Age 2 1/2 years old and he lives at New Lebanon, Ohio. He loves to stand be the radio and�</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>Caption: Lowell Thomas Fitzgerald [attached to 6.16 &amp; 6.17]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18-verso</unitid>
+							<unittitle>Verso: Lowell Thomas 3 1/2 years</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>Master Lowell Thomas Fitzgerald, Age 5 tears, weight 62, 8 W 30th St. Latonia, Ky. He has had us read him many times the book you sent him 3 years ago. Kabluk of the Eskimi. Enjoys it very much [attached to 6.15 &amp; 6.17]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19-verso</unitid>
+							<unittitle>Verso: Master Lowell Thomas Fitzgerald, Age 5 tears, weight 62, 8 W 30th St. Latonia, Ky. He has had us read him many times the book you sent him 3 years ago. Kabluk of the Eskimi. Enjoys it very much</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>Note: Christmas card from James, Jean and Tommie Fitzgerald [attached to photographs 6.15 &amp; 6.16]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>From Lowell Thomas Ftizgerald to Lowell Thomas [attaced to note 6.19]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21-verso</unitid>
+							<unittitle>Verso: From Lowell Thomas Ftizgerald to Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>Note: Just want to say hello to a grand man and show you how I look at 8 years, old. I am in the third grade. My sport is base ball and I also like to play army. Lowell Thomas Fitzgerald [attached to photography 6.18]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Photograph requests [includes autographed photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1942 - 1946</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: To Elmer Snyder Here's hoping the sun shines on you! [signed] Lowell Thomas</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>William Longley York (George Washington Sesquicentennial)</unittitle>
+						<unitdate label="Date">1950</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Man on a boat]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: Dear Sirs- Last evening Lowell Thomas asked for a man resembling George Washington to Take part in an event in Washignton. We didn't get the�</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: Page two of letter</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note: Envelope</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note: clipping of George Washington portrait</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1611 -->
+		</dsc>
+	</archdesc>
+</ead>

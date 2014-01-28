@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/LanternSlides2.1.2/detroitPublishing2.1.2.4.10.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Detroit Publishing Company</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.2.4.10</unitid>
+			<unittitle>Detroit Publishing Company</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1382 -->
+			<c01>
+				<note>Box 1382</note>
+				<did>
+					<unitid>2.1.2.4.10</unitid>
+					<unittitle>Detroit Publishing Company</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Cathedral of St. John the Divine, New York City</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1382" type="box">1382</container>
+						<materialspec label="index">016671</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>West front, U.S. Capitol, Washington, D.C.</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1382" type="box">1382</container>
+						<materialspec label="index">072244</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>The Capitol at Washington, D.C.</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1382" type="box">1382</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Pike’s Peak and gateway, Garden of the Gods, Colorado</unittitle>
+						<unitdate label="Date">circa 1900-1920</unitdate>
+						<container id="1382" type="box">1382</container>
+						<materialspec label="index">03082</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1382 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Personal</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.1.4</unitid>
+		<unittitle>Personal</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+	<!-- Box 1343 -->
+<c01>
+<note>Box 1343</note>
+<did>
+<unitid>2.1.2.1.4</unitid>
+<unittitle>Personal</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Lowell Thomas in Arab headdress	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-1	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas squatting in front of tent, Arabia	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-2	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas squatting in front of tent, Arabia	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-2	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Lowell Thomas and T.E. Lawrence standing in front of tent, Arabia	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-3	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Lowell Thomas and T.E. Lawrence standing in front of tent, Arabia	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-3	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas squatting in London in Arab clothes 	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-4	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas squatting in London in Arab clothes 	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-4	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Lowell Thomas on Arab horse [With Lawrence in Arabia caption:  An Arab thoroughbred]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-12	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Lowell Thomas on Arab horse [With Lawrence in Arabia caption:  An Arab thoroughbred]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-12	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Lowell Thomas on Emir Feisal’s horse	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-13	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Profile view of Lowell Thomas and General Edmund Allenby, close-up [With Lawrence in Arabia caption:  Allenby and author]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-16	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>General Edmund Allenby[?] and others on hill top 	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>General Edmund Allenby and his staff	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>General Edmund Allenby leaving a Bethlehem church	
+</unittitle>
+<unitdate label="Date">1917 15 Dec	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Lowell Thomas with movie camera in airplane before taking off for a flight from Egypt to Jerusalem [With Lawrence in Arabia caption:  Lowell Thomas in an open cockpit Breguet about to take off with Major A. J. Evans to follow the route of the Israelites across the Sinai Desert]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-17	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Lowell Thomas with mayor of Gaza having a quiet smoke, the mayor’s nephews at right	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-18	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Lowell Thomas with mayor of Gaza having a quiet smoke, the mayor’s nephews at right	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-18	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Lowell Thomas in armored car in the valley of the Dead Sea, 1000 feet below sea level	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-22	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Lowell Thomas in armored car in the valley of the Dead Sea, 1000 feet below sea level	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-22	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>General Giuseppe “Peppino” Garibaldi and dog, Lowell Thomas not looking at camera	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-31	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Harry Chase in Arab clothes, three quarter view, London	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-42	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Lowell Thomas in pith helmet	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">4-47	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Lowell Thomas’s passport, Germany	
+</unittitle>
+<unitdate label="Date">1919 January 9	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Lowell Thomas’s passport, Germany	
+</unittitle>
+<unitdate label="Date">1918 December 17	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Lowell Thomas’s passport, Switzerland	
+</unittitle>
+<unitdate label="Date">1918 December 6	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Lowell Thomas’s passport, Sudan	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 38	
+</unitid>
+<unittitle>Lowell Thomas standing by fountain, distant view	
+</unittitle>
+<unitdate label="Date">circa 1918-1921	
+</unitdate>
+<container id="1343" type="box">1343</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1343 -->
+<!-- Box 1344 -->
+<c01>
+<note>Box 1344</note>
+<did>
+<unitid>2.1.2.1.4</unitid>
+<unittitle>Personal</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Airplane on ground with pilot in front cockpit, Harry Chase stands in back seat while operating movie camera 	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Lowell Thomas and seaman examining a torpedo[?] on board the deck of a ship	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Lowell Thomas filming with movie camera on board a ship	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Lowell Thomas, soldiers and woman at unidentified estate	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Lowell Thomas stands before the Chicago Daily News building with three other men	
+</unittitle>
+<unitdate label="Date">circa 1917 - early 1920s	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Cartoon impression of Lowell Thomas at the Albert Hall where he is continuing his famous lecture on Allenby in Palestine by Ernest Forbes	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Cartoon impression of Lowell Thomas	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1344" type="box">1344</container>
+<materialspec label="index"></materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1344 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

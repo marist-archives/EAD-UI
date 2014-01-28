@@ -1,0 +1,3129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Mount Everest</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.9</unitid>
+		<unittitle>Mount Everest</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+	<!-- Box 1433 -->
+<c01>
+<note>Box 1433</note>
+<did>
+<unitid>2.1.2.9</unitid>
+<unittitle>Mount Everest</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>General C. G. Bruce [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: Close-up of General C. G. Bruce, leader of both the recent fatal expedition and the previous one of 1922]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>General C. G. Bruce climbing steep rock face	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>General C. G. Bruce climbing steep rock face	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>General C. G. Bruce [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: General Bruce in the centre, surrounded by his fellow adventurers. George Leigh-Mallory, the famous climber who broke all world records and who recently met his death at the summit of Mount Everest, is on the extreme left]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Two men climbing mountain	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">THS1	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Two men climbing mountain	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1433" type="box">1433</container>
+<materialspec label="index">THS1	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1433 -->
+<!-- Box 1434 -->
+<c01>
+<note>Box 1434</note>
+<did>
+<unitid>2.1.2.9</unitid>
+<unittitle>Mount Everest</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Two men climbing mountain	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">THS1	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">THS2	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Mountain climbers with pup tents pitched and oxygen tanks on ground	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">10	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Mountain climbers with pup tents pitched and oxygen tanks on ground	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">10	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Adjusting oxygen tanks at campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">18	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Adjusting oxygen tanks at campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">18	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Panorama, climbing party[?] in foreground	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">20	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Panorama, climbing party[?] in foreground	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">20	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Panorama, climbing party[?] in foreground	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">20	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">31	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">43	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">43	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Mountain climbers’ campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">47	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Mountain climbers’ campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">47	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">51	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">51	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">52	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">52	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">52	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">52	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">53	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Tibetan monastery [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: The turrets of a Tibetan monastery with the Himalayas in the distance]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">55	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Tibetan monastery [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: The turrets of a Tibetan monastery with the Himalayas in the distance]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">55	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Tibetan monastery [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: The turrets of a Tibetan monastery with the Himalayas in the distance]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">55	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Tibetan monastery [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: The turrets of a Tibetan monastery with the Himalayas in the distance]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">55	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">69	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">69	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">69	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Monastery[?] on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">70	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Monastery, distant view	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">73	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Monastery, distant view	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">73	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Monastery, distant view	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">73	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Monastery, distant view	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">74	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Mountain climbers’ campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">76	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Mountain climbers’ campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">76	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Mountain climbers’ campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1434" type="box">1434</container>
+<materialspec label="index">80	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1434 -->
+<!-- Box 1435 -->
+<c01>
+<note>Box 1435</note>
+<did>
+<unitid>2.1.2.9</unitid>
+<unittitle>Mount Everest</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Mountain climbers gather at campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">82	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Mountain climbers gather at campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">82	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Mountain climber with oxygen tanks strapped on his back	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">83	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Mountain climber with oxygen tanks strapped on his back	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">83	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">94	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">99	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Panorama, pack train in foreground	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">105	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Panorama, pack train in foreground	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">105	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">108	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">108	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">108	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">110	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">110 	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">111	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">113	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">114	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">114	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Tibetan family	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">120	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Tibetan family	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">120	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Tibetan monk [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: A Tibetan monk or lama]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">125	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Tibetan monk [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: A Tibetan monk or lama]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">125	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Tibetan monk [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: A Tibetan monk or lama]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">125	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Men holding several tapestries	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">130	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">135	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">135	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Tibetan warrior [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: Tibetan warrior who has killed a hundred men]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">142	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">144	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Peak of summit of Everest [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: One of the three untrodden peaks that form the summit of Everest]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">148	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">151	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">151	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">154	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">154	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">154	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">154	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Mountain climbers’ campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">159	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Mountain climbers’ campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1435" type="box">1435</container>
+<materialspec label="index">159	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1435 -->
+<!-- Box 1436 -->
+<c01>
+<note>Box 1436</note>
+<did>
+<unitid>2.1.2.9</unitid>
+<unittitle>Mount Everest</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">160	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">160	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Sherpa campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">162	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Sherpa campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Sherpa campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Sherpa campsite	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">167	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">168	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">168	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">168	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Mountain climber operating a camera	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">177	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Mountain climber operating a camera	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">177	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>One of the peaks adjoining Everest [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: One of the peaks adjoining Everest]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">179	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Long line of men climbing mountain slope	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">186	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Long line of men climbing mountain slope	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">186	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Three members of General C. G. Bruce’s mountain climbing party	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">188	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Three members of General C. G. Bruce’s mountain climbing party	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">188	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">192	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">198	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>A Tibetan “Mountain of Death” [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: A Tibetan “Mountain of Death”]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">223	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>A Tibetan “Mountain of Death” [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: A Tibetan “Mountain of Death”]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">223	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Tibetan monastery [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: A typical Tibetan monastery perched high up on a mountain peak in the most inaccessible place in the region]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">228	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Tibetan monastery [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: A typical Tibetan monastery perched high up on a mountain peak in the most inaccessible place in the region]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">228	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Tibetan monastery [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: A typical Tibetan monastery perched high up on a mountain peak in the most inaccessible place in the region]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">228	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">230	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">232	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Panorama	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">232	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Monstery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">240	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Members of General C. G. Bruce’s mountain climbing party seated at a table	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">243	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Members of General C. G. Bruce’s mountain climbing party seated at a table	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">243	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Roof of monastery, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">248	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Roof of monastery, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">248	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">252	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">252	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">252	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Monastery[?], Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1436" type="box">1436</container>
+<materialspec label="index">267	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1436 -->
+<!-- Box 1437 -->
+<c01>
+<note>Box 1437</note>
+<did>
+<unitid>2.1.2.9</unitid>
+<unittitle>Mount Everest</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">269	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">270	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Monastery on hill, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">281	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Tibetan man	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">283	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Tibetan woman [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: A woman of Tibet in gala costume]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">285	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Tibetan girl [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: Tibetan girl in holiday garb]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">286	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Tibetan girl [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: Tibetan girl in holiday garb]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">286	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Tibetan man	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">324	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Tibetan man with tripod (photograph cropped)	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">326	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Two Tibetan men with tripod	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">326	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Monks, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">336	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Tibetan woman [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: A Tibetan woman showing her peculiar headdress]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Pass connecting India to Tibet [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: The pass that leads across the Himalayas from the lush lands of India to the bleak plateau of Tibet]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Sketch of mountain range [Climbing Mount Everest: Through Mysterious Tibet to the World’s Highest Mountain, Presented by Lowell Thomas caption: Sketch of the country through which the expeditions have all passed on their way from India to Mount Everest, a distance of 350 by trail or 100 miles by airline]	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Mountain climbers’ camp	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Mountain climbers’ camp	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Close-up of a member of General C. G. Bruce’s mountain climbing party	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Close-up of a member of General C. G. Bruce’s mountain climbing party	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Close-up of a member of General C. G. Bruce’s mountain climbing party	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Close-up of a member of General C. G. Bruce’s mountain climbing party	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Close-up of a member of General C. G. Bruce’s mountain climbing party	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Close-up of a member of General C. G. Bruce’s mountain climbing party	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Close-up of a member of General C. G. Bruce’s mountain climbing party	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Close-up of a member of General C. G. Bruce’s mountain climbing party	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Four members of General C. G. Bruce’s mountain climbing party	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Mount Everest diagram	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Mount Everest diagram	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Mount Everest diagram	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Mount Everest diagram	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Wooden horse	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Roof of monastery, Tibet	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1437" type="box">1437</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1437 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

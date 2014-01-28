@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.2.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Photographs2.1.9/general2.1.9.1.2.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>General</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.9.1.2</unitid>
+			<unittitle>General</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1611 -->
+			<c01>
+				<note>Box 1611</note>
+				<did>
+					<unitid>2.1.9.1.2</unitid>
+					<unittitle>General</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Olive Enequist Elger and Lowell Thomas [color photographs]</unittitle>
+						<unitdate label="Date">1977</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>With Olive Enequist Elger Dec. 1977 (I think), At a dinner for Excelsior Foundation - Girl's school Denver, Colorado.  I'm just about a year late in sending this to you</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: With Olive Enequist Elger Dec. 1977 (I think), At a dinner for Excelsior Foundation - Girl's school Denver, Colorado.  I'm just about a year late in sending this to you</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Lowell Thomas and Olive Enequist Elger Dec 1977, Dinner for Excelsior Girl's School Denver, Colorado</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Lowell Thomas and Olive Enequist Elger Dec 1977, Dinner for Excelsior Girl's School Denver, Colorado</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Pauline and David Enequist [color photograph]</unittitle>
+						<unitdate label="Date">1979</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Man and woman standing outside of building]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Winifield Eng, Jr.</unittitle>
+						<unitdate label="Date">1955</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>You may have guessed that I am an American-Chinese - Therefore my interests in the subject stems from a personal interest in the traditions which prevail on my heritage - I'm proud of my twins - Pauline and Pamela and a beautiful Chinese wife</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid></unitid>
+							<unittitle>Verso: You may have guessed that I am an American-Chinese - Therefore my interests in the subject stems from a personal interest in the traditions which prevail on my heritage - I'm proud of my twins - Pauline and Pamela and a beautiful Chinese wife</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Annie Irving</unittitle>
+						<unitdate label="Date">1939</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Mrs. Annie Irving New Glasgow N.J.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Mrs. Annie Irving New Glasgow N.J.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Mr. and Mrs. Herbert Janes [color photograph]</unittitle>
+						<unitdate label="Date">1980</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Nov. 79; Ginny and "Hons" Janes</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Nov. 79; Ginny and "Hons" Janes</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Linea H. Jenkins [color photograph]</unittitle>
+						<unitdate label="Date">1973</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Since I don't like writing to a faceless name, this is a picture of me</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Since I don't like writing to a faceless name, this is a picture of me</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Bob Jennings [color photograph]</unittitle>
+						<unitdate label="Date">1975</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Bob Jennings TV Sales Inc.; RCA &amp; GE Color-Hammond Organs; Jacuzzi Whirlpool Units; Brookfield Center, Conn.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Bob Jennings TV Sales Inc.; RCA &amp; GE Color-Hammond Organs; Jacuzzi Whirlpool Units; Brookfield Center, Conn.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Hattie Jessup [color photograph]</unittitle>
+						<unitdate label="Date">1980</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Compliments of "Juneau Hattie"&amp; ("formerly"&amp;); "Red "Dog"&amp; Saloon"&amp;; Juneau, Alaska, (1954); Age 88</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Compliments of "Juneau Hattie"&amp; ("formerly"&amp;); "Red "Dog"&amp; Saloon"&amp;; Juneau, Alaska, (1954); Age 88</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Bob Johnson</unittitle>
+						<unitdate label="Date">1969</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Yours Truly! Bob Johnson; Robert R. Johnson ; Feb. 1969; 312 West Bute St; Norfolk, Va. 23510</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Yours Truly! Bob Johnson; Robert R. Johnson ; Feb. 1969; 312 West Bute St; Norfolk, Va. 23510</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>W. H. Johnson</unittitle>
+						<unitdate label="Date">1967</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Portrait of man wearing glasses]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Nathalie and Ted Jones [color photograph]</unittitle>
+						<unitdate label="Date">1969</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Greetings&amp; from our home to yours! Nathalie and Ted</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Josephine Kaas [includes photographs of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1942</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas on a field]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Eugene Ouell; PO Box 522; Pawling N.Y.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Eugene Ouell; PO Box 522; Pawling N.Y.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas on baseball field]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Group of men playing instruments on field]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[People on baseball field]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Three people by body of water]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Group of boys at baseball field]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Children at baseball field (LT, Jr. at left?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Note: Chief Rising Sun at Lowell Thomas</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Edward T. Keenan</unittitle>
+						<unitdate label="Date">1947</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Man sitting in chair in front of bookshelves]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Paul E. Kelly [color photograph]</unittitle>
+						<unitdate label="Date">1967</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Season's Greetings Tucker, Jack E., Paul E. Jr., Diane, and Paul Kelly</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Season's Greetings; The Paul E. Kellys; 322 South State Road; Briarcliff Manor, NY 10510</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>J. Leslie Kincaid</unittitle>
+						<unitdate label="Date">1972</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Verso: 1966</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: 1966</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Ralph Korpi</unittitle>
+						<unitdate label="Date">circa 1958</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Ralph Korpi</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Ralph Korpi</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Charles J. Lovett, Jr.</unittitle>
+						<unitdate label="Date">1939</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: The Season's Greetings for a good old-fashioned Merry Christmas and a mighty glad New Year; Charles J. Lovett, Jr.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Bruce Rinaldo</unittitle>
+						<unitdate label="Date">1941</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>To Lowell Thomas from whom I've derived so much of interest! Most Sincerely Bruce Rinaldo; Abstractor, Pennsylvania Historical Survey - Erie, Pa. 6/2/'41</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: To Lowell Thomas from whom I've derived so much of interest! Most Sincerely Bruce Rinaldo; Abstractor, Pennsylvania Historical Survey - Erie, Pa. 6/2/'41</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Doctor  Paul A. Siple</unittitle>
+						<unitdate label="Date">1941</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>From more than 100 aerial photographs taken by Dr. Paul A. Siple, official cartographer of the  U. S. Antarctic Service Expedition&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: From more than 100 aerial photographs taken by Dr. Paul A. Siple, official cartographer of the  U. S. Antarctic Service Expedition to the South Pole Country, Artist Beverly Towles executed this sketch of "Colonel Albanus Phillips Mountains"&amp;, 200 miles north-east of Little America, on the Antarctic Continent. The newly charted chain is 80 miles long, 30 miles wide and over 6,000 feet high</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Mother Rankin and Ruffus Stoddard</unittitle>
+						<unitdate label="Date">1940</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Mother Rankin; Son Ruffus Stoddard</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Mother Rankin; Son Ruffus Stoddard</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Thistle Down Jockey Club</unittitle>
+						<unitdate label="Date">1939</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Horse race]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Horse race]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: Envelope than contained photographs</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>George Williams</unittitle>
+						<unitdate label="Date">1939</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[View of ocean and palm leaves]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Portrait of man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: George Williams; Director "Radio Newspaper"&amp;; Commercial Agent; HP5G and HOA</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Olive C. Wilson</unittitle>
+						<unitdate label="Date">circa 1949</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [letter from Olive C. Wilson to Lowell Thomas, Page 1]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter from Olive C. Wilson to Lowell Thomas, Page 2]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[LT, Sr. and LT, Jr. with another man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Two men standing together]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[LT, Sr. and LT, Jr. with another man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[LT, Sr. and LT, Jr. with another man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Close-up picture of a man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Close-up picture of a man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[LT, Sr. standing with another man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[LT, Sr. standing by car]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Mr. and Mrs. Colin Wyatt</unittitle>
+						<unitdate label="Date">1941</unitdate>
+						<container id="1611" type="box">1611</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [Page 1] Introducing Mr. and Mrs. Colin Wyatt</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 2] Mr. Colin Wyatt is an Englishman educated in Switzerland and Cambridge Universities&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 3] During this period he served on the Council of the Ski Club of Great Britain and was also a Member of various other Committees&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 4] In the winter of 1938 Mr. Wyatt lead an expedition across Arctic Lapland on skis from Sweden across Finland to North Cape&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note[PDF]: [Page 5] Mrs. Wyatt is also at home in the snow, is a keen skier and holds the Australian Bronze Medal&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Photographs removed from document]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: [signed] Colin W. Wyatt</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Photographs removed from document]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: [signed] Colin W. Wyatt</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Photographs removed from document]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso: [signed] Colin W. Wyatt</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Photographs removed from document]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Cedar Lodge, Riverton, UT. Looking north</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso: Cedar Lodge, Riverton, UT. Looking north</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Cedar Lodge, Riverton, UT. Looking south  and showing one of the meadows and part of the woodland. Much higher than appears. E. H. Prouty, Agt.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso: Cedar Lodge, Riverton, UT. Looking south  and showing one of the meadows and part of the woodland. Much higher than appears. E. H. Prouty, Agt.</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1611 -->
+		</dsc>
+	</archdesc>
+</ead>

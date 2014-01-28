@@ -1,0 +1,1925 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/LanternSlides2.1.2/palestine2.1.2.1.2.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Palestine</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.2.1.2</unitid>
+			<unittitle>Palestine</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1338 -->
+			<c01>
+				<note>Box 1338</note>
+				<did>
+					<unitid>2.1.2.1.2</unitid>
+					<unittitle>Palestine</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Lowell Thomas and servant sitting in front of tent with cameras and other equipment on the ground [similar to 2-3 and 2-3A]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-3B</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Explosive shells, Kantara</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-9</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Baby camel and Arab</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-14</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Major seated on kneeling camel at hospital</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-19</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>View from airplane of sand dunes in the Sinai Desert (aerial view)</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-24</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>View from airplane of sand dunes in the Sinai Desert (aerial view)</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-24</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>View from airplane of Jaffa, looking through airplane’s guy wires (aerial view)</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-39</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Lowell Thomas and military officer examining a Turkish skull in abandoned trench</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-42</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Lowell Thomas (with back to camera) and military officer at Abraham’s Well</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-45</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Lowell Thomas with British and Indian soldiers at a Turkish munitions storage area</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-47</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Lowell Thomas with British and Indian soldiers at a Turkish munitions storage area</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-47</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Lowell Thomas with British and Indian soldiers at a Turkish munitions storage area</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-47</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Hindu officer on camel [With Lawrence in Arabia caption: A racing dromedary from India]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-48</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Hindu officer on camel [With Lawrence in Arabia caption: A racing dromedary from India]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-48</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Wrecked railroad bridge, Lowell Thomas (with back to camera) and military officers in foreground</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-49</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Wrecked railroad bridge, Lowell Thomas (with back to camera) and military officers in foreground</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-49</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>View of Hebron from cemetery</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-50</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Several people sit alongside pool at Hebron</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-51</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Abraham’s Oak, man standing in foreground</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-52</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Abraham’s Oak, man standing in foreground</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1338" type="box">1338</container>
+						<materialspec label="index">2-52</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1338 -->
+			<!-- Box 1339 -->
+			<c01>
+				<note>Box 1339</note>
+				<did>
+					<unitid>2.1.2.1.2</unitid>
+					<unittitle>Palestine</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Abraham’s Oak, man standing in foreground</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-52</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Nile water well at Khan Yunis</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-53</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Mount Pisgah where Moses saw the Promised Land, Lowell Thomas and military officer looking off into the distance</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-56</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Main street of Gaza in ruins, men on horseback in center of street</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-61</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Hole in dome of mosque at Gaza, two men on horseback in road</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-65</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Camel hospital from distance</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-67</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Army tents at sunset</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-84</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Distant view of General Edmund Allenby’s headquarters</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-86</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Jewish children</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-92</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Australian soldier with young Jewish girl</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-93</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Australian soldier with young Jewish girl</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-93</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Richon</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-95</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Richon woman</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-96</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Richon woman</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-96</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Richon woman</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-96</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Piles of oranges, many people milling about, Jaffa</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-97</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Four Scottish soldiers reading a church notice, Jaffa</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-98</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Two Scottish soldiers looking across Auja River</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-102</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Auja River crossing</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-103</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Mayor Sachs [Sacks?] [Saxe?] of Racobeth</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-106</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Mayor Sachs [Sacks?] [Saxe?] of Racobeth</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-106</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Two Australians standing on Mughar Hill</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-109</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Automobile passing through Judean Hills</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-113</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Automobile passing through Judean Hills</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-113</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Automobile on road to village near Jerusalem</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-116</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Automobile on road to village near Jerusalem</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-116</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>James McBey, official artist for the Egyptian Expeditionary Force (E.E.F.), sketching Mosque of Omar</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-120</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Bedouin hospital</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-123</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Mosque of Omar, sunset</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-124</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Patrol of Ford automobiles in desert (Lowell Thomas note: This goes with Arabian negatives)</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-133</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Golden Gate</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-135</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Lowell Thomas reading under tree on Mount of Olives, panorama of Jerusalem in background</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-141</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Stiftung from distance</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-151</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Siftung, close-up, three British soldiers and a child</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-152</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Bronze statue of Kaiser Wilhelm II as crusader</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-156</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Stiftung ceiling, mosaic of Kaiser Wilhelm II and Kaiserin Victoria</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1339" type="box">1339</container>
+						<materialspec label="index">2-158</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1339 -->
+			<!-- Box 1340 -->
+			<c01>
+				<note>Box 1340</note>
+				<did>
+					<unitid>2.1.2.1.2</unitid>
+					<unittitle>Palestine</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Mosaic of King David</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-159</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Lowell Thomas, Lieutenant General Philip Chetwode (with cane), and other British officers on the Mount of Olives [With Lawrence in Arabia caption:  Sir Philip Chetwode pointing toward Jericho and describing the campaign to Lowell Thomas]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-162</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>General Philip Chetwode and staff, Jordan Valley in background</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Mosaic of Christ on throne</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-166</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Lowell Thomas with starving child</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-167</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Six beggar children sitting on street in Jerusalem</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-174</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Beggar child, rag around head</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-175</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Bishop and many beggar children</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-176</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Heavily veiled woman</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-178</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Bertha Vester and many women from Russia and Armenia stand on a balcony</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-182</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Bertha Vester and many women from Russia and Armenia stand on a balcony</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-182</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Bertha Vester and many women from Russia and Armenia stand on a balcony</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-182</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Bertha Vester with women and children</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-183</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Bertha Vester with women and children</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-183</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Proclamation (part 2)</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-189</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>French Poilus guarding Holy Sepulchre</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-193</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>French Poilus guarding Holy Sepulchre</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-193</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>British staff automobiles at Jaffa Gate</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-203</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Soldiers at Lazarus’s tomb</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-207</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Vale of Adjalon</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-208</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Good Samaritan Inn, two tents and soldiers at right</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-209</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Colonel Camp and three British officers</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-210</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Group of officers in front of office of military governor of Bethlehem</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-211</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>French Poilus and British soldiers on guard at Church of Nativity in Bethlehem</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-213</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Duke of Connaught, close-up</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-218</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Duke of Connaught presenting medals, distant view</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-220</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Duke of Connaught presenting medals, distant view</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>General Edmund Allenby</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-230</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>General Edmund Allenby and staff [With Lawrence in Arabia caption:  Allenby, the Commander in Chief; with the Duke of Connaught, uncle of the King - on left - who had been sent out to give decorations]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-231</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>General Edmund Allenby</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-232</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>General Edmund Allenby</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-232</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>General Edmund Allenby</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-233</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>General Edmund Allenby</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-233</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>General Edmund Allenby on horseback</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>General Edmund Allenby, profile view</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>General Edmund Allenby and wife, Mabel [With Lawrence in Arabia caption:  Lord and Lady Allenby]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1340" type="box">1340</container>
+						<materialspec label="index">2-234</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1340 -->
+			<!-- Box 1341 -->
+			<c01>
+				<note>Box 1341</note>
+				<did>
+					<unitid>2.1.2.1.2</unitid>
+					<unittitle>Palestine</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>General Edmund Allenby and wife, Mabel [With Lawrence in Arabia caption: Lord and Lady Allenby]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-234</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Lieutenant General Philip Chetwode describing the Fall of Jerusalem to group of dignitaries, Duke of Connaught in cap [With Lawrence in Arabia caption:  Lieutenant General Sir Philip Chetwode, Allenby’s second in command, pointing across the Dead Sea toward Arabia. Next to him, Lieutenant General Sir Harry Chevel, Australian general in command of the Anzac mountain division; Lieutenant General Sir Edwin Bulfin, Major General Sir john Shea, whose troops captured Jerusalem. The Duke of Connaught, wearing cap; the Anglican Bishop of Jerusalem and Allenby, the Commander-in-Chief.]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-236</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Lieutenant General Philip Chetwode describing the Fall of Jerusalem to group of dignitaries, Duke of Connaught in cap [With Lawrence in Arabia caption:  Lieutenant General Sir Philip Chetwode, Allenby’s second in command, pointing across the Dead Sea toward Arabia. Next to him, Lieutenant General Sir Harry Chevel, Australian general in command of the Anzac mountain division; Lieutenant General Sir Edwin Bulfin, Major General Sir john Shea, whose troops captured Jerusalem. The Duke of Connaught, wearing cap; the Anglican Bishop of Jerusalem and Allenby, the Commander-in-Chief.]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-236</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>British soldiers sitting in front of cave</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-242</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Brigadier General “Fighting Charlie” Cox approaching Jerusalem in his staff automobile</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-248</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Scottish sentry</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-263</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Lieutenant Ridley</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-267</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Lieutenant Ridley</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-267</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Lieutenant Ridley</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-267</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Lieutenant Ridley</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-267</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Lieutenant Ridley</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-267</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Major on tall camel, commander of hospital</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-268</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Major on tall camel, commander of hospital</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-268</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>“V. C.” Smith, commander of Australian Camel Corps</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-269</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Tablet on Dog River that refers to the XXI British Army Corps</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-271</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>General Edmund Allenby and officers before carved tablet on Dog River</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-272</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Scottish soldier with mumps</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-273</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Lowell Thomas and Mayor Sachs [Sacks?][Saxe?] of Racobeth</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-279</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Little boy saluting wearing oversize military hat [Malta]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-300</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Woman with hay on head</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-343</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Woman with hay on head</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-343</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Colonel Camp</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-350</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>General Ronald Storrs</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-352</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>British soldier on guard at Mount of Olives, large tree in foreground</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-355</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Jerusalem panorama with olive grove in foreground</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-356</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Jerusalem panorama with olive grove in foreground, guide and British soldier on wall</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-361</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Garden of Gethsemane</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-369</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Stiftung from Russian Spire</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-371</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Stiftung Tower from roadway, many trees in foreground</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-376</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Woman drinking tea (Lowell Thomas note: Gray hair to look as aged as possible)</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-388</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Woman drinking tea (Lowell Thomas note: Gray hair to look as aged as possible)</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index">2-388</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Panorama of Jerusalem</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Mosque of Omar</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Rock formation on the Dead Sea [With Lawrence in Arabia caption:  “Lot’s Wife” near the southern end of the Dead Sea]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Rock formation on the Dead Sea [With Lawrence in Arabia caption:  “Lot’s Wife” near the southern end of the Dead Sea]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Rock formation on the Dead Sea [With Lawrence in Arabia caption:  “Lot’s Wife” near the southern end of the Dead Sea]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1341" type="box">1341</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1341 -->
+			<!-- Box 1342 -->
+			<c01>
+				<note>Box 1342</note>
+				<did>
+					<unitid>2.1.2.1.2</unitid>
+					<unittitle>Palestine</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Rock formation on the Dead Sea [With Lawrence in Arabia caption:  “Lot’s Wife” near the southern end of the Dead Sea]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Rock formation on the Dead Sea [With Lawrence in Arabia caption:  “Lot’s Wife” near the southern end of the Dead Sea]</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Man holding an umbrella reads a book as he floats on his back in the Dead Sea</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Man holding an umbrella reads a book as he floats on his back in the Dead Sea</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Man holding an umbrella reads a book as he floats on his back in the Dead Sea</unittitle>
+						<unitdate label="Date">1918</unitdate>
+						<container id="1342" type="box">1342</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1342 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

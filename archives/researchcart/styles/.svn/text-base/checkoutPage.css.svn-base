@@ -1,0 +1,501 @@
+div#feedbackHolder
+{
+	float: right;
+	text-align: center;
+	position: fixed;
+	_position: absolute;
+	bottom: -1px;
+	right: -1px;
+}
+
+a#feedback
+{
+	border-style: solid;
+	text-decoration: none;
+	color: white;
+	background-color: #B31B1B;
+	padding: 5px;
+	font-family: "Calibri", Arial, sans-serif;
+	font-size: 22pt;
+}
+
+div#feedbackForm
+{
+	position: fixed;
+	_position: absolute;
+	bottom: 41px;
+	right: 103px;
+	width: 550px;
+	height: 76px;
+	border-style: solid;
+	border-width: 2px;
+	padding: 5px;
+	border-color: gray;
+	background-color: #B31B1B;
+	color: white;
+	font-family: "Calibri", Arial, sans-serif;
+	font-size: 16pt;
+}
+
+
+
+a#feedbackEmail
+{
+	color: white;
+}
+
+input.error 
+{ 
+	border-style: solid;
+	border-width: 1px; 
+	border-color: red;
+	 
+}
+
+	label.error {
+		background: url('http://dev.jquery.com/view/trunk/plugins/validate/demo/images/unchecked.gif') no-repeat;
+		padding-left: 16px;
+		margin-left: .3em;
+	}
+	label.valid {
+		background: url('http://dev.jquery.com/view/trunk/plugins/validate/demo/images/checked.gif') no-repeat;
+		display: block;
+		width: 16px;
+		height: 16px;
+	}
+
+
+
+.ui-datepicker-trigger
+{
+	float: right;
+	margin-right: -148px;
+	margin-top: 4px;
+}
+
+
+.detailContainer
+{
+	height: 28px;
+	margin-top: 6px;
+	width: 340px;
+}
+
+#apptDetails
+{
+	height: 238px;
+	display: inline;
+	margin-left: -329px;
+	position: absolute;
+	background: white;
+}
+
+#reCAPTCHA
+{
+	display: inline;
+	margin-left:53px;
+	position: absolute;
+	margin-top: 0px;
+	background: white;
+	}
+
+.globalFont {
+	font-family: "Calibri", Arial, sans-serif; 
+	font-size:15pt;
+}
+
+.simpleCaptchaSelected {
+	border: 2px solid #393;
+}
+
+#cart {
+	display: block;
+	width: 1000px;
+	margin: auto;
+	height: 500px;
+	border-style: solid;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	-moz-box-shadow: 0px 0px 5px 5px #ccc;
+	-webkit-box-shadow: 0px 0px 5px 5px #ccc;
+	box-shadow: 0px 0px 5px 5px #ccc;
+	
+}
+
+#apptDetailsCaptcha 
+{
+	vertical-align: text-top;
+	width: 765px;
+	z-index: 11;
+	position: absolute;
+	left: 20%;
+	top: 28%;
+	height: 280px;
+	background: white;
+	padding: 20px;
+	text-align: center;
+}
+
+#cartHeader {
+	background-color: #B31B1B;
+	color: white; 
+	width: 100%;
+	font-family: "Calibri", Arial, sans-serif; 
+	font-size:15pt;
+	text-align: center;
+}
+
+#cart div#staticCheckout {
+	text-align:left;
+}
+
+#cartTable {
+	//float: left;
+	height: 373px;
+	width: 1000px;
+	overflow: auto;
+}
+
+#cartItems th, #cartItems td {
+	text-align: left;
+    border: 1px solid #CCCCCC;
+    padding: 3px 8px;
+	border-collapse: collapse;
+
+}
+
+#cartItems tr {
+	text-align: center;
+	background: none repeat scroll 0 0 #F2F2F2;
+}
+
+
+.collection {
+	width:200px;
+}
+
+.collectionDetail {
+	width: 464px;
+}
+
+.boxNumber {
+	width:76px;	
+}
+
+.itemNumber {
+	width:90px;
+}
+
+.removeButton {
+}
+
+#cartItemsPad {
+	text-align: center;
+	width: inherit;
+}
+
+
+input.cDetailsInput, select.cDetailsInput
+{ 
+	width: 164px; 
+	font-family: "Calibri", Arial, sans-serif;
+	font-size: 15pt;
+	margin-right: 4px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+.cDetailsLabel {
+	float: left;
+}
+
+.cDetailsInput {
+	float: right;
+	
+	
+}
+
+/*
+a#close:hover span
+{
+	background-position: 0 -34px;
+	color: white;
+}
+
+a#close span
+{
+	background: transparent url("../images/button_left_black.png") no-repeat 0 0;
+	display: block;
+	line-height: 22px;
+	padding: 7px 0 5px 18px;
+	color: white;
+}
+
+a#close
+{
+	float: right;
+	background: transparent url("../images/button_right_black.png") no-repeat top right;
+	display: block;
+	height: 34px;
+	margin-right: -2px;
+	margin-top: -10px;
+	padding-right: 20px;
+	text-decoration: none;
+	font-family: "Calibri", Arial, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+a#close:hover
+{
+	background-position: right -34px;
+}
+
+
+a.checkoutButton {
+	display: none;
+	display: block;
+	background: transparent url("../images/button_right_black.png") no-repeat top right;
+	height: 34px;
+	margin-right: 6px;
+	padding-right: 20px;
+	text-decoration: none;
+	font-family: "Calibri", Arial, sans-serif; 
+	font-size:15px;
+	font-weight:bold;
+	width: 150px;
+	
+}
+
+a.checkoutButton span {
+	background: transparent url("../images/button_left_black.png") no-repeat 0 0;
+	display: block;
+	line-height: 22px;
+	padding: 7px 0 5px 18px;
+	color: #fff;
+	text-align: center;
+}
+
+a.checkoutButton:hover span {
+background-position: 0 -34px; color: #fff;
+}
+
+a.checkoutButton:hover {
+background-position: right -34px;
+}
+
+a.printButton {
+	display: none;
+	display: block;
+	background: transparent url("../images/button_right_black.png") no-repeat top right;
+	height: 34px;
+	margin-right: 6px;
+	padding-right: 20px;
+	text-decoration: none;
+	font-family: "Calibri", Arial, sans-serif; 
+	font-size:15px;
+	font-weight:bold;
+	width: 150px;
+	
+}
+
+a.printButton span {
+	background: transparent url("../images/button_left_black.png") no-repeat 0 0;
+	display: block;
+	line-height: 22px;
+	padding: 7px 0 5px 18px;
+	color: #fff;
+	text-align: center;
+}
+
+a.printButton:hover span {
+background-position: 0 -34px; color: #fff;
+}
+
+a.printButton:hover {
+background-position: right -34px;
+}
+*/
+
+a#close:hover span
+{
+	background-position: 0 -34px;
+	color: white;
+}
+
+div#printButton
+{
+	left: 150px;
+	top: 572px;
+	position: absolute;
+}
+
+a.btn:hover span
+{
+	background-position: 0 -34px;
+	color: white;
+}
+
+a.btn span
+{
+	background: transparent url("../images/button_left_black.png") no-repeat 0 0;
+	display: block;
+	line-height: 22px;
+	padding: 7px 0 5px 18px;
+	color: white;
+}
+
+a.btn
+{
+	float: right;
+	background: transparent url("../images/button_right_black.png") no-repeat top right;
+	display: block;
+	height: 34px;
+	margin-right: -2px;
+	margin-top: -10px;
+	padding-right: 20px;
+	text-decoration: none;
+	font-family: "Calibri", Arial, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+a.btn:hover
+{
+	background-position: right -34px;
+}
+
+a.checkoutButton {
+	margin-top: 25px;
+	margin-left: 124px;
+	float: none;
+	position: absolute;
+}
+
+#alternateOption {
+	display: none;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#cartItemsPad {
+	text-align: left;
+}
+
+#cartTablePad {
+	height: 460px;
+	text-align: center;
+}
+
+#cartHeadingPad {
+	text-align: center;
+	white-space: nowrap;
+}
+
+#backDrop {
+	display: none;
+	position: fixed;
+	background-color: #999999;
+	left: 0px;
+	top: 0px;
+	opacity: 0.5;
+	width: 100%;
+	height: 100%;
+}
+
+#printWindow {
+	display: none;
+	position: absolute;
+	z-index: 101;
+	margin-left: auto;
+	top: 15%;
+	background: white;
+	width: 80%;
+	height: 500px;
+	overflow: auto;
+	border-style: solid;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+.padButtons {
+	position: relative;
+	float: right;
+	padding-right: 10px;
+	vertical-align: text-bottom;
+}
+
+.noScreen {
+	display: none;
+}
+
+div#reservationOptionCont
+{
+	
+}
+
+div#optionLabelCont
+{
+	top: 600px;
+	width: 600px;
+	height: 50px;
+	margin-top: 45px;
+}
+
+
+a.optionPrint
+{
+	margin-left: 240px;
+	position: absolute;
+	display: inline;
+}
+
+a.optionForm
+{
+	position: absolute;
+	margin-left: 561px;
+	display: inline;
+}
+
+span.or
+{
+	position: absolute;
+	margin-left: 477px;
+}
+
+div.backDrop
+{
+	display:none;
+	width:100%;
+	height:100%;
+	background-color: black;
+	opacity: 0.70;
+	z-index: 10;
+	position: fixed;
+	bottom: -1px;
+	right: -1px;
+}
+
+div.backDropPlain
+{
+	display:none;
+	width:100%;
+	height:100%;
+	opacity: 9;
+	z-index: 10;
+	position: fixed;
+	bottom: -1px;
+	right: -1px;
+}
+
+span#closeCaptcaForm
+{
+	width: 13px;
+	position: relative;
+    right: -349px;
+    top: -14px;
+    cursor: pointer;
+}
+

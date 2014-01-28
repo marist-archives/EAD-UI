@@ -1,0 +1,7767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.7.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/stereographicCards2.1.8.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Stereographic Cards</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.8</unitid>
+			<unittitle>Stereographic Cards</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1604 -->
+			<c01>
+				<note>Box 1604</note>
+				<did>
+					<unitid>2.1.8</unitid>
+					<unittitle>Stereographic Cards</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Keystone View Company Stereographic Library, "Tour of the World", volumes I and II</unittitle>
+						<unitdate label="Date">circa late 1920s - 1930s</unitdate>
+						<container id="1604" type="box">1604</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<!-- End 1604 -->
+			<!-- Box 1605 -->
+			<c01>
+				<note>Box 1605</note>
+				<did>
+					<unitid>2.1.8</unitid>
+					<unittitle>Stereographic Cards</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Keystone View Company Stereographic Library,"Tour of the World", volumes III and IV</unittitle>
+						<unitdate label="Date">circa late 1920s - 1930s</unitdate>
+						<container id="1605" type="box">1605</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<!-- End 1605 -->
+			<!-- Box 1606 -->
+			<c01>
+				<note>Box 1606</note>
+				<did>
+					<unitid>2.1.8</unitid>
+					<unittitle>Stereographic Cards</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Keystone View Company Stereographic Library, "Tour of the World", volumes V and VI</unittitle>
+						<unitdate label="Date">circa late 1920s - 1930s</unitdate>
+						<container id="1606" type="box">1606</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<!-- End 1606 -->
+			<!-- Box 1607 -->
+			<c01>
+				<note>Box 1607</note>
+				<did>
+					<unitid>2.1.8</unitid>
+					<unittitle>Stereographic Cards</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Keystone View Company Stereographic Library, "Tour of the World", volumes VII and VII</unittitle>
+						<unitdate label="Date">circa late 1920s - 1930s</unitdate>
+						<container id="1607" type="box">1607</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<!-- End 1607 -->
+			<!-- Box 1608 -->
+			<c01>
+				<note>Box 1608</note>
+				<did>
+					<unitid>2.1.8</unitid>
+					<unittitle>Stereographic Cards</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Keystone View Company Stereographic Library, "Tour of the World", volumes IX and X</unittitle>
+						<unitdate label="Date">circa late 1920s - 1930s</unitdate>
+						<container id="1608" type="box">1608</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<!-- End 1608 -->
+			<!-- Box 1609 -->
+			<c01>
+				<note>Box 1609</note>
+				<did>
+					<unitid>2.1.8</unitid>
+					<unittitle>Stereographic Cards</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Keystone View Company Stereographic Library, "Tour of the World", volumes XI and XII</unittitle>
+						<unitdate label="Date">circa late 1920s - 1930s</unitdate>
+						<container id="1609" type="box">1609</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>38-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>39-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>40-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>41-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>42-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>43-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>44-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>45-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>46-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>47-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>48-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>49-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>50-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>51-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>52-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>53-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>54-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>55-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>56-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>57-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>58-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>59-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>60-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>61-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>62-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>63-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>64-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>65-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>66-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>67-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>68-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>69-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>70-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>71-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>72-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>73-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>74-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>75-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>76-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>77-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>78-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>79-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>80-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>81-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>82-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>83-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>84-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>85-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>86-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>87-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>88-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>89-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>90-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>91-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>92-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>93-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>94-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>95-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>96-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>97-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>98-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>99-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>100-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<!-- End 1609 -->
+				<!-- Box 1610 -->
+			<c01>
+				<note>Box 1610</note>
+				<did>
+					<unitid>2.1.8</unitid>
+					<unittitle>new</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Keystone View Company Stereographic Library, "World War",  volume I</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1610" type="box">1610</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>32-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>33-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>34-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>35-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>36-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37</unitid>
+							<unittitle>[no description]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>37-verso</unitid>
+							<unittitle>Verso</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<!-- End 1610 -->
+		</dsc>
+	</archdesc>
+</ead>

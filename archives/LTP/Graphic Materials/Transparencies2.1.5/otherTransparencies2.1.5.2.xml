@@ -1,0 +1,1651 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.5.1.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Transparencies2.1.5/otherTransparencies2.1.5.2.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Other transparencies</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="">2.1.5.2</unitid>
+			<unittitle>Other transparencies</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract"></abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p></p>
+		</scopecontent>
+		<accessrestrict>
+			<p></p>
+		</accessrestrict>
+		<userestrict>
+			<p></p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1593 -->
+			<c01>
+				<note>Box 1593</note>
+				<did>
+					<unitid>2.1.5.2</unitid>
+					<unittitle>Other transparencies</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Alaska</unittitle>
+						<unitdate label="Date">circa 1915 - 1916</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Alaska, Snowcapped mountains]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Australia</unittitle>
+						<unitdate label="Date">circa 1960s</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Australia: Dirt road, 3 images on one sheet]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Australia: Group of men by dirt road, 3 images on one sheet]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Australia:  Crowd of people walking around, 3 images on one sheet]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note: (Envelope) L.T. Negatives; Capital Cities Communicaions, Inc., K&amp;L Color; Att: Joe Delgado</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>BBC [British Broadcasting Corporation]</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[BBC: Lowell Thomas holding an animal pelt]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[2 images on one sheet] [BBC: Lowell Thomas holding object in his hand]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[2 images on one sheet] [BBC: Lowell Thomas holding grass skirt?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[BBC: Lowell Thomas holding grass skirt]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[BBC: Camera equipment set up, Lowell Thoams standing at front]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[BBC: Lowell Thomas sitting at desk in front of world map]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[BBC: Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[BBC: Lowell Thomas standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[BBC: Lowell Thomas holding grass skirt]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Note: LT did scenes [series] [?] of 41 on adventure - for BBC -</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Cinerama</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[3 images on one sheet, damaged] [Cinerama, Grand building at left, in the distance]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[3 images on one sheet, damaged] [Cinerama, Grand building at left, in the distance]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[3 images on one sheet, damaged] [Cinerama, Grand building at left, in the distance]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Dogs</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Shaggy dog]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Shaggy dog]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Shaggy dog]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Family reunion</unittitle>
+						<unitdate label="Date">circa 1970s</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[2 images on one sheet][Family reunion: Group photo]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[2 images on one sheet][Family reunion: Group photo]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>First World Flight 35th anniversary</unittitle>
+						<unitdate label="Date">1959</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>First World Flight 35th anniversary [Lowell Thomas and three other men standing around a model airplane]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Hammersley Hill</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Hammersley Hill: Aerial view of land]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Hammersley Hill: Aerial view of land]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Hammersely Hill: Set for show]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>High Adventure with Lowell Thomas (New Guinea)</unittitle>
+						<unitdate label="Date">1957</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>High Adventure New Guniea, [Natives wearing ornate jewelry]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>High Adventure New Guniea, [Native with a painted face, holding a spear]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>High Adventure New Guniea, [Native with headdress, playing a type of instrument]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>High Adventure New Guniea, [Native women]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>High Adventure New Guniea, [Two native children climbing ladder to hut]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>High Adventure New Guniea, [2 images on one sheet] [Lowell Thomas crouched near three natives]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>High Adventure New Guniea, [2 images on one sheet] [Lowell Thomas standing near four natives]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>High Adventure New Guniea, [Man crouched looing at ground]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>High Adventure New Guniea, [2 images on one sheet] [Lowell Thomas sitting with another man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>High Adventure New Guniea, [2 images on one sheet] [Lowell Thomas driving a vehicle]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>High Adventure New Guniea, [2 images on one sheet] [Lowell Thomas crouched near four painted natives]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>High Adventure New Guniea, [2 images on one sheet] [(blurry) Lowell Thomas leaning on vehicle with another man next to him]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>High Adventure New Guniea, [Natives standing in canoes]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>High Adventure New Guniea, [Two natives standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>High Adventure New Guniea, [Lowell Thoams receiving blanket from little native boy]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>High Adventure New Guniea, [Close-up of native's face]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>High Adventure New Guniea, [Native holding toddler on his shoulders]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>High Adventure New Guniea, [Close-up of native's face]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>High Adventure New Guniea, Note: Here's a good picture for Electra. [Lowell Thomas, natives in background]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>High Adventure New Guniea, [Here's a good picture for Electra.]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>High Adventure with Lowell Thomas (New Guinea)</unittitle>
+						<unitdate label="Date">circa late 1950s</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>High Adventure New Guniea, [Natives stringing a bow and arrow]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>High Adventure New Guniea, [Painted natives holding weapons]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>High Adventure New Guniea, [Two natives sitting on ground; boy and man smoking a bong(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>High Adventure New Guniea, [Natives with weapons and shields walking in front of huts]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>High Adventure New Guniea, [Natives around a canoe]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>High Adventure New Guniea, [Three natives holding weapons]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>High Adventure New Guniea, [Natives holding spears and shields in front of huts]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>High Adventure New Guniea, [Natives holding spears and shields in front of huts]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>High Adventure New Guniea, [Native women lined up]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>High Adventure New Guniea, [two natives with sharpened weapons]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>High Adventure New Guniea, [Native woman working on a canoe]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>High Adventure New Guniea, [Group of natives sitting on ground]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>High Adventure New Guniea, [Close-up of native man holding toddler on his shoulders]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>High Adventure New Guniea, [Native man with painted face]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>High Adventure New Guniea, [Native man with painted face, holding spear]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>High Adventure New Guniea, [Natives at top of ladder of hut]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>High Adventure New Guniea, [Lowell Thomas with natives in background]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>High Adventure New Guniea, [Lowell Thomas with natives in background]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>High Adventure New Guniea, [Lowell Thomas with natives in background]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>High Adventure New Guniea, [Lowell Thomas with natives in background]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>High Adventure New Guniea, [Native woman paddling a canoe]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>High Adventure New Guniea, [Lowell Thomas with natives in background]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>High Adventure New Guniea, [3 images on one sheet] [Men loading boat with camera equipment]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>High Adventure New Guniea, [3 images on one sheet] [Natives in canoe]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>High Adventure New Guniea, [3 images on one sheet] [Lowell Thomas at microphone with New Guinea officer by his side]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>High Adventure with Lowell Thomas (North Pole)</unittitle>
+						<unitdate label="Date">1957 December</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>High Adventure with Lowell Thomas (North Pole), [Lowell Thomas sitting in plane looking at a map with two other men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>High Adventure with Lowell Thomas (North Pole), [Lowell Thomas tanding with three other men outside of plane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>High Adventure with Lowell Thomas (North Pole), Note: Lowell Thomas Hits Arctic Trail The second installment of "High Adventure with Lowell Thomas" (CBS Television, 10:00-11:00 PM, EST) Monday December 23, will follow�</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>High Adventure with Lowell Thomas (North Pole), Note: Arctic Pioneers on "High Adventure" DEC. 23 Arctic Pioneers Admiral Donald MacMillan, sole survivor of the first expedition to the North Pole in 1909�</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Honors [Professional Ski Instructors of America]</unittitle>
+						<unitdate label="Date">1976</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Certificate stating Lowell Thomas's membership to Professional Ski Instructors of America]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Horses</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas on horseback]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>T. E. Lawrence (portrait painting)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note: put with negatives so I can have them when I get back [concerning T. E. Lawrence portrait]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Image of portrait of T. E. Lawrence</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Image of portrait of T. E. Lawrence</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Marco Polo painting by Mario Larrinaga</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note: Painting of Marco Polo reporting to Kubla Khan in Far Cathey: Painted by famed artist Mario Larrinaga. [?] L.T.'s broadcasting studio</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Painting of Marco Polo reporting to Kubla Khan in Far Cathey: Painted by famed artist Mario Larrinaga. [?]]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Painting of Marco Polo reporting to Kubla Khan in Far Cathey: Painted by famed artist Mario Larrinaga. [?]]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Painting of Marco Polo reporting to Kubla Khan in Far Cathey: Painted by famed artist Mario Larrinaga. [?]]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Painting of Marco Polo reporting to Kubla Khan in Far Cathey: Painted by famed artist Mario Larrinaga. [?]]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Painting of Marco Polo reporting to Kubla Khan in Far Cathey: Painted by famed artist Mario Larrinaga. [?]]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Painting of Marco Polo reporting to Kubla Khan in Far Cathey: Painted by famed artist Mario Larrinaga. [?]]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Painting of Marco Polo reporting to Kubla Khan in Far Cathey: Painted by famed artist Mario Larrinaga. [?]]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>National Aeronautics and Space Administration (NASA) [moon landing]</unittitle>
+						<unitdate label="Date">1971</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[3 images on one sheet] [Man on the moon]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[3 images on one sheet] [NASA space equipment on moon]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[3 images on one sheet] [Space capsule hovering above moon]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[3 images on one sheet] [Astronauts with space equipment on moon]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[3 images on one sheet] [Astronaut with space equipment]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[3 images on one sheet] [Astronaut on moon, next to American flag]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Pole to Pole flight with Lowell Thomas, Jr.</unittitle>
+						<unitdate label="Date">circa 1966</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Pole to Pole flight with Lowell Thomas, Jr.: Group pf people in front of airplane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: [PDF] [letter from Dorthy Furman, President of Furman Associates, to Lowell Thomas concerning photos]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: [PDF] [letter from Lowell Thomas to  Dorthy Furman, President of Furman Associates concerning photos]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note: [PDF] [letter from Dorthy Furman, President of Furman Associates, to Lowell Thomas concerning photos]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Skiing</unittitle>
+						<unitdate label="Date">circa 1960s - 1970s</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[1-9 on one strip] [Frying pan with eggs and sausage]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[1-9 on one strip] [Frying pan with eggs and sausage]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[1-9 on one strip] [Frying pan with eggs and sausage]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[1-9 on one strip] [Frying pan with eggs and sausage]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[1-9 on one strip] [Lowell Thomas and Lowell Thomas, Jr. holding skiis with two other men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[1-9 on one strip] [Lowell Thomas and Lowell Thomas, Jr. holding skiis with two other men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[1-9 on one strip] [Lowell Thomas and Lowell Thomas, Jr. holding skiis with two other men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[1-9 on one strip] [Lowell Thomas, Sr.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[1-9 on one strip] [Lowell Thomas, Sr.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Lowell Thomas, Sr. holding skiis]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Lowell Thomas, Sr. holding skiis]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Lowell Thomas, Sr. standing on skiis with another man and woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Note: Electra, Please habe a print made of this negative - but cut off the two people on the right hand side. Just the other three - they are L. T. - the man in th ered jacket - and Chic.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Electra, Please habe a print made of this negative - but cut off the two people on the right hand side. Just the other three - they are L. T. - the man in th ered jacket - and Chic.]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Skiing [glass transparency]</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Skiing: Lowell Thomas holding trophy with two other men]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Erling Strom (painting)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Erling Strom (painting)]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Frances Ryan Thomas</unittitle>
+						<unitdate label="Date">circa 1950s</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Frances Ryan Thomas (?) standing among flowers]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Frances Ryan Thomas (?) looking up at American flag]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Frances Ryan Thomas (?) standing among flowers]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Frances Ryan Thomas holding a cat]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Frances Ryan Thomas holding a dog]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Lowell Thomas</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Painting of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas standing with hat under arm]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas with hat under arm]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Close-up of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Painting of Lowell Thomas in Alaska]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Close-up of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas sitting]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Close-up of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Lowell Thomas taking off his hat in salutation]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[Lowell Thomas takign off his hat in salutation]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[Close-up of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[Lowell Thomas pointing to map of the U.S.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[Lowell Thomas standing in front of map of the U.S.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[Close-up of Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[Lowell Thomas holding a map of the U.S.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[Lowell Thomas standing in front of map of the U.S.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[Lowell Thomas sitting in front of embroidery]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Lowell Thomas sitting in front of embroidery]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Lowell Thomas standing in white room]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Lowell Thomas on skiis]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[Lowell Thomas holding his hat]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[Lowell Thomas sitting on box]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[Lowell Thoams sitting on boat, pointing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[Lowell Thomas standing in front of Sphynx]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[2 images on one sheet] [Lowell Thomas seated at table with group of other men]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[2 images on one sheet] [Lowell Thomas seated at table with group of other men]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Tibet</unittitle>
+						<unitdate label="Date">1949</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[In Tibet: Lowell Thomas standing with another man and two women dressed in robes]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[In Tibet: People smiling, man holding a decorative umbrella]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[In Tibet: Group of men in robes, LT, Jr. at right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[In Tibet: Close-up of Lowell Thomas, Sr. and Lowell Thomas, Jr.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[In Tibet: Two men dressed in robes, a little boy and a woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[In Tibet: Two men dressed in robes andLT, Jr. at right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[In Tibet: People climbing steep stairs]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[In Tibet: Group of men wearing robes and Lowell Thomas, Jr. at right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[In Tibet: Two men wearing robes and Lowell Thomas, Jr. sitting]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[In Tibet: Three men wearing robes, grand building in the background]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[In Tibet: Group of men wearing robes, LT, Jr. at right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[In Tibet: Two men wearing robes, a little boy and a woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[In Tibet: Man in robes standing in front of flowers]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[In Tibet: Two men wearing robes and Lowell Thomas, Jr. sitting at right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[In Tibet: Three men in robes, grand building in the background]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[In Tibet: Man wearing robes in front of flowers]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[In Tibet: Three men in robes, Lowell Thomas, Sr. standing at left]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[Tibet: Lowell Thomas, Sr. sitting in front of embroidery]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[In Tibet: Man wearing robes in front of flowers]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[In Tibet: Three men in robes, Lowell Thomas, Sr. at left]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>21</unitid>
+							<unittitle>[In Tibet: Man in robes seated in front of flowers]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>22</unitid>
+							<unittitle>[In Tibet: Two men in robes, a little boy and a woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>23</unitid>
+							<unittitle>[In Tibet: Three men in robes in front of grand building]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>24</unitid>
+							<unittitle>[In Tibet: Group of people smiling, man holding a decorative umbrella]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>25</unitid>
+							<unittitle>[In Tibet: Group of people smiling, man holding a decorative umbrella]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>26</unitid>
+							<unittitle>[In Tibet: Framed picture of LT, Sr. and LT, Jr. with three men wearing robes. Grand building in background]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>27</unitid>
+							<unittitle>[In Tibet: Two men wearing robes and LT, Sr. at left]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>28</unitid>
+							<unittitle>[In Tibet: Three men in robes, LT, Sr. and LT, Jr. at sides. Grand building in background]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>29</unitid>
+							<unittitle>[In Tibet: Crowd of people kneeling]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>30</unitid>
+							<unittitle>[In Tibet: Lowell Thomas, Sr. receiving a piece of cloth from a robed man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>31</unitid>
+							<unittitle>[In Tibet: Tibetan person wearing an elaborate headdress]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Tibet  (Out of this World illustrations)</unittitle>
+						<unitdate label="Date">1949</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[In Tibet: Lowell Thomas, Jr. with a robed boy]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[In Tibet: Two Tibetan people around burning object]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[In Tibet: People climbing steep stairs, Potala Palace]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[In Tibet: Close-up of Lowell Thomas, Sr. and Lowell Thomas, Jr.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[In Tibet: Close-up of Lowell Thomas, Sr. and Lowell Thomas, Jr.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[In Tibet: Lowell Thomas, Jr. with robed boy]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[In Tibet: Three robed men with Lowell Thomas, Sr. and Lowell Thomas, Jr. at sides. Potala Palace in background]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[In Tibet: People climbing steep stairs]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[In Tibet: Lowell Thomas, Jr. wearing costume in front of embroidery]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>[In Tibet: Lowell Thomas wearing costume in front of embroidery]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>[In Tibet: Lowell Thomas and Lowell Thomas, Jr. wearing costume in front of embroidery]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>[In Tibet: Lowell Thomas wearing costume in front of embroidery]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>[In Tibet: Two Tibetan people around burning object]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>[A Tibetan street scene]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>[In Tibet: Two Tibetan people around burning object]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>[A Tibetan street scene]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>[A Tibetan street scene]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>18</unitid>
+							<unittitle>[A Tibetan street vendor]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>19</unitid>
+							<unittitle>[Five robed Tibetan lamas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>20</unitid>
+							<unittitle>[Three robed Tibetan lamas]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>VIEW-MASTER (The White House)</unittitle>
+						<unitdate label="Date">1964</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>VIEW-MASTER: THE WHITE HOUSE Official Residence of United States Presidents - Reel One</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1.1</unitid>
+							<unittitle>(1) South Front from the Lawn Fountain</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1.2</unitid>
+							<unittitle>(2) East Room is largest in White House</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1.3</unitid>
+							<unittitle>(3) Green Room reflects style of 1800</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1.4</unitid>
+							<unittitle>(4) Blue Room holds funiture dating from Monroe</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1.5</unitid>
+							<unittitle>(5) Pier Table made in 1817</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1.6</unitid>
+							<unittitle>(6) Minerva Clock adorns mantle in Blue Room</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1.7</unitid>
+							<unittitle>(7) Blue Room View. Memorials to 2 great leaders</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>VIEW-MASTER: THE WHITE HOUSE Official Residence of United States Presidents - Reel Two</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2.1</unitid>
+							<unittitle>(8) Red Room d�cor is that of 1830 formal parlor</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2.2</unitid>
+							<unittitle>(9) French Desk in Red Room</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2.3</unitid>
+							<unittitle>(10) State Dining Room can seat more than 100 guests</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2.4</unitid>
+							<unittitle>(11) Cross Hall connects famous formal rooms</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2.5</unitid>
+							<unittitle>(12) "Family" Dining Room now serves state functions</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2.6</unitid>
+							<unittitle>(13) Entrance Hall with Blure Room in background</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2.7</unitid>
+							<unittitle>(14) Library style re-creates early 19th century</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>VIEW-MASTER: THE WHITE HOUSE Official Residence of United States Presidents - Reel Three</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3.1</unitid>
+							<unittitle>(15) China Room has items from each First Lady</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3.2</unitid>
+							<unittitle>(16) Diplomatic Reception Room</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3.3</unitid>
+							<unittitle>(17) This Bedroom was Lincoln's Cabinet Room</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3.4</unitid>
+							<unittitle>(18) Treaty Room, where historic decisions are made</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3.5</unitid>
+							<unittitle>(19) Cabinet Room in West Wing</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3.6</unitid>
+							<unittitle>(20) Office of the President of the United States</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3.7</unitid>
+							<unittitle>(21) President's desk and couch area</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>World War I - Frances Ryan Thomas and Lowell Thomas</unittitle>
+						<unitdate label="Date">circa 1917</unitdate>
+						<container id="1593" type="box">1593</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas and Frances Ryan Thomas during World War I trip, likely in Italy (8 images on one sheet)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Thomas and Frances Ryan Thomas during World War I trip, likely in Italy (8 images on one sheet)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lowell Thomas and Frances Ryan Thomas during World War I trip, likely in Italy (8 images on one sheet)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Lowell Thomas and Frances Ryan Thomas during World War I trip, likely in Italy (8 images on one sheet)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Lowell Thomas and Frances Ryan Thomas during World War I trip, likely in Italy (8 images on one sheet)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Lowell Thomas and Frances Ryan Thomas during World War I trip, likely in Italy (8 images on one sheet)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Lowell Thomas and Frances Ryan Thomas during World War I trip, likely in Italy (8 images on one sheet)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Lowell Thomas and Frances Ryan Thomas during World War I trip, likely in Italy (8 images on one sheet)]</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1593 -->
+<c01 type="OTpage2">
+				<note>Box 1594 - Box 1596</note>
+				<did>
+					<unitid>2.1.5.1</unitid>
+					<unittitle>35 millimeter slides</unittitle>
+				</did>
+			</c01>
+</dsc>
+</archdesc>
+</ead>

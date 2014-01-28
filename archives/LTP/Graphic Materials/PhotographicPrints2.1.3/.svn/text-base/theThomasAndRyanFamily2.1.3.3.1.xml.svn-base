@@ -1,0 +1,6723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.3.xsl"?>
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>The Thomas and Ryan Families</titleproper>
+<author>Marist Archives and Special Collections</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Marist Archives and Special Collections</publisher>
+<address>
+<addressline>3399 North Road</addressline>
+<addressline>Poughkeepsie, New York - 12601 </addressline>
+</address>
+</publicationstmt>
+</filedesc>
+</eadheader>
+<!-- Archival Description portion of EAD -->
+<archdesc level="subseries">
+<did>
+<unitid countrycode="us" repositorycode="MMM">2.1.3.3.1</unitid>
+<unittitle>The Thomas and Ryan Families</unittitle>
+<unitdate type="inclusive"></unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+<repository>
+<corpname>Marist College</corpname>
+</repository>
+<abstract level="abstract">MMM</abstract>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<scopecontent>
+<p>MMM</p>
+</scopecontent>
+<accessrestrict>
+<p>MMM</p>
+</accessrestrict>
+<userestrict>
+<p>MMM</p>
+</userestrict>
+<!-- Components Description of EAD -->
+<dsc type="combined">
+
+<!-- Box 1517 -->
+<c01>
+<note>Box 1517</note>
+<did>
+<unitid>2.1.3.3.1</unitid>
+<unittitle>The Thomas and Ryan Families</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>The Thomas and Ryan families: Ryan family	
+</unittitle>
+<container id="1517" type="box">1517</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Mr. A. C. McCorkel [McCorkle]; father of Eunice Ryan and grandfather of Mrs. Lowell Thomas [Frances Ryan Thomas]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Mr. A. C. McCorkel [McCorkle]; father of Eunice Ryan and grandfather of Mrs. Lowell Thomas [Frances Ryan Thomas]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Mrs. A. C. McCorkel [Nancy Emeline McCorkle]; mother of Eunice Ryan and grandmother of Mrs. Lowell Thomas [Frances Ryan Thomas]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Mrs. A. C. McCorkel [Nancy Emeline McCorkle]; mother of Eunice Ryan and grandmother of Mrs. Lowell Thomas [Frances Ryan Thomas]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>The picture of Eunice McCorkel [McCorkle] now Mrs. H. P. Ryan, the mother-in-law of Lowell Thomas, the commentator and world traveler - 1887	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: The picture of Eunice McCorkel [McCorkle] now Mrs. H. P. Ryan, the mother-in-law of Lowell Thomas, the commentator and world traveler - 1887	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Love and kisses to my Aunt Francie from Janet. I didn't attempt to send this in the big folder for fear you would never get it	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Love and kisses to my Aunt Francie from Janet. I didn't attempt to send this in the big folder for fear you would never get it	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Norman Ryan [brother of Frances Ryan Thomas]	
+</unittitle>
+<container id="1517" type="box">1517</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Norman and Dott [Dorothy, wife of Norman Ryan]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Norman and Dott [Dorothy, wife of Norman Ryan]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Norman Ryan	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Norman Ryan	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Norman A. Ryan	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Norman A. Ryan	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: August 1918	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>The Thomas and Ryan families: Jackson family	
+</unittitle>
+<container id="1517" type="box">1517</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>1925 Edith Jackson	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: 1925 Edith Jackson	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Caption: Wishing you a Merry Christmas and a Happy New Year! Verso: 1928, Rollo E. [Jackson] and Laura May Jackson	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: 1928, Rollo E. [Jackson] and Laura May Jackson	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>1931 R. E. Jackson and Donna	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: 1931 R. E. Jackson and Donna	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>1935; R. E. Jackson and Donna	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: 1935; R. E. Jackson and Donna	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>R. E. and Laura [Jackson]; Donna and a second cousin, Beverly, 1936	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: R. E. and Laura [Jackson]; Donna and a second cousin, Beverly, 1936	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>1970 three remaining daughters at that time Lulu, Una, Edith; Cooks, Wash.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: 1970 three remaining daughters at that time Lulu, Una, Edith; Cooks, Wash.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Donna and Harold Schmitt - granddaughter of R.E. Jackson, daughter of Edith; 1974	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Donna and Harold Schmitt - granddaughter of R.E. Jackson, daughter of Edith; 1974	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Front of Jackson home at Cooks, Washington ; Edith and Bill Brandt (daughter of Rollo E. Jackson)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Front of Jackson home at Cooks, Washington ; Edith and Bill Brandt (daughter of Rollo E. Jackson)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Jackson property at Cooks on Columbia R. [River]. House to the right is the family home. Facing it to the left is the Brandt home	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Jackson property at Cooks on Columbia R. [River]. House to the right is the family home. Facing it to the left is the Brandt home	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[Rollo E. Jackson]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>Note: Parentheses - married children and husband or wife Laurene, (Lyman, Una), (Rollo, June,) (Harry, Maxine, Effie,) RE Jackson, Laura, Lyman's father, Lulu, Don, Soren,) Delma, Oran, Edith, Earl	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>The Thomas and Ryan families: Thomas family ancestors	
+</unittitle>
+<container id="1517" type="box">1517</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>David and Pherbia Thomas. LT's grandparents	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: David and Pherbia Thomas. LT's grandparents	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Grandfather David Thomas and our grandmother. He was the survivor of the civil war and the notorious Andersonville prison. Later he became an unusually successful school teacher. Grandmother was a poetess	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Note: Grandfather David Thomas and our grandmother. He was the survivor of the civil war and the notorious Andersonville prison. Later he became an unusually successful school teacher. Grandmother was a poetess	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Uncle Dave Thomas; Aunt Phoebe Thomas [photograph is a duplicate of items 1-3 and appears to have been mislabeled]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Uncle Dave Thomas; Aunt Phoebe Thomas [photograph is a duplicate of items 1-3 and appears to have been mislabeled]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>L.T.'s grandfather David Thomas (seated) and his sisters Nancy, Sarah Jane, Phoebe. And his brothers - Absolom, Cyrus, and Samuel Sackett	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Note: L.T.'s grandfather David Thomas (seated) and his sisters Nancy, Sarah Jane, Phoebe. And his brothers - Absolom, Cyrus, and Samuel Sackett	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Grand Pa Thomas; Grandma Betty [possibly the great-grandparents of Lowell Thomas]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Grand Pa Thomas; Grandma Betty [possibly the great-grandparents of Lowell Thomas]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Uncle Absie [Absolom]; Uncle Cyrus; Uncle Samuel; Aunt Nancy; Uncle Dave; Aunt Sallie; Aunt Auer[?]; Encampment at Columbus, Ohio about 1872	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Uncle Absie [Absolom]; Uncle Cyrus; Uncle Samuel; Aunt Nancy; Uncle Dave; Aunt Sallie; Aunt Auer[?]; Encampment at Columbus, Ohio about 1872	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Uncle Absolem Thomas - Iowa	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Uncle Absolem Thomas - Iowa	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>Uncle Sam Slates and Aunt Sally - Iowa	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Uncle Sam Slates and Aunt Sally - Iowa	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>Caption: Samuel Slates; Verso: Iowa	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Iowa	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>LT Great Uncle Fred Wagner	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: LT Great Uncle Fred Wagner	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>The Thomas and Ryan families: Thomas family	
+</unittitle>
+<container id="1517" type="box">1517</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Helen Wagner Thomas, aged 10 mo., Weight 17 lbs, Oct 26, 1902; For Luella	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Helen Wagner Thomas, aged 10 mo., Weight 17 lbs, Oct 26, 1902; For Luella	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Mercy Sackett Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Mercy Sackett Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Charles Weaver Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Charles Weaver Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Caption: Fraternally yours, Christian Segard	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>The Thomas and Ryan families: Thomas family	
+</unittitle>
+<container id="1517" type="box">1517</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Who is this sweet little man?	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Who is this sweet little man?	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+<!-- End 1517 -->
+<!-- Box 1518 -->
+<c01>
+<note>Box 1518</note>
+<did>
+<unitid>2.1.3.3.1</unitid>
+<unittitle>The Thomas and Ryan Families</unittitle>
+</did>
+
+<c02 level="Folder">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>The Thomas and Ryan families: Thomas family	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Verso: August 18, 1943	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: August 18, 1943	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>Verso: December 1946	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: December 1946	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>The Thomas and Ryan families: Thomas family	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>The Thomas and Ryan families: Thomas family	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Philip and Daddy - 2 weeks old	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Philip and Daddy - 2 weeks old	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>2 weeks old	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: 2 weeks old	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>3 weeks - Brighton Canyon	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: 3 weeks - Brighton Canyon	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>4 weeks old	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: 4 weeks old	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>4 weeks old	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: 4 weeks old	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Philip Wallace at 4 weeks with Grandmother and Aunt Mildred	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Philip Wallace at 4 weeks with Grandmother and Aunt Mildred	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Taken in our garden the end of September - 3 generations	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Taken in our garden the end of September - 3 generations	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>The Thomas and Ryan families: Thomas family reunion	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>The Thomas and Ryan families: Thomas family [Lowell, Frances and Lowell, Jr.]	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>J. L. Dickson, Room 650, Savarine Hotel, Jefferson Ave., Detroit	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: J. L. Dickson, Room 650, Savarine Hotel, Jefferson Ave., Detroit	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Lake Placid - 1932?	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lake Placid - 1932?	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Mr. + Mrs. Thomas with son Lowell Jr., when the latter was 8 yrs. Old	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lowell Thomas, Mrs. Thomas, Lowell, Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>Portrait of Lowell Thomas, Frances Ryan Thomas and Lowell Thomas Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>25	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>26	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>27	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>28	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>29	
+</unitid>
+<unittitle>Note: Mr. and Mrs. T. and LT, Jr.; 1931 or 1932	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>The Thomas and Ryan families: Thomas family [Lowell, Frances and Lowell, Jr.]	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Note: Dear Mrs. Nicks: If you should want to use any of these for promotion or order more prints, the person to call is Shirley Baig, head of the photographic studio. Sincerely, Marylin Bender [The New York Times]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lowell Thomas and his home, at Pawling, N.Y.; 10/18/68	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>The Thomas and Ryan families: Thomas family and friends	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[Lowell Thomas and Lowell Thomas, Jr. pose at left in group photo, circa 1930]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Everett Marshall	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Everett Marshall	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Verso: September 1902; Gertrude Viola Lamb will be 12 Dec 10, 1902	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>September 1902; Gertrude Viola Lamb will be 12 Dec 10, 1902	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Caption: Gertrude	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Caption: To the World's Greatest Traveloguer with best wishes, Edward J. Veasey, Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>Mrs. D. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>Note: Mrs. D. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>Caption: 1921	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>Caption: 1921	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>25	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>26	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>27	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>28	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>29	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>30	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>31	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>32	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>33	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>34	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>35	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>The Thomas and Ryan families: Thomas family - automobile race	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>L.T.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: L.T.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Ralph de Palma and John de [?] before race, Sat. Aug. 22 - 1914	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Ralph de Palma and John de [?] before race, Sat. Aug. 22 - 1914	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Caption: Sat. Aug. 22 - 1914	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Caption: 8 a.m., 7-22-1914	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>The Thomas and Ryan families: Thomas family - sledding	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>The driver and brakeman are the Olympic bob - winners. Hubert and Curtis Stevens. Gee, this was a thrill! L.T. and Sonny [Lowell Thomas, Jr.]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: The driver and brakeman are the Olympic bob - winners. Hubert and Curtis Stevens. Gee, this was a thrill! L.T. and Sonny [Lowell Thomas, Jr.]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[Pherbia Thomas and Frances Ryan Thomas with Hubert and Curtis Stevens]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[Lowell Thomas, Jr. and Frances Ryan Thomas]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Sonny, Frances, Pherbia and L.T. sledding	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Sonny, Frances, Pherbia and L.T. sledding	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Note: News Commentator Takes Helm on Olympic Ski Bob Run. Lake Placid, N.Y. - Lowell Thomas popular radio broadcaster is shown steering his coaster to the Olympic bob run for a thriller with his wife, son and sister Miss Pherbia Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>The Thomas and Ryan families: Frances Ryan Thomas and Lowell Thomas, Jr.	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>25	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>26	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>27	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>28	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>29	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>30	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>31	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>32	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>33	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>34	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>35	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>36	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>37	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>The Thomas and Ryan families: Frances Ryan Thomas and Lowell Thomas, Jr. (in uniform)	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>The Thomas and Ryan families: Harry G. Thomas	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Presented to Ira by Aunt Mattie Apr. 23/22 Dad and Uncle Harry. Keep this for us	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Presented to Ira by Aunt Mattie Apr. 23/22 Dad and Uncle Harry. Keep this for us	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Hollansburg class 1883; From left to right - Ella D[?]; Glady [sic] Williams; Cora Ireland; Lil Moore; Will McDonald; Harry Thomas; Sam Williams; Teacher John H[?] Spencer	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Hollansburg class 1883; From left to right - Ella D[?]; Glady [sic] Williams; Cora Ireland; Lil Moore; Will McDonald; Harry Thomas; Sam Williams; Teacher John H[?] Spencer	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Harry Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Harry Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>H. G. Thomas, front center, a hand on each knee. Probably at Lebanon pre-med	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: H. G. Thomas, front center, a hand on each knee. Probably at Lebanon pre-med	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>The Thomas and Ryan families: Harry G. Thomas	
+</unittitle>
+<container id="1518" type="box">1518</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>New Year Greetings to Aunt Sallie from Baby Pherbie [Harry G. Thomas and Pherbia Thomas, 1904]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: New Year Greetings to Aunt Sallie from Baby Pherbie [Harry G. Thomas and Pherbia Thomas, 1904]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Dr. Harry G. Thomas (about 1904)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Dr. Harry G. Thomas (about 1904)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Dr. H. G. T.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Dr. H. G. T.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Office of Dr. Harry George Thomas in Victor, Colorado (about 1912)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Office of Dr. Harry George Thomas in Victor, Colorado (about 1912)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Father's office in Gold Coin Bldg, 1912 Note: Dr. H. G. Thomas when a surgeon in the Cripple Creek District. 1902 - maybe	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Father's office in Gold Coin Bldg, 1912	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Note: Dr. H. G. Thomas when a surgeon in the Cripple Creek District. 1902 - maybe	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>(mounted photograph)  For Hattie W. Thomas. From Grandma.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: For Hattie W. Thomas. From Grandma.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>Caption: No. 1, Sept 3, 1901, on Pikes Peak. Alt. 14,149 ft.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>Caption: On top Pikes Peak; Alt 14147 ft. Sunday July 20, 1902	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+<!-- End 1518 -->
+<!-- Box 1519 -->
+<c01>
+<note>Box 1519</note>
+<did>
+<unitid>2.1.3.3.1</unitid>
+<unittitle>The Thomas and Ryan Families</unittitle>
+</did>
+
+<c02 level="Folder">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>The Thomas and Ryan families: Harry G. Thomas	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>L. T. and H. G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: L. T. and H. G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>L. T., Dr. H. G. T., President Hoover	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: L. T., Dr. H. G. T., President Hoover	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Left to right - Dr. Nance, Dr. Harry G. Thomas and Lowell Thomas (University of Tampa commencement)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Left to right - Dr. Nance, Dr. Harry G. Thomas and Lowell Thomas (University of Tampa commencement)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Dr. E. C. Nance, Dr. Lamb, Dr. Harry G. Thomas and Dr. M. C. Rhodes (University of Tampa commencement)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Dr. E. C. Nance, Dr. Lamb, Dr. Harry G. Thomas and Dr. M. C. Rhodes (University of Tampa commencement)	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>The Thomas and Ryan families: Harry G. Thomas (in uniform)	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>The Thomas and Ryan families: Harry G. Thomas posed, close-up	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Dr. Harry G. Thomas (L.T.'s dad) in his later years	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Dr. Harry G. Thomas (L.T.'s dad) in his later years	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Dr. H.G. Thomas, LT father	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Dr. H.G. Thomas, LT father	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Dr. Harry G. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>The Thomas and Ryan families: Harry G. Thomas and Harriet Wagner Thomas	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>To Pa and Ma. July 31, '91; D.R. Thomas. Hollandsburg [sic], O. [Ohio]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: To Pa and Ma. July 31, '91; D.R. Thomas. Hollandsburg [sic], O. [Ohio]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>We just came out to say good morning to you [Harry G. Thomas, Pherbia Thomas Thornburg, Harriet Wagner Thomas]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: We just came out to say good morning to you [Harry G. Thomas, Pherbia Thomas Thornburg, Harriet Wagner Thomas]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and Frances Ryan Thomas	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Lowell Thomas, famed news commentator, is shown with Mrs. Thomas as they relaxed at Atlantic City, where they are spending an early fall vacation. 9-29-39	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Note: Lowell Thomas, famed news commentator, is shown with Mrs. Thomas as they relaxed at Atlantic City, where they are spending an early fall vacation. 9-29-39	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Mr. and Mrs. T in costume at Old Horse Show, late 1930s	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Note: Mr. and Mrs. T in costume at Old Horse Show, late 1930s	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Pebble Beach, Monteray [sic] Peninsula, Calif., Probably in late 1940s, Julian P. Graham, Photo, Pebble Beach, Calif.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Pebble Beach, Monteray [sic] Peninsula, Calif., Probably in late 1940s, Julian P. Graham, Photo, Pebble Beach, Calif.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>This was taken by Bob ---- remember the night we went to the barn. I thought it was an excellent picture of all of us	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: This was taken by Bob ---- remember the night we went to the barn. I thought it was an excellent picture of all of us	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Used in Life, Sep 11, 1944 Overseas Editions	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>(8 copies) [no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>(7 copies) [no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>23	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>24	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: to go facing inside back cover page 16. make a circular cut 4 1/4" diameter with 2 horse figure in lower left base of circle almost at margin	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and Frances Ryan Thomas [includes color photographs]	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>In memory of Sept. 16th '50, In the Terrace at Wyman House. Princeton, N.J., From Hugh and Elizabeth Taylor	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: In memory of Sept. 16th '50, In the Terrace at Wyman House. Princeton, N.J., From Hugh and Elizabeth Taylor	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Dewey [Thomas E. Dewey], Mrs. T, L.T. and Chas Malik	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Dewey [Thomas E. Dewey], Mrs. T, L.T. and Chas Malik	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>(8 copies) [no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Christmas 1969	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>With Mrs. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: With Mrs. Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>22	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and Marianna Munn Thomas [includes color photographs]	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Tay and L.T., Jr. with us [Lowell and Marianna Thomas] at the Lahaina, Maui, ceremony before we set forth on our 50,000 mile honeymoon to the Arctic, the South Seas, the Himalayas and "on around" [1977] [color]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Tay and L.T., Jr. with us [Lowell and Marianna Thomas] at the Lahaina, Maui, ceremony before we set forth on our 50,000 mile honeymoon to the Arctic, the South Seas, the Himalayas and "on around" [1977] [color]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>LT + wife Marianna - and - left the ex-Mayor of Cleveland who was ousted recently	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: LT + wife Marianna - and - left the ex-Mayor of Cleveland who was ousted recently	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Powells [?]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Powells [?]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and Frances Ryan Thomas with grandchildren, Anne and David	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and mother, Harriet Wagner Thomas	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Caption: Lovingly Yours, Hattie and Lowell Verso: for Ed, Eva and Ethel, Aug. 19, 1900 Note: L.T. and his mother, Harriet Wagner Thomas. Picture taken in Greenville, Ohio while awaiting word from Cripple Creek	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: for Ed, Eva and Ethel, Aug. 19, 1900	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Note: L.T. and his mother, Harriet Wagner Thomas. Picture taken in Greenville, Ohio while awaiting word from Cripple Creek	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and parents	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Photograph of Darke County, Ohio Normalities	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Darke County, Ohio, Normalites at N. N. U. Lebanon, O. [Ohio] 1. Orla E. Harrison, Greenville, O. 2. Anna Drill, Mt. Heorn, O.  3. J. E. Rooks, Arcanum, O. 4. Effie Flinn, Ansonia, O. 5. Emma Shives, Woodington, O. 6. H. G. Thomas, Hollansburg, O. 7. Lowell Thomas, Hollansburg, O. 8. Mrs. Thomas, Hollansburg, O. 9. Jennie Denniston, Union City, Ind. 10. T. C. Pitsenberger, Greenville, O. 11. Mat. Corwin, Ansonia, O. 12. Ed. Lutz, Arcanum, O. 13. Victor A. Conover, Mt. Heron, O.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Photograph of Darke County, Ohio Normalities	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Darke County, Ohio, Normalites at N. N. U. Lebanon, O. [Ohio] 1. Orla E. Harrison, Greenville, O. 2. Anna Drill, Mt. Heorn, O.  3. J. E. Rooks, Arcanum, O. 4. Effie Flinn, Ansonia, O. 5. Emma Shives, Woodington, O. 6. H. G. Thomas, Hollansburg, O. 7. Lowell Thomas, Hollansburg, O. 8. Mrs. Thomas, Hollansburg, O. 9. Jennie Denniston, Union City, Ind. 10. T. C. Pitsenberger, Greenville, O. 11. Mat. Corwin, Ansonia, O. 12. Ed. Lutz, Arcanum, O. 13. Victor A. Conover, Mt. Heron, O. Verso: Saw A. L. Detrick + Leona Detrick. T. W. Winbigler	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Photograph of Darke County, Ohio Normalities	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>When Lowell Thomas's parents went to school at Lebanon, O.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: When Lowell Thomas's parents went to school at Lebanon, O.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and parents	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>On the left side in the back - Mrs. H. G. Thomas - Dr. H. G. Thomas - Pherbia in the aisle and behind her Lowell Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Note: On the left side in the back - Mrs. H. G. Thomas - Dr. H. G. Thomas - Pherbia in the aisle and behind her Lowell Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and Lowell Thomas, Jr.	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>L.T. + son	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: L.T. + son	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>L.T. Sr. and Jr. on a skating expedition	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: L.T. Sr. and Jr. on a skating expedition	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>L.T. relaxing with his son, a couple of years ago	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: L.T. relaxing with his son, a couple of years ago	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: biographical	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and Lowell Thomas, Jr.	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Lowell Thomas and Son, 1937	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lowell Thomas and Son, 1937	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and Lowell Thomas, Jr.	
+</unittitle>
+<container id="1519" type="box">1519</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>L.T. Sr. + LT Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: L.T. Sr. + LT Jr.; Lowell Thomas 50 Rockegeller Plaza (Rm 1530) New York NY	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Caption: Lowell Jr. Verso: LT, Jr. (left) with LT circa 1955	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: LT, Jr. (left) with LT circa 1955	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>LT, Jr. - before he moved to Alaska occasionally went on the air with his father Verso: Lowell Thomas, right + Lowell Thomas, Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Lowell Thomas, right + Lowell Thomas, Jr.	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Note: LT, Jr. - before he moved to Alaska occasionally went on the air with his father	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>Sun Valley	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Sun Valley	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>Sun Valley	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[Lowell Thomas with Lieutenant Governor Lowell Thomas, Jr. and Governor Jay Hammond of Alaska, circa 1976]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>Note: LT, Jr. and staff in Alaska - Juneau; LT in background	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>Caption: [autographed: Nov. 1978; Best wishes, Danith D. Anderson; Hi, Pop!; Hi! Betty Michael; Happy Travels! Ann-Kevin Mawn; Best regards, Diane Snyder; It was a pleasure meeting you, Suze Lowell; L.T.Jr., Nov. '78	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+<!-- End 1519 -->
+<!-- Box 1520 -->
+<c01>
+<note>Box 1520</note>
+<did>
+<unitid>2.1.3.3.1</unitid>
+<unittitle>The Thomas and Ryan Families</unittitle>
+</did>
+
+<c02 level="Folder">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and Lowell Thomas, Jr. (on horseback)	
+</unittitle>
+<container id="1520" type="box">1520</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Riding at C.B. [Clover Brook]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Riding at C.B. [Clover Brook]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>LT Jr. and Dad 1934 or so	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: LT Jr. and Dad 1934 or so	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and Lowell Thomas, Jr. (in uniform)	
+</unittitle>
+<container id="1520" type="box">1520</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and family	
+</unittitle>
+<container id="1520" type="box">1520</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>LT, Aunt Rose Ireland Thomas - left, LT's mother [Harriet Wagner Thomas] on right	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Note: LT, Aunt Rose Ireland Thomas - left, LT's mother [Harriet Wagner Thomas] on right	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[Harriet Wagner Thomas, Lowell Thomas, Lowell Thomas, Jr., Harry G. Thomas]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[From left to right: Lowell Thomas, Frances Ryan Thomas, Harriet Wagner Thomas, Harry G. Thomas, Eunice Ryan, unidentified boy, Lowell Thomas, Jr.]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Caption: For Aunt Eunice from Frank and Janet [On porch: Eunice Ryan; seated: Pherbia Thomas Thornburg, Raymond Thornburg, Frances Ryan Thomas, Lowell Thomas; seated next row: unidentified woman, Lowell Thomas, Jr., Harry G. Thomas, unidentified man]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[Lowell Thomas, circa 1915]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[Harriet Wagner Thomas with daughter Pherbia Thomas, circa 1915]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>The Thomas and Ryan families: Lowell Thomas and family	
+</unittitle>
+<container id="1520" type="box">1520</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[From left to right: Tay Thomas, Jr., Harry G. Thomas, Pherbia Thomas Thornburg, Lowell Thomas, unidentified woman, Frances Ryan Thomas]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[From left to right: Harry G. Thomas, unidentified woman, Pherbia Thomas Thornburg, Lowell Thomas, Frances Ryan Thomas]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>Fiftieth Anniversary - Back row- standing: Mrs. Mary Brooks Picken Sumner, Mrs. Norman Ryan, Mrs. Ruth Peale, Mrs. Wandell, Mrs. Hogate (Hamlin), Mrs. Madeline Brewer, Judge David Peck, Roy Billo, Pat Hogan, Rev. Lankler, Raymond Thornburg Seated in Front of back row: Duke Kahanamoku, Mrs. Hogan, Mrs. Dewey, Mrs. Rennolds, Mrs. Peck Seated next row down: Pat Ryan Billo, Mrs. Gene Tunney, Dr. Howard Rusk, Gov. Dewey, Mrs. Thomas, Gene Tunney, Dr. Peale, ?Claire Cox?  Next row: Mrs. Rusk, Mrs. Samuel Pryor, Mrs. Alma Schwamb, Tay Pryor Thomas, LT Jr., Samuel Pryor, Lanny Ross, Pherbia Thornburg Front row: David Thomas, Anne Thomas, L.T. [1967]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>Note: Fiftieth Anniversary - Back row- standing: Mrs. Mary Brooks Picken Sumner, Mrs. Norman Ryan, Mrs. Ruth Peale, Mrs. Wandell, Mrs. Hogate (Hamlin), Mrs. Madeline Brewer, Judge David Peck, Roy Billo, Pat Hogan, Rev. Lankler, Raymond Thornburg Seated in Front of back row: Duke Kahanamoku, Mrs. Hogan, Mrs. Dewey, Mrs. Rennolds, Mrs. Peck Seated next row down: Pat Ryan Billo, Mrs. Gene Tunney, Dr. Howard Rusk, Gov. Dewey, Mrs. Thomas, Gene Tunney, Dr. Peale, ?Claire Cox?  Next row: Mrs. Rusk, Mrs. Samuel Pryor, Mrs. Alma Schwamb, Tay Pryor Thomas, LT Jr., Samuel Pryor, Lanny Ross, Pherbia Thornburg Front row: David Thomas, Anne Thomas, L.T. [1967]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Pherbia Thomas Thornburg [sister of Lowell Thomas]	
+</unittitle>
+<container id="1520" type="box">1520</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>Pherbia + Major Dugmore Jan[uar]y 9-1936	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Pherbia + Major Dugmore Jan[uar]y 9-1936	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Pherbia and Major Dugmore Jan[uar]y 11/1936	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>	
+</unitid>
+<unittitle>Verso: Pherbia and Major Dugmore Jan[uar]y 11/1936	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[Raymond Thornburg and Pherbia Thomas Thornburg]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Pictures with note concerning Pherbia Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>Pictures with note concerning Pherbia Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>Note: These are a couple of pictures of my noisy kid sister. One was taken a month ago in front of our apartment on Nassau St. and the other of the school where she attends. They call it the model school but I'm sure they haven't any teachers there that could touch you [photographs accompanied by a letter to Frances Ryan, 1917]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>Photograph from China Essay Contest Dinner with Note 5.11	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>Note: AWARD PRIZES AT CHINA ESSAY CONTEST DINNER Eighty distinguished guests, all of them especially interested in China and in Far Eastern affairs, gathered at the Ford Motor pavilion on September 18 for a formal dinner in honor of the Contest's judges, prizewinners, and the contest's financial sponsor, W.D. Pawley. Lowell Thomas presented his newscast as part of the banquet, over which he presided. Fred L. Black, director of the Ford pavilion, acted as host. Pherbia Thomas Thornburg, contest director, presented the first three prizes to Minerva S. Desing of Collingswood, N.J.; Richard E. Curl of Edison, O.; and Helen Averitt of Pasadena, Calif. The spacious Ford Executive Lounge was especially decorated with Chinese screens, tapestries, modern paintings and statuary. Table decorations were Chinese junks, night-blooming water lilies in natural wood bowls, and silk Chinese and American flags. Costumed Chinese girls gave corsages to women guests and boutonnieres to men. Guests entered through a Dragon Gate; as they sat at table they could see, through the great glass wall of the Lounge, the Ford pavilion terrace which for the occasion had been transformed into a Chinese garden at Autumn Festival time, with trees, a scenic backdrop, a compound wall, gay lanterns, and dainty costumed Chinese girls having tea. A Chinese orchestra played. Favors, supplied by the China Essay Contest, were handsome souvenir books especially published and bound in brocade treaty silk. In this photo (left to right) are: Lowell Thomas, Rear Admiral H. E. Yarnell and Pearl Buck	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>Photograph from China Essay Contest Dinner with Note 5.13	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>Note: AWARD PRIZES AT CHINA ESSAY CONTEST DINNER Eighty distinguished guests, all of them especially interested in China and in Far Eastern affairs, gathered at the Ford Motor pavilion on September 18 for a formal dinner in honor of the Contest's judges, prizewinners, and the contest's financial sponsor, W.D. Pawley. Lowell Thomas presented his newscast as part of the banquet, over which he presided. Fred L. Black, director of the Ford pavilion, acted as host. Pherbia Thomas Thornburg, contest director, presented the first three prizes to Minerva S. Desing of Collingswood, N.J.; Richard E. Curl of Edison, O.; and Helen Averitt of Pasadena, Calif. The spacious Ford Executive Lounge was especially decorated with Chinese screens, tapestries, modern paintings and statuary. Table decorations were Chinese junks, night-blooming water lilies in natural wood bowls, and silk Chinese and American flags. Costumed Chinese girls gave corsages to women guests and boutonnieres to men. Guests entered through a Dragon Gate; as they sat at table they could see, through the great glass wall of the Lounge, the Ford pavilion terrace which for the occasion had been transformed into a Chinese garden at Autumn Festival time, with trees, a scenic backdrop, a compound wall, gay lanterns, and dainty costumed Chinese girls having tea. A Chinese orchestra played. Favors, supplied by the China Essay Contest, were handsome souvenir books especially published and bound in brocade treaty silk. In this photo (left to right) are: Pherbia Thomas Thornburg, W. D. Pawley, Mrs. William Brown Meloney (from Newsweek magazine), Rear Admiral Yarnell (in back) and Lowell Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>Photograph from China Essay Contest Dinner with Note 5.15	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>Note: AWARD PRIZES AT CHINA ESSAY CONTEST DINNER Eighty distinguished guests, all of them especially interested in China and in Far Eastern affairs, gathered at the Ford Motor pavilion on September 18 for a formal dinner in honor of the Contest's judges, prizewinners, and the contest's financial sponsor, W.D. Pawley. Lowell Thomas presented his newscast as part of the banquet, over which he presided. Fred L. Black, director of the Ford pavilion, acted as host. Pherbia Thomas Thornburg, contest director, presented the first three prizes to Minerva S. Desing of Collingswood, N.J.; Richard E. Curl of Edison, O.; and Helen Averitt of Pasadena, Calif. The spacious Ford Executive Lounge was especially decorated with Chinese screens, tapestries, modern paintings and statuary. Table decorations were Chinese junks, night-blooming water lilies in natural wood bowls, and silk Chinese and American flags. Costumed Chinese girls gave corsages to women guests and boutonnieres to men. Guests entered through a Dragon Gate; as they sat at table they could see, through the great glass wall of the Lounge, the Ford pavilion terrace which for the occasion had been transformed into a Chinese garden at Autumn Festival time, with trees, a scenic backdrop, a compound wall, gay lanterns, and dainty costumed Chinese girls having tea. A Chinese orchestra played. Favors, supplied by the China Essay Contest, were handsome souvenir books especially published and bound in brocade treaty silk. In this photo (left to right) are: Rear Admiral H. E. Yarnell, Mrs. William Brown Meloney, and Lowell Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>Photograph from China Essay Contest Dinner with Note 5.17	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>Note: AWARD PRIZES AT CHINA ESSAY CONTEST DINNER Eighty distinguished guests, all of them especially interested in China and in Far Eastern affairs, gathered at the Ford Motor pavilion on September 18 for a formal dinner in honor of the Contest's judges, prizewinners, and the contest's financial sponsor, W.D. Pawley. Lowell Thomas presented his newscast as part of the banquet, over which he presided. Fred L. Black, director of the Ford pavilion, acted as host. Pherbia Thomas Thornburg, contest director, presented the first three prizes to Minerva S. Desing of Collingswood, N.J.; Richard E. Curl of Edison, O.; and Helen Averitt of Pasadena, Calif. The spacious Ford Executive Lounge was especially decorated with Chinese screens, tapestries, modern paintings and statuary. Table decorations were Chinese junks, night-blooming water lilies in natural wood bowls, and silk Chinese and American flags. Costumed Chinese girls gave corsages to women guests and boutonnieres to men. Guests entered through a Dragon Gate; as they sat at table they could see, through the great glass wall of the Lounge, the Ford pavilion terrace which for the occasion had been transformed into a Chinese garden at Autumn Festival time, with trees, a scenic backdrop, a compound wall, gay lanterns, and dainty costumed Chinese girls having tea. A Chinese orchestra played. Favors, supplied by the China Essay Contest, were handsome souvenir books especially published and bound in brocade treaty silk. In this photo (left to right) are: Mrs. William Brown Meloney, Lowell Thomas and Pearl Buck	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>Photograph from China Essay Contest Dinner with Note 5.19	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>Note: AWARD PRIZES AT CHINA ESSAY CONTEST DINNER Eighty distinguished guests, all of them especially interested in China and in Far Eastern affairs, gathered at the Ford Motor pavilion on September 18 for a formal dinner in honor of the Contest's judges, prizewinners, and the contest's financial sponsor, W.D. Pawley. Lowell Thomas presented his newscast as part of the banquet, over which he presided. Fred L. Black, director of the Ford pavilion, acted as host. Pherbia Thomas Thornburg, contest director, presented the first three prizes to Minerva S. Desing of Collingswood, N.J.; Richard E. Curl of Edison, O.; and Helen Averitt of Pasadena, Calif. The spacious Ford Executive Lounge was especially decorated with Chinese screens, tapestries, modern paintings and statuary. Table decorations were Chinese junks, night-blooming water lilies in natural wood bowls, and silk Chinese and American flags. Costumed Chinese girls gave corsages to women guests and boutonnieres to men. Guests entered through a Dragon Gate; as they sat at table they could see, through the great glass wall of the Lounge, the Ford pavilion terrace which for the occasion had been transformed into a Chinese garden at Autumn Festival time, with trees, a scenic backdrop, a compound wall, gay lanterns, and dainty costumed Chinese girls having tea. A Chinese orchestra played. Favors, supplied by the China Essay Contest, were handsome souvenir books especially published and bound in brocade treaty silk. In this photo (left to right) are: Richard E. Curl, Minerva F. Desing, Helen Averitt and Lowell Thomas	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>Pherbia Thomas Thornburg [sister of Lowell Thomas]	
+</unittitle>
+<container id="1520" type="box">1520</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>10	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>11	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>12	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>13	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>14	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>15	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>16	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>17	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>18	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>19	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>20	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>21	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>Pherbia Thomas Thornburg [sister of Lowell Thomas] and nephew Lowell Thomas, Jr.	
+</unittitle>
+<container id="1520" type="box">1520</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="Folder">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>Family dogs [includes color photographs]	
+</unittitle>
+<container id="1520" type="box">1520</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1	
+</unitid>
+<unittitle>Fran and Peppersass, dog that ripped pants off of local Congressman - Ralph Gwinn	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2	
+</unitid>
+<unittitle>Note: Fran and Peppersass, dog that ripped pants off of local Congressman - Ralph Gwinn	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>3	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>4	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>5	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>6	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>7	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>8	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>9	
+</unitid>
+<unittitle>[no description]	
+</unittitle>
+<unitdate label="Date">	
+</unitdate>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+<!-- End 1520 -->
+</dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,4822 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/LanternSlides2.1.2/underwood2.1.2.4.33.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Underwood and Underwood</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.2.4.33</unitid>
+			<unittitle>Underwood and Underwood</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1415 -->
+			<c01>
+				<note>Box 1415</note>
+				<did>
+					<unitid>2.1.2.4.33</unitid>
+					<unittitle>
+						Underwood <![CDATA[&]]> Underwood
+					</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Looking into Shappat-po Street from one of the Nightwatch Bridges, Canton, China</unittitle>
+						<unitdate label="Date">1900</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">7</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>South front, home of Count Okuma, one of the most prominent and wealthy of Japan’s aristocracy, Tokyo, Japan</unittitle>
+						<unitdate label="Date">1904</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">24</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								B<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Serene simplicity of home of Count Okuma, one of Mikado’s richest subjects, Tokyo, Japan</unittitle>
+						<unitdate label="Date">1904</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">25</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								B<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>A potter and his wheel, fashioning a vase of Awata porcelain in the famous Kinkosan works, Kyoto, Japan</unittitle>
+						<unitdate label="Date">1904</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">67</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								B<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Sacred to the Son of Heaven, grand throne in the Emperor’s Palace, Forbidden City, Peking, China</unittitle>
+						<unitdate label="Date">1901</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">84</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Lucerne and the lofty Pilatus, Switzerland</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">698</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>An Alpine elevator to the clouds, Mount Pilatus, Switzerland</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">699</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Sisikon and the mighty Uri-Rothstock, Switzerland</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">701</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Tunnels of the Axenstrasse overhanging Lake Lucerne, Switzerland</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">702</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Hilporte, Le Pont Saute, France[?]</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1043</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>The façade, happily combining medieval French and German architecture, cathedral</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1246</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Dresden and the great western head of the Elbe, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1271</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>The Zwinger, with galleries and charming courtyard, Dresden, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1273</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Pinnacled cliff of Bastei, Saxon Switzerland, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1279</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>University buildings, Leipsic [Leipzig], Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1280</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>University buildings, Leipsic [Leipzig], Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1280</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Splendor and sturdy industry in Berlin, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1287</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Seat of power from City Hall, Berlin, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1290</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Picture gallery along northwest side of palace, Berlin, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1294</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Brandburg Tor, Berlin, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1303</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Emperor’s Palace from across the Spree (west), Berlin, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1331</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Fortress and bridge barring Germans in Belgium</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1415" type="box">1415</container>
+						<materialspec label="index">1493</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1415 -->
+			<!-- Box 1416 -->
+			<c01>
+				<note>Box 1416</note>
+				<did>
+					<unitid>2.1.2.4.33</unitid>
+					<unittitle>
+						Underwood <![CDATA[&]]> Underwood
+					</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>The Seine bridges, Paris, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1537</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>In the Latin Quarter, Paris, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1539</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Bois de Boulogne from the arch, Paris, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1551</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Avenue of the Grand Army, Paris, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1552</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Eiffel Tower, Paris, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1560</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Flower market on the island, Paris, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1577</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Sea beach at Nice, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1600</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Sheep under olive trees, Mentone, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1627</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Place de la Concorde, Paris, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1637</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>The Lake of Lucerne from the Axenstein, Switzerland</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1748</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Ancient Thun and its lake from the castle, Switzerland</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1757</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Jungrau from summit of Scheldegg, Switzerland</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1764</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Rathhouse [Rathaus], Vienna, Austria</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1889</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>The great Pontifical Palace, the Vatican, northeast from St. Peter’s dome, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1969</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>The Holy of Holies, St. Peter’s Tomb, St. Peter’s Cathedral, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1973</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Wonderful mosaic, copy of Raphael’s transfiguration, St. Peter’s Cathedral, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1974</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Sistine Chapel where popes are crowned, famous Last Judgement over altar, Vatican, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1978</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>The Tiber, Castle San Angelo and St. Peter’s Cathedral, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1985</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Temple of Vespasian, Arch of Severus, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1990</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>The Roman Forum, southeast from Capitol, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1991</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>The Triumphal Arch of Constantine, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">1998</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>The Farnese Bull, Naples Museum, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2015</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Beautiful home buried August 24, A.D. 79, Pompeii, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2024</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Florence from San Miniato, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2041</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>The Ponte Vecchio and the River Arno, Florence, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2049</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Glimpse in the Pitti Gallery showing one of Raphael’s famous Madonnas, Florence, Italy</unittitle>
+						<unitdate label="Date">1905</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2050</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Majestic pillared portico of the grandest Christian church on earth, St. Peter’s Cathedral, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2066</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Pope Pius X, Swiss Papal guards at the Vatican, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1903-1914</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2076</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Sturdy Swiss Guards of his Holiness, Pope Pius X, on duty in a corridor of the Vatican, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1903-1914</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2077</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Pope blessing the pilgrims, Italy</unittitle>
+						<unitdate label="Date">circa 1903-1914</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2088</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Opening slide, view at Positano, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2123</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Citadel and Mohammed Ali Mosque, Cairo, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2520</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Tomb, Mosque of Sultan Kait Bey, Cairo, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2523</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>The famous wooden statue called the Shekil el-Beled, Cairo, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2528</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Statue of Ramses II, pride of his now vanished temples at Memphis, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2545</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Magnificent desolation, the deserted temple of Luxor, southwest from top of the first pylon, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1416" type="box">1416</container>
+						<materialspec label="index">2565</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1416 -->
+			<!-- Box 1417 -->
+			<c01>
+				<note>Box 1417</note>
+				<did>
+					<unitid>2.1.2.4.33</unitid>
+					<unittitle>
+						Underwood <![CDATA[&]]> Underwood
+					</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Most beautiful colonnade in Egypt, Temple court at Luxor, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2567</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Ablick and Pyeon Temple of Luxor, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2568</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Excavating the Avenue of Rams, Thebes, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2571</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Avenue of Sacred Rams leading from river to west entrance, after excavation, Karnak, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2572</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Avenue of Sacred Rams leading from river to west entrance, after excavation, Karnak, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2572</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>The great court of the Karnak Temple, seen southeast from top of first pylon, Thebes, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2573</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Sacred lake and temple, Karnak, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2575</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>The first pylon of Ramses III, Thebes, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2594</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>The Nilometer on island at first cataract, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2603</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Philae, the Pearl of Egypt, the templed island now doomed to destruction, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2606</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>The Great Assuan Dam, northwest from the first pylon of Philae Temple, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2608</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>The Grotto Temple of Abu Simbel seen from northwest from a boat on the Nile, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2611</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Looking up the Nile across front of Abu Simbel Temple, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2613</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Interior of the rock hewn temples of Abu Simbel, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2614</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>“Lying in” hospital</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">2807</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Strange records of ancient faith, India</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">3608</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Setting sun</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">3882</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Beautiful Matsushima Bay, Japan</unittitle>
+						<unitdate label="Date">1904</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">3884</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Wayfarers resting under the pines at Suzukawa, west along Old Post Road from Tokyo, Japan</unittitle>
+						<unitdate label="Date">1904</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">3887</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>“Ohayou” (Good morning), greeting pretty damsels, temple, Kyoto, Japan</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">3896</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Oxen pulling plow, Japan</unittitle>
+						<unitdate label="Date">1902</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">3913</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>A fair devotee counting stone lanterns, Japan</unittitle>
+						<unitdate label="Date">1904</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">3916</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Along moat surrounding Imperial Palace Park, Tokyo, Japan</unittitle>
+						<unitdate label="Date">1905</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">3957</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Panorama, northwest from the city’s northern wall, Canton, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4115</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>West end of Shamian Island and western suburb of Canton, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4120</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Mission children with one little American girl, Canton, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4121</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>From the Imperial Bank of China along Whangpoo River over English and American Quarters, Shanghai, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4125</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Looking south in French Quarter and towards the native city, Shanghai, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4126</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Rich native bazaars on Nankin [Nanjing] Road, principal street of Shanghai, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4127</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Looking across Nankin [Nanjing] Road to a native tea house, Shanghai, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4128</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Colossal statue of Buddha in Luchow Temple at night, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4131</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Refinement and industry for China’s girls making embroidery at So. Gate Presbyterian Mission School, Shanghai, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4137</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>King of the Beggars, the chief of a beggar guild, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4139</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Bridge over busy waterway, China[?]</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4142</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Tiger Hill, the leaning tower of Soochow (1300 years old), full view, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4143</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>View along the bund from Municipal Council Building, Hankow, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1417" type="box">1417</container>
+						<materialspec label="index">4145</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1417 -->
+			<!-- Box 1418 -->
+			<c01>
+				<note>Box 1418</note>
+				<did>
+					<unitid>2.1.2.4.33</unitid>
+					<unittitle>
+						Underwood <![CDATA[&]]> Underwood
+					</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Traveling in interior China - our photographer’s houseboat on a canal near Kinkow (600 miles inland), China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">4146</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Paddy fields and group of jeering natives at Kiangesi Province, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">4147</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>North from Hatamen Gate over scene of the German Minister Baron von Ketteler’s murder, now called Ketteler Street, Peking, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">4179</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Panorama of houses and rooftops, China[?]</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">4188</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Count von Waldersee escorted by Office of Allied Armies through the lines of the United States infantry toward Sacred Gate, Peking, China</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">4189</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Magnificent marble bridge at the Imperial Summer Palace near Peking, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">4204</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Grand Porcelain Tower, one of the splendid buildings of the Summer Palace near Peking, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">4205</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>A beautiful Cantonese girl in palanquin with maid attendant, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">4261</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Beautiful villas and roadway from highest point above Hong Kong, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">4332</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>The wife of a Mandarin and her friends, Cantonese ladies of high rank, China</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Execution of prisoners, china</unittitle>
+						<unitdate label="Date">circa 1901</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Execution of prisoners, China</unittitle>
+						<unitdate label="Date">circa 1901</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Execution of prisoners, China</unittitle>
+						<unitdate label="Date">circa 1901</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Heads of beheaded criminals tied by queues to stakes on street near West Gate, Tientsin, China</unittitle>
+						<unitdate label="Date">1901</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Klondike Sawmill</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">4850</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>A poem in trees, Wellesley College, Wellesley, Massachusetts</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">5257</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Capitol Building, Washington, D.C.</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">5585</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Among the buttes, Red Canyon Trail, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">6077</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>A mighty red rift in the earth, Bright Angel Canyon, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">6091</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Up the Colorado River from Pyrites Point to Zoroaster Tower, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">6099</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Crossing the lower plateau toward the Colorado River, Grandview Trail, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">6107</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>The Serpentine Fault from the South Cliff of the Colorado River, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">6108</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Angels Gateway and Newbury Terrace from across the Colorado River, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">6111</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Young mountaineers, a dangerous playground, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">6113</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>A night in the bed of a creek along the trail, Arizona</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">6126</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>A Hopi woman uses primitive methods to coil clay into pottery, Oraibi, Arizona</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">6179</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Across the Grand Canyon of the Colorado from Sentinel Point, Arizona</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">ASS80</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Tomb of President Benito Juarez covered with wreathes from all Mexican States, Mexico City, Mexico</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">6315</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Bolner Street, Ointo, Ecuador</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">9206</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Interior first floor of Hopi House</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">9486</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Sheep at Chartres, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">9582</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Vineyards at Epernay, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">9583</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>The Cathedral of Rheims, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">9584</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Statue of Joan of Arc, Rheims, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">9585</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Along the waterfront of the famous Dinnen-Alster, Hamburg, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">10424</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Old palace and monument of Henry the Lion, Brunswick, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1418" type="box">1418</container>
+						<materialspec label="index">10426</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1418 -->
+			<!-- Box 1419 -->
+			<c01>
+				<note>Box 1419</note>
+				<did>
+					<unitid>2.1.2.4.33</unitid>
+					<unittitle>
+						Underwood <![CDATA[&]]> Underwood
+					</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Schiller’s house in Weimar, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">10432</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Stitching shoes in a busy factory, Nuremburg, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">10442</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>University students, Marburg, Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">10454</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>President Woodrow Wilson</unittitle>
+						<unitdate label="Date">circa 1913-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11252</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Woolworth Building, New York City, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11403</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Typical Tigris River craft (kelek) bearing passengers from Diarbekr to Mosul, Turkey</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11639</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Typical Tigris River craft (kelek) bearing passengers from Diarbekr to Mosul, Turkey</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11639</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Navigation contrasts at Bagdad - “kufas” meeting European steamer, Iraq</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11665</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Navigation contrasts at Bagdad - “kufas” meeting European steamer, Iraq</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11665</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Picturesque dwellings of Jews along Tigris</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11667</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Picturesque dwellings of Jews along Tigris</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11667</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Typical street of Baghdad, Iraq</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11669</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Typical street of Baghdad, Iraq</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11669</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Monumental ruin of Palace of Parthian king at Ctesiphon near Baghdad, Iraq</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11671</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>The brick floor of Nebuchadnezzar’s Throne Hall looking toward Euphrates, Iraq</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11675</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Desolate ruins of mighty Babylon showing Palace of Nebuchadnezzar, Iraq</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11676</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>The traditional “Garden of Eden”, looking east over the Euphrates Valley, Iraq</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11706</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Belgian sharpshooters in the trenches firing from a drain pipe</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11830</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Turks drilled by Germans enroute to fight the Russians</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">11854</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>A long buried chapter in the tale of the ages, Petrified Forest, Arizona</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">23281</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>The Painted Desert, Arizona</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">23307</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Seething waters of the Colorado River looking down from Pipe Creek, Grand Canyon, Arizona</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">23309</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Quarry[?]</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">29996</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>The interior of Robert Baker and Co.’s store in Mexico City, Mexico</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">33203</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Spanish Steps, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">32848</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Noon, the sensuous Colorado, yellow as the Tiber, north from Bissell’s Point, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">33725</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>On the rim of the Grand Canyon at Grandview Trail, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">41035</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>The greatest agatized tree of the Petrified Forest, Arizona</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">41392</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>The Colorado River and Cremation Point from Bissell Point, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">41558</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Emperor of Japan</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">51444</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>The Mikado of Japan whose nation is now at war with Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">51444</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Baron Kate who has been the Japanese ambassador to Great Britain with his daughter</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">57134</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Cleric</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">77418</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Three men in uniform</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">77421</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Famous Swiss guards of the Vatican whose mutiny causes state of siege in Pope’s Palace, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">77456</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Gossip at a wayside inn at Boten overlooking Voxil Lake, Norway</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1419" type="box">1419</container>
+						<materialspec label="index">77558</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1419 -->
+			<!-- Box 1420 -->
+			<c01>
+				<note>Box 1420</note>
+				<did>
+					<unitid>2.1.2.4.33</unitid>
+					<unittitle>
+						Underwood <![CDATA[&]]> Underwood
+					</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Pompeii[?]</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">81004</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Pompeii, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">81211</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Panorama</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">81218</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Royal Palace and Constitution Square from Hotel d’Angleterre, Athens, Greece</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">85560</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Family of King Constantine of Greece</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">85648</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Birdseye view of Delphi from Mount Iampia, Greece</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">85667</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Chalice and miter</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">87412</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Building interior</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">88058</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Southeast from painted rocks at zigzag near rim, Bright Angel Trail, Grand Canyon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">90496</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>German battle cruiser Meltke</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">92975</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>An American hospital, Neuilly</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">96140</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>General von Mackensen (on the left)</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">97600</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Gorge leading to Grande Chartreus, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">102730</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Tea at Varenna by Lake Como, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">103184</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Silver coin stored in vaults of Treasury, Washington, D.C.</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">106198</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Aurora by Guido Reni</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">10723S</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Painting</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">10760S</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Monte Cristallo, Dolomites, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">107994</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Monte Cristallo and Durren, See, Dolomites, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">107999</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Grand stairway, Vienna, Austria</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">108007</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Old Karlskirche, Vienna, Austria</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">108020</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Imperial Art Gallery, Vienna, Austria</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">108030</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>St. Stephen’s Church, Vienna, Austria</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">108048</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>The Shotten Ring, Vienna, Austria</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">108053</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Mozart statue, Vienna, Austria</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">108062</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>The Franzen Ring, Vienna, Austria</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">108445</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Monte Cristallo, Dolomites, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">108465</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Salzburg Castle, Austria</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">108557</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Imperial Museum, Vienna, Austria</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">108574</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Peasants who pose for artists</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">109016</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Gallery of statues, Vatican, Rome, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">109093</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Interior of large building</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">109202</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Vettica Minore, near Amalfi, Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">109240</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Thoroughly overhauling famous giant clock, Big Ben, on the Houses of Parliament, London, England</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">111957</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Two and one half tons of bunnies at Tarana Station, Australia</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">112341</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Two and one half tons of bunnies at Tarana Station, Australia</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1420" type="box">1420</container>
+						<materialspec label="index">112341</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1420 -->
+			<!-- Box 1421 -->
+			<c01>
+				<note>Box 1421</note>
+				<did>
+					<unitid>2.1.2.4.33</unitid>
+					<unittitle>
+						Underwood <![CDATA[&]]> Underwood
+					</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>A last meeting</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">112564</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>On a highway in the north of France, a French detachment of infantry marches to the trenches</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">115207</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Siberian infantry returning from trenches, cheerful after hard fighting</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">116704</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Admiral Borea Ricci d’Olmo of the Italian Naval forces</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">116893</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>French Grenade throwers well protected against shrapnel shell and poisonous gas</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">117672</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Armenians repulsing the Turks in siege of Van</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">117989</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Procession passing through the Arch of Triumph in Paris, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">118416</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Procession passing through the Arch of Triumph in Paris, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">118417</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Polish refugees fly before advancing Germans</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">119415</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Mount Sinai and Plain of Assemblage, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">122557</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Monastery</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">122557</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>The Mount of the Law</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">122664</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Arch, Russia</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">122736</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>View from great high place</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">125001</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Andrew Carnegie</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">130177</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Victoria, Empress of Germany</unittitle>
+						<unitdate label="Date">circa 1898-1901</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">131099</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Count Okuma, Japan’s greatest statesman</unittitle>
+						<unitdate label="Date">circa 1898</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">134822</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Street scene</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">135841</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Turkish cavalry who will fight the Russians</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">135896</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Fortress</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">135912</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Madison Square, New York City, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">136655</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Galata Bridge, Turkey</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">137099</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Hagia Sophia, Turkey</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">137124</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Tree-lined road</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">137127</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>From “Seven Towers” looking north beyond towers in Turkish residential quarter, Turkey</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">137133</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Hagia Sophia, Turkey</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">137188</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>St. Patrick’s Cathdral, New York City, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">137897</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>View looking east from the 37th floor of the Woolworth Building, New York City, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">143284</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>King Victor Emanuel of Italy</unittitle>
+						<unitdate label="Date">circa 1900-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">143879</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Scenery along the banks of Euphrates, south of Babylon, Garden of Eden, Iraq</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">144638</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Scenery along the banks of Euphrates, South of Babylon, Garden of Eden, Iraq</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">144638</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>The reliefs of the Sacred Bull of Neba and the dragon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">144739</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>The reliefs of the Sacred Bull of Neba and the dragon</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">144739</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>The ruins of new Palace of Nebuchadnezzar, Iraq</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">144812</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>The ruins of new Palace of Nebuchadnezzar, Iraq</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">144812</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>The Triumphal Gateway of the goddess Ishtar, Processional Road</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">144818</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Christmas spirit is displayed by the early shoppers whizzing their way up and down 5th Avenue, New York City, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1421" type="box">1421</container>
+						<materialspec label="index">147623</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1421 -->
+			<!-- Box 1422 -->
+			<c01>
+				<note>Box 1422</note>
+				<did>
+					<unitid>2.1.2.4.33</unitid>
+					<unittitle>
+						Underwood <![CDATA[&]]> Underwood
+					</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Czarina of Russia</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">147763</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Looking up Broadway from 33rd Street, night scene, New York City, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">148003</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Singer and City Investing Buildings by night, New York City, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">148112</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>New York’s famous breadline of homeless hungry men, entering Bowery Mission, New York City, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">148609</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Pennsylvania Station, interior, New York City, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">150711</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Woolworth Building, New York City, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">151727</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Two enthusiastic peace advocates, Andrew Carnegie and his guest Lord Weardale</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">152125</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Statue of Liberty, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">154874</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Daughters of Tsar Ferdinand of Bulgaria</unittitle>
+						<unitdate label="Date">circa 1905-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">156152</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>The International School of Arts, Paris, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">160573</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Present King of Greece, Constantine, who succeeded his father George I</unittitle>
+						<unitdate label="Date">circa 1913-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">160662</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Czarevitch of Russia and his mother</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">160874</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Countell Festitic di Tolna, wife of the First Secretary of the Austrian Embassy, and her baby</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">161740</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>The Baroness Pierrebourg, the well known French writer</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">161742</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Fleet of dredges in Panama Canal</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">163263</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Where King George of England lives when in Paris, France</unittitle>
+						<unitdate label="Date">circa 1911-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">163642</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>View from East River, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">166517</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>General V. Carranza</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">167391</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>The death dungeon in San Juan de Ulua Prison where Mexicans were tortured and killed, Puerto Rico</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">168693</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Mrs. William B. Leeds</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">170081</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Senior Lieutenant Weddigen, commander of the submarine U-9</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">171532</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Skyline of New York City, New York</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">171823</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Jane Watson Bessell</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">172040</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Miriam Steinbring, who had some experience going through the War Zone</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">172830</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Mille Nelly Marthy Scott</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">173322</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>King Peter of Serbia</unittitle>
+						<unitdate label="Date">circa 1903-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">173400</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Count von Moltke, commander of the Germany army</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">173409</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Daughter of Grand Duke Michael of Russia, one of Europe’s most beautiful princesses</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">173489</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>German dreadnaughts in battle formation</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">173520</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>High Admiral Alfred P. T. von Tirpitz of German Army</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">173528</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>President Raymond Poincare of France</unittitle>
+						<unitdate label="Date">circa 1913-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">173555</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>The French battleship Suffren</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">173558</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Schoolship Veneta under Lowensauer Bridge[?]</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">173594</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Armored cruiser Scharnhorst, Germany navy</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">173596</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>German navy, Schleswig Holstein</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">173598</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>German navy, Elsass</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1422" type="box">1422</container>
+						<materialspec label="index">173599</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1422 -->
+			<!-- Box 1423 -->
+			<c01>
+				<note>Box 1423</note>
+				<did>
+					<unitid>2.1.2.4.33</unitid>
+					<unittitle>
+						Underwood <![CDATA[&]]> Underwood
+					</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Lord Kelvin of England</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">173710</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Prince Eitel Frederick, son of Emperor of Germany</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">173752</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Grand Duke Nikolai Nikolayewitsch, to be chief aid of Czar when latter takes the field</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">173768</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Queen Mary of England</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">173930</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>General Alex D. Kluck</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">174114</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>General Archibald Murray</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">174136</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>New York Stock Exchange</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">174215</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>London scanning the skies for German dirigibles and bomb throwers, England</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">174426</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>The battlefield of Soisson after the battle</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">174595</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>The Grand Duchess Anastasia, youngest daughter of the Czar of Russia</unittitle>
+						<unitdate label="Date">circa 1906-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">174856</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>The beautiful young daughters of the Russian Czar</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">174859</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Latest photograph of King George of England and Queen Mary</unittitle>
+						<unitdate label="Date">circa 1911-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">174861</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Princess Victoria Alexandra Mary, the only daughter of the King and Queen of England</unittitle>
+						<unitdate label="Date">circa 1911-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">174863</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Sir Percy Scott, England’s greatest gunnery expert, back in Admiralty</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">175434</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>King of Belgium</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">175529</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Belgian caribiners attacking Uhlan raiders near Ypres</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">175821</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Bridge in Poland destroyed by Austrians retreating before the Russians</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">175857</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Abbasii the Khedive of Egypt has joined the Turks to fight the Allies</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">175870</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Fritz Kreisler, famous violinist and wife</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">175899</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Siberian infantrymen arrive in Warsaw in time to check German advance</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">176119</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Result of the impetuous German charges across an open field at Champagne, France</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">178315</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Quick firing gun mounted on an airplane</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">178385</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Queen of Greece</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">178733</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>The Ahmediyeh Mosque on Bosporus, one of the most beautiful mosques in Ottoman capital</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">179014</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>General Carle Caneva, Commander-in-Chief of the Italian army</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">181568</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Italian cavalry officers on way to Austrian frontier</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">181672</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Fiume - only port of importance left to Austria should […] fall into hands of Italy</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">183284</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Duke of Aosta</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">183314</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>War keeping the folks at home busy</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">183365</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Duke of Genoa</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">183581</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Result of big guns from the Allied fleet on the Sed-Bahr Fort</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">185184</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>The Czar’s bodyguard off to the defense of Warsaw, Poland</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">185208</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>German sharpshooters sniping Allies from behind factory ruins</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">185222</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Admiral Viale, the Italian Minister of the Navy</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">185226</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Roman Catholic church in Warsaw destroyed by Germans</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">185364</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Geese by the thousands commandeered by the Germans in Russia</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1423" type="box">1423</container>
+						<materialspec label="index">187170</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1423 -->
+			<!-- Box 1424 -->
+			<c01>
+				<note>Box 1424</note>
+				<did>
+					<unitid>2.1.2.4.33</unitid>
+					<unittitle>
+						Underwood <![CDATA[&]]> Underwood
+					</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>General Sam Hughes</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">187190</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>The Queen of Bulgaria</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">187209</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Newfoundland troops at Aldershot, England</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">187662</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Carting French and German soldiers to their graves</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">187903</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>General Charles Townshend</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">195798</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>General Morrone, the new Italian Minister of War</unittitle>
+						<unitdate label="Date">circa 1916-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">197143</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Building gutted by fire falling into the street, Sackville Street, Dublin, Ireland</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">199627</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Yuan-Hung, new president of China</unittitle>
+						<unitdate label="Date">circa 1916-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">200562</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Many decorations presented to city of Verdun by President Poincare, France</unittitle>
+						<unitdate label="Date">circa 1916</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">208799</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Maximilian Harden</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">219316</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Holy Night by Correggio</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">227170</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Holy Night by Correggio</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">227170</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Holy Night by Correggio</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">227170</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Kurt Eisner, slain Bavarian Premier</unittitle>
+						<unitdate label="Date">circa 1919</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">255119</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Princess Patricia of Connaught</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index">1478676</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Wayfarers on a straight 30 mile road lined with stately poplars, Baramula to Cashmere, India</unittitle>
+						<unitdate label="Date">1903</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>20 women team on Darjeeling highway, who would not be a man in India?</unittitle>
+						<unitdate label="Date">1903</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>A hill country “Ekka” with passenger and baggage, coming from Cashmere to Murree, 55 miles, India</unittitle>
+						<unitdate label="Date">1903</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Celebrated Man Singh Palace, covered with carvings and enameled tiles, Gwailor, India</unittitle>
+						<unitdate label="Date">1903</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Jeypore people and famous Museum of Indian Arts and Industries, India</unittitle>
+						<unitdate label="Date">1903</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Devout Mohammedans prostrate at prayer time, Court of Jumma Musjid, India’s greatest Mosque, Delhi, India</unittitle>
+						<unitdate label="Date">1903</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>The Palace of the Winds, beautiful as a shell with pink and cream-colored stucco, Jeypore, India</unittitle>
+						<unitdate label="Date">1903</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Women who have just emerged from a rice field, Island of Honam, China</unittitle>
+						<unitdate label="Date">1900</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Prince Su, title earned by distinguished bravery, gave palace and provisions to besieged Legations, Peking, China</unittitle>
+						<unitdate label="Date">1901</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Decorating Awata porcelain ware for export in the famous Kinkosan works, Kyoto, Japan</unittitle>
+						<unitdate label="Date">1904</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Long rows of tall purple Iris in springtime glory, Kabota, Japan</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>War declared, “Young England”</unittitle>
+						<unitdate label="Date">circa 1914</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>One of the many submarines of the German navy</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Karnak, Egypt</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Russians advancing along railway to reinforce besieged Russian troops</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Girl shot by Mexican police for shouting “Viva Villa”</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Princess Jolanda, eldest daughter of Queen of Italy</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Cathedral of the Assumption where Emperors of Russia are crowned, Moscow, Russia</unittitle>
+						<unitdate label="Date">1898</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Large crowd of people before the Madaleine Church (D-O-M-SVB-Invoc-S-M-Magdalenae), Paris, France</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Silk cocoons</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Uniformed man holding young girl</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1424" type="box">1424</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1424 -->
+			<!-- Box 1425 -->
+			<c01>
+				<note>Box 1425</note>
+				<did>
+					<unitid>2.1.2.4.33</unitid>
+					<unittitle>
+						Underwood <![CDATA[&]]> Underwood
+					</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Marching soldiers</unittitle>
+						<unitdate label="Date">circa 1914-1918</unitdate>
+						<container id="1425" type="box">1425</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Native Americans gaze at bust of Abraham Lincoln</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1425" type="box">1425</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Cleric</unittitle>
+						<unitdate label="Date">circa 1898-1918</unitdate>
+						<container id="1425" type="box">1425</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Palm trees</unittitle>
+						<unitdate label="Date">1902</unitdate>
+						<container id="1425" type="box">1425</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Marketplace</unittitle>
+						<unitdate label="Date">1902</unitdate>
+						<container id="1425" type="box">1425</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches"></extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1425 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

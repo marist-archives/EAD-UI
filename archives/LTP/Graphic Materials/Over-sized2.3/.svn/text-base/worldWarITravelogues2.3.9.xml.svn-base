@@ -1,0 +1,1578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.3.xsl"?><!-- styelsheet for Over-sized 2.3.1 -->
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>World War I/Travelogues</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.3.9</unitid>
+		<unittitle>World War I/Travelogues</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	<arrangement><p></p></arrangement>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		 <!-- Start the new box from component no. 1 -->
+		 <!-- Items within the box in component no. 2 -->
+<!-- Box 1636 -->
+<c01>
+<note>Box 1636</note>
+<did>
+<unitid>2.3.9</unitid>
+<unittitle>World War I/Travelogues</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Travelogue poster: “Under the Patronage of H.R.H. The Prince of Wales. With Allenby in Palestine. With Lawrence in Arabia.  The Lowell Thomas Travelogues.  Including pictures in motion and color”	
+</unittitle>
+<unitdate label="Date"> circa 1919	
+</unitdate>
+<container id="1636" type="box">1636</container>
+<physdesc>
+<extent unit="inches">11 x 15	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Graphic of a camel under palm trees from a larger Lowell Thomas travelogue poster. It is an original lithograph on poster board	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1636" type="box">1636</container>
+<physdesc>
+<extent unit="inches">16 x 15	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3 	
+</unitid>
+<unittitle>Travelogue window card: “With Lowell Thomas (of Allenby in Palestine fame) ‘Through Romantic India’”; offset lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1925	
+</unitdate>
+<container id="1636" type="box">1636</container>
+<physdesc>
+<extent unit="inches">9 x 11¾ 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4-6	
+</unitid>
+<unittitle>Travelogue window card: “’Hindustan’, Through Romantic India, Mr. Lowell Thomas will personally appear at each performance”	
+</unittitle>
+<unitdate label="Date">circa 1925	
+</unitdate>
+<container id="1636" type="box">1636</container>
+<physdesc>
+<extent unit="inches">12½  x 10	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7-10	
+</unitid>
+<unittitle>Travelogue window card: “The Annual Carnagey-Thomas Travelogues. General Allenby’s Campaign in the Holy Land and the Land of the Arabian Nights.”; offset lithograph poster (four different versions)	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1636" type="box">1636</container>
+<physdesc>
+<extent unit="inches">14 x 11	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Window card advertising “Kaiser’s Helmet and other remarkable trophies brought from Berlin by Lowell Thomas…”	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1636" type="box">1636</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12-36	
+</unitid>
+<unittitle>Travelogue poster: “Lowell Thomas, Mon., Tues., Wed., Thurs., Fri., Sat., Daily 2:30 ,<![CDATA[&]]> 8:30, With Allenby in Palestine and Arabia”  [Poster was made in two pieces: 25 complete posters, 9 bottom halves]	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1636" type="box">1636</container>
+<physdesc>
+<extent unit="inches">20 x 24 (complete)	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1636 -->
+<!-- Box 1637 -->
+<c01>
+<note>Box 1637</note>
+<did>
+<unitid>2.3.9</unitid>
+<unittitle>World War I/Travelogues</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Travelogue poster for the Lowell Thomas Travelogue:  “With Allenby in Palestine and Lawrence in Arabia”; lithograph 8 panel poster [one panel is missing]	
+</unittitle>
+<unitdate label="Date">circa 1919 -  1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">96 x 192	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Large blue travelogue poster: “Thomas Travelogues by Lowell Thomas Himself, With Allenby in Palestine, Covent Garden Royal Opera House”; Morgan Litho Company; 3 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">41 x 80	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Large blue travelogue poster: “Percy Burton Presents, Thomas Travelogues by Lowell Thomas Himself”;  Morgan Litho Company; 3 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">41 x 80	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Large blue travelogue poster: “Thomas Travelogues by Lowell Thomas Himself”; Morgan Litho Company; 3 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">41 x 80	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Large blue travelogue poster: “Thomas Travelogues by Lowell Thomas Himself”; Morgan Litho Company; 3 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">41 x 80	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Large blue travelogue poster: “Thomas Travelogues by Lowell Thomas Himself”; Morgan Litho Company; 3 panel lithograph poster [framed and on display in the Special Collections research room]	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">41 x 80	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Large travelogue poster with three military men and one woman: “The Lowell Thomas Travelogues with Allenby in Palestine and Lawrence in Arabia, Under the Direction of Dale Carnagey, Direct from a Years Run in New York and London”; Morgan Litho Company; 2 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">41 x 80	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Large travelogue poster with three military men and one woman: “The Lowell Thomas Travelogues with Allenby in Palestine and Lawrence in Arabia, Under the Direction of Dale Carnagey, Direct from a Years Run in New York and London”; Morgan Litho Company; 2 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">41 x 80	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Large travelogue poster with three military men and one woman: “The Lowell Thomas Travelogues with Allenby in Palestine and Lawrence in Arabia, Under the Direction of Dale Carnagey, Direct from a Years Run in New York and London”; Morgan Litho Company; 2 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">41 x 80	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Large travelogue poster with three military men and one woman: “The Lowell Thomas Travelogues with Allenby in Palestine and Lawrence in Arabia, Under the Direction of Dale Carnagey, Direct from a Years Run in New York and London”; Morgan Litho Company; 2 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">41 x 80	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Large travelogue poster with three military men and one woman: “The Lowell Thomas Travelogues with Allenby in Palestine and Lawrence in Arabia, Under the Direction of Dale Carnagey, Direct from a Years Run in New York and London”; Morgan Litho Company; 2 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">41 x 80	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Large travelogue poster with three military men and one woman: “The Lowell Thomas Travelogues with Allenby in Palestine and Lawrence in Arabia, Under the Direction of Dale Carnagey, Direct from a Years Run in New York and London”; Morgan Litho Company; 2 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">41 x 80	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Large travelogue poster with three military men and one woman: “The Lowell Thomas Travelogues with Allenby in Palestine and Lawrence in Arabia, Under the Direction of Dale Carnagey, Direct from a Years Run in New York and London”; Morgan Litho Company; 2 panel lithograph poster [framed and on display in the Special Collections research room]	
+</unittitle>
+<unitdate label="Date">circa 1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">41 x 80	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Large travelogue poster of Allenby’s head and men on horses: “The Lowell Thomas Travelogues with Allenby in Palestine and Lawrence in Arabia, Under Direction of Dale Carnagey, On No Stage has been Presented Anything More fascinating”; Morgan Litho Company; 5 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">84 x 84	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Large travelogue poster of Allenby’s head and men on horses: “The Lowell Thomas Travelogues with Allenby in Palestine and Lawrence in Arabia, Under Direction of Dale Carnagey, On No Stage has been Presented Anything More fascinating”; Morgan Litho Company; 5 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">84 x 84	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Large travelogue poster of Allenby’s head and men on horses: “The Lowell Thomas Travelogues with Allenby in Palestine and Lawrence in Arabia, Under Direction of Dale Carnagey, On No Stage has been Presented Anything More fascinating”; Morgan Litho Company; 5 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">84 x 84	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Large travelogue poster of Allenby’s head and men on horses: “The Lowell Thomas Travelogues with Allenby in Palestine and Lawrence in Arabia, Under Direction of Dale Carnagey, On No Stage has been Presented Anything More fascinating”; Morgan Litho Company; 5 panel lithograph poster	
+</unittitle>
+<unitdate label="Date">circa 1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">84 x 84	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Large travelogue poster of Allenby’s head and men on horses: “The Lowell Thomas Travelogues with Allenby in Palestine and Lawrence in Arabia, Under Direction of Dale Carnagey, On No Stage has been Presented Anything More fascinating”; Morgan Litho Company; 5 panel lithograph poster [panel two only]	
+</unittitle>
+<unitdate label="Date">circa 1920	
+</unitdate>
+<container id="1637" type="box">1637</container>
+<physdesc>
+<extent unit="inches">	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1637 -->
+<!-- Box 1638 -->
+<c01>
+<note>Box 1638</note>
+<did>
+<unitid>2.3.9</unitid>
+<unittitle>World War I/Travelogues</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Travelogue poster: “With Allenby in Palestine”; single panel lithograph	
+</unittitle>
+<unitdate label="Date">1922	
+</unitdate>
+<container id="1638" type="box">1638</container>
+<physdesc>
+<extent unit="inches">14 x 1	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2-6	
+</unitid>
+<unittitle>Travelogue poster: “With Allenby in Palestine” at the Tremont Temple; single panel lithograph	
+</unittitle>
+<unitdate label="Date">1924	
+</unitdate>
+<container id="1638" type="box">1638</container>
+<physdesc>
+<extent unit="inches">14 x 22	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7-9	
+</unitid>
+<unittitle>Travelogue poster: “With Allenby in Palestine” at the Philharmonic; single panel lithograph	
+</unittitle>
+<unitdate label="Date">1923	
+</unitdate>
+<container id="1638" type="box">1638</container>
+<physdesc>
+<extent unit="inches">14 x 22	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10-15	
+</unitid>
+<unittitle>Travelogue poster of Allenby’s head and men on horses: “With Allenby in Palestine”; Morgan Litho Company; single panel lithograph 	
+</unittitle>
+<unitdate label="Date">1923	
+</unitdate>
+<container id="1638" type="box">1638</container>
+<physdesc>
+<extent unit="inches">21 x 27	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16-20	
+</unitid>
+<unittitle>Travelogue poster of Allenby’s head and men on horses: “With Allenby in Palestine” at the Philharmonic; Morgan Litho Company; single panel lithograph 	
+</unittitle>
+<unitdate label="Date">1923	
+</unitdate>
+<container id="1638" type="box">1638</container>
+<physdesc>
+<extent unit="inches">12½ x 28	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Travelogue posters: “Alhambra, Les Indes Romantiques, Paris”; single panel lithograph poster [very fragile/very poor condition]	
+</unittitle>
+<unitdate label="Date">1923	
+</unitdate>
+<container id="1638" type="box">1638</container>
+<physdesc>
+<extent unit="inches">13 x 28	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Travelogue posters: “Alhambra, Les Indes Romantiques, Paris”; single panel lithograph 	
+</unittitle>
+<unitdate label="Date">1923	
+</unitdate>
+<container id="1638" type="box">1638</container>
+<physdesc>
+<extent unit="inches">13 x 28	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Framed charcoal drawing of Lowell Thomas by James McBey [item is currently located in the Marist College Special Collections hanging storage area] 	
+</unittitle>
+<unitdate label="Date"> 1919	
+</unitdate>
+<container id="1638" type="box">1638</container>
+<physdesc>
+<extent unit="inches">23 x 18½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1638 -->
+<!-- Box 1639 -->
+<c01>
+<note>Box 1639</note>
+<did>
+<unitid>2.3.9</unitid>
+<unittitle>World War I/Travelogues</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Wadi Araba, caravan in distance [index number 1-14] [photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Wadi Araba, caravan, close-up [index number 1-15] [photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Airplane at Akaba, two men in cockpits [index number 1-32] [hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Arab man [With Lawrence in Arabia caption: A Sheik of Araby] [index number 1-78] [hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Bedouin sheik on horse [With Lawrence in Arabia caption: Tallal El-Hareidhin of Tafas] [photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Arab battery in action, sunset, fighting near Damascus [With Lawrence in Arabia caption: Lawrence’s mountain guns in action] [index number 1-104] [hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Harry Chase taking motion pictures from armored car [With Lawrence in Arabia caption: Mr. Chase opening fire with his cinema camera from the turret of an armored car] [index number 1-106] [hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8-10	
+</unitid>
+<unittitle>Lowell Thomas in pith helmet sits and servant stands in front of tent with cameras and other equipment on the ground [index number 2-3] [photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Patrol of Ford automobiles in Arabian desert (Lowell Thomas note: This goes with Arabian negatives) [index number 2-133] [hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Lowell Thomas on Arab horse [index number 4-12] [hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Lowell Thomas on Arab horse [index number 4-12] [photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Lowell Thomas taking notes alongside a disabled tank near Gaza [index number 4-20] [hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>[left to right] Major Piero Tozzi, Lowell Thomas and Colonel Webb Hayes sit in gondola; gondolier stands at rear [index number 4-26] [hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">12 x 17	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>[seated left to right in rear of automobile] Lowell Thomas, Colonel Webb Hayes and Major Piero Tozzi; soldiers on horseback in background [index number 4-27] [hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">13 x 16½ 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Lowell Thomas and Italian officer standing before a statue of General von Hindenburg [index number 4-41] [hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">17 x 13	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>View of Great Pyramid of Giza taken from airplane in flight] [hand-colored photograph]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Mrs. Frances Ryan Thomas wearing Kaiser Wilhelm’s helmet [verso: Fran with the Kaiser’s helmet! Brought from Berlin during the 1918-1919 German Revolution after the Kaiser fled] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">10 x 9½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Woman stands in doorway amid ruins in Italy [hand-colored photograph] 	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">17 x 12½ 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Luisa Tetrazzini [caption: To my friends Mr. and Mrs. Lowell Thomas in remembrance of America that I love so much, Luisa Tetrazzini, Roma 23 Giugno 1918] [photograph]	
+</unittitle>
+<unitdate label="Date">1918 June 23	
+</unitdate>
+<container id="1639" type="box">1639</container>
+<physdesc>
+<extent unit="inches">17 x 12	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1639 -->
+<!-- Box 1640 -->
+<c01>
+<note>Box 1640</note>
+<did>
+<unitid>2.3.9</unitid>
+<unittitle>World War I/Travelogues</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>T. E. Lawrence standing, three quarter length [With Lawrence in Arabia caption: The archeologist and poet who turned soldier] [index number 1-42] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1918-1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>T. E. Lawrence and his bodyguard in the desert [With Lawrence in Arabia caption: “Sidi” Lawrence and his “Sons”] [index number 1-47] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1918-1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>T. E. Lawrence in paisley robe, squatting, full-faced, close-up [With Lawrence in Arabia caption: Col. T. E. Lawrence] [index number 1-52] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1918-1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>T. E. Lawrence in paisley robe, squatting, full-faced, close-up [With Lawrence in Arabia caption: Col. T. E. Lawrence] [index number 1-54] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1918-1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>T. E. Lawrence in white robe with sword at waist, sitting on floor, side view, right hand on chin [With Lawrence in Arabia caption: The dreamer whose dreams came true] [index number 1-58A] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1918-1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas squatting in London Arab [index number 4-4] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1918-1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>T. E. Lawrence sitting beside camel [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1918-1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 24½	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>T. E. Lawrence, close-up [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1918-1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 24 ½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Malaya travelogue photograph - Lowell Thomas atop elephant	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Malaya travelogue photograph - tea party at the Roberts’s house with Lowell Thomas, Mrs. Frances Ryan Thomas, Duncan Roberts and Mrs. Roberts	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Malaya travelogue photograph - group shot includes Lowell Thomas (left), Harry Chase squatting (right) and Mrs. Frances Ryan Thomas standing behind men seated at right	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Malaya travelogue photograph - outdoor scene	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Malaya travelogue photograph - outdoor scene	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Malaya travelogue photograph -  Sakai pygmy woman of the Malay jungle	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Malaya travelogue photograph -  Sakai pygmy woman of the Malay jungle	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Burma travelogue photograph - a river dweller of the upper Irrawaddy	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Burma travelogue photograph - a leg rower of the Shan states	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>India travelogue photograph - a Hindu fakir who stands on his head for hours at a time	
+</unittitle>
+<unitdate label="Date">1921 - 1922	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>India travelogue photograph - two men sit on a bed of nails	
+</unittitle>
+<unitdate label="Date">1921 - 1922	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>India travelogue photograph - irrigating the rice fields near the equator in tropical India at 2 cents per day	
+</unittitle>
+<unitdate label="Date">1921 - 1922	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>India travelogue photograph - a duelist of the Himalayas	
+</unittitle>
+<unitdate label="Date">1921 - 1922	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Afghanistan travelogue photograph - Afghan man seated with rifle	
+</unittitle>
+<unitdate label="Date">1922	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Afghanistan travelogue photograph - Afghan man standing with rifle	
+</unittitle>
+<unitdate label="Date">1922	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Afghanistan travelogue photograph - armed Afghan men in fort	
+</unittitle>
+<unitdate label="Date">1922	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Ross Smith travelogue photograph	
+</unittitle>
+<unitdate label="Date">circa early 1920s	
+</unitdate>
+<container id="1640" type="box">1640</container>
+<physdesc>
+<extent unit="inches">12 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1640 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

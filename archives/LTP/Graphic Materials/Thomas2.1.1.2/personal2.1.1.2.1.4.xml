@@ -1,0 +1,1994 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Thomas2.1.1.2/personal2.1.1.2.1.4.xml</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Personal</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.1.2.1.4</unitid>
+		<unittitle>Personal</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+	<!-- Box 1270 -->
+<c01>
+<note>Box 1270</note>
+<did>
+<unitid>2.1.1.2.1.4</unitid>
+<unittitle>Personal</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>49</unitid>
+<unittitle>Lowell Thomas in Arab headdress [With Lawrence in Arabia caption: The author, With Lawrence in Arabia]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-1	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>50</unitid>
+<unittitle>Lowell Thomas in Arab headdress [With Lawrence in Arabia caption: The author, With Lawrence in Arabia]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-1	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>51</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas squatting in front of tent, Arabia [With Lawrence in Arabia caption: Colonel Lawrence and the author]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-2	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>52</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas squatting in front of tent, Arabia [With Lawrence in Arabia caption: Colonel Lawrence and the author]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-2	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>53</unitid>
+<unittitle>Lowell Thomas and T. E. Lawrence standing in front of tent	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-3	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>54</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas squatting in London in Arab clothes 	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-4	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>55</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas, three quarter view, bushes, full-faced, in Arab clothes	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-5	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>56</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas, three quarter side view, serious, in Arab clothes	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-6	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>57</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas squatting in London in Arab clothes 	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-7	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>58</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas in Arab clothes, full-faced, with sickly smiles	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-8	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>59</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas in Arab clothes, side view, laughing	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-9	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>60</unitid>
+<unittitle>Lowell Thomas in Arab clothes, close-up, standing	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-10	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>61</unitid>
+<unittitle>Lowell Thomas in Arab clothes, squatting, London, close-up	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-11	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>62</unitid>
+<unittitle>Lowell Thomas, wearing Arab headdress, on Emir Feisal’s horse	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-13	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>63</unitid>
+<unittitle>Lowell Thomas on Emir Feisal’s Arabian horse	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-14	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>64</unitid>
+<unittitle>T. E. Lawrence and Lowell Thomas squatting at entrance to tent	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-15	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>65</unitid>
+<unittitle>Profile view of Lowell Thomas and General Edmund Allenby, close-up [With Lawrence in Arabia caption: Allenby and author]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-16	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>66</unitid>
+<unittitle>Profile view of Lowell Thomas and General Edmund Allenby [With Lawrence in Arabia caption: Allenby and author]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-16A	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>67</unitid>
+<unittitle>Lowell Thomas with motion picture  camera in airplane before taking off for a flight from Egypt to Jerusalem [With Lawrence in Arabia caption: Lowell Thomas in an open cockpit Breguet about to take off with Major A. J. Evans to follow the route of the Israelites across the Sinai Desert]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-17	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>68</unitid>
+<unittitle>Lowell Thomas with Mayor of Gaza having a quiet smoke, the Mayor’s nephews at right	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-18	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>69</unitid>
+<unittitle>Lowell Thomas with Mayor of Gaza having a quiet smoke, the Mayor’s nephews at right	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-18A	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>70</unitid>
+<unittitle>Lowell Thomas taking notes alongside a disabled tank near Gaza	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-20	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>71</unitid>
+<unittitle>Harry Chase and two men examine a tank	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-21	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>72</unitid>
+<unittitle>Lowell Thomas in armored car, 1000 feet below sea level	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-22	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>73</unitid>
+<unittitle>Lowell Thomas in pith helmet sits and an Arab man stands in front of tent with cameras and other equipment on the ground	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-23	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>74</unitid>
+<unittitle>Leaning Tower of Pisa, Lowell Thomas, Mrs. Frances Ryan Thomas, and Major Piero Tozzi in foreground	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-24	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>75</unitid>
+<unittitle>Leaning Tower of Pisa, Lowell Thomas, Mrs. Frances Ryan Thomas, and Major Piero Tozzi in foreground	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-25	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>76</unitid>
+<unittitle>[left to right] Major Piero Tozzi, Lowell Thomas and Colonel Webb Hayes sit in gondola; gondolier stands at rear
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-26	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>77</unitid>
+<unittitle>[seated left to right in rear of automobile] Lowell Thomas, Colonel Webb Hayes and Major Piero Tozzi; soldiers on horseback in background	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-27	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>78</unitid>
+<unittitle>Luisa Tetrazzini, Major Piero Tozzi, and Lowell Thomas stand in front of Luisa’s limousine	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-28	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>79</unitid>
+<unittitle>Lowell Thomas and Major Piero Tozzi seated at table while drinking coffee, Venice	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1270" type="box">1270</container>
+<materialspec label="index">4-29	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1270 -->
+<!-- Box 1271 -->
+<c01>
+<note>Box 1271</note>
+<did>
+<unitid>2.1.1.2.1.4</unitid>
+<unittitle>Personal</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>General Giuseppe “Peppino” Garibaldi and dog, Lowell Thomas looking at camera	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-30	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>General Giuseppe “Peppino” Garibaldi and dog, Lowell Thomas not looking at camera	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-31	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>3</unitid>
+<unittitle>Lowell Thomas and Major Barracca and others, airplane in background	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-32	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>4</unitid>
+<unittitle>Lowell Thomas and unidentified man with arm in sling, in Padova	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-33	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>5</unitid>
+<unittitle>Lowell Thomas on dogsled in Alps, many people in the background	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-35	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>6</unitid>
+<unittitle>Lowell Thomas squatting beside two children in France 	
+</unittitle>
+<unitdate label="Date">1917	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-37	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>7</unitid>
+<unittitle>Lowell Thomas in Malta with unidentified Admiral	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-38	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>8</unitid>
+<unittitle>Lowell Thomas wearing helmet and goggles seated in cockpit of airplane	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-40	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>9</unitid>
+<unittitle>Lowell Thomas and Italian officer standing before a statue of General von Hindenburg
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-41	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>10</unitid>
+<unittitle>Harry Chase in Arab clothes, three quarter view, London	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-42	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>11</unitid>
+<unittitle>Harry Chase in Arab clothes, squatting, London	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-43	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>12</unitid>
+<unittitle>Dale Carnegie [also known as Dale Carnagey], pith helmet, side view, seated, hands clasped	
+</unittitle>
+<unitdate label="Date">circa 1919	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-44	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>13</unitid>
+<unittitle>Dale Carnegie [also known as Dale Carnagey], bust, pith helmet, full-faced view	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-45	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>14</unitid>
+<unittitle>Dale Carnegie [also known as Dale Carnagey], bust, side view, pith helmet	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-46	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>15</unitid>
+<unittitle>Mrs. Frances Ryan Thomas in cart holding umbrella	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-48	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>16</unitid>
+<unittitle>Veiled woman of Arabia [With Lawrence in Arabia  caption: Types of city headdress for women]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-50	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>17</unitid>
+<unittitle>Veiled woman, full length, aboard ship [With Lawrence in Arabia caption: Types of city headdress for women]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-50A	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>18</unitid>
+<unittitle>Arab woman, Dorothy Waldegrave as Miss America, Major Peter Drummond, Lieutenant McCall McCowan	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-51	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>19</unitid>
+<unittitle>Veiled woman, Dorothy Waldegrave as Miss America, Major Peter Drummond, Lieutenant McCall McCowan, more serious	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-52	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>20</unitid>
+<unittitle>Dorothy Waldegrave as Miss America, serious	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-53	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>21</unitid>
+<unittitle>Dorothy Waldegrave as Miss America, smiling 	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-54	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>22</unitid>
+<unittitle>Lowell Thomas with Arab clothes, bust, by Monte Luke	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-55	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>23</unitid>
+<unittitle>Lowell Thomas and three soldiers	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-60	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>24</unitid>
+<unittitle>Portrait of Lowell Thomas in military uniform	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-61	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>25</unitid>
+<unittitle>Lowell Thomas, wearing cap, operates a motion picture camera on a mountain, several soldiers nearby	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-62	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>26</unitid>
+<unittitle>Lowell Thomas, wearing cap, operates a motion picture camera on a mountain,  several soldiers nearby	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-62A	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>27</unitid>
+<unittitle>Lowell Thomas and two French children, close-up 	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-63	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>28</unitid>
+<unittitle>Lowell Thomas reading the “Balkan News,” Red Cross	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-64	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>29</unitid>
+<unittitle>Sketch of Lowell Thomas by James McBey [With Lawrence in Arabia caption: The author sketched by James McBey, official artist for Allenby’s forces in the Holy Land]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-66	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>30</unitid>
+<unittitle>Lowell Thomas and man wielding a rifle on Mount Hor	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-67	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>31</unitid>
+<unittitle>Lowell Thomas in Arab clothes, full-faced [broken, see next envelope for remaining pieces]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-68	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>32</unitid>
+<unittitle>Lowell Thomas in Arab headdress and clothes, full length [With Lawrence in Arabia caption: Lowell Thomas in Arab costume when he was with Lawrence of Arabia]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">4-69	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>33</unitid>
+<unittitle>Lowell Thomas and Essad Pasha, Albanian dictator	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>34</unitid>
+<unittitle>Lowell Thomas and men in front of elaborate building	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>35</unitid>
+<unittitle>Soldiers talking in front of Hindenburg statue, Berlin, Germany	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>36</unitid>
+<unittitle>Unidentified man	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>37</unitid>
+<unittitle>Unidentified man with two horses 	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>38</unitid>
+<unittitle>Unidentified man in front of barn [?]	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>39</unitid>
+<unittitle>Unidentified man playing baseball	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>40</unitid>
+<unittitle>Two camels mating, two men standing next to them	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">2.25x3.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>41</unitid>
+<unittitle>Two camels mating, two men standing next to them	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4.5x6.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>42</unitid>
+<unittitle>Two camels mating, man standing next to them	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4.5x6.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>43</unitid>
+<unittitle>Two camels mating, man standing next to them	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4.5x6.5	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>44</unitid>
+<unittitle>Lowell Thomas with unidentified man holding cane	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4.5x6.5	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>45</unitid>
+<unittitle>Lowell Thomas talking with two men	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>46</unitid>
+<unittitle>Lowell Thomas with two men and a motion picture camera	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>47</unitid>
+<unittitle>Lowell Thomas with cane, talking to soldier	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>48</unitid>
+<unittitle>Soldier showing two children a gun, Lowell Thomas pointing at left	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>49</unitid>
+<unittitle>Men on ship, Lowell Thomas [?] with back to camera	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>50</unitid>
+<unittitle>Lowell Thomas passport, Germany	
+</unittitle>
+<unitdate label="Date">1919 January 9	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>51</unitid>
+<unittitle>Lowell Thomas passport, Germany	
+</unittitle>
+<unitdate label="Date">1918 December 17	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>52</unitid>
+<unittitle>Lowell Thomas passport, Switzerland	
+</unittitle>
+<unitdate label="Date">1918 December 6	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>53</unitid>
+<unittitle>Lowell Thomas passport, Germany	
+</unittitle>
+<unitdate label="Date">1919 January	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>54</unitid>
+<unittitle>Lowell Thomas passport, Sudan	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>55</unitid>
+<unittitle>Three German helmets	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>56</unitid>
+<unittitle>Kaiser’s helmet	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>57</unitid>
+<unittitle>Mrs. Frances Ryan Thomas wearing Kaiser’s helmet	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>58</unitid>
+<unittitle>Lowell Thomas standing on stairs next to arch	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">3.5x4.75	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>59</unitid>
+<unittitle>Ancestor of Mrs. Frances Ryan Thomas or Lowell Thomas	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>60</unitid>
+<unittitle>Lowell Thomas with two men	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1271" type="box">1271</container>
+<materialspec label="index">	
+</materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1271 -->
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

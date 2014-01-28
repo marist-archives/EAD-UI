@@ -1,0 +1,3523 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/palestine2.1.1.1.17.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Palestine</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.17</unitid>
+			<unittitle>Palestine</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1210 -->
+			<c01>
+				<note>Box 1210</note>
+				<did>
+					<unitid>2.1.1.1.17</unitid>
+					<unittitle>Palestine</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Monastery of Saint George on side of gorge</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2200</materialspec>
+						<materialspec label="negativenumber">1097</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Monastery of St. George</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2000</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Frank R. Roberson and Mrs. Jessie W. Roberson by Jordan River</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">662</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>River Jordan (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2003</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>The Jordan River</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2336</materialspec>
+						<materialspec label="negativenumber">689</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>The Jordan River at the bathing place</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2337</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>The Jordan River near Jericho</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2338</materialspec>
+						<materialspec label="negativenumber">959</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Jordan River at bathing place</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2339</materialspec>
+						<materialspec label="negativenumber">928</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Fishers on Galilee (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2004</materialspec>
+						<materialspec label="negativenumber">738</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>View over Tiberias from the hotel</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2005</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Tiberias from the Lake of Galilee</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2006</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>View from railway train en route, Tiberias junction of railway for Damascus</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2007</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Tiberias</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2331</materialspec>
+						<materialspec label="negativenumber">582</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>“Mission Hospital”, Tiberias (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2332</materialspec>
+						<materialspec label="negativenumber">794</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>“Nazareth Gate”, Tiberias, Sea of Galilee (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2333</materialspec>
+						<materialspec label="negativenumber">793</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>“Fishing on Galilee” (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2334</materialspec>
+						<materialspec label="negativenumber">792</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Sea of Galilee</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2335</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Capernaum from the Sea of Galilee</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2008</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Ruins of Capernaum (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2009</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Ruins of Capernaum (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2330</materialspec>
+						<materialspec label="negativenumber">791</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>The Dead Sea</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2329</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Magdala on Galilee (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2010</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Magdala along Sea of Galilee</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2011</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Bethsaida from Galilee</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2012</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Horns of Hattin</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2013</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Mount of Beatitudes (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2014</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Cana of Galilee</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2015</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Cana in Galilee (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2016</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Nazareth (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2017</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>General view of Nazareth (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2018</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Nazareth and Mount Tabor</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2019</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Mary’s Well with women, Nazareth</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2020</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Mary’s Well, Nazareth</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2021</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Girls with water jars on heads, Nazareth</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2022</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>Nazareth from the west</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2340</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Camp at Medaba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1210" type="box">1210</container>
+						<materialspec label="index">2023</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1210 -->
+			<!-- Box 1211 -->
+			<c01>
+				<note>Box 1211</note>
+				<did>
+					<unitid>2.1.1.1.17</unitid>
+					<unittitle>Palestine</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Party on road to Medaba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2024</materialspec>
+						<materialspec label="negativenumber">757</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Medaba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2025</materialspec>
+						<materialspec label="negativenumber">553</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Reservoir, Medaba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2348</materialspec>
+						<materialspec label="negativenumber">713</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Citadel and street view, Rabbath Ammon</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2026</materialspec>
+						<materialspec label="negativenumber">545</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Roman ruins at Rabbath Ammon</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2027</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Ruins at Rabbath Ammon (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2028</materialspec>
+						<materialspec label="negativenumber">785</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Man with umbrella, Rabbath Ammon</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2029</materialspec>
+						<materialspec label="negativenumber">663</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Under willow trees, Rabbath Ammon</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2030</materialspec>
+						<materialspec label="negativenumber">674</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Group at Rabbath Ammon</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2031</materialspec>
+						<materialspec label="negativenumber">676</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Camp outfit from Jerusalem to Ammon</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2032</materialspec>
+						<materialspec label="negativenumber">550</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Entrance arch at Rabbath Ammon</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2033</materialspec>
+						<materialspec label="negativenumber">551</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Rabbath Ammon showing rock strata</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2345</materialspec>
+						<materialspec label="negativenumber">704</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Amphitheater, Rabbath Ammon</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2346</materialspec>
+						<materialspec label="negativenumber">709</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Ruins at Rabbath Ammon</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2347</materialspec>
+						<materialspec label="negativenumber">708</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Tents at Maan</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2034</materialspec>
+						<materialspec label="negativenumber">536</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Third class carriage, Maan to Rabbath Ammon</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2035</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Maan, distant view</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2036</materialspec>
+						<materialspec label="negativenumber">678</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>“Mayor” of Maan and followers</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2037</materialspec>
+						<materialspec label="negativenumber">745</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Street in Maan</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2038</materialspec>
+						<materialspec label="negativenumber">653</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Street view, Maan</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">577</materialspec>
+						<physdesc>
+							<extent unit="inches">4.5 x 6.75</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Purple thistle</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2039</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Tree at Elgi</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2040</materialspec>
+						<materialspec label="negativenumber">632</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Side of Mount Nebo</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2041</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Mount Tabor and Plains of Jezrael (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2072</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Thabor (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2081</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Samaria (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2075</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Samaria (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2076</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Haifa (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2077</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Haifa from hillside</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2078</materialspec>
+						<materialspec label="negativenumber">566</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Mount Carmel (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2080</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Monastery of Mount Carmel</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">562</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Nablous</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2086</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Boats racing to meet steamer, Jaffa</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2090</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Jaffa from the sea</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2091</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Jaffa from the sea</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2092</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Jaffa from the sea</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2093</materialspec>
+						<materialspec label="negativenumber">943</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Tabitha’s house, Jaffa</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2094</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>View from roof of house of Simon the Tanner, Jaffa</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2095</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Street scene, camels, Jaffa</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2096</materialspec>
+						<materialspec label="negativenumber">937</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>House of Simon the Tanner, Jaffa</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2097</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Street scene, Jaffa</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2098</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Street scene, Jaffa</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2099</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Zigzag road, Jaffa to Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2100</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Road, Jaffa to Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2102</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Road, Jaffa to Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2103</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>View near road from Jaffa to Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2328</materialspec>
+						<materialspec label="negativenumber">924</materialspec>
+						<physdesc>
+							<extent unit="inches">4.5 x 6.75</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Along road, Jaffa to Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2104</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Algerian bazaar, two men in foreground, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">936</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Algerian bazaar, general scene, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2106</materialspec>
+						<materialspec label="negativenumber">938</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Street scene, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2108</materialspec>
+						<materialspec label="negativenumber">929</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Street scene, open street, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2109</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4 x 4.5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Algerian bazaar, group of men, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2110</materialspec>
+						<materialspec label="negativenumber">932</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Street scene showing steps, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2111</materialspec>
+						<materialspec label="negativenumber">935</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Algerian bazaar, looking toward archway, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2112</materialspec>
+						<materialspec label="negativenumber">934</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Street scene, old man in long cloak, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2113</materialspec>
+						<materialspec label="negativenumber">933</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Algerian bazaar showing side awnings, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">939</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Street scene, Algerian bazaar, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2114</materialspec>
+						<materialspec label="negativenumber">1082</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Algerian bazaar, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2115</materialspec>
+						<materialspec label="negativenumber">930</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Lemonade vendor in Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2116</materialspec>
+						<materialspec label="negativenumber">681</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Camels, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2117</materialspec>
+						<materialspec label="negativenumber">949</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Street scene, camels, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2118</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Street scene, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2119</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Street scene near Jaffa Gate, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2120</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>Street scene showing awnings, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2121</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Lepers, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2122</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>66</unitid>
+						<unittitle>Shop scene, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2123</materialspec>
+						<materialspec label="negativenumber">955</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>67</unitid>
+						<unittitle>Women in Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2124</materialspec>
+						<materialspec label="negativenumber">1078</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>68</unitid>
+						<unittitle>Market women, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2125</materialspec>
+						<materialspec label="negativenumber">1086</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>69</unitid>
+						<unittitle>Donkeys, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2126</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>70</unitid>
+						<unittitle>Old man at a Sunday merry making outside of Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2127</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>71</unitid>
+						<unittitle>Street scene, men entering city, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2128</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>72</unitid>
+						<unittitle>Man with water skin, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2129</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>73</unitid>
+						<unittitle>Lepers near Grotto of Agony, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2130</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>74</unitid>
+						<unittitle>Market women, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2131</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>75</unitid>
+						<unittitle>Stone cutters, Jerusalem (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2133</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>76</unitid>
+						<unittitle>Jews Wailing Wall, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2134</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>77</unitid>
+						<unittitle>Jews Wailing Wall, women, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2135</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>78</unitid>
+						<unittitle>Jews Wailing Wall, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2136</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>79</unitid>
+						<unittitle>Jews near Wailing Wall, Jerusalem (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2137</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>80</unitid>
+						<unittitle>Jews Wailing place, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2138</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>81</unitid>
+						<unittitle>Wall of Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2139</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>82</unitid>
+						<unittitle>The leper colony, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2140</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>83</unitid>
+						<unittitle>Tomb of the Virgin, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2141</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>84</unitid>
+						<unittitle>Field of blood, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2142</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>85</unitid>
+						<unittitle>Gordon’s Calvary, Grotto of Jeremiah, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2143</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>86</unitid>
+						<unittitle>Frank R. Roberson at the Grotto of Agony, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2144</materialspec>
+						<materialspec label="negativenumber">24</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>87</unitid>
+						<unittitle>Street view, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2145</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>88</unitid>
+						<unittitle>Street of David, lame man, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2146</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>89</unitid>
+						<unittitle>The station, Via Dolorosa, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2147</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>90</unitid>
+						<unittitle>Ecce Homo arch, Via Dolorosa, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2148</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>91</unitid>
+						<unittitle>Fourth station, Via Dolorosa, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2149</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>92</unitid>
+						<unittitle>Saint Veronica Street, Via Dolorosa, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1211" type="box">1211</container>
+						<materialspec label="index">2150</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1211 -->
+			<!-- Box 1212 -->
+			<c01>
+				<note>Box 1212</note>
+				<did>
+					<unitid>2.1.1.1.17</unitid>
+					<unittitle>Palestine</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Via Dolorosa, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2151</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Third station, Via Dolorosa, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2152</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Fifth station, Via Dolorosa, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2153</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Street scene near Jaffa Gate, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2155</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Jaffa Gate, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2156</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>House of Pilate, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2157</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Tower of David, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2158</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Tower of David, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2158A</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>West Wall outside Jaffa Gate, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2159</materialspec>
+						<materialspec label="negativenumber">1065</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Road down Olivet, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2160</materialspec>
+						<materialspec label="negativenumber">1095</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Olivet from Mosque of Omar, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2161</materialspec>
+						<materialspec label="negativenumber">1070</materialspec>
+						<physdesc>
+							<extent unit="inches">4.25x5.5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Railway station, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2162</materialspec>
+						<materialspec label="negativenumber">1067</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Absalom’s tomb, valley of Jehosophat, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2163</materialspec>
+						<materialspec label="negativenumber">950</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Dome of the Chain, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2164</materialspec>
+						<materialspec label="negativenumber">1063</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Mosque of Omar, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2165</materialspec>
+						<materialspec label="negativenumber">1057</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Mosque of El-Aksa, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2166</materialspec>
+						<materialspec label="negativenumber">942</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Mosque of Omar from the side, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">941</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Gateway between Mosque of Omar and Mosque of El-Aksa, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2168</materialspec>
+						<materialspec label="negativenumber">940</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Jerusalem from Mount Scopus (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2169</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Carders of wool, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2170</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Jerusalem guide (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2171</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Beggars near Jerusalem (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2172</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Bread shop, Jerusalem (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2173</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Zion Gate, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2264</materialspec>
+						<materialspec label="negativenumber">13</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Ruined citadel and tower of prayer, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2265</materialspec>
+						<materialspec label="negativenumber">29</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Wall inside Golden Gate, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2266</materialspec>
+						<materialspec label="negativenumber">31</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Exterior, Church of Holy Sepulchre, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2274</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Place of scourging, Church of Holy Sepulchre, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2275</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Holes of Holy Fire, Church of Holy Sepulchre, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2276</materialspec>
+						<materialspec label="negativenumber">10</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Tomb of the Holy Sepulchre in church, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2277</materialspec>
+						<materialspec label="negativenumber">14</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Station of Mary, Church of the Holy Sepulchre, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2280</materialspec>
+						<materialspec label="negativenumber">22</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Interior of Church of the Holy Sepulchre, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2281</materialspec>
+						<materialspec label="negativenumber">693</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Pool of Siloam, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2287</materialspec>
+						<materialspec label="negativenumber">980</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Pool of Hezekiah, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2288</materialspec>
+						<materialspec label="negativenumber">5</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Tomb of David, chamber of Last Supper, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2289</materialspec>
+						<materialspec label="negativenumber">12</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>House of Caiaphas, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2290</materialspec>
+						<materialspec label="negativenumber">15</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Leper colony of Siloah, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2291</materialspec>
+						<materialspec label="negativenumber">35</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Tomb of Absalom, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2292</materialspec>
+						<materialspec label="negativenumber">34</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Steps to the Tomb of the Kings, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2293</materialspec>
+						<materialspec label="negativenumber">6</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Entrance to Tomb of the Kings, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2294</materialspec>
+						<materialspec label="negativenumber">30</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Mosque of Omar through the trees, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2296</materialspec>
+						<materialspec label="negativenumber">926</materialspec>
+						<physdesc>
+							<extent unit="inches">4.5x6.75</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Mosque of Omar from Olivet, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2297</materialspec>
+						<materialspec label="negativenumber">3</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Interior of Mosque of Omar, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2298</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Rock of Moriah, Mosque of Omar, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2299</materialspec>
+						<materialspec label="negativenumber">9</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Ceiling of dome of Mosque of Omar, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2300</materialspec>
+						<materialspec label="negativenumber">33</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Interior of Mosque of El-Aksa, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2301</materialspec>
+						<materialspec label="negativenumber">11</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Filling the water skins near Mosque of Omar, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2302</materialspec>
+						<materialspec label="negativenumber">917</materialspec>
+						<physdesc>
+							<extent unit="inches">4.5x6.75</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Hill of Offense, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2303</materialspec>
+						<materialspec label="negativenumber">970</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>View towards Mount of Olives, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2304</materialspec>
+						<materialspec label="negativenumber">922</materialspec>
+						<physdesc>
+							<extent unit="inches">4.5x6.75</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Jerusalem from hill, slightly west of Mount of Olives</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2305</materialspec>
+						<materialspec label="negativenumber">972</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Chapel of the Ascension, Mount of Olives, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2306</materialspec>
+						<materialspec label="negativenumber">21</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Mount of Olives, from hotel roof, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2307</materialspec>
+						<materialspec label="negativenumber">26</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Mount of Olives, from hotel roof, Jerusalem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2307A</materialspec>
+						<materialspec label="negativenumber">26</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Bedouin tents near Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2174</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Bedouins on road to Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2175</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Sheep and goats on road to Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2176</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Sheep and goats on road to Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2176A</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Tower entrance to monastery where women stay, Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2177</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Entrance, Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2178</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Old bell at Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2179</materialspec>
+						<materialspec label="negativenumber">1024</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Old bell at Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2179A</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>Gorge near Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2180</materialspec>
+						<materialspec label="negativenumber">1093</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Gorge at Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2181</materialspec>
+						<materialspec label="negativenumber">1092</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>Greek priest at Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2182</materialspec>
+						<materialspec label="negativenumber">1091</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Frank R. Roberson at gate of Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2183</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>66</unitid>
+						<unittitle>Side wall at Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2184</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>67</unitid>
+						<unittitle>Side wall at Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2184A</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>68</unitid>
+						<unittitle>Side wall, Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2314</materialspec>
+						<materialspec label="negativenumber">692</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>69</unitid>
+						<unittitle>Houses built on ledge, Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2315</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>70</unitid>
+						<unittitle>Corridor in rock to monk’s cell, Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2316</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>71</unitid>
+						<unittitle>Skulls of those slaughtered by the Persians, Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2317</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>72</unitid>
+						<unittitle>Mar Saba, looking east</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2318</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>73</unitid>
+						<unittitle>Mar Saba, looking north</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2319</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>74</unitid>
+						<unittitle>Chapel of Saint Saba, Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2320</materialspec>
+						<materialspec label="negativenumber">976</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>75</unitid>
+						<unittitle>View in gorge looking southwest, Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1212" type="box">1212</container>
+						<materialspec label="index">2321</materialspec>
+						<materialspec label="negativenumber">974</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1212 -->
+			<!-- Box 1213 -->
+			<c01>
+				<note>Box 1213</note>
+				<did>
+					<unitid>2.1.1.1.17</unitid>
+					<unittitle>Palestine</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Mar Saba, north end</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2322</materialspec>
+						<materialspec label="negativenumber">973</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>General view of northern portion of Mar Saba, from south</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2323</materialspec>
+						<materialspec label="negativenumber">963</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Mar Saba, looking south</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2324</materialspec>
+						<materialspec label="negativenumber">962</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Mar Saba, general view from east</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2325</materialspec>
+						<materialspec label="negativenumber">961</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Visitors quarters, Mar Saba</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2327</materialspec>
+						<materialspec label="negativenumber">958</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Well of Magi, on road to Bethlehem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2185</materialspec>
+						<materialspec label="negativenumber">1071</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Camels on road to Bethlehem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2186</materialspec>
+						<materialspec label="negativenumber">1058</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Mother of pearl workers in Bethlehem (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2187</materialspec>
+						<materialspec label="negativenumber">1049</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Bethlehem bride (copy)</unittitle>
+						<unitdate label="Date">circa 1908 - 1912</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2188</materialspec>
+						<materialspec label="negativenumber">1038</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Women in Bethlehem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2189</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Bethlehem (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2190</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Church of Nativity, Bethlehem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2191</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Frank Mountains, Bethlehem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2192</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Shepherd’s field, Bethlehem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2193</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Terrace of olive orchards, Bethlehem in the distance</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2308</materialspec>
+						<materialspec label="negativenumber">951</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Church of Nativity, Grotto of Saint Jerome, Bethlehem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2309</materialspec>
+						<materialspec label="negativenumber">975</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Interior of Church of Nativity, Bethlehem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2310</materialspec>
+						<materialspec label="negativenumber">965</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Greek chapel in Church of Nativity, Bethlehem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2311</materialspec>
+						<materialspec label="negativenumber">968</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Grotto of the Manger, Church of the Nativity, Bethlehem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2312</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Grotto of the Star, Church of the Nativity, Bethlehem</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2313</materialspec>
+						<materialspec label="negativenumber">705</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Crusader’s tower, Bethany</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2194</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Bethany</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2195</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Road to Jericho</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2196</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Road to Good Samaritan Inn</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2197</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Good Samaritan Inn</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2198</materialspec>
+						<materialspec label="negativenumber">1033</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Kahn on road to Jericho (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2199</materialspec>
+						<materialspec label="negativenumber">1041</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Jericho from a distance</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2001</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format">film</genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Jericho (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2002</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Tombs of the Patriarchs in Hebron</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2201</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Palestine peasant (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2206</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Muslims at prayer (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2207</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Jewish people (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2208</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Greek priests (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2209</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Jewish man (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2210</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Desert life (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2350</materialspec>
+						<materialspec label="negativenumber">586</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Map of Palestine (copy)</unittitle>
+						<unitdate label="Date">circa 1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2088</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Map of Palestine (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2089</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Map of Palestine</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2396</materialspec>
+						<materialspec label="negativenumber">740</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Physical map of Palestine</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2399</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Physical map of Palestine</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2400</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Map of Medaba, mosaic</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2395</materialspec>
+						<materialspec label="negativenumber">727</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Turkish passport (copy)</unittitle>
+						<unitdate label="Date">1908</unitdate>
+						<container id="1213" type="box">1213</container>
+						<materialspec label="index">2394</materialspec>
+						<materialspec label="negativenumber">728</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1213 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

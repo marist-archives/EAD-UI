@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.3.xsl"?><!-- styelsheet for Over-sized 2.3.1 -->
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Famous</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.3.4</unitid>
+		<unittitle>Famous</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	<arrangement><p></p></arrangement>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		 <!-- Start the new box from component no. 1 -->
+		 <!-- Items within the box in component no. 2 -->
+<!-- Box 1629 -->
+<c01>
+<note>Box 1629</note>
+<did>
+<unitid>2.3.4</unitid>
+<unittitle>Famous</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>McClelland Barclay photograph; inscription: To Frances Thomas, my lovely friend of the “Mopelia”. McClelland Barclay	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>George Herbert Walker Bush; verso: Jan 10, 1984, National Air <![CDATA[&]]> Space Museum, D.C., Vice President George Bush, on-camera, dedicates “Air Force One: The Planes <![CDATA[&]]> The Presidents” to the memory of Lowell Thomas. (Right) J. F. TerHorst, journalist, author, and former Ford Presidential press secretary [photograph]	
+</unittitle>
+<unitdate label="Date">1984	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">10 x 13	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3-5	
+</unitid>
+<unittitle>Group photograph includes George Herbert Walker Bush, Lowell Thomas and Mrs. Marianna Munn Thomas during trip to China	
+</unittitle>
+<unitdate label="Date">1977	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>James H. “Jimmy” Doolittle, left, Lowell Thomas on right [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1970s	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>President Gerald R. Ford and Lowell Thomas; inscribed: To Lowell Thomas with warm personal regards and best wishes, [signed] Gerald R. Ford [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1977	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">14 x 18	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>President Gerald R. Ford and wife Betty Ford pose with Medal of Freedom awardees; included in group photograph are Lowell Thomas, Nelson Rockefeller and Claudia Alta “Lady Bird” Johnson [photograph]	
+</unittitle>
+<unitdate label="Date">1977 January	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9-10	
+</unitid>
+<unittitle>Pepi Gabl and Lowell Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11-12	
+</unitid>
+<unittitle>Photograph of Sven Hedin with the first part of his handwritten correspondence to Lowell Thomas	
+</unittitle>
+<unitdate label="Date">1951 February 26	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Photograph of second part of Sven Hedin’s handwritten correspondence to Lowell Thomas	
+</unittitle>
+<unitdate label="Date">1951 February 26	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">6½ x 9	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Photograph of second part of Sven Hedin’s handwritten correspondence to Lowell Thomas	
+</unittitle>
+<unitdate label="Date">1951 February 26	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Framed handwritten letter with a photograph of Sven Hedin. [item is located in the Marist College Special Collections Hanging Storage Area]	
+</unittitle>
+<unitdate label="Date">1951 February 26	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">26¼ x 18½	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16-17	
+</unitid>
+<unittitle>Father Theodore Hesburgh, President of Notre Dame, Lowell Thomas and Mrs. Frances Ryan Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Former President Herbert Hoover, center, is honored by The Explorers Club before the Night of Exploration Dinner at New York’s Waldorf Astoria Hotel; presenting The Explorers Club medal to the former President for his achievements in exploration and his outstanding public service is Lowell Thomas, toastmaster; at left is Dr. Charles B. Hitchcock, President of the club [signed by Hoover, Thomas and Hitchcock] [photograph]	
+</unittitle>
+<unitdate label="Date">1960 April 26	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>President Lyndon Baines Johnson shaking hands with Lowell Thomas at the National Association of Broadcasters [photograph]	
+</unittitle>
+<unitdate label="Date">1968	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Photograph of General Douglas MacArthur and Lowell Thomas in Tokyo; Thomas is en route to Tibet [photograph]	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21-24	
+</unitid>
+<unittitle>Photograph of General Douglas MacArthur and Lowell Thomas in Tokyo; Thomas is en route to Tibet [photograph]	
+</unittitle>
+<unitdate label="Date">1949	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Photograph of General Douglas MacArthur, second from left, Eddie Eagan, Chairman of the New York State Athletic Commission, at left, Gene Tunney, third from left and Lowell Thomas at right sitting at ringside in Yankee Stadium before the start of the Bob Murphy-Jake LaMotta fight [photograph]	
+</unittitle>
+<unitdate label="Date">1951 June 28	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Jean MacArthur and Lowell Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1970s	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Connie Mack and Lowell Thomas broadcasting over the NBC radio network; caption: Connie Mack, aged manager of the Philadelphia Athletics, known as Mr. Baseball, still going strong at eighty-three [photograph]	
+</unittitle>
+<unitdate label="Date">1945	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Gordon MacRae, Lowell Thomas, center, and unidentified man at left [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1950s	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Lowell Thomas and unidentified man [see item 28] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1950s	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Secretary of Defense Neil McElroy, Lowell Thomas and unidentified woman [photograph]	
+</unittitle>
+<unitdate label="Date">circa late 1950s	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Judge Charles E. Murphy, left, Lowell Thomas and Thomas E. Dewey broadcasting over the CBS radio network [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1950s	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32-41	
+</unitid>
+<unittitle>President Richard M. Nixon and Lowell Thomas at the White House [photograph]	
+</unittitle>
+<unitdate label="Date">1974	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 42	
+</unitid>
+<unittitle>John D. O’Hara; inscription: To Mr. <![CDATA[&]]> Mrs. Lowell Thomas with warmest regard of their friend always, John D. O’Hara, Dec. 22, 1920, Sydney [photograph]	
+</unittitle>
+<unitdate label="Date">1920	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">8 x 12½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 43	
+</unitid>
+<unittitle>Admiral James R. Reedy shaking hands with Lowell Thomas en route to Antarctica [photograph]	
+</unittitle>
+<unitdate label="Date">1962	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 44	
+</unitid>
+<unittitle>Admiral James R. Reedy, Lowell Thomas and Admiral David M. Tyree [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 45	
+</unitid>
+<unittitle>President Franklin Delano Roosevelt sitting in automobile talks with Lowell Thomas at a Nine Old Men softball game [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 46	
+</unitid>
+<unittitle>Francis Joseph Spellman, Cardinal Archbishop of New York and Lowell Thomas at Capital Cities office [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 47	
+</unitid>
+<unittitle>Francis Joseph Spellman, Cardinal Archbishop of New York and Lowell Thomas at Capital Cities office [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 48	
+</unitid>
+<unittitle>Professor Harold Vinacke, University of Cincinnati, and Lowell Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1950s	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 49	
+</unitid>
+<unittitle>Posed photograph of Carveth Wells; inscription: To Lowell Thomas with a cheerio from Carveth Wells 	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 50	
+</unitid>
+<unittitle>Carveth Wells, left, and Captain Robert A. Bartlett sitting on steps of a building [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 13 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 51	
+</unitid>
+<unittitle>Carveth Wells, seated, with two unidentified men [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">10 x 13	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 52	
+</unitid>
+<unittitle>Jim Whittaker (at right) who led an American Mount Everest expedition and Lowell Thomas prepare to board an airplane [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 53	
+</unitid>
+<unittitle>Sir Hubert Wilkins, center, Lowell Thomas, left, and unidentified man at exhibition of photographs by Lowell Thomas, Jr. taken on the United States Navy’s goodwill tour of South America [photograph]	
+</unittitle>
+<unitdate label="Date">1939	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 54	
+</unitid>
+<unittitle>Prince William of Sweden; inscription: To Mr. and Mrs. Lowell Thomas with best thanks for a few very pleasant days at Clover Brook, January 1927 [signed] Prince William of Sweden [photograph]	
+</unittitle>
+<unitdate label="Date">1927	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 55-57	
+</unitid>
+<unittitle>Prince William of Sweden; inscription: To Mr. and Mrs. Lowell Thomas with best thanks for a few very pleasant days at Clover Brook, January 1927 [signed] Prince William of Sweden [copies of original photograph (item 54)] [photograph]	
+</unittitle>
+<unitdate label="Date">1927	
+</unitdate>
+<container id="1629" type="box">1629</container>
+<physdesc>
+<extent unit="inches">11 x 14 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1629 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

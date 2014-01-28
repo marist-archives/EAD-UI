@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Panama-Pacific International Exposition</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.25.1</unitid>
+			<unittitle>Panama-Pacific International Exposition</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1240 -->
+			<c01>
+				<note>Box 1240</note>
+				<did>
+					<unitid>2.1.1.1.25.1</unitid>
+					<unittitle>Panama-Pacific International Exposition</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Tower of Jewels</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">2</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Arch of the Rising Sun</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">3</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Niche in Court of Seasons</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">4</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Fountain of Evening[?] in Court of Universe</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">5</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Italian Tower in Court of Flowers</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">6</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Kneeling figure, Fine Arts Palace</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">7</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Muse finding the head of Orpheus</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">8</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Tower of Jewels</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">9</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Organ Tower, Court of Abundance</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">10</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Entrance to Machinery Palace</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">11</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Fountain of Energy</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">12</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Italian Tower</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">13</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Italian Tower and Tower of Jewels</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">14</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Tower of Jewels</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">15</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>California Building</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">16</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Promenade, California Building</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">17</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Court of Palms</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">18</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Doorway of Educational Palace</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">19</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Glimpse of rotunda, Fine Arts Building</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">20</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Fountain of Energy</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">21</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Atlantic Ocean, statue of mermaid and fish</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">22</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Aquatic nymphs</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">23</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Reflections of colonnades in Fine Arts Palace</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">24</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Fountain of El Dorado</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">25</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Winter in Court of Four Seasons</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">26</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Fountain, Fine Arts Palace</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">27</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Promenade</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">28</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Horticultural Palace</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">29</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Looking through colonnade in Court of Seasons</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">30</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Court of Abundance</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">31</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Fine Arts Palace from lagoon</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">32</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Palace of Horticulture from Tower of Jewels</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">33</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Fine Arts Palace</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">34</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Educational Palace</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">35</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Lagoon walk, Fine Arts Palace</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">36</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Birds eye view of exposition</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">37</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Colonnades, Fine Arts Palace</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">38</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Horticulture Palace from South Gardens</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">39</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Entrance to Court of Four Seasons showing Fountain of Ceres</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">40</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Glimpse of exposition from Presidio</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">41</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Detail of fountain, Court of Abundance</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">42</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Festival Hall</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">43</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>Fountain of Youth</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1240" type="box">1240</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">44</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1240 -->
+			<!-- Box 1241 -->
+			<c01>
+				<note>Box 1241</note>
+				<did>
+					<unitid>2.1.1.1.25.1</unitid>
+					<unittitle>Panama-Pacific International Exposition</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Fountain in Court of Abundance</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">45</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Rotunda of Fine Arts Palace</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">46</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Wildflower, statue of child</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">47</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Glimpse through colonnades, Fine Arts Palace</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">48</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Arches of the Rising and Setting Sun</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">49</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>On the marina, Adventurous Bowman</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">56</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Statue of Autumn in Court of Four Seasons</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">69</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Winter, Court of Four Seasons</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">73</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Bull of Sacrifice</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">74</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Descending Night</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">80</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Fountain of El Dorado</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">83</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>The South Sea, detail, Fountain of Energy</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">87</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>End of the Trail</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">88</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>The Pacific Ocean, detail, Fountain of Energy</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">89</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>North Sea, detail, Fountain of Energy</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">91</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Nations of the West</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">94</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Fountain of Ceres</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">95</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>End of the Trail</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">112</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Portal, Education Palace, Avenue of Palms</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">114</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Rising Sun</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">116</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Fire, mural painting by Brangwyn</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">117</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Water, mural painting by Frank Brangwyn</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Earth, mural painting by Frank Brangwyn</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">119</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Water, mural painting by Frank Brangwyn</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">120</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Earth, mural painting by Frank Brangwyn</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">121</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Fire, mural painting by Frank Brangwyn</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">122</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Air, mural painting by Frank Brangwyn</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">123</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Air, mural painting by Frank Brangwyn</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">124</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>The Scout</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">128</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Fountain, Fine Arts Building</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">129</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>The Duck Baby</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">132</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>The Star</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">133</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Fine Arts Palace illuminated</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">134</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Arch of the Setting Sun, Court of Universe</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">135</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Nations of the East</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">136</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Adventurous Bowman</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">137</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Organ Tower</unittitle>
+						<unitdate label="Date">1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Building, palms in foreground, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Palm trees, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Flowerbeds and trees, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Flowers and road, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Man sitting under large tree, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Flowering bushes, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Road, flowers and trees, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Flowers, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Rock formations, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Rock formation, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Large rock formations, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Industry on the water, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>City, clock tower, at night, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>House, many plants in foreground, San Francisco[?]</unittitle>
+						<unitdate label="Date">circa 1915</unitdate>
+						<container id="1241" type="box">1241</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1241 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Sicily</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.13.4</unitid>
+			<unittitle>Sicily</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1195 -->
+			<c01>
+				<note>Box 1195</note>
+				<did>
+					<unitid>2.1.1.1.13.4</unitid>
+					<unittitle>Sicily</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Map of Calabria and Sicily (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7000</materialspec>
+						<materialspec label="negativenumber">1247</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Map of Mediterranean route from New York (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7002</materialspec>
+						<materialspec label="negativenumber">1242</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Copy of map of Sicily</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7003</materialspec>
+						<materialspec label="negativenumber">1233</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Map of Sicily (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7004</materialspec>
+						<materialspec label="negativenumber">1292</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Pope Pius IX (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1195" type="box">1195</container>
+						<materialspec label="index">7007</materialspec>
+						<materialspec label="negativenumber">1257</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1195 -->
+			<!-- Box 1196 -->
+			<c01>
+				<note>Box 1196</note>
+				<did>
+					<unitid>2.1.1.1.13.4</unitid>
+					<unittitle>Sicily</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Main Street, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7008</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Death notice on doors, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7009</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Coney Island Restaurant at Monreale, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7010</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>City gate from a distance, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7011</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>City gate, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7012</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Street cleaning department, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7013</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Sheep on road to Monreale, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7015</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Shepherd with sheep, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7017</materialspec>
+						<materialspec label="negativenumber">1294</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Part of cloisters in cathedral, Monreale, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7018</materialspec>
+						<materialspec label="negativenumber">1204</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Temporary housing given by German government, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7062</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Palm avenue, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7212</materialspec>
+						<materialspec label="negativenumber">1277</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Royal theater, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7213</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Palermo from Monreale</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7215</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Frank R. Roberson in Cappuccini Monastery, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7216</materialspec>
+						<materialspec label="negativenumber">1275</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Mr. Beekley in the Cappuccini Monastery, Monreale, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7217</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Frank R. Roberson in the Cappuccini Monastery, Monreale, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7218</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Frank R. Roberson and party in the Cappuccini Monastery, Monreale, Palermo</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7221</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Cloisters at Monreale (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7222</materialspec>
+						<materialspec label="negativenumber">1198</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Fountain in the cloisters at Monreale (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7223</materialspec>
+						<materialspec label="negativenumber">1197</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Catania harbor (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7019</materialspec>
+						<materialspec label="negativenumber">1237</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Busy street scene, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7020</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Macaroni drying, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7021</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Boy selling vegetables, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7022</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Mount Etna from railroad, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7023</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Street scene, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7024</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Gateway in city, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7025</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Street scene, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7026</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Clothes drying, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7027</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Sulfur blocks near Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7028</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Native house and Mount Etna, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7029</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Front street in Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7030</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Clothes drying on street, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7031</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Fountain, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7032</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Macaroni shop, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7093</materialspec>
+						<materialspec label="negativenumber">1293</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Basket makers, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7105</materialspec>
+						<materialspec label="negativenumber">1166</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Orphan child at Catania (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7120</materialspec>
+						<materialspec label="negativenumber">1254</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Street scene (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Monastery, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7201</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Cathedral and square, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7202</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Fine residences, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7203</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>University, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7204</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Old gate, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7205</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Street, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7207</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Teatro Bellini, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7208</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Statue of the elephant in front of cathedral, Catania</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7209</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Papyrus River at Siracusa (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7039</materialspec>
+						<materialspec label="negativenumber">1219</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Ear of Dionysus, Siracusa (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7040</materialspec>
+						<materialspec label="negativenumber">1227</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Old Greek theater at Siracusa (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7226</materialspec>
+						<materialspec label="negativenumber">1200</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Greek ruins at Girgenti (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7041</materialspec>
+						<materialspec label="negativenumber">1206</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Temple at Girgenti (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7042</materialspec>
+						<materialspec label="negativenumber">1205</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Old Girgenti temple (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1196" type="box">1196</container>
+						<materialspec label="index">7043</materialspec>
+						<materialspec label="negativenumber">1207</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1196 -->
+			<!-- Box 1197 -->
+			<c01>
+				<note>Box 1197</note>
+				<did>
+					<unitid>2.1.1.1.13.4</unitid>
+					<unittitle>Sicily</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Temple at Girgenti with olive trees (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7045</materialspec>
+						<materialspec label="negativenumber">1215</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Giardini, near Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7044</materialspec>
+						<materialspec label="negativenumber">1214</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Fantastic native cart at Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7046</materialspec>
+						<materialspec label="negativenumber">1208</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Early Christian graves at Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7048</materialspec>
+						<materialspec label="negativenumber">1225</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Soldiers at Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7049</materialspec>
+						<materialspec label="negativenumber">1220</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Walk in Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7050</materialspec>
+						<materialspec label="negativenumber">1216</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Priest and boys, Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7051</materialspec>
+						<materialspec label="negativenumber">1212</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Taormina street (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7052</materialspec>
+						<materialspec label="negativenumber">1213</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Native life, Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7053</materialspec>
+						<materialspec label="negativenumber">1210</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Gorge at Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7054</materialspec>
+						<materialspec label="negativenumber">1211</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>The town fountain, Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7056</materialspec>
+						<materialspec label="negativenumber">1135</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Terracotta ware at Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7057</materialspec>
+						<materialspec label="negativenumber">1209</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>The coast from Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7179</materialspec>
+						<materialspec label="negativenumber">1127</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Fisherman near Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7181</materialspec>
+						<materialspec label="negativenumber">1202</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Greek theater at Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7182</materialspec>
+						<materialspec label="negativenumber">1201</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Winding road, Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7184</materialspec>
+						<materialspec label="negativenumber">1290</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Beekley and Mrs. Jessie W. Roberson in Greek theater, Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7185</materialspec>
+						<materialspec label="negativenumber">1289</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Garden at Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7186</materialspec>
+						<materialspec label="negativenumber">1286</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>A purple vine, Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7187</materialspec>
+						<materialspec label="negativenumber">1281</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Town gate, Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7188</materialspec>
+						<materialspec label="negativenumber">1280</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Frank R. Roberson and party in Greek theater, Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7189</materialspec>
+						<materialspec label="negativenumber">1279</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Old gate at Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7191</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Narrow street in Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7194</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Main street, Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7195</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Roberson party at Greek theater looking toward Mount Etna, Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7196</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Mr. Wooster in Greek theater, Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7197</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>House in Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7198</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Coast on Mediterranean, view from Hotel Castellanare[?],Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7199</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Garden at Taormina</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7200</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Mount Etna from Taormina (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7220</materialspec>
+						<materialspec label="negativenumber">1196</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Mount Etna and the coast (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7047</materialspec>
+						<materialspec label="negativenumber">1226</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Rock caves on Sicilian coast (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7059</materialspec>
+						<materialspec label="negativenumber">1217</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Scilla (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber">13</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Scilla-Calabria (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7122</materialspec>
+						<materialspec label="negativenumber">1230</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Strait of Messina showing town of Scilla (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7125</materialspec>
+						<materialspec label="negativenumber">1223</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Temple at Segesta (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7225</materialspec>
+						<materialspec label="negativenumber">1128</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Village in the Sulfur District (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7227</materialspec>
+						<materialspec label="negativenumber">1126</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Native house (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7060</materialspec>
+						<materialspec label="negativenumber">1218</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Old man (copy)</unittitle>
+						<unitdate label="Date">1909</unitdate>
+						<container id="1197" type="box">1197</container>
+						<materialspec label="index">7061</materialspec>
+						<materialspec label="negativenumber">1138</materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1197 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

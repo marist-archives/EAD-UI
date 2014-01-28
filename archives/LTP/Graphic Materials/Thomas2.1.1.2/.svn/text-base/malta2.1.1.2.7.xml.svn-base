@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Malta</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.1.2.7</unitid>
+		<unittitle>Malta</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+	<!-- Box 1325 -->
+<c01>
+<note>Box 1325</note>
+<did>
+<unitid>2.1.1.2.7</unitid>
+<unittitle>Malta</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Grandmother, wearing black headdress, holding baby	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Woman wearing headdress	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>3</unitid>
+<unittitle>Woman wearing headdress, holding baby	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>4</unitid>
+<unittitle>Woman wearing headdress, with two young boys	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>5</unitid>
+<unittitle>Lace worker sitting on bench, baby in carriage at left	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>6</unitid>
+<unittitle>Schneider and two women wearing headdresses	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>7</unitid>
+<unittitle>Schneider and two women wearing headdresses	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>8</unitid>
+<unittitle>Two officers with canes, standing on dock	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">4x5	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>9</unitid>
+<unittitle>Admiral Calthorpe, staff, American Consul Wilbur Keblinger and Lowell Thomas 	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>10</unitid>
+<unittitle>Tent hospital	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>11</unitid>
+<unittitle>Street scene	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>12</unitid>
+<unittitle>Mouth of Grand Harbor	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>13</unitid>
+<unittitle>Girl and sheep in field, St. Paul’s Island in distance	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1325" type="box">1325</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format"></genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1325 -->
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

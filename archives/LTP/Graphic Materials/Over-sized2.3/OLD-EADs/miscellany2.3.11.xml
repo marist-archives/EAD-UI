@@ -1,0 +1,2034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.3.xsl"?><!-- styelsheet for Over-sized 2.3.1 -->
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Miscellany</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.3.11</unitid>
+		<unittitle>Miscellany</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	<arrangement><p></p></arrangement>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		 <!-- Start the new box from component no. 1 -->
+		 <!-- Items within the box in component no. 2 -->
+<!-- Box 1642 -->
+<c01>
+<note>Box 1642</note>
+<did>
+<unitid>2.3.11</unitid>
+<unittitle>Miscellany</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Charcoal sketch of Lowell Thomas by McClelland Barclay; verso: “To Mr. Barclay who played on LT’s ‘9 Olden Men’ team. L.T. should have been a mining engineer”; lithograph print	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">14 x 10	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Charcoal sketch of Lowell Thomas by McClelland Barclay; inscription: “to my old John T. Reynolds, a stout heated chap who is bound to make a go of anything he tackles. From his admirer, Lowell Thomas”; lithograph print	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">14 x 10	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3-108	
+</unitid>
+<unittitle>Charcoal sketch of Lowell Thomas by McClelland Barclay [lithograph print]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">14 x 10	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 109	
+</unitid>
+<unittitle>Sketch of Lowell Thomas by Rudolph […]; lithograph print	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">12½ x 10	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 110-127	
+</unitid>
+<unittitle>“First Aerial Crossing of the Pacific on Man’s First Flight Around the World”; lithograph print	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">11 x 15	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 128	
+</unitid>
+<unittitle>Engraving of Henry Irving with caption, from photograph by Warwick Brookes, Manchester 	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">9 x 7	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 129	
+</unitid>
+<unittitle>Man dressed in uniform; lithograph print	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">7½ x 4¾ 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 130	
+</unitid>
+<unittitle>“Hay Makers”; engraved by W. Ward; lithograph print	
+</unittitle>
+<unitdate label="Date">1923 March 24 	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">9½ x 14	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 131-133	
+</unitid>
+<unittitle>“Zooeven verschenen: De Eerste Vlucht om de Wereld: Prijs f 5,-, gebonden f 6,50 Alhier Verkrijgbaar”; lithograph print	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">14½ x 9	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 134	
+</unitid>
+<unittitle>“Zooeven verschenen: De Eerste Vlucht om de Wereld: Prijs f 5,-, gebonden f 6,50 Alhier Verkrijgbaar”; lithograph print	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">14½ x 9	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 135	
+</unitid>
+<unittitle>Sketch of rose window of the Cathedral of Notre Dame; lithograph print	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">12 x 17	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 136	
+</unitid>
+<unittitle>Linoleum print of T. E. Lawrence by Grosvenor	
+</unittitle>
+<unitdate label="Date">1974 February	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">17½ x 11	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 137	
+</unitid>
+<unittitle>“The Timid Soul”; cartoon; lithograph print	
+</unittitle>
+<unitdate label="Date">1941 November 10	
+</unitdate>
+<container id="1642" type="box">1642</container>
+<physdesc>
+<extent unit="inches">17½ x 13	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1642 -->
+<!-- Box 1643 -->
+<c01>
+<note>Box 1643</note>
+<did>
+<unitid>2.3.11</unitid>
+<unittitle>Miscellany</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1 	
+</unitid>
+<unittitle>“Picking Up The Reigns” by frank J. Hopper; inscription: “With warm personal regards to Lowell Thomas, [signed] Frank Hopper; lithograph print	
+</unittitle>
+<unitdate label="Date">1981	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">14½ x 19¾ 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Ink drawing by K. Wiese used as illustration for “The Wreck of the Dumaru” by Lowell Thomas, page 37	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">8½ x 5½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Ink drawing by K. Wiese used as illustration for “The Wreck of the Dumaru” by Lowell Thomas, page 56	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">8½ x 5½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Ink drawing by K. Wiese used as illustration for “The Wreck of the Dumaru” by Lowell Thomas, page 77	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">8½ x 5½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Ink drawing by K. Wiese used as illustration for “The Wreck of the Dumaru” by Lowell Thomas, page 102	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">8½ x 5½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Ink drawing by K. Wiese used as illustration for “The Wreck of the Dumaru” by Lowell Thomas, page 121	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">8½ x 5½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Ink drawing by K. Wiese used as illustration for “The Wreck of the Dumaru” by Lowell Thomas, page 135	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">8½ x 5½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Ink drawing by Charles [..] possibly used as illustration for “The Wreck of the Dumaru” by Lowell Thomas; inscription: “To Mr. and Mrs. Lowell Thomas with regards; lithograph print	
+</unittitle>
+<unitdate label="Date">1931	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">10½  x 7½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Ink drawing by Charles [..] possibly used as illustration for “The Wreck of the Dumaru” by Lowell Thomas; inscription: “To Mr. and Mrs. Lowell Thomas with regards; lithograph print	
+</unittitle>
+<unitdate label="Date">1933	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">10½  x 7½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Watercolor painting of a building; verso: Presented to Mr. Lowell Thomas, Yours Sincerely B. […]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">10 x 14	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Watercolor painting of a tower	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">13½ x 8½ 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>“Sir John Gage” by Hans Holbein; lithograph print	
+</unittitle>
+<unitdate label="Date">undated 	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">16 x 12	
+</extent>
+<physfacet type="color">color 	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Watercolor illustration signed “Constantinople, 1920” in lower right corner	
+</unittitle>
+<unitdate label="Date">1920	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">10½ x 7½ 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Watercolor illustration signed “Constantinople, 1920” in lower right corner	
+</unittitle>
+<unitdate label="Date">1920	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">10½ x 7½	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Watercolor illustration signed “Constantinople, 1920” in lower right corner	
+</unittitle>
+<unitdate label="Date">1920	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">10½ x 7½	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Watercolor illustration signed “Constantinople, 1920” in lower right corner	
+</unittitle>
+<unitdate label="Date">1920	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">10½ x 7½	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Watercolor illustration signed “Constantinople, 1920” in lower right corner	
+</unittitle>
+<unitdate label="Date">1920	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">10½ x 7½	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Watercolor illustration signed “Constantinople, 1920” in lower right corner	
+</unittitle>
+<unitdate label="Date">1920	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">10½ x 7½	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Watercolor illustration signed “Constantinople, 1920” in lower right corner	
+</unittitle>
+<unitdate label="Date">1920	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">10½ x 7½	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20-21	
+</unitid>
+<unittitle>Poster titled “Oasis on the Path to Mecca”	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">20 x 16	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Poster titled “For your evening news: Lowell Thomas, Now 7:15 P.M., Don Lee-Mutual”; lithograph	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">18 x 24	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Poster titled “Going Places with Lowell Thomas”; lithograph	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">41 x 27	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Poster titled “Raiders of the Deep by Lowell Thomas”; lithograph 	
+</unittitle>
+<unitdate label="Date">circa 1928 	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">29¾ x 20	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Window card promoting “The Biggest Scoop of the Season: See the World as it is today. Travel 97,000 miles in a Flight around the World with Lowell Thomas and Lowell Thomas Jr. An All Color Pictorial Epic and a Never to be Forgotten Experience” lithograph poster	
+</unittitle>
+<unitdate label="Date">1947 March 30	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">10½ x 28	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Photograph of unidentified woman	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">8 x 6	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>Photograph of unidentified woman; inscription: To Frances - With sincere admiration, From - Zetta	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1643" type="box">1643</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1643 -->
+<!-- Box 1644 -->
+<c01>
+<note>Box 1644</note>
+<did>
+<unitid>2.3.11</unitid>
+<unittitle>Miscellany</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Banana plantation, Jamaica [very fragile] [photograph]	
+</unittitle>
+<unitdate label="Date">1895	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">7 x 9½	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>1982 calendar; includes photograph of Cripple Creek, Colorado	
+</unittitle>
+<unitdate label="Date">1982	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">12 x 15½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Caricature of Lowell Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">13½ x 7½	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Caricature of Lowell Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Dinner: “Trans-Atlantic Flyers Testimonial Dinner To Dr. James N. Kimball - Hotel Roosevelt - April 9, 1931; Amelia Earhart, fourth from right (back row); Lowell Thomas, seventh from right (back row) [photograph]	
+</unittitle>
+<unitdate label="Date">1931 April 9	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">15 x 18	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Dinner: “Movietonews Dinner Tendered to Laurence Stallings’ Expedition - New York Athletic Club - Jan. 17, 1935”; Lowell Thomas seated third from right at rear table [photograph]	
+</unittitle>
+<unitdate label="Date">1935 January 17	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">19 x 11	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Dinner: “The Explorers Club”; Vilhjalmur Stefansson seated fourth from left; Lowell Thomas, fifth from left; Matthew Henson seated at right [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Dinner: “10th Annual Dinner, Chicago Press Veterans Assn. - December 4, 1948 - LaSalle Hotel - Chicago, Illinois [photograph]	
+</unittitle>
+<unitdate label="Date">1948 December 4	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">20 x 12	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Greenville, Ohio; billboard proclaiming “Birthplace of Lowell Thomas at Woodington” [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">12 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10-12	
+</unitid>
+<unittitle>“High Adventure with Lowell Thomas” (New Guinea) [photograph]	
+</unittitle>
+<unitdate label="Date">1957	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>“High Adventure with Lowell Thomas” (Timbuktu to Mozambique and on to Madagascar) [photograph]	
+</unittitle>
+<unitdate label="Date">1958	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">12½ x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>“High Adventure with Lowell Thomas” (Timbuktu to Mozambique and on to Madagascar) [photograph]	
+</unittitle>
+<unitdate label="Date">1958	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">12½ x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>George and Agnes McGrath with Lowell Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">15 x 16	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16-19	
+</unitid>
+<unittitle>Nepal: Coronation of King Mahendra [photograph]	
+</unittitle>
+<unitdate label="Date">1956	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Cathedral of Notre Dame (exterior view) [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">12 x 15	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Cathedral of Notre Dame (interior view) [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">10 x 13	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Cathedral of Notre Dame (interior view) [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">10 x 13	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>President Woodrow Wilson shaking the hand of former President William Howard Taft [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">17 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Christl Thalhammer and Lowell Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1963	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Christl Thalhammer, at right, and Lowell Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1963	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26-28	
+</unitid>
+<unittitle>University of Nebraska award ceremony for Lowell Thomas [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>World War II: Lowell Thomas sitting in cockpit of airplane talks to unidentified military officer [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">10½ x 10½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>World War II: Lowell Thomas in conversation with unidentified military personnel [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">10½ x 10½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>World War II: B-29 airplane; inscription: “To Lowell Thomas whose “Sunny” along with my Bob and others like them, we build for today and tomorrow, [signed] […] Schaefer” [photograph]	
+</unittitle>
+<unitdate label="Date">1944 September 29	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">15 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>World War II: B-29 airplane; inscription: “To ‘Sunny’ Thomas with best wishes and to remind you that you started to grow on a PT, [signed] […] Schaefer” [photograph]	
+</unittitle>
+<unitdate label="Date">1944 September 30	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">15 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>British biplane fighter in flight [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">14 x 18	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34-35	
+</unitid>
+<unittitle>Unidentified award ceremony for Lowell Thomas (related to skiing) [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1970	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36-37	
+</unitid>
+<unittitle>Unidentified award ceremony for Lowell Thomas and Lowell Thomas, Jr. [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1970	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">8 x 10	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 38-42	
+</unitid>
+<unittitle>Unidentified award ceremony for Lowell Thomas and Lowell Thomas, Jr. [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1970	
+</unitdate>
+<container id="1644" type="box">1644</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1644 -->
+<!-- Box 1645 -->
+<c01>
+<note>Box 1645</note>
+<did>
+<unitid>2.3.11</unitid>
+<unittitle>Miscellany</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1-12	
+</unitid>
+<unittitle>Hammersley Hill; note: “Pictures made for the Hammersley Hill booklet made for sale purposes” [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1970s	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">various	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Exterior view of house at Quaker Hill; signed by B. Lynn Sumner [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">20 x 16 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>A close up of the porch of house at Quaker Hill [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">18 x 16	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Interior room of house at Quaker Hill [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">16 x 18½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Interior room of house at Quaker Hill [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">18 x 16	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Exterior view of house at Quaker Hill [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">10 x 12	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Exterior view of house at Quaker Hill [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">10 x 12	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Lowell Thomas home; verso: Landscape Architect Mr. Tufts, owner Lowell Thomas, location of job Quaker […], Pawling, NY, Date completed spring 1931] [photograph]	
+</unittitle>
+<unitdate label="Date">1931	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">10½ x 13	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Mizzen Top Hotel at Quaker Hill [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>T. E. Lawrence sitting on a bicycle [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">20 x 24	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Four photographs glued onto poster board; clockwise from top left: Gene Tunney and Lowell Thomas; Lowell Thomas; Heywood Broun; softball game	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>Four photographs possibly depicting early days at Cripple Creek, Colorado glued onto poster board	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">20 x 16	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>“European Skyways”; verso: “To the Countess in remembrance of the first time we saw you on the aerodrome near Stutgart [signed] Lowell Thomas” [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1928	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">25 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>“European Skyways”; verso: “Merry Christmas to the Count from Lowell Thomas Jr., “Sonny” [photograph]	
+</unittitle>
+<unitdate label="Date">1928 December 25	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">25 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26-27	
+</unitid>
+<unittitle>Snow covered Antarctic mountains; person on a snowmobile carrying an American flag in foreground [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28 	
+</unitid>
+<unittitle>Snowmobile with an American flag [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Setting up camp on the Antarctic mountains; verso: “The Lowell Thomas Mountains, in Antarctica.  This Wisconsin Univ. expedition was the only one ever to reach them” [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Setting up a tent on Antarctic terrain [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>A person climbing the mountains of Antarctica [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>A person standing on an Antarctic rock outcrop [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Close-up of rock and a rock hammer [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>An open field of snow in Antarctica [photograph]	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">16 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Ice flight over Antarctica; verso: “Neny Glacier, Marguerite Bay” [photograph]	
+</unittitle>
+<unitdate label="Date">1947 December 23	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">20 x 24	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Ice flight over Antarctica; verso: “H. C. Petersen physicist, crevasse where 1 man went down 110 feet for 12 hours. Northeast Glacier, Neny Fiord, Palmer Land” [photograph]	
+</unittitle>
+<unitdate label="Date">1947 December 22 	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">20 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Ice flight over Antarctica; verso: “Mountainous plateau -Marguerite Bay, Palmer Land” [photograph]	
+</unittitle>
+<unitdate label="Date">1947 December 21	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">20 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 38	
+</unitid>
+<unittitle>Ice flight over Antarctica [photograph]	
+</unittitle>
+<unitdate label="Date">1947 December 21	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">20 x 24	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 39	
+</unitid>
+<unittitle>Ice flight over Antarctica; verso: “George VI Sound, Alex Island” [photograph]	
+</unittitle>
+<unitdate label="Date">1947 December 3	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">20 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 40	
+</unitid>
+<unittitle>Ice flight over Antarctica; verso: “Wintering base, Stonington Island, Palmer Land” [photograph]	
+</unittitle>
+<unitdate label="Date">1947 November 27	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">20 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 41	
+</unitid>
+<unittitle>Ice flight over Antarctica; verso: “Palmer Land, crevasse - some 100 feet across, 1000 feet deep, 1947” [photograph]	
+</unittitle>
+<unitdate label="Date">1947 December 21	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">20 x 24	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 42	
+</unitid>
+<unittitle>Framed photograph of a sketch of Lowell Thomas, Jr. by Clint Bradley [item is currently located in the Marist College Special Collections Hanging Storage Area] 	
+</unittitle>
+<unitdate label="Date">undated	
+</unitdate>
+<container id="1645" type="box">1645</container>
+<physdesc>
+<extent unit="inches">20 x 16½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1645 -->
+<!-- Box 1646 -->
+<c01>
+<note>Box 1646</note>
+<did>
+<unitid>2.3.11</unitid>
+<unittitle>Miscellany</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1-10	
+</unitid>
+<unittitle>10 prints for use in the “Illustrated Book about the Far East: China, Tibet, Mongolia, Korea, Japan, Formosa, Manchuria, Serbia, Philippines Islands” by Martha Sawyers and William Reusswig (introduction by Lowell Thomas); lithographs	
+</unittitle>
+<unitdate label="Date">1961	
+</unitdate>
+<container id="1646" type="box">1646</container>
+<physdesc>
+<extent unit="inches">35 x 22½ 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Illustrated map of China, possibly used in the “Illustrated Book about the Far East: China, Tibet, Mongolia, Korea, Japan, Formosa, Manchuria, Serbia, Philippines Islands” by Martha Sawyers and William Reusswig (introduction by Lowell Thomas); lithographs	
+</unittitle>
+<unitdate label="Date">1961	
+</unitdate>
+<container id="1646" type="box">1646</container>
+<physdesc>
+<extent unit="inches">15 x 24	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>“A Tibetan refugee child in an Asian gesture expressive of profound respect, sincere gratitude and humble petition”; lithograph	
+</unittitle>
+<unitdate label="Date">1963	
+</unitdate>
+<container id="1646" type="box">1646</container>
+<physdesc>
+<extent unit="inches">30½ x 15½ 	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1646 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

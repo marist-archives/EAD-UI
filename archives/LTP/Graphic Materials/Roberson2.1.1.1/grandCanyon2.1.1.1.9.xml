@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/grandCanyon2.1.1.1.9.xml</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Grand Canyon</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.1.1.9</unitid>
+		<unittitle>Grand Canyon</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		
+		<c01> <!-- Start the new box from component no. 1 -->
+			<note>Box 1183</note>
+			<did>
+				<unitid>2.1.1.1.9</unitid>
+				<unittitle>Grand Canyon</unittitle>
+			</did>
+			
+			<!-- Items within the box in component no. 2 -->
+				
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Hopi house opposite El Tovar</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15000</materialspec>
+						<materialspec label="negativenumber">55</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>El Tovar Hotel, showing position of edge of canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15002</materialspec>
+						<materialspec label="negativenumber">59</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Dead trees on the edge of the Grand Canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15005</materialspec>
+						<materialspec label="negativenumber">81</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Hopi forests</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15006</materialspec>
+						<materialspec label="negativenumber">95</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Trees showing mistletoe parasites</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15007</materialspec>
+						<materialspec label="negativenumber">35</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Dwarf forests at Grand Canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15008</materialspec>
+						<materialspec label="negativenumber">87</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Indian paint brush</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15009</materialspec>
+						<materialspec label="negativenumber">279</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Rabbit foot</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15010</materialspec>
+						<materialspec label="negativenumber">273</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Yucca plant</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15011</materialspec>
+						<materialspec label="negativenumber">272</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Looking toward Bright Angel Trail</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15012</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Bottom of Bright Angel Trail</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15013</materialspec>
+						<materialspec label="negativenumber">69</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Grand Canyon from Datle Lands[?] in plateau</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15016</materialspec>
+						<materialspec label="negativenumber">92</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Balk water of Colorado River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15018</materialspec>
+						<materialspec label="negativenumber">138</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Bright Angel Trail, Yucca</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15019</materialspec>
+						<materialspec label="negativenumber">139</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Bright Angel Trail from Grandeur or El Tovar Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15020</materialspec>
+						<materialspec label="negativenumber">148</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Looking toward "steamboat"</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15021</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Cheops, Buddha and Manu from Grandeur of El Tovar point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15022</materialspec>
+						<materialspec label="negativenumber">57</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Looking north from Grand View Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15023</materialspec>
+						<materialspec label="negativenumber">114</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>From Grand View Point toward Wotan's Throne</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15025</materialspec>
+						<materialspec label="negativenumber">27</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Grand Canyon taken from near El Tovar Hotel</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15026</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Canyon from El Tovar Hotel</unittitle>
+						<unitdate label="Date">1911 July</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15027</materialspec>
+						<materialspec label="negativenumber">43</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Looking west from Hopi Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15028</materialspec>
+						<materialspec label="negativenumber">42</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Grand Canyon west from Maricopa Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15029</materialspec>
+						<materialspec label="negativenumber">68</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Looking west from Maricopa Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15030</materialspec>
+						<materialspec label="negativenumber">52</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Frank R. Roberson and party on Bright Angel Trail</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15031</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Indian chief, Hopi house</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15032</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Frank R. Roberson and an Indian baby</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15033</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Indian mud house</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15034</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Indian family</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15035</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Indian woman and baby</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15036</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Indian women and children</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15037</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Frank R. Roberson and Indian children</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15038</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Indian woman and baby</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15039</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Group of Indians</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15040</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Indian men and women</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15041</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Pack mules on Bright Angel Trail</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15042</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Looking into the canyon from the Bright Angel Trail</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15043</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Photographic outfit packed on mule, Frank R. Roberson standing by mule</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15044</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>The end of the Bright Angel Trail at the Colorado River</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15045</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>People watching the sunset at Hopi Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15046</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Roberson party (Dodmun[?]) on Bright Angel trail</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15047</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>At bottom of Bright Angel Trail</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15048</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Grand View Trail</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15049</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Part of old Grand View Trail</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15050</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Side wall of canyon along Bright Angel Trail</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15051</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Side wall of canyon to show color</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15052</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Detail of Grand Canyon formation</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15053</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Grand Canyon formation at Grand View Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15054</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>North wall of canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15055</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Zoroaster</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15056</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Grand View Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1183" type="box">1183</container>
+						<materialspec label="index">15057</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+			<!-- End 2 -->
+				
+		</c01>	
+		
+		<!-- Box 1184 -->
+		
+		<c01> <!-- Start the new box from component no. 1 -->
+			<note>Box 1184</note>
+			<did>
+				<unitid>2.1.1.1.9</unitid>
+				<unittitle>Grand Canyon</unittitle>
+			</did>
+			
+			<!-- Items within the box in component no. 2 -->
+				
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Looking toward Cheops</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15058</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Looking toward Zoroaster</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15059</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Looking toward Shiva and Isis</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15060</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Wagon on the Grand Canyon roads</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15061</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Frank R. Roberson on Hopi Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15063</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Sunset from Hopi Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15064</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Sunset from Hopi Point, looking northwest</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15065</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Sunset from Hopi Point, looking west</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15066</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Sunset at Hopi Point, looking northwest</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15067</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Sunset at Hopi Point, looking down the canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15068</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>The sun on the brink of the canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15069</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Sunset at Hopi Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15070</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Mountain mahogany</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15071</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>"Horsefly lilac", lupine</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15073</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Miss Heyder and Mrs. Jessie W. Roberson on the edge of the Grand Canyon</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15074</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+				
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Frank R. Roberson and Mrs. Jessie W. Roberson at El Tovar Point</unittitle>
+						<unitdate label="Date">1911</unitdate>
+						<container id="1184" type="box">1184</container>
+						<materialspec label="index">15075</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>					
+					</did>	
+				</c02>	
+			<!-- End 2 -->
+				
+		</c01>	
+		
+		<!-- End 12 -->
+				
+			
+	
+	</dsc>
+	</archdesc>
+	</ead>	

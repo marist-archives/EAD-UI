@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.5.2.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Transparencies2.1.5/otherTransparencies2.1.5.2.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Other transparencies</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="">2.1.5.2</unitid>
+			<unittitle>Other transparencies</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract"></abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p></p>
+		</scopecontent>
+		<accessrestrict>
+			<p></p>
+		</accessrestrict>
+		<userestrict>
+			<p></p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+<c01 type="OTpage1">
+				<note>Box 1593</note>
+				<did>
+					<unitid>2.1.5.1</unitid>
+					<unittitle>35 millimeter slides</unittitle>
+				</did>
+			</c01>
+
+<!-- Box 1594 -->
+<c01>
+<note>Box 1594</note>
+<did>
+<unitid>2.1.5.2</unitid>
+<unittitle>Other transparencies</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>1</unitid>
+<unittitle>Alaska (Lowell Thomas) [Mountain with body of water before it]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>2</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man kneeling on top of boat with camera; glacier ahead of them]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>3</unitid>
+<unittitle>Alaska (Lowell Thomas) [Glacier]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>4</unitid>
+<unittitle>Alaska (Lowell Thomas) [Close-up of man wearing sunglasses]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>5</unitid>
+<unittitle>Alaska (Lowell Thomas) [Group of people unloading supplies from airplane]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>6</unitid>
+<unittitle>Alaska (Lowell Thomas) [View of vast, snowy land with a small tent set-up at right]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>7</unitid>
+<unittitle>Alaska (Lowell Thomas) [People carrying supplies to tent]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>8</unitid>
+<unittitle>Alaska (Lowell Thomas) [Glacier]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>9</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man holding an instrument, standing in front of tent]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>10</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man holding ski poles on rocky hill side]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>11</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man skiing in his underwear]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>12</unitid>
+<unittitle>Alaska (Lowell Thomas) [Lowell Thomas on skiis]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>13</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man holding camera in front of snowy land]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>14</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man with blankets]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>15</unitid>
+<unittitle>Alaska (Lowell Thomas) [Four men standing on rocks; Lowell Thomas second from right]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>16</unitid>
+<unittitle>Alaska (Lowell Thomas) [Glacier]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>17</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man on boat, snowy mountains in distance]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>18</unitid>
+<unittitle>Alaska (Lowell Thomas) [River running by mountains]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>19</unitid>
+<unittitle>Alaska (Lowell Thomas) [Close-up of man wearing sunglasses]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>20</unitid>
+<unittitle>Alaska (Lowell Thomas) [Profile of man looking out across water]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>21</unitid>
+<unittitle>Alaska (Lowell Thomas) [Men unloading supplies from airplane]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>22</unitid>
+<unittitle>Alaska (Lowell Thomas) [Men unloading supplies from airplane, Lowell Thomas in front]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>23</unitid>
+<unittitle>Alaska (Lowell Thomas) [Three men crouched]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>24</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man climbing a weathervane]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>25</unitid>
+<unittitle>Alaska (Lowell Thomas) [Mountains with body of water before them]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>26</unitid>
+<unittitle>Alaska (Lowell Thomas) [People gathered around an airplane]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>27</unitid>
+<unittitle>Alaska (Lowell Thomas) [People loading (or unloading) supplies onto plane]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>28</unitid>
+<unittitle>Alaska (Lowell Thomas) [Iceberg]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>29</unitid>
+<unittitle>Alaska (Lowell Thomas) [Iceberg]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>30</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man with camera set up on rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>31</unitid>
+<unittitle>Alaska (Lowell Thomas) [Close-up of man holding camera]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>32</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men in uniform standing in front of airplane]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>33</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man at edge of boat, mountatins in distance]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>34</unitid>
+<unittitle>Alaska (Lowell Thomas) [River running by mountains]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>35</unitid>
+<unittitle>Alaska (Lowell Thomas) [Glacier]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>36</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men at left. Airplane on runway]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>37</unitid>
+<unittitle>Alaska (Lowell Thomas) [Glacier]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>38</unitid>
+<unittitle>Alaska (Lowell Thomas) [Vast snowy land with tents set up]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>39</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man standing among skiis stuck in snow]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>40</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man looking at instrument]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>41</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man by tent, another man shoveling snow]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>42</unitid>
+<unittitle>Alaska (Lowell Thomas) [Men wearing skiis, pulling a sled]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>43</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man with box attached to his back]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>44</unitid>
+<unittitle>Alaska (Lowell Thomas) [Men walking through snow with boxes attached to their backs]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>45</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man standing in snow]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>46</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man standing in snow]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>47</unitid>
+<unittitle>Alaska (Lowell Thomas) [Men setting up tent?]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>48</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man wearing sunglasses on skiis]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>49</unitid>
+<unittitle>Alaska (Lowell Thomas) [Men setting up tent?]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>50</unitid>
+<unittitle>Alaska (Lowell Thomas) [Men setting up tent?]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>51</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men talking]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>52</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men wearing sunglasses, posing for picture]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>53</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men working on equipment]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>54</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man closely examining an object]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>55</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man looking though a microscope]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>56</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man wearing sunglasses looking at an object]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>57</unitid>
+<unittitle>Alaska (Lowell Thomas) [People walking through snow, mountains ahead of them]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>58</unitid>
+<unittitle>Alaska (Lowell Thomas) [Shack sitting on top of rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>59</unitid>
+<unittitle>Alaska (Lowell Thomas) [Shack sitting on top of rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>60</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man standing on rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>61</unitid>
+<unittitle>Alaska (Lowell Thomas) [American flag stuck between rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>62</unitid>
+<unittitle>Alaska (Lowell Thomas) [Skiis laid out near rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>63</unitid>
+<unittitle>Alaska (Lowell Thomas) [American flag stuck in rocks at right]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>64</unitid>
+<unittitle>Alaska (Lowell Thomas) [American flag stuck in rocks at left]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>65</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man with pipe in his mouth, another man with a horn]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>66</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man crouched with pipe in his mouth, looking at object]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>67</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man with pipe in mouth, examining some type of equipment]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>68</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man sitting down, smiling]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1594" type="box">1594</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1594 -->
+<!-- Box 1595 -->
+<c01>
+<note>Box 1595</note>
+<did>
+<unitid>2.1.5.2</unitid>
+<unittitle>Other transparencies</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>1</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man holding a pan]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>2</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men. One writing in notebook. (doctor?)]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>3</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man on skiis with backpack]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>4</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man on skiis with box on back]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>5</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man working on skiis]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>6</unitid>
+<unittitle>Alaska (Lowell Thomas) [Lowell Thomas eating]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>7</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man sitting on rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>8</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man eating sandwich]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>9</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man eating]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>10</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man eating]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>11</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men sitting on rocks, eating]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>12</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man with backpack]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>13</unitid>
+<unittitle>Alaska (Lowell Thomas) [Three men standing, smoking]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>14</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men, one holding a device]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>15</unitid>
+<unittitle>Alaska (Lowell Thomas) [Three man outside of shack]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>16</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men standing outside of shack]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>17</unitid>
+<unittitle>Alaska (Lowell Thomas) [Four men outside of shack]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>18</unitid>
+<unittitle>Alaska (Lowell Thomas) [Snowcapped mountains in distance]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>19</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man working at desk]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>20</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men, one on phone]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>21</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man with sunglasses, holding a horn]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>22</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man on skiis]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>23</unitid>
+<unittitle>Alaska (Lowell Thomas) [Skiis stuck in snow, backpack]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>24</unitid>
+<unittitle>Alaska (Lowell Thomas) [Snowy hill]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>25</unitid>
+<unittitle>Alaska (Lowell Thomas) [Snowy hill, man in the distance]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>26</unitid>
+<unittitle>Alaska (Lowell Thomas) [Snowy hill, two people in distance]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>27</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man standing on rock]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>28</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man standing on rock]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>29</unitid>
+<unittitle>Alaska (Lowell Thomas) [Snowy land, person at right]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>30</unitid>
+<unittitle>Alaska (Lowell Thomas) [Three men on skiis]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>31</unitid>
+<unittitle>Alaska (Lowell Thomas) [Three men on skiis]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>32</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man in underwear on skiis]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>33</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man in underwear on skiis]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>34</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men on skiis]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>35</unitid>
+<unittitle>Alaska (Lowell Thomas) [Three men, one climbing down a ladder into a trench]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>36</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man on skiis]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>37</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man on skiis]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>38</unitid>
+<unittitle>Alaska (Lowell Thomas) [Snowy hill, two people on skiis]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>39</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man in underwear lying on rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>40</unitid>
+<unittitle>Alaska (Lowell Thomas) [A trench]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>41</unitid>
+<unittitle>Alaska (Lowell Thomas) [Looking up from the bottom of a trench]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>42</unitid>
+<unittitle>Alaska (Lowell Thomas) [Three men, one climbing down a ladder into a trench]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>43</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man on ladder]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>44</unitid>
+<unittitle>Alaska (Lowell Thomas) [Inside trench]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>45</unitid>
+<unittitle>Alaska (Lowell Thomas) [Snowy mountains]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>46</unitid>
+<unittitle>Alaska (Lowell Thomas) [American flag stuck in rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>47</unitid>
+<unittitle>Alaska (Lowell Thomas) [American flag stuck in rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>48</unitid>
+<unittitle>Alaska (Lowell Thomas) [American flag stuck in rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>49</unitid>
+<unittitle>Alaska (Lowell Thomas) [Snowy mountains]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>50</unitid>
+<unittitle>Alaska (Lowell Thomas) [Sun peeking out from behind snowy mountains]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>51</unitid>
+<unittitle>Alaska (Lowell Thomas) [People on boat in icy water]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>52</unitid>
+<unittitle>Alaska (Lowell Thomas) [Tugboat on icy water]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>53</unitid>
+<unittitle>Alaska (Lowell Thomas) [Icy water]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>54</unitid>
+<unittitle>Alaska (Lowell Thomas) [Icy water]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>55</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man on ice with camera]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>56</unitid>
+<unittitle>Alaska (Lowell Thomas) [Airplane side propellers]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>57</unitid>
+<unittitle>Alaska (Lowell Thomas) [Airplane on runway]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>58</unitid>
+<unittitle>Alaska (Lowell Thomas) [Icy water]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>59</unitid>
+<unittitle>Alaska (Lowell Thomas) [Icy water]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>60</unitid>
+<unittitle>Alaska (Lowell Thomas) [Icy water]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>61</unitid>
+<unittitle>Alaska (Lowell Thomas) [Icy water]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>62</unitid>
+<unittitle>Alaska (Lowell Thomas) [Icy water]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>63</unitid>
+<unittitle>Alaska (Lowell Thomas) [Icy water and snowy mountain]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>64</unitid>
+<unittitle>Alaska (Lowell Thomas) [Mountain]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>65</unitid>
+<unittitle>Alaska (Lowell Thomas) [Water running by mountains]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>66</unitid>
+<unittitle>Alaska (Lowell Thomas) [Water running by mountains]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>67</unitid>
+<unittitle>Alaska (Lowell Thomas) [Captain]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>68</unitid>
+<unittitle>Alaska (Lowell Thomas) [Men sitting in boat]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1595" type="box">1595</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1595 -->
+<!-- Box 1596 -->
+<c01>
+<note>Box 1596</note>
+<did>
+<unitid>2.1.5.2</unitid>
+<unittitle>Other transparencies</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>1</unitid>
+<unittitle>Alaska (Lowell Thomas) [Icy water running by mountains]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>2</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man sitting on rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>3</unitid>
+<unittitle>Alaska (Lowell Thomas) [American flag stuck in rocks. Man standing on rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>4</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man eating fish from a can]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>5</unitid>
+<unittitle>Alaska (Lowell Thomas) [Rocky side]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>6</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men standing on rocks]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>7</unitid>
+<unittitle>Alaska (Lowell Thomas) [Tugboat on water]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>8</unitid>
+<unittitle>Alaska (Lowell Thomas) [Ladder leading down trench]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>9</unitid>
+<unittitle>Alaska (Lowell Thomas) [Three men standing on rocks, Lowell Thomas standing in the middle]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>10</unitid>
+<unittitle>Alaska (Lowell Thomas) [Two men by American flag. One man holding a horn]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>11</unitid>
+<unittitle>Alaska (Lowell Thomas) [Lowell Thomas and two other men sitting, eating from cans]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>12</unitid>
+<unittitle>Alaska (Lowell Thomas) [Man standing on rocks, looking out]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>13</unitid>
+<unittitle>Alaska (Lowell Thomas) [Lowell Thomas sitting outside of tent, man standing]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>14</unitid>
+<unittitle>Alaska (Lowell Thomas) [Lowell Thomas talking with another man]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>15</unitid>
+<unittitle>Alaska (Lowell Thomas) [Lowell Thomas on rocks with another man smoking a pipe]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>16</unitid>
+<unittitle>Alaska (Lowell Thomas) [Lowell Thomas standing with another man]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>17</unitid>
+<unittitle>Alaska (Lowell Thomas) [Group of men with skiis and sled, Lowell Thomas at right]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>18</unitid>
+<unittitle>Alaska (Lowell Thomas) [Lowell Thomas talking with another man]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>19</unitid>
+<unittitle>Alaska (Lowell Thomas) [Lowell Thomas and another man sitting in boat on water]	
+</unittitle>
+<unitdate label="Date">1950	
+</unitdate>
+<container id="1596" type="box">1596</container>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1596 -->
+</dsc>
+</archdesc>
+</ead>

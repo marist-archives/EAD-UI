@@ -1,0 +1,3181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/LanternSlides2.1.2/india2.1.2.1.7.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>India</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.2.1.7</unitid>
+			<unittitle>India</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Box 1356 -->
+			<c01>
+				<note>Box 1356</note>
+				<did>
+					<unitid>2.1.2.1.7</unitid>
+					<unittitle>India</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Lowell Thomas's advertisement for With Allenby in Palestine and Lawrence in Arabia on wall of burning ghat</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-7</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Lowell Thomas's advertisement for With Allenby in Palestine and Lawrence in Arabia on wall of burning ghat</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-7</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Pink Mountains of Baluchistan</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-46</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Pink Mountains of Baluchistan</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-46</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Looking toward Kojak Pass from east</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-53</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Looking toward Kojak Pass from east</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-53</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Monument on Kojak Pass from west, distant, two men in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-54</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>View of Afghanistan plain from Kojak</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-57</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Nomad tent and family, Lowell Thomas on left, camel in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-61</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Nomad tent and family, Lowell Thomas on left, camel in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-61</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Afghan man with sheep</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-63</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Two Afghans talking</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-64</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Tibetan person sitting</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-68</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Man wearing big coat</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-70</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Older man with mentally impaired youth</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-74</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Older man with mentally impaired youth</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-74</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Old man wearing glasses, smoking</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-77</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Taxila, small, perfect stupa, man in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-91</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Taxila, beheaded Buddhas</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-92</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Taxila, beheaded Buddhas</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-92</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Entrance to Khyber Pass</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-100</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Native watch towers in Khyber, close-up</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-107</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Amritsar Golden Temple, seen through gate</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1356" type="box">1356</container>
+						<materialspec label="index">8-117</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1356 -->
+			<!-- Box 1357 -->
+			<c01>
+				<note>Box 1357</note>
+				<did>
+					<unitid>2.1.2.1.7</unitid>
+					<unittitle>India</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Amritsar Golden Temple, clock tower</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-119</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Location of Amritsar shooting episode led by Brigadier-General Reginald Dyer</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-121</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Great Mosque at Red Fort, Jama Masjid, herd of goats</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-123</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Great Mosque at Red Fort, Jama Masjid, as seen through gate</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-124</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Great Mosque at Red Fort, Jama Masjid, close-up</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-125</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Akbar Gate, fort</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-126</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Saman Burj, fort</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-127</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Saman Burj, fort</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-127</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Ranjit Singh pavilion, fort with Saman Burj in background</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-128</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Pavilion of Ranjit Singh close-up</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-129</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Pavilion of Ranjit Singh close-up</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-129</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Mosaic of tiny mirrors in Diwan-i-am</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-131</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Mosaic of tiny mirrors in Diwan-i-am</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-131</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Shalamar Gardens, closer view</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-144</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Mahant Narain Das</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-147</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Delhi, Kashmir Gate</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-150</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Alai Darwaza Gate to Qutub Minar</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-156</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Alai Darwaza Gate to Qutub Minar</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-156</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Alai Darwaza Gate to Qutub Minar looking through arch</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-157</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Qutub Minar, slightly nearer view</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-159</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Qutub Minar from main road</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-160</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Iron pillar, arches, two people squatting in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-163</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Tomb of Altamash from outside</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-165</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>View through Jain pillars</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-167</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Taj Mahal, daylight (series A)</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-173</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Taj Mahal, from lily pond, Mr. Lowell Thomas and Mrs. Frances Ryan Thomas in right foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-182</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Taj Mahal, side view, one minaret on right</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-193</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Gate to Taj Mahal from outside</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-198</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Flowers carved in marble</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-199</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Cawnpore Church erected where siege occurred</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-215</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Cawnpore well, distant view, Lowell Thomas stands in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-217</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Cawnpore well</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-218</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Lucknow, gate to residency</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-219</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Lucknow residency, side view</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-221</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Lucknow residency, water carrier</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-222</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Lucknow residency, water carrier</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1357" type="box">1357</container>
+						<materialspec label="index">8-222</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1357 -->
+			<!-- Box 1358 -->
+			<c01>
+				<note>Box 1358</note>
+				<did>
+					<unitid>2.1.2.1.7</unitid>
+					<unittitle>India</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Lucknow residency, flag and ruins close</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-224</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Lucknow, United Service Club, distant</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-226</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Turkish Gate, Lucknow</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-231</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Gate to Imambara, Lucknow</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-232</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Gate to Imambara, Lucknow</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-232</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Gate to Imambara, side view, Lucknow</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-233</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Gate to Imambara, side view, Lucknow</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-233</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Wall of Imambara, Lucknow</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-234</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Wall of Imambara, Lucknow</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-234</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Benares, narrow street</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-240</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Tomb of saint</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-244</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Statue of saint</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-245</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Statue of saint</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-245</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Golden Temple dome</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-246</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Well of Knowledge, close-up</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-250</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Well of Knowledge, close-up</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-250</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Idol of sacred cow, Well of Knowledge</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-252</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Cropped image of idol of sacred cow</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-252</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Entrance to Nepalese temple</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-254</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Entrance to Nepalese temple</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-254</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Carvings on Nepalese temple</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-255</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Carvings on Nepalese temple</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-255</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Benares cart, close-up</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-257</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Benares river scene, mosque reflection</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-258</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Benares river scene near burning ghat, before lighting fire</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-261</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Burning ghat, after lighting fire</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-262</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Mutiny Monument, Delhi Ridge</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-293</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Foundation for new Secretariat</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-295</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Kashmir Gate from distance</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-296</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Hindu temple, Madras bazaar, without clouds</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-330</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Madras Fort, from wall</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-335</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Church in fort, picket fence in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-336</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Mrs. Annie Besant at desk</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-342</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Mr. Knox, resident, Hyderabad, Mrs. Knox, Mr. Kirkbride and a lady, Hyderabad</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-345</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Charminar, Hyderabad</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-346</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Golconda hill from distance, Hyderabad</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1358" type="box">1358</container>
+						<materialspec label="index">8-349</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1358 -->
+			<!-- Box 1359 -->
+			<c01>
+				<note>Box 1359</note>
+				<did>
+					<unitid>2.1.2.1.7</unitid>
+					<unittitle>India</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Three tombs, trees in foreground, Hyderabad</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">8-351</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Tomb with dome and tomb with two minarets, Hyderabad</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">8-352</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Baby buffalo with two heads</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">8-358</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Baby buffalo, one head, two bodies</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">8-359</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Old beggar holding tin</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">8-364</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Residency, Hyderabad</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">8-365</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Two Jesuit priests</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-21</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Jewish man with key</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-29</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Jewish patriarch with cane</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-30</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Five Jewish boys</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-32</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Jewish patriarch, two boys</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-33</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Jewish tomb, Cochin, Lowell Thomas speaking to two men in street</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-34</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Brahmin wearing muffler</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-55</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Man with bushy hair and wide horizontal caste marks</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-57</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Crowd of bullock carts</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-66</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Three temple towers, roof in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-84</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Trichinopoly rock and water tank pavilion</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-108</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Tanjore temple, front view</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-110</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Temple gate, women with backs to camera</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-113</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Tanjore temple, Lowell Thomas and other man in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-114</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Joan of Arc statue, two men in foreground, Pondicherry</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-124</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Church of Notre Dame, men in foreground, Pondicherry</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-126</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Sunset, Goa</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-138</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Young Goa priest with cane</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-142</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Young Goa priest with cane</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-142</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Goa Cathedral</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-145</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Government house, Madras district</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-151</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>University Hall, Madras</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-153</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Mosque, many minarets, Byapur</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-159</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Gateway, two minarets</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-160</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Enormous canon</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-161</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Whispering Dome, Byapur</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-162</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Whispering Dome, one man and a tomb in foreground, Byapur</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-164</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Jagannath boulevard</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-172</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Tika Ghari</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-180</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Black Pagoda, Harry Chase and Lowell Thomas in palkis</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-226</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Black Pagoda, man squatting in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-228</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Black Pagoda showing five wheels</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1359" type="box">1359</container>
+						<materialspec label="index">9-229</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1359 -->
+			<!-- Box 1360 -->
+			<c01>
+				<note>Box 1360</note>
+				<did>
+					<unitid>2.1.2.1.7</unitid>
+					<unittitle>India</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Elephants guarding Black Pagoda</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-232</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Dragons guarding Black Pagoda</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-233</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Robillard, two people of the Criminal Tribes, hut</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-248</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>“Prodigal Son”</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-249</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Outdoor service, preaching</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-254</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Two old women of the Criminal Tribes</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-257</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Chief of the people of the Criminal Tribes, three quarter length</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-275</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Victoria memorial</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-291</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Lord Curzon statue</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-292</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Statue of Horatio Herbert Kitchener, Calcutta</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-295</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Banyan tree, men with cart in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-299</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Bengal Club</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-300</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>General Post Office, Calcutta</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-302</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Job Charnock Tomb, Calcutta</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-303</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Black hole, Calcutta, Lowell Thomas in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-307</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Crowd on Calcutta Maidan, flagpole at center</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-325</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Abanindranath Tagore</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-339</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Rabindranath Tagore’s bungalow, Bolper</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-340</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Gaganendranath Tagore, close-up</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-344</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Rabindranath Tagore, seated</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-347</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Rabindranath Tagore, on steps</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-351</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Abanindranath Tagore and Gaganendranath Tagore in garden beside column</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-352</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Tips of Himalayas, peaked, clouds above and clouds below</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-380</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Smiling tea coolie</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-399</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Two lamas at gate</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-406</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Lama with distorted face, distant</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-407</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Lama with distorted face, nearer view</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-407</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>One fairly large sailboat with sail up</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-424</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Money-making pharmacy</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-448</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Illustration of two people on horses, man behind them holding umbrella, possibly from a book</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-481</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Jasmine Tower, throne and Taj Mahal, man in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-490</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Akbar’s Tomb, Sikandra</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-499</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Human Parcheesi game</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-513</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Interior of the building where Akbar held religious discussions</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-524</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Mosque through archway</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-528</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Mahsud Tower on hill</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-683</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Picket above river</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-685</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Picket above river</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1360" type="box">1360</container>
+						<materialspec label="index">9-685</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1360 -->
+			<!-- Box 1361 -->
+			<c01>
+				<note>Box 1361</note>
+				<did>
+					<unitid>2.1.2.1.7</unitid>
+					<unittitle>India</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Picket above river, close-up</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-686</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Aviator’s ransom letter</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-714</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Desert railway station</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-721</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Corner of Serai, full of camels</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-778</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Lowell Thomas, close-up, wearing topee and dark glasses</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-806</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Soldier stopping automobile near frontier, Lowell Thomas at right</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-815</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Nomad Afghan camp, two camels in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-858</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Tall Afghan standing by post</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-863</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Jalalabad Gate, Lowell Thomas driving automobile</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-869</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Jalalabad Palace looking down from another roof</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-877</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Date palm, close up</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-881</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Panorama of Kabul</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-885</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Big gate looking toward boulevard</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-893</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Babur’s tomb</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-895</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Timur Shah’s tomb</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-899</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Kabul street, man on horse in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-910</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Kabul street, man on horse in foreground</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-910</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Kabul, houses reflection in river</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-912</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Colonel Humphries with topee under arm</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-933</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Colonel Humphries with topee under arm</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-933</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Fakhri Pasha, ordinary dress</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-945</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Mohammed Dali Khan (Afghan minister for foreign affairs) in full dress</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-946</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Persian minister and Lowell Thomas</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-949</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Amir and group in garden</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-955</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Amir and group in garden</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-955</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Buick parked in front of Afghan building, Harry Chase seated, Lowell Thomas standing by car</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Buick parked in front of Afghan building, Harry Chase seated, Lowell Thomas standing by car</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Lowell Thomas and others stand beside parked Buick, mountains in background</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Artistic Western gate of palace</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-965</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Cabinet minister’s home which looks like a chalet</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-975</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>General standing by horse’s head, Afghanistan</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-1015</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Cavalry standing, in saddles, fort and mountains in distance</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-1025</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Cavalry sitting in saddles, fort and mountains in distance</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-1026</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Dal Lake, houseboat, mountains in background</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-1062</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Srinagar Canal, fort and mountains in distance</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-1064</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Srinagar Canal, temples, bridge in distance</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1361" type="box">1361</container>
+						<materialspec label="index">9-1065</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1361 -->
+			<!-- Box 1362 -->
+			<c01>
+				<note>Box 1362</note>
+				<did>
+					<unitid>2.1.2.1.7</unitid>
+					<unittitle>India</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Dal Lake and mountain from Throne of Solomon</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index">9-1098</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Throne of Solomon, distant [Shrine on Takht Hill, Kashmir]</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index">9-1100</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Throne of Solomon, distant [Shrine on Takht Hill, Kashmir]</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index">9-1100</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Sweeper with basket</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index">9-1125</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Water boy</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index">9-1126</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Lord Rawlinson and polo team, close-up</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index">9-1155</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Gateway to Udaipur Palace, cows</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index">9-1169</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Gateway to Udaipur Palace, cows</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index">9-1169</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Two musicians playing at court</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index">9-1172</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>One musician in doorway</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index">9-1173</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Captain Alder, blue uniform, side view</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index">9-1251</materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Lowell Thomas in small boat, two men paddling</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Lowell Thomas and others in open air building</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Panorama at night, India</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Sheik Majid and man with hookah</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Prince and tiger</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Indian officer saluting prince</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Mohandas Karamchand Gandhi</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Man wearing turban</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">color</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Panorama of unkown location [index number on slide incorrect]</unittitle>
+						<unitdate label="Date">1921 - 1922</unitdate>
+						<container id="1362" type="box">1362</container>
+						<materialspec label="index"></materialspec>
+						<physdesc>
+							<extent unit="inches">3x4</extent>
+							<physfacet type="color">
+								b<![CDATA[&]]>w
+							</physfacet>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End 1362 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

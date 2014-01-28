@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.3.xsl"?><!-- styelsheet for Over-sized 2.3.1 -->
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Lowell Thomas</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.3.3.4</unitid>
+		<unittitle>Lowell Thomas</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	<arrangement><p></p></arrangement>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		 <!-- Start the new box from component no. 1 -->
+		 <!-- Items within the box in component no. 2 -->
+<!-- Box 1627 -->
+<c01>
+<note>Box 1627</note>
+<did>
+<unitid>2.3.3.4</unitid>
+<unittitle>Lowell Thomas</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Lowell Thomas infant photograph (5-7 months)	
+</unittitle>
+<unitdate label="Date">1892	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29-30	
+</unitid>
+<unittitle>Three year old Lowell Thomas standing at right with two unidentified children [photograph]	
+</unittitle>
+<unitdate label="Date">1895	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Lowell Thomas at 14 years of age [photograph]	
+</unittitle>
+<unitdate label="Date">1906	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Lowell Thomas in grade school class photograph; verso: L.T. 4th from right in second row [apparently incorrect-Lowell Thomas stands at the right directly in front of the principal]; between Nash Glau, no. 3, and Bill Post, no. 4. Cousin Carl T - no. 2 same row. Harold Worcester, 2nd from left in same row became one of leading mine engineers in the West. Miss Elstine Connor, teacher; Prof. Taylor, principal	
+</unittitle>
+<unitdate label="Date">circa 1905	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Lowell Thomas in grade school class photograph [same as item 32]	
+</unittitle>
+<unitdate label="Date">circa 1905	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34-35	
+</unitid>
+<unittitle>Victor High School, Victor, Colorado [photograph]	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Garfield School; verso: Garfield School on So. 5th St., where L.T. spent his grammar school years [photograph]	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Garfield School [same as item 36] [photograph]	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 38	
+</unitid>
+<unittitle>Lowell Thomas on horseback; verso: L.T. when he carried “samples” for the Portland Assay Office. Perhaps summer of 1907 [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1907	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 39	
+</unitid>
+<unittitle>Lowell Thomas on horseback; verso: unusual job; rode 9 hours a day for assay office. Many small mines. Carried samples. Returned next day with sad news [same as item 38] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1907	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 40	
+</unitid>
+<unittitle>Lowell Thomas at left wearing football uniform; verso: L.T., ?, Homer Huffacker [photograph]	
+</unittitle>
+<unitdate label="Date">1907	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 41	
+</unitid>
+<unittitle>Lowell Thomas practicing football with teammate; verso: Homer Huffacker passes ball, LT about to kick. Mines: Portland I and II; Independence on right [photograph]	
+</unittitle>
+<unitdate label="Date">1907	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 42	
+</unitid>
+<unittitle>Lowell Thomas practicing football [same as item 41] [photograph]	
+</unittitle>
+<unitdate label="Date">1907	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 43-44	
+</unitid>
+<unittitle>Lowell Thomas poses with the Victor High School football team [Lowell Thomas in striped shirt, second from right in second row] [photograph]	
+</unittitle>
+<unitdate label="Date">1906	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 45	
+</unitid>
+<unittitle>Lowell Thomas with fraternity brothers at Valparaiso University [photograph]	
+</unittitle>
+<unitdate label="Date">1909	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 46	
+</unitid>
+<unittitle>Lowell Thomas poses with two women; note: from left to right, Jeanette Barnes, Lowell Thomas and Marie Timmons. This picture was taken in 1911, the year Thomas graduated from the University of Northern Indiana (Valparaiso University) on the Kissing Bridge, which now spans Salt Creek and leads to Bridge VU Theatre [photograph]	
+</unittitle>
+<unitdate label="Date">1911	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 47	
+</unitid>
+<unittitle>Lowell Thomas poses with two men while at Valparaiso University; verso: 1910; Dr. […] left, Preston Burtis on right [photograph]	
+</unittitle>
+<unitdate label="Date">1910	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 48	
+</unitid>
+<unittitle>Lowell Thomas speaking to farmers while holding a map of Indiana; verso: LT as map salesman in Indiana and Illinois, summer of 1910 [photograph]	
+</unittitle>
+<unitdate label="Date">1910	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 49	
+</unitid>
+<unittitle>Lowell Thomas speaking to farmers while holding a map of Indiana [photograph]	
+</unittitle>
+<unitdate label="Date">1910	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 50	
+</unitid>
+<unittitle>Lowell Thomas sits in the snow of the Colorado mountains; verso: LT in his Colorado mountains at age 18 [photograph]	
+</unittitle>
+<unitdate label="Date">1910	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 51	
+</unitid>
+<unittitle>Lowell Thomas sits in the snow of the Colorado mountains [same as item 50] [photograph]	
+</unittitle>
+<unitdate label="Date">1910	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 52	
+</unitid>
+<unittitle>Lowell Thomas when editor of the daily paper in Victor, Colorado; facing camera with arms akimbo; large letter “C” on sweater; verso: en route law school, Chicago [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1911 - 1912	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 53	
+</unitid>
+<unittitle>Lowell Thomas when editor of the daily paper in Victor, Colorado; facing camera with arms akimbo; large letter “C” on sweater; verso: en route law school, Chicago [same as item 52] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1911 - 1912	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 54	
+</unitid>
+<unittitle>Lowell Thomas working at a mine in Colorado; verso: 1st job after college, 1911 - Job, pick and shovel [photograph]	
+</unittitle>
+<unitdate label="Date">1911	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 55	
+</unitid>
+<unittitle>Lowell Thomas [at left] and friends; verso: 1911 or 1912; LT, Gertrude Lamb, Chas. Eby, ?, Jack Pascoe, Frances Lamb, Alan [Allan] Dray, Margaret “Babe” Lamb [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1911 - 1912	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 56	
+</unitid>
+<unittitle>Lowell Thomas [at left] and friends [same as item 55] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1911 - 1912	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 57	
+</unitid>
+<unittitle>Lowell Thomas on horseback; verso: summer of 1912 or 1913 on Dad’s ranch near Durango, on Ute Indian reservation [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1912 - 1913	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 58	
+</unitid>
+<unittitle>Lowell Thomas on horseback; verso: Summer 1912, cowboy, father’s ranch, 4 Corners [same as item 57] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1912 - 1913	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 59	
+</unitid>
+<unittitle>Lowell Thomas holding a rifle stands beside a horse at father Harry G. Thomas’s ranch [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1912 - 1913	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 60	
+</unitid>
+<unittitle>Lowell Thomas holding a rifle stands beside a horse at father Harry G. Thomas’s ranch [same as item 59] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1912 - 1913	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 61	
+</unitid>
+<unittitle>Lowell Thomas poses between two unidentified men; verso: L.T. middle in his ranch days, in the San Juan Mountains of Southwestern Colorado [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1912 - 1913	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 62	
+</unitid>
+<unittitle>Lowell Thomas poses between two unidentified men [same as item 61] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1912 - 1913	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 63	
+</unitid>
+<unittitle>Graduation photograph from unidentified college [Lowell Thomas seated second from right, second row] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1911 - 1913	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">12 x 22	
+</extent>
+<physfacet type="color">sepia	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 64	
+</unitid>
+<unittitle>Lowell Thomas pointing into the distance on the Alaskan high terrain [photograph]	
+</unittitle>
+<unitdate label="Date">1915	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">9 x 16	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 65	
+</unitid>
+<unittitle>Lowell Thomas speaking to reporter while standing between railroad cars; verso Myron Ehrenberg [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 66	
+</unitid>
+<unittitle>Lowell Thomas seated at left while unidentified man works at a typewriter; verso Myron Ehrenberg [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 67	
+</unitid>
+<unittitle>Lowell Thomas has a bite of dessert as he stands at a lunch counter; verso Myron Ehrenberg [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 68	
+</unitid>
+<unittitle>Lowell Thomas in swimsuit with family dog; verso: Pawling, N.Y., Thomas near pool [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 69	
+</unitid>
+<unittitle>Lowell Thomas broadcasting before a CBC microphone; Lowell Thomas, Jr. seated at left [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 70	
+</unitid>
+<unittitle>Lowell Thomas broadcasting for NBC from Pawling, NY.; family dog seated on table [item is currently on display in Lowell Thomas Gallery] [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1935	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">19 x 15	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 71	
+</unitid>
+<unittitle>Lowell Thomas broadcasting before a CBS microphone; Wendall Corey at left, Stewart Granger at right [photograph]	
+</unittitle>
+<unitdate label="Date">1951	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">16 x 16½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 72	
+</unitid>
+<unittitle>Lowell Thomas broadcasting before a CBS microphone; Wendall Corey at left, Stewart Granger at right [same as item 71] [photograph]	
+</unittitle>
+<unitdate label="Date">1951	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">16 x 16½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 73	
+</unitid>
+<unittitle>Lowell Thomas broadcasting before a CBS microphone; Wendall Corey at left, Stewart Granger at right [photograph]	
+</unittitle>
+<unitdate label="Date">1951	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">16 x 16½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 74	
+</unitid>
+<unittitle>Lowell Thomas seated among many men as he broadcasts before a CBS microphone; Lowell Thomas, Jr. stands at right [photograph]	
+</unittitle>
+<unitdate label="Date">circa late 1940s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">16 x 16½ 	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 75	
+</unitid>
+<unittitle>Close-up of Lowell Thomas adjusting a motion picture camera [photograph]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">11 x 13	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 76	
+</unitid>
+<unittitle>Posed portrait photograph of Lowell Thomas	
+</unittitle>
+<unitdate label="Date">circa 1930	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">10 x 13	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 77	
+</unitid>
+<unittitle>Posed portrait photograph of Lowell Thomas	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">17 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 78	
+</unitid>
+<unittitle>Posed portrait photograph of Lowell Thomas	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">17 x 20	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 79	
+</unitid>
+<unittitle>Posed portrait photograph of Lowell Thomas	
+</unittitle>
+<unitdate label="Date">circa 1970s	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">14 x 19	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 80	
+</unitid>
+<unittitle>A large charcoal sketch of Lowell Thomas; inscribed in the lower left with the date and Kokomo, Ind. [item is currently on display on the second floor of the Lowell Thomas building]	
+</unittitle>
+<unitdate label="Date">1939 March 29	
+</unitdate>
+<container id="1627" type="box">1627</container>
+<physdesc>
+<extent unit="inches">25 x 21	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1627 -->
+<!-- Box 1628 -->
+<c01>
+<note>Box 1628</note>
+<did>
+<unitid>2.3.3.4</unitid>
+<unittitle>Lowell Thomas</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Publicity photograph [Literary Digest cover photograph]	
+</unittitle>
+<unitdate label="Date">1931 September 19	
+</unitdate>
+<container id="1628" type="box">1628</container>
+<physdesc>
+<extent unit="inches">11 x 14	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Publicity photograph [Literary Digest cover photograph]	
+</unittitle>
+<unitdate label="Date">1931 September 19	
+</unitdate>
+<container id="1628" type="box">1628</container>
+<physdesc>
+<extent unit="inches">12½ x 9½  	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Publicity photograph [Lowell Thomas seated at typewriter] [item is currently on display in Lowell Thomas Gallery]	
+</unittitle>
+<unitdate label="Date">circa 1933	
+</unitdate>
+<container id="1628" type="box">1628</container>
+<physdesc>
+<extent unit="inches">12 x 15	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4-15	
+</unitid>
+<unittitle>Publicity photographs [various poses]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1628" type="box">1628</container>
+<physdesc>
+<extent unit="inches">13 x 10	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16-55	
+</unitid>
+<unittitle>Publicity photograph [same pose]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1628" type="box">1628</container>
+<physdesc>
+<extent unit="inches">14 x 11	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 56-95	
+</unitid>
+<unittitle>Publicity photograph [same pose as items 16-55]	
+</unittitle>
+<unitdate label="Date">circa 1930s	
+</unitdate>
+<container id="1628" type="box">1628</container>
+<physdesc>
+<extent unit="inches">14 x 11	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 96-108	
+</unitid>
+<unittitle>Publicity photographs [various poses]	
+</unittitle>
+<unitdate label="Date">circa 1940s	
+</unitdate>
+<container id="1628" type="box">1628</container>
+<physdesc>
+<extent unit="inches">14 x 11	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 109-111	
+</unitid>
+<unittitle>Publicity photographs [Lowell Thomas at The Explorers Club]	
+</unittitle>
+<unitdate label="Date">circa 1940s - 1950s	
+</unitdate>
+<container id="1628" type="box">1628</container>
+<physdesc>
+<extent unit="inches">14 x 11	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 112-128	
+</unitid>
+<unittitle>Publicity photographs [various poses]	
+</unittitle>
+<unitdate label="Date">circa 1950s	
+</unitdate>
+<container id="1628" type="box">1628</container>
+<physdesc>
+<extent unit="inches">14 x 11	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 129-130	
+</unitid>
+<unittitle>Publicity photographs [various poses]	
+</unittitle>
+<unitdate label="Date">circa 1960s	
+</unitdate>
+<container id="1628" type="box">1628</container>
+<physdesc>
+<extent unit="inches">14 x 11	
+</extent>
+<physfacet type="color">b<![CDATA[&]]>w	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 131-135	
+</unitid>
+<unittitle>Publicity photograph (80th birthday) [same pose]	
+</unittitle>
+<unitdate label="Date">1972	
+</unitdate>
+<container id="1628" type="box">1628</container>
+<physdesc>
+<extent unit="inches">12 x 10	
+</extent>
+<physfacet type="color">color	
+</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1628 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

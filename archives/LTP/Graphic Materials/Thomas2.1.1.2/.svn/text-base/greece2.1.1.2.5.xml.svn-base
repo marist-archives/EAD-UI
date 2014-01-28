@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Greece</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.1.2.5</unitid>
+		<unittitle>Greece</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+		<!-- Box 1323 -->
+<c01>
+<note>Box 1323</note>
+<did>
+<unitid>2.1.1.2.5</unitid>
+<unittitle>Greece</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid>20</unitid>
+<unittitle>Old Greek pointing down to Athens	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>21</unitid>
+<unittitle>Old Greek talking to son at Acropolis, Athens	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>22</unitid>
+<unittitle>Ruins at Athens	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>23</unitid>
+<unittitle>Lowell Thomas and Harry Chase in front of the Parthenon, Athens	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>24</unitid>
+<unittitle>Temple of Thesus, Athens	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>25</unitid>
+<unittitle>Soldiers and tents in front of the Temple of Thesus, Athens	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>26</unitid>
+<unittitle>Looking down on olive orchard	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>27</unitid>
+<unittitle>Big tree on road through Greece	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>28</unitid>
+<unittitle>Four Greek mountaineers	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film 	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>29</unitid>
+<unittitle>Diogenes on donkey	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film 	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>30</unitid>
+<unittitle>Demosthenes man 	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film 	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>31</unitid>
+<unittitle>Old Greek man and daughter	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>32</unitid>
+<unittitle>Two boys in traditional Greek clothes, dancing for crowd	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film 	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>33</unitid>
+<unittitle>Serbian boy	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film 	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>34</unitid>
+<unittitle>Man, in traditional costume, with woman and child	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>35</unitid>
+<unittitle>Group of Greeks at fair	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>36</unitid>
+<unittitle>Greek fair	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>37</unitid>
+<unittitle>Man in traditional Greek costume sharing water with old man in shorts	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>38</unitid>
+<unittitle>Man in traditional Greek costume talking to three soldiers, others nearby them	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>39</unitid>
+<unittitle>Essed Pasha, with dog	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>40</unitid>
+<unittitle>Russian diplomat in Serbian army at Salonica	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">film	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>41</unitid>
+<unittitle>Panorama of Salonica	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>42</unitid>
+<unittitle>View of Salonica from top of hill, boy and Lowell Thomas [?] in foreground 	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>43</unitid>
+<unittitle>Mound at Salonica	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>44</unitid>
+<unittitle>Salonica street scene	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>45</unitid>
+<unittitle>Bralos, tents and soldiers in foreground 	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>46</unitid>
+<unittitle>Tents on hillside, soldier in foreground 	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>47</unitid>
+<unittitle>Winding military road through mountains, soldier sitting on rock at right	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid>48</unitid>
+<unittitle>Janes Club, soldier by building, automobile at left, Macedonia	
+</unittitle>
+<unitdate label="Date">circa 1918	
+</unitdate>
+<container id="1323" type="box">1323</container>
+<materialspec label="index"></materialspec>
+<materialspec label="negativenumber"></materialspec>
+<physdesc>
+<extent unit="inches">5x7	
+</extent>
+<genreform type="format">	
+</genreform>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1323 -->
+
+
+	</dsc>
+	</archdesc>
+	</ead>	

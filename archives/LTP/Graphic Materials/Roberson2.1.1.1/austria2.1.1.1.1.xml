@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ead2.xsl"?>
+
+<ead xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Roberson2.1.1.1/austria2.1.1.1.1.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Austria</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.1.1.1</unitid>
+			<unittitle>Austria</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1173 -->
+			<c01>
+				<note>Box 1173</note>
+				<did>
+					<unitid>2.1.1.1.1</unitid>
+					<unittitle>Austria</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<!--extref xlink:type="simple" xlink:href="images/1.jpg"-->
+						<unittitle>The old fortress, Kufstein, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11000</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Old fortress on a rock, Kufstein, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11002</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>The valley of the Inn, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11004</materialspec>
+						<materialspec label="negativenumber">687</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Narrow street, Hall, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11010</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Street in Hall, Ehn Valley, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11012</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Marie-Thereseien Strasse, looking toward the Anna Saule, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11013</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Marie-Theresein Strasse showing style of architecture, Innsbruck, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11014</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Looking down Marie-Theresien Strasse toward the mountain, Innsbruck, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11019</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Looking down Herzog-Friedrich Strasse, Innsbruck, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11020</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Golden Adler Hotel in the Herzog-Friedrich Strasse, Innsbruck, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11021</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Golden Adler Hotel, Innsbruck, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11022</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Balin Strasse[?] near the railway station, Innsbruck, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11033</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Old castle just outside of Innsbruck, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11045</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Armor of King Theodorich, Innsbruck</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Innsbruck von Berg Isel, Austrian Tyrol, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Innsbruck von der Weiherburg, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Modern castle in the Bremer Pass, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11046</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>View on road just south of Innsbruck, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11047</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>In the Val Ampezzo, Dolomites, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11062</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Frank R. Roberson and Mrs. Jessie W. Roberson in automobile in Ampezzo Valley, Dolomites, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11063</materialspec>
+						<materialspec label="negativenumber">752</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>The Campanile, Cortina d' Ampezzo, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11067</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Fields of flowers, mountains</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11082</materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Garden</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index">11095</materialspec>
+						<materialspec label="negativenumber">792</materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>House, many pictures on wall, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>Street scene, Innsbruck, Austrian Tyrol</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">5x7</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Men climbing, Schneerinne, copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Mittenwald, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Dolomitenst, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Lermoos, mountains in distance, copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Town and mountains, Lofer, Copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Ornate building, Austria, Copy</unittitle>
+						<unitdate label="Date">before 1916</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Man, Austrian Tyrol, Copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Woman, Austrian Tyrol, Copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Andreas Hofer, Copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Hans Makart, Copy</unittitle>
+						<unitdate label="Date">1910 July</unitdate>
+						<container id="1173" type="box">1173</container>
+						<materialspec label="index"></materialspec>
+						<materialspec label="negativenumber"></materialspec>
+						<physdesc>
+							<extent unit="inches">4x5</extent>
+							<genreform type="format"></genreform>
+						</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<!-- End Box 1173 -->
+
+		</dsc>
+	</archdesc>
+</ead>		

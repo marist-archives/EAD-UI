@@ -1,0 +1,4646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.2.xsl"?>
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/Photographs2.1.9/topicalFiles2.1.9.5.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Topical files 2</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="MMM">2.1.9.5</unitid>
+			<unittitle>Topical files 2</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract">MMM</abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p>MMM</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>MMM</p>
+		</accessrestrict>
+		<userestrict>
+			<p>MMM</p>
+		</userestrict>
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+
+			<!-- Box 1616 -->
+			<c01>
+				<note>Box 1616</note>
+				<did>
+					<unitid>2.1.9.5</unitid>
+					<unittitle>Topical files 2</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Chaquib Abdul-Karim</unittitle>
+						<unitdate label="Date">1952</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Chaquib Abdul-Karim]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Margaret Anastasio</unittitle>
+						<unitdate label="Date">1975</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Margaret Anastasio: Lowell Thomas sitting] [1940]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: 1940</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Margaret Anastasio: Lowell Thomas sitting]Kodak building</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Kodak building</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Mrs. E. R. Margaret Anastasio]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>John Anderson [color photograph]</unittitle>
+						<unitdate label="Date">1968</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[John Anderson:] Solo facta jucy [Joey] y los papa's [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Solo facta jucy [Joey] y los papa's [?]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>W. F. Andrews ("Andy"&amp;)  [includes photograph of Lowell Thomas] [color photograph]</unittitle>
+						<unitdate label="Date">1957</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Pt. Barrow, Alaska. 1957 with Lowell Thomas; Verso: W.F. Andrews ("Andy") with Lowell Thomas at Pt. Barrow, Alaska, 1957</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: W.F. Andrews ("Andy") with Lowell Thomas at Pt. Barrow, Alaska, 1957</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>M. Ray Applegate [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1952</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Applegate Advertising Agency concerning permission to use photograph]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [response from Lowell Thomas from Applegate Advertising Agency concerning permission to use photograph]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[photograph possibly used by Applegate Advertising Agency]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Richard D. Applegate [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">circa 1940s</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Richard D. Applegate: Four men in uniform standing next to plane. Lowell Thomas at right]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>N. W. Ayer and Son [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">circa 1946</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [Page 1 of 3, document describing N.W. Ayer Annual Exhibition of Newspaper Typography]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 2 of 3, document describing N.W. Ayer Annual Exhibition of Newspaper Typography]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 3 of 3, document describing N.W. Ayer Annual Exhibition of Newspaper Typography]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 1 of 2, second document describing N.W. Ayer Annual Exhibition of Newspaper Typography]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note[PDF]: [Page 2 of 2, second document describing N.W. Ayer Annual Exhibition of Newspaper Typography]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Judges of the 16th Annual Exhibition of Newspaper Typography held in Philadelphia, April 17, under the auspices of N.W. Ayer &amp; Son, Inc. Left to right: Harold Van Doren, industrial designer, Laurence B. Siegfried, type expert, and Lowell Thomas, radio commentator.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Note[PDF]: Judges of the 16th Annual Exhibition of Newspaper Typography held in Philadelphia, April 17, under the auspices of N.W. Ayer &amp; Son, Inc. Left to right: Harold Van Doren, industrial designer, Laurence B. Siegfried, type expert, and Lowell Thomas, radio commentator.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Page one of the Rochester Post-Bulletin, Rochesterm Minn. For March 13, winner of the F. Wayland Ayer Cup, also shown, in the 16th Annual Exhibition of Newspaper Typography, held in Philadelphia April 17, under the auspices of N.W. Ayer &amp; son Inc.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Note[PDF]: Page one of the Rochester Post-Bulletin, Rochesterm Minn. For March 13, winner of the F. Wayland Ayer Cup, also shown, in the 16th Annual Exhibition of Newspaper Typography, held in Philadelphia April 17, under the auspices of N.W. Ayer &amp; son Inc.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>10</unitid>
+							<unittitle>Winners of Honorable Mentions among paper of more than 50,000 circul;ation in te 16th Annual Exhibition of Newspaper Typography held in Philadelphia April 17, under the auspicies of N. W. Ayer &amp; Son, Inc. Left to right: First Honorable Mention; Courier-Journal , Louisville, KY.; Second Honorable Mention; Richmond Times-Dispatch, Richmond, VA.; Third Honorable Mention, The Christian Science Monitor, Boston, Mass.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>11</unitid>
+							<unittitle>Note[PDF]: Winners of Honorable Mentions among paper of more than 50,000 circul;ation in te 16th Annual Exhibition of Newspaper Typography held in Philadelphia April 17, under the auspicies of N. W. Ayer &amp; Son, Inc. Left to right: First Honorable Mention; Courier-Journal , Louisville, KY.; Second Honorable Mention; Richmond Times-Dispatch, Richmond, VA.; Third Honorable Mention, The Christian Science Monitor, Boston, Mass.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>12</unitid>
+							<unittitle>Winners of Honorable Mention amaong [among] papers of 10,000 to 50,000 circulation in the 16th Annual Exhibition of Newspaper Typography held in Philadelphia April 17, under the auspicies of N. W. Ayer &amp; Son, Inc. Left to right: First Honorable Mention, Durham Morning Herald, Durham, N.C.; Second Honorable Mention, Reading Eagle, Reading, PA.; Third Honorable Mention, Rutland Herald, Rutland, VT.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>13</unitid>
+							<unittitle>Note[PDF]: Winners of Honorable Mention amaong [among]]papers of 10,000 to 50,000 circulation in the 16th Annual Exhibition of Newspaper Typography held in Philadelphia April 17, under the auspicies of N. W. Ayer &amp; Son, Inc. Left to right: First Honorable Mention, Durham Morning Herald, Durham, N.C.; Second Honorable Mention, Reading Eagle, Reading, PA.; Third Honorable Mention, Rutland Herald, Rutland, VT.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>14</unitid>
+							<unittitle>Winners of Honorable Mention amaong [among] papers of less than 10,000 circulation in the 16th Annual Exhibition of Newspaper Typography held in Philadelphia April 17, under the auspicies of N. W. Ayer &amp; Son, Inc. Left to right, First Honorable Mention: Owensboro Inquirer, Owensboro, KY.; Socond Honorable Mention: The Antigo Daily Journal, Antigo, Wisc.; Third Honorable Mention: Sante Fe New Mexican, Santa Fe, New Mexico.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>15</unitid>
+							<unittitle>Note[PDF]: Winners of Honorable Mention among papers of less than 10,000 circulation in the 16th Annual Exhibition of Newspaper Typography held in Philadelphia April 17, under the auspicies of N. W. Ayer &amp; Son, Inc. Left to right, First Honorable Mention: Owensboro Inquirer, Owensboro, KY.; Socond Honorable Mention: The Antigo Daily Journal, Antigo, Wisc.; Third Honorable Mention: Sante Fe New Mexican, Santa Fe, New Mexico.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>16</unitid>
+							<unittitle>The Gazette &amp; Daily, York, PA. winner of the Certificate for Tabloids, regardless of circularion, in the 16th Annual Exhibition of Newspaper Typorgraphy held in Philadelphia, April 17, under the auspicies of N.W. Ayer &amp; Son, Inc.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>17</unitid>
+							<unittitle>Note[PDF]: The Gazette &amp; Daily, York, PA. winner of the Certificate for Tabloids, regardless of circularion, in the 16th Annual Exhibition of Newspaper Typorgraphy held in Philadelphia, April 17, under the auspicies of N.W. Ayer &amp; Son, Inc.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Retta Barnette</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Retta Barnette [holding a parrot]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Retta Barnette</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Frank J. Berger</unittitle>
+						<unitdate label="Date">1955</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Best Regards, Frank + Natalie</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter from Frank Berger to Mr. and Mrs. T[homas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter from Frank Berger to Mr. and Mrs. T[homas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 3 of letter from Frank Berger to Mr. and Mrs. T[homas]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Herbert D. Bergman</unittitle>
+						<unitdate label="Date">1976</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Dr. Lowell Thomas, With my respect, admiration and best wishes always. Respectfully your's [signed] Herbert J. Bergman TSgt. (USAF-Ret.) 1976</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Dr. Lowell Thomas, With my respect, admiration and best wishes always. Respectfully your's [signed] Herbert J. Bergman TSgt. (USAF-Ret.) 1976</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>William B. Black [color photographs]</unittitle>
+						<unitdate label="Date">1976</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>One of four naval carriage guns for Valkyrie. 1" Bore [signed] W. Black [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: One of four naval carriage guns for Valkyrie. 1" Bore [signed] W. Black [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>"The Valkyrie Brigantine" 23 tons displacement, 45' on deck, 56' over-all, 51' Ht. of Main, 13'7" Beam, 6'2" Draft [illegible]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: "The Valkyrie Brigantine" 23 tons displacement, 45' on deck, 56' over-all, 51' Ht. of Main, 13'7" Beam, 6'2" Draft [illegible]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>"The Valkyrie Brigantine" on Stanboul yack [starboard tack?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: "The Valkyrie Brigantine" on Stanboul yack [starboard tack?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Rear Admiral Ed Fleck and I and our wives had Colonial costumes made for the Bicentennial. Mine is of a Continental Navy Commodore of 1777. One doesn't have to be crazy, - but it helps! - Dick</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Rear Admiral Ed Fleck and I and our wives had Colonial costumes made for the Bicentennial. Mine is of a Continental Navy Commodore of 1777. One doesn't have to be crazy, - but it helps! - Dick</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>Marie Blood [color photograph]</unittitle>
+						<unitdate label="Date">1979</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Me (on right) and a friend at Gold Rush Days, Valdez, Alaska August, 1979</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Me (on right) and a friend at Gold Rush Days, Valdez, Alaska August, 1979</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Nora and Heriberto Bohtlingk</unittitle>
+						<unitdate label="Date">circa 1957</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[inside of card] With all good wishes for Christmas and the New Year from Nora and Heriberto Bohtlingk. After our trip to India and around the world we enjoyed your 'Land of the Black Pagoda' which you sent us after the dinner party at the Palmeds last January - Konarek[?] was certanly amazing</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: [inside of card] With all good wishes for Christmas and the New Year from Nora and Heriberto Bohtlingk. After our trip to India and around the world we enjoyed your 'Land of the Black Pagoda' which you sent us after the dinner party at the Palmeds last January - Konarek[?] was certanly amazing</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Hazel and Howell Bond</unittitle>
+						<unitdate label="Date">circa 1957</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Seasons Greetings and Aloha from Hazel and Howell (Bond); Verso: 2146 Damon St., Honolulu 14, Hawaii</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: 2146 Damon St., Honolulu 14, Hawaii</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Colonel and Mrs. Daniel F. Boone [color photograph]</unittitle>
+						<unitdate label="Date">1979</unitdate>
+						<container id="1616" type="box">1616</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Col. &amp; Mrs. Daniel F. Boone, 420 Dunes Drive, Dunes Section, Myrtle Beach, SC 29577 - May 21, '77</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Col. &amp; Mrs. Daniel F. Boone, 420 Dunes Drive, Dunes Section, Myrtle Beach, SC 29577 - May 21, '77</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: [letter to Lowell Thomas from Dan Boone]</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1616 -->
+			<!-- Box 1617 -->
+			<c01>
+				<note>Box 1617</note>
+				<did>
+					<unitid>2.1.9.5</unitid>
+					<unittitle>Topical files 2</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Houston Branch</unittitle>
+						<unitdate label="Date">1956</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Houston branch: submarine] exterior view[?] new window</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: exterior view[?] new window</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Houston branch: submarine]Interior view - New Camera window</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Interior view - New Camera window</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Houston Branch]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>Clarita and Alec Bright [color photograph]</unittitle>
+						<unitdate label="Date">circa 1965</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Merry Christmas, Happy New Year; You gave us the best outing he wave ever had in New York. Your tradition - solid gentle fun-warmed and carried the party. We hope to see you on the slopes. Clarite and Abe Bight and Snorri - Sierra - Cameron</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Marjan Frank Broda</unittitle>
+						<unitdate label="Date">1944</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Marjan Frank Broda</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Marjau Frank Broda]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>C. O. Brown</unittitle>
+						<unitdate label="Date">1953</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[C.O. Brown: a sleigh]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of 2 , letter to Lowell Thomas from C. O. Brown]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of 2 , letter to Lowell Thomas from C. O. Brown]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Larry Dean Brown [color photograph]</unittitle>
+						<unitdate label="Date">1976</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Taken Graduation Day, June 11, '76 at Columbus, Ohio O.S.U. Dr. Larry Dean Brown Grandson of Lucille and J.R. Jackson</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Taken Graduation Day, June 11, '76 at Columbus, Ohio O.S.U. Dr. Larry Dean Brown Grandson of Lucille and J.R. Jackson</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>Marshall A. Brown</unittitle>
+						<unitdate label="Date">1944</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[horse drawn sleigh]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Marshall A. Brown]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Olga M. Buck</unittitle>
+						<unitdate label="Date">1962</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Olga M. Buck:]This is a striper I caught under one of Jones Beach Causeway bridges 1958 in May</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: This is a striper I caught under one of Jones Beach Causeway bridges 1958 in May</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of 2, letter to Lowell Thomas from Olga M. Buck]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of 2, letter to Lowell Thomas from Olga M. Buck]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Buick Motor Division [includes photographs of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1942</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [Letter to Lowell Thomas from Frank Webb, Public Relations for Buick Motor Division]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Buick Motor Division:][Lowell Thomas and Lowell Thomas, Jr. with J. H. Larkin and C. E. Woollever and others]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Buick Motor Division:][Lowell Thomas and Lowell Thomas, Jr. with J. H. Larkin and C. E. Woollever and others]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Buick Motor Division:][Lowell Thomas and Lowell Thomas, Jr. with J. H. Larkin and C. E. Woollever and others]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>Stanley F. Carey</unittitle>
+						<unitdate label="Date">1977</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Stanley F. Carey:] A Copy of "the other side" of [?] - Playing for many [?] all over the world - But no pay-</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: A Copy of "the other side" of [?] - Playing for many [?] all over the world - But no pay-</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Robert L. Carpenter</unittitle>
+						<unitdate label="Date">1949</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Robert L. Carpenter:]The former carpenter home, [?] + Bradly St - Harris Park, NJ</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: The former carpenter home, [?] + Bradly St - Harris Park, NJ</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>James T. Chamness [color photograph]</unittitle>
+						<unitdate label="Date">1980</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[James T. Chamness: Twin babies]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Fred G. Clark [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1958</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Herbert Hoover, front row center]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Fred G. Clark: People putting on a play]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Fred G. Clark: Close-up of a man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Fred G. Clark: Two men laughing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Note: [envelope from Fred G. Clark]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Arthur J. Conlon [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">circa 1930s</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Arthur J. Conlon:][Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>Nancy Cooke [color photograph]</unittitle>
+						<unitdate label="Date">1979</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Nancy Cooke [color photo]: Bride and groom]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Ronald Crane [color photograph]</unittitle>
+						<unitdate label="Date">1979</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Ronald Crane: Boy standing in front of little airplane]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>Betty Cross [color photograph]</unittitle>
+						<unitdate label="Date">1980</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Rip Rankin + Betty Cross (Mrs. James), Cripple Creek - Lucy Welty's white house on top of hill</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Rip Rankin + Betty Cross (Mrs. James), Cripple Creek - Lucy Welty's white house on top of hill</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Tom Curry [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1946</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Tom Curry: Lowell Thomas and another man (Tom Curry?) in uniform] Rome 5-45</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Rome 5-45</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Woman standing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Tom Curry]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Tom Curry]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note: Call it off; on? [Tom Curry]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>Nola and Glenn Dolberg</unittitle>
+						<unitdate label="Date">1975</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Nola and Glenn Dolberg:]Nola Luxford [illegible] Jan. 1975</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Nola Luxford [illegible] Jan. 1975</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Mina Dole</unittitle>
+						<unitdate label="Date">1973</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Bill, now 17yrs. (The Clark) 6'1; Scott 15 yrs 6'; Julie 14 years 5'3" still as sweet (won her first Home Ribbon at camp!); Mina The Doles in St. Louis 3/60</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Bill, now 17yrs. (The Clark) 6'1; Scott 15 yrs 6'; Julie 14 years 5'3" still as sweet (won her first Home Ribbon at camp!); Mina The Doles in St. Louis 3/60</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of 2, letter to Lowell Thomas from Mina Dole]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of 2, letter to Lowell Thomas from Mina Dole]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Dixie Dowrie</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Dixie Dowrie:]Stowe Vt. 1940? Or 41?</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Stowe Vt. 1940? Or 41?</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Dixie Dowrie:]Bousquet's[?]- 1943</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Bousquet's[?]- 1943</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Dixie Dowrie]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Peter Dumont</unittitle>
+						<unitdate label="Date">1944</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Residence of Peter Dumont, White Stucco house Green roof and blinds. Mt. Horel Rd. Between Inberly Cornr and Martinsville, KS Motor-Route Civil No 545</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Residence of Peter Dumont, White Stucco house Green roof and blinds. Mt. Horel Rd. Between Inberly Cornr and Martinsville, KS Motor-Route Civil No 545</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Peter Drummond]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: [envelope]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Boontown Elks</unittitle>
+						<unitdate label="Date">1941</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Boontown Elks] Feb 3 1941</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Feb 3 1941</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: "Gertrude", a victum of infantile paralysis, was found by the Boonton Elks' Crippled Children Committee when eleven years of age. She could not walk or even stand on her feet. After three years' treatment she was returned home with only a slight limp and found employment. She was married three years ago ans is shown above with her two-year-old son. Is crippled children work worth while? February 3, 1941.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>John Elliott [includes photographs of Lowell Thomas] [color photographs]</unittitle>
+						<unitdate label="Date">1973</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[John Elliot: Man standing with Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[John Elliot: Man standing with Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[John Elliot: Two men standing with Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[John Elliot: Two men standing with Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note: [letter to Lowell Thomas from Brick E.]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>Violet and Frank Fisher</unittitle>
+						<unitdate label="Date">1941</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: In Tibet from "Journey into China." Violet Cressy-Marcks</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: [inside of card] Greetings and Good Luck in a hard but Glorious 1941 from Violet &amp; Frank Fisher</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>G - miscellaneous</unittitle>
+						<unitdate label="Date">1943 - circa 1950</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[G- miscellaneous:]Peruvian Lodge Alta</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Peruvian Lodge Alta; taken from Mayor Watson's cabin</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[G-miscellaneous:]The picture gallery in my Air Room. People  worked for or with them the years&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: The picture gallery in my Air Room. People  worked for or with them the years&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[G-miscellaneous:]Norfolk Naval Band, Portsmouth, VA.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Gene]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Ewing Galloway</unittitle>
+						<unitdate label="Date">1952</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Erwing Galloway: Man standing on top of cylinders]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Ewing Galloway]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>Joe Girard</unittitle>
+						<unitdate label="Date">circa 1975</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Lowell Thomas: "You are an idol" Best of Luck Always [signed] Joe Girard; 38th President of The United States of America Gerald R. Ford, Rear Admiral United States Nevy Lee E. Landes Joe Girard World's No. 1 Automobile and Truck Retail Salesman 10 Consecutive Years</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Caption: Joe Girard World's No. 1 Automobile and Truck Retail Salesman 10 Consecutive Years</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: Joe Girard, What Makes Him No. 1 Car &amp; Truck Salesman in the World?</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: Joe Girard's Sales Training Library</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note[PDF]: Now&amp; You can have the world's greatest salesman on your staff, permanently! Here's how&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Note[PDF]: Joe Girard's Sales Training Library, This seven-volume film library consists of &amp;</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Clayton Spaulding Going</unittitle>
+						<unitdate label="Date">1943</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Clayton Spaulding Going "Bumpy" 7 mos.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Clayton Spaulding Going "Bumpy" 7 mos.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Clayton Spaulding:]The 1963 National Amateur golf champ! Note wrist cock and left hand action! A Natural! 7 mos.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: The 1963 National Amateur golf champ! Note wrist cock and left hand action! A Natural! 7 mos.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Clayton Spaulding:]Listening to his favorite news commentator before hitting the hay! He intends to be a well informed big guy someday! 7 mos.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Listening to his favorite news commentator before hitting the hay! He intends to be a well informed big guy someday! 7 mos.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Clayton Spalding, USA Office of War Information]: Introducing your newest and youngest listener!</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>Edward Stanley Gomme</unittitle>
+						<unitdate label="Date">1977</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Edward Stanley Gomme:]Name of plane was Lorraine #(249) Picture was taken on Okinawa Island on Aug 6, 1945. It came back from a mission to Hiroshima Japan&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso[PDF]: Name of plane was Lorraine #(249) Picture was taken on Okinawa Island on Aug 6, 1945. It came back from a mission to Hiroshima Japan&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from Edward Stanley Gomme]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from Edward Stanley Gomme]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Al Gordon [color photograph]</unittitle>
+						<unitdate label="Date">1972</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Taken on Oct 30 - 1971. I was M.C. at a Holloween party Al Gordon</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Taken on Oct 30 - 1971. I was M.C. at a Holloween party Al Gordon</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Al Gordon]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Albro B. Gregory [color photograph]</unittitle>
+						<unitdate label="Date">1980</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Albro B. Gregory: Man and woman holding drinks]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Albro B. Gregory]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Susan Grogan</unittitle>
+						<unitdate label="Date">1958</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Susan Grogan</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from Susan Grogan]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from Susan Grogan]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Merle H. Guise</unittitle>
+						<unitdate label="Date">1962</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Merle H. Guise:]Arctic village, Alaska Aug. 1962. Shaking hands with last Survivor Gilbert, 80, blind of my famous expedition of 1925 take medicines "Flu" epidem.; Merle H. Guise Box 2705 Palm Springs, Calif</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Arctic village, Alaska Aug. 1962. Shaking hands with last Survivor Gilbert, 80, blind of my famous expedition of 1925 take medicines "Flu" epidem.; Merle H. Guise Box 2705 Palm Springs, Calif</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Merle H. Guise:]Arctic village, Alaska Aug 1962. Back to the old "Cache." Famous expedition of 1925 take medicines in "Flu" Epidemic of 1925</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Arctic village, Alaska Aug 1962. Back to the old "Cache." Famous expedition of 1925 take medicines in "Flu" Epidemic of 1925</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from Merle H. Guise concerning Seppala piece]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from Merle H. Guise concerning Seppala piece]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas concerning Merle H. Guise]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>H - Miscellaneous [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1944 - 1945</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[H-miscellaneous:]Boca Raton 1945 [Four people seated. Lowell Thomas second from left]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Boca Raton 1945</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[H-miscellaneous:]Note: [note to Lowell Thomas concerning Florida]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Maude Hadden</unittitle>
+						<unitdate label="Date">1946</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Maude Hadden: Large group picture outside by trees]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from Maude Hadden]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from Maude Hadden]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 3 of letter to Lowell Thomas from Maude Hadden]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Charles G. Hagedorn [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1972 - 1974</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Dear Lowell: I thought you ment wat this as a momento of a stimulating luncheon!; Cordially, [signed] Charles G. Hagedorn</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: Dear Lowell: I thought you might want this as a momento of a stimulating luncheon!; Cordially, [signed] Charles G. Hagedorn</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Johnny Haines</unittitle>
+						<unitdate label="Date">1970</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Johnny Haines; Oct 1970</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Johnny Haines]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>E. E. Hale</unittitle>
+						<unitdate label="Date">1943</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[E.E. Hale:]Greer-Hale Chinchilla Ranch</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from E. E. Hale]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Mary Otwell Hall [color photograph]</unittitle>
+						<unitdate label="Date">1967 - 1974</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Marty Otwell:]Caption: The Halls</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of 4 of letter 1 to Lowell Thomas from Mary Otwell Hall]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of 4 of letter 1 to Lowell Thomas from Mary Otwell Hall]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 3 of 4 of letter 1 to Lowell Thomas from Mary Otwell Hall]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note[PDF]: [Page 4 of 4 of letter 1 to Lowell Thomas from Mary Otwell Hall]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Two men and a woman standing together]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Note[PDF]: [Letter 2 to Lowell Thomas from Mary Otwell Hall]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Andy Will Hatch</unittitle>
+						<unitdate label="Date">1947</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Andy Will Hatch:]Log Cabin, Maine "Deep in the Maine woods"</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Andy Will Hatch]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>Harmon R. Helmericks [color photograph]</unittitle>
+						<unitdate label="Date">1974</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Harmon R. Helmericks:]Martha, Bud, Mark and Jeffrey Helmericks and our cessua 310 in Fairbanks Alaska. 1974. The fog are Lhasa apsos from Tibet</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Martha, Bud, Mark and Jeffrey Helmericks and our cessua 310 in Fairbanks Alaska. 1974. The fog are Lhasa apsos from Tibet</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from Harmon R. Helmericks]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from Harmon R. Helmericks]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>George W. Hill</unittitle>
+						<unitdate label="Date">1948 - 1949</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[George W. Hill:]Salesman, engineer, manufacturers agent, hunter, angler, hiker (on the A-Appalachian Trail) and skier - Therefore can appreciate very much, the comparisons and qualifications in the attached-&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Salesman, engineer, manufacturers agent, hunter, angler, hiker (on the A-Appalachian Trail) and skier - Therefore can appreciate very much, the comparisons and qualifications in the attached-&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: [Memo from George W. Hill]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Lowell Hill</unittitle>
+						<unitdate label="Date">1970</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Lowell Hill, Macon, Miss.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Lowell Hill, Macon, Miss.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lowell Hill:]Note: The Senior Class of Noxubee County High School announces its Commencement Exercises Firday evening, May the twenty-second, eight o'clock, High School Gymnasium</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: [back of card]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>George R. Hofman [color photograph]</unittitle>
+						<unitdate label="Date">1972</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[George R. Hoffman (color photograph): From the inside of a resturaunt looking out a window]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from George R. Hofman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from George R. Hofman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 3 of letter to Lowell Thomas from George R. Hofman]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Maurice Holland [color photograph]</unittitle>
+						<unitdate label="Date">1972</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Maurice Holland:]Caption: For Lowell Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: [mostly illegible] M.I.T. Class 1916</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [to Lowell Thomas from Maurice Holland, mostly illegible]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Homer H. Hoffaker</unittitle>
+						<unitdate label="Date">1965 - 1972</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Homer H. Hoffaker:]Homer and his dog , Toby</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Homer H. and Geda[?] Hoffaker</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Dottie Horne [color photograph]</unittitle>
+						<unitdate label="Date">1973</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Dottie Horne:]dudian[?]; Child at Rosebud [?] pow-wow '72 [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: dudian[?]; Child at Rosebud [?] pow-wow '72 [?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from Dottie Horne]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from Dottie Horne]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>George R. Hutchinson</unittitle>
+						<unitdate label="Date">1975</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[George R. Hutchinson:]Note: Lowell Thomas, Personal&amp;Important</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from George R. Hutchinson]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[George R. Hutchinson:]World Wide C.B.S. radio broadcast from Rio-de-Janerio, Brazil, Hutchinson Family&amp;1939</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[George R. Hutchinson:]Note: World Wide C.B.S. radio broadcast from Rio-de-Janerio, Brazil, Hutchinson Family&amp;1939</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[George R. Hutchinson: Three women and a man standing in front of an airplane]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Betty W. Keenan [color photographs]</unittitle>
+						<unitdate label="Date">1974</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>March 1975 Betty + Scott, Christmas 1974, Scott Keenan - Betty Keenan</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: March 1975 Betty + Scott, Christmas 1974, Scott Keenan - Betty Keenan</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>March 1975 L to R Lois Wagner- Cindy Keenan Dower, Betty Wagner Kennan</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: March 1975 L to R Lois Wagner- Cindy Keenan Dower, Betty Wagner Kennan</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Betty W. Keenan:]March 1975 Cindy, Paul + Buffy at Betty's Christmas 1974</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: March 1975 Cindy, Paul + Buffy at Betty's Christmas 1974</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Betty W. Keenan:]March 1975 Scott + Lois Christmas 1974 Scott Keenan - Lois Wagner</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: March 1975 Scott + Lois Christmas 1974 Scott Keenan - Lois Wagner</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Joan Klein [color photograph]</unittitle>
+						<unitdate label="Date">1978</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Joan Klein 5th Grade North S. Greenville, O.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Joan Klein 5th Grade North S. Greenville, O.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>Roger Krupp</unittitle>
+						<unitdate label="Date">circa 1975</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: To Lowell Thomas from one of his Old Announcers, Sincerely, Roger Krupp, Verso: Time has even weathered this picture.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Time has even weathered this picture.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>L - Miscellaneous</unittitle>
+						<unitdate label="Date">1940 - 1949</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[L - Miscellaneous:]Caption: Edward Meluice, Clyde Levy[?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[L - Miscellaneous:]Note: Souvenir of the Palms Bar</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[L - Miscellaneous:]Note: [reverse of note]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>Francis Lamar</unittitle>
+						<unitdate label="Date">circa 1941</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Francis Lamar: Shirtless man posing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Francis Lamar: Portrait of man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Francis Lamar: Picture of man's bare back, flexing]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Francis Lamar]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>George Lambros, Jr.</unittitle>
+						<unitdate label="Date">1959</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[George Lambros, Jr.:]Caption: 20th Century Fox - Dimond 2 9871 Lambros Air Charter, Ridgefield pk, N.J.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[George Lambros, Jr.:]Caption: Jam Handy Productions - Lambros Air Charter Ridgefield Pk, N.J. Dimond 2 9871</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[George Lambros, Jr.:]Caption: "Beau James" VistaVision Paramount Pictures, Lambros Aircharter Ridgefield Pk, N.J. Dimond 2 987I</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Lambros Air Charter Ridgefield PK-N.J. D1-2-9871 - DU4-7141 Res.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Letter 1 to Lowell Thomas from George Lambros, Jr,]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note[PDF]: [Letter 2 to Lowell Thomas from George Lambros, Jr,]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Lancaster and Chester Railroad Company</unittitle>
+						<unitdate label="Date">1970</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from H.W. Close, President, Lancaster and Chester Railway Company</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Lancaster and Chester Railroad Company: People sitting in a train, man playing the piano]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Lancaster and Chester Railroad Company: Band playing, People standing on the caboose of the train]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>Christine Larson [color photograph]</unittitle>
+						<unitdate label="Date">circa 1960</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Christine Larson (color photo):]Caption: To Lowell Thomas. Your Faithful Fan- Christine. 1920------1966.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from Christine Larson]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from Christine Larson]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>Harry O. Lathum</unittitle>
+						<unitdate label="Date">circa 1949 - 1952</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Harry O. Lathum:]Cabin on West Side of Hammersley Road opposite house.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Cabin on West Side of Hammersley Road opposite house.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Harry O. Lathum:]Clatterbrook, West side of house on Hammersley Road</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Clatterbrook, West side of house on Hammersley Road</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Harry O. Lathum:]Clatterbrook, Southwest view of house from Hammersley Road</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Clatterbrook, Southwest view of house from Hammersley Road</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Harry O. Lathum:]Note: [Page 1 of description of Clatterbrook]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note[PDF]: [Harry O. Lathum:]Note: [Page 2 of description of Clatterbrook]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Harry O. Lathum:]Latham's Home, So. Quaker Hill, Pawling, N.Y.; East side of vegetable garden with house in distance</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Latham's Home, So. Quaker Hill, Pawling, N.Y.; East side of vegetable garden with house in distance</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Harry O. Lathum:]Latham's Home, So. Quaker Hill, Pawling, N.Y.; The house from the Southeast</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7-verso</unitid>
+							<unittitle>Verso: Latham's Home, So. Quaker Hill, Pawling, N.Y.; The house from the Southeast</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Note[PDF]: [Page 1 of description of Harry O. Latham Property]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Note[PDF]: [Page 2 of description of Harry O. Latham Property]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>William O. Lau [color photographs]</unittitle>
+						<unitdate label="Date">circa 1973 - 1976</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from William O. Lau]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[William O. Lau: A woman with a little boy]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[William O. Lau: Man with a little boy]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Laurence G. Leavitt</unittitle>
+						<unitdate label="Date">1952</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Laurence G. Leavitt, Headmaster, Vermont Academy]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Laurence G. Leavitt: Plaque that reads "This jump was built by the labor and generosity of students and friends of Vermont Academy in memory of Roger Day Emerson 42. 1924 - 1943"]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Laurence G. Leavitt: Two men and two women together on snowy hillside]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Paul Lerman</unittitle>
+						<unitdate label="Date">1945</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Paul Lerman: Tow men in uniform in front of lion statue]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Paul Lerman]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>George Kin Leung [color photograph]</unittitle>
+						<unitdate label="Date">circa 1957</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[George Kin Leung (color photo): Man dressed in red robes.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: [letter to Lowell Thomas from George Kin Leung]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>John Libi [includes color photograph]</unittitle>
+						<unitdate label="Date">1961 - 1965</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[John Libi (color photo): Man holding a crate of peaches outside of a market]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter 1 to Lowell Thomas from John Libi]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[John Libi: Man and woman standing in a field wearing hunting outfits, man holding a rifle(?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [letter 2 to Lowell Thomas from John Libi]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Alexander Litchard</unittitle>
+						<unitdate label="Date">1958</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Alexander Litchard]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Alexander Litchard:]A view looking south. New lodge will be 1/2 mile to left</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: A view looking south. New lodge will be 1/2 mile to left</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Alexander Litchard:]A N.E. view, duck marsh to left</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: A N.E. view, duck marsh to left</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>64</unitid>
+						<unittitle>Walt Lockwood</unittitle>
+						<unitdate label="Date">1961</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Walt Lockwood:]Caption: USS Burton Island [Boat on icy water]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [outside of Christmas card to Lowell Thomas from Walt Lockwood]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [inside of Christmas card to Lowell Thomas from Walt Lockwood]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>65</unitid>
+						<unittitle>Carl and Laura Lomen [color photograph]</unittitle>
+						<unitdate label="Date">1970</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Carl and Laura Lomen:]Laura V. Lomen 1970</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Laura V. Lomen 1970</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of 2, Carl and Laura Lomen: letter to Lowell Thomas from Mrs. Carl Lomen]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of 2, Carl and Laura Lomen: letter to Lowell Thomas from Mrs. Carl Lomen]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>66</unitid>
+						<unittitle>Captain George William Lyons, Jr.</unittitle>
+						<unitdate label="Date">1948</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Captain George William Lyons, Jr.:]Caption: Seasons Greetings [Christmas card]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: Alice Margaret Lyons; October 22nd, 1948; Mr. and Mrs. George Wiliam Lyons, Jr.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>67</unitid>
+						<unittitle>Sandra G. Macartney</unittitle>
+						<unitdate label="Date">1962</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Sandra G. Macartney: Man putting curlers in woman's hair]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Sandra G. Macartney: Invitation from Major &amp; Mrs. V. W. Beckhurst]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Sandra G. Macartney: Page 1 of letter to Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Sandra G. Macartney: Page 2 of letter to Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>68</unitid>
+						<unittitle>Phoebe Wann Mackey</unittitle>
+						<unitdate label="Date">1977</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Phoebe Wann Mackey]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Phoebe Wann Mackey: Signed cloth]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>69</unitid>
+						<unittitle>L. Stanley Manierre</unittitle>
+						<unitdate label="Date">1954</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[L. Stanley Manierre: Two men shaking hands][Yukichi Kano]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid></unitid>
+							<unittitle>Verso: Yukichi Kano</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from L. Stanley Manierre]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [L. Stanley Manierre: newspaper clipping]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>70</unitid>
+						<unittitle>Marine Studios</unittitle>
+						<unitdate label="Date">1950 - 1951</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [Marine Studios: Page 1 of letter to Lowell Thomas regarding Marineland]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Marine Studios: Page 2 of letter to Lowell Thomas regarding Marineland]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Marine Studios: Page 3 of letter to Lowell Thomas regarding Marineland]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Marine Studios: Porpoise [Dolphin?] jumps through hoop]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Marine Studios: Porpoise [Dolphin?] catches ball]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Marine Studios: Porpoise [Dolphin?] rings bell]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Marine Studios: Porpoise [Dolphin?] jumps through hoop]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>71</unitid>
+						<unittitle>Bill Mark</unittitle>
+						<unitdate label="Date">1952 - 1969</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [letter from Bill Mark to Mary]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Bill Mark:]Dear Mary and Lowell, I got the five books. They are perfect. I have  my four books in the place of honor atop the book shelf, lording it over some three hundred other biographys&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso[PDF]: Dear Mary and Lowell, I got the five books. They are perfect. I have  my four books in the place of honor atop the book shelf, lording it over some three hundred other biographys&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Bill Mark:]PS I am breaking in a new darkroom printer. I gave her your returned glossy so that she would see just how you wanted it cropped. These are what she came up with&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso[PDF]: PS I am breaking in a new darkroom printer. I gave her your returned glossy so that she would see just how you wanted it cropped. These are what she came up with&amp;</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>72</unitid>
+						<unittitle>Frank V. Maroney</unittitle>
+						<unitdate label="Date">1959</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>899 Cripple Creek July 4th Hose Cart Race</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: 1899 Cripple Creek July 4th Hose Cart Race</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Frank V. Maroney:]Caption: Prise Hand Drilling Contest - Victor, Colo. Lehr Foto; Verso: Taken 1911. Victor High School in Bkground. Redlight district in gulch behind fence in Background</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Taken 1911. Victor High School in Bkground. Redlight district in gulch behind fence in Background</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: [envelope]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>73</unitid>
+						<unittitle>Elizabeth and Joe Marshall [color photograph]</unittitle>
+						<unitdate label="Date">circa 1967</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Joe T. Marshall Sr. and his wife Elizabeth, Laguna Beach, Calif- around 1967</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Joe T. Marshall Sr. and his wife Elizabeth, Laguna Beach, Calif- around 1967</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Elizabeth and Joe Marshall: Page 1 of letter to Lowell Thomas from Elizabeth Marshall]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Elizabeth and Joe Marshall: Page 2 of letter to Lowell Thomas from Elizabeth Marshall]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>74</unitid>
+						<unittitle>Joe and Joyce Martin</unittitle>
+						<unitdate label="Date">1974 - 1975</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: Joe and Joyce Martin: "Name in Lights," Starring Lowell Thomas [front of birthday card to L.T.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: Joe and Joyce Martin: Dear Mr. Thomas- I hope this reaches you in time for your birthday - April 6th&amp; [inside of birthday card to L.T.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: Joe and Joyce Martin: Martin Enterprises &amp; Associates [back of birthday card to L.T.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Joe and Joyce Martin: Executive Productions sign that reads "Happy Birthday"][Happy Birthday sign]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>75</unitid>
+						<unittitle>Mrs. Robert N. McKee [color photographs]</unittitle>
+						<unitdate label="Date">1963</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Mrs. Robert N. McKee (color photo): Two vases on table and plate mounted on the wall]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Mrs. Robert N. McKee (color photo): Two vases on table and plate mounted on the wall]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from Mrs. Robert N. McKee]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from Mrs. Robert N. McKee]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>76</unitid>
+						<unittitle>Harry H. Mead</unittitle>
+						<unitdate label="Date">1957</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Harry H. Mead: Man and woman standing together][Image that was attached to front of card]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: Seasons Greetings, from the Philippines</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [inside of card - letter to Lowell Thomas from Harry H. Mead</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>77</unitid>
+						<unittitle>Harold Meixell</unittitle>
+						<unitdate label="Date">1954</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Harold Meixell:]This group from Ashland, Ohio caught on hook and line 15 blaack sturgeon on the Goulair River just a short distance from Lake Superior, in 1953&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: This group from Ashland, Ohio caught on hook and line 15 blaack sturgeon on the Goulair River just a short distance from Lake Superior, in 1953&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Harold Meixell</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>78</unitid>
+						<unittitle>George T. Miller</unittitle>
+						<unitdate label="Date">1969</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[George T. Miller:]Official Portrait--Lieutenant General Lewis W. Walt, 05436, USMC, (winter services, uncovered).</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Official Portrait--Lieutenant General Lewis W. Walt, 05436, USMC, (winter services, uncovered).</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from George T. Miller]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>79</unitid>
+						<unittitle>Beaufort Mooramong</unittitle>
+						<unitdate label="Date">1956 - 1963</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Beaufort Mooramong:]1956 Olympics, Donald, Baroness Rhyklrunder[?], Baron Otto Rhylrunder (famous Swedish fencer) Mrs. Neil Ramsay Saunders, my father Stanley Addams Morramong</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: 1956 Olympics, Donald, Baroness Rhyklrunder[?], Baron Otto Rhylrunder (famous Swedish fencer) Mrs. Neil Ramsay Saunders, my father Stanley Addams Morramong</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Beaufort Mooramong:]1958, Baron + Baroness Otto Rhybrunder[?] Otto-Sammie; with my small poodle Mitze (now dead), with giant poodle Rags, our pool - Morramong</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: 1958, Baron + Baroness Otto Rhybrunder[?] Otto-Sammie; with my small poodle Mitze (now dead), with giant poodle Rags, our pool - Morramong</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Beaufort Mooramong:]Taken in March 1963; Claire Mackennan - Taken in back garden of town house 220 Domain Rd. South Garra, Melbourne</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Taken in March 1963; Claire Mackennan - Taken in back garden of town house 220 Domain Rd. South Garra, Melbourne</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: Beaufort Mooramong [Front of letter to Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note[PDF]: Beaufort Mooramong: [Inside of letter to Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Note[PDF]: Beaufort Mooramong [Back of letter to Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>80</unitid>
+						<unittitle>Don Mozley</unittitle>
+						<unitdate label="Date">1966</unitdate>
+						<container id="1617" type="box">1617</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Don Mozley:]Home of Lawrence of Arabia</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Home of Lawrence of Arabia</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Don S. Mozley, Sr. concerning the birthplace of Lawrenceof Arabia]</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1617 -->
+			<!-- Box 1618 -->
+			<c01>
+				<note>Box 1618</note>
+				<did>
+					<unitid>2.1.9.5</unitid>
+					<unittitle>Topical files 2</unittitle>
+				</did>
+				<c02 level="File">
+					<did>
+						<unitid>1</unitid>
+						<unittitle>Naomi Murray and Richard "Dick"&amp; Seldon</unittitle>
+						<unitdate label="Date">1962</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Richard "Dick"&amp; Seldon]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Naomi Murray]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from (Dick) R. Sheldon Murray &amp; Naomi]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from (Dick) R. Sheldon Murray &amp; Naomi]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note[PDF]: [Page 3 of letter to Lowell Thomas from (Dick) R. Sheldon Murray &amp; Naomi]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Note[PDF]: [Page 4 of letter to Lowell Thomas from (Dick) R. Sheldon Murray &amp; Naomi]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>2</unitid>
+						<unittitle>M - miscellaneous</unittitle>
+						<unitdate label="Date">1939 - circa 1954</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[M - miscellaneous: Two men and two women stadnign together in front of two cakes]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[M - miscellaneous: Man standing in front of building] Caption: Cordially Yours, Nums Jordy</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[M - miscellaneous: Little girl with hat and hand muff] Feb. 6-1939</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Feb. 6-1939</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>3</unitid>
+						<unittitle>Carlton S. Nash</unittitle>
+						<unitdate label="Date">1953 - 1957</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Carlton S. Nash of Nash Dinosaurland</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Carlton S. Nash: Entrance to house]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Carlton S. Nash: Lady working on stepping stones</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Carlton S. Nash: Stepping stones with dinosaur "foot" prints]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>4</unitid>
+						<unittitle>Donald W. Nass [includes photographs of Lowell Thomas] [color photographs]</unittitle>
+						<unitdate label="Date">1979 - 1980</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Donald W. Nass: Lowell Thomas standing between a man and a woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Donald W. Nass: Lowell Thomas standing next to a man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: Donald W. Nass: [letter to Lowell Thomas from Donald, Joyce + Bill Nass]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>5</unitid>
+						<unittitle>Captain Harry Newak [includes photographs of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1974 - 1980</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: Captain Harry Newark: [letter to Lowell Thomas from The Marine Society of the City of New York]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Captain Harry Newark:] April 11 1977 [Lowell Thomas speaking at a podium, banner that is hanging over crowd that reads "Marine Society of the City of New York Chartered 1770"]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: April 11 1977</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Captain Harry Newark:] V-Adm James Coluent USN; Capt Hoeuesh [?] Marine Society City of NY, April 11, 1977 Plaza NYC</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: V-Adm James Coluent USN; Capt Hoeuesh [?] Marine Society City of NY, April 11, 1977 Plaza NYC</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>6</unitid>
+						<unittitle>William G. O'Brien</unittitle>
+						<unitdate label="Date">1948 - 1954</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[William G. O'Brien:]New York - July 5/ 1954 presentation [?] - as wind up of his U.S. Tom. Which we made&amp;.[Three men standing together]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: New York - July 5/ 1954 presentation [?] - as wind up of his U.S. Tom. Which we made&amp;.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[William G. O'Brien: Man playing tennis]Cannes - Aug 1948</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Cannes - Aug 1948</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[William G. O'Brien: Man walking in Rome]Rome 1952</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Rome 1952</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from William G. O'Brien]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>7</unitid>
+						<unittitle>Oscar F. Olson</unittitle>
+						<unitdate label="Date">1957</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Oscar F. Olson: Portrait of a man]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: [Page 1 of letter to Lowell Thomas from Oscar F. Olson</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: [Page 2 of letter to Lowell Thomas from Oscar F. Olson</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>8</unitid>
+						<unittitle>Parker Pen Company</unittitle>
+						<unitdate label="Date">1953</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Parker Pen Company: Shadow boxes holding pens]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Parker Pen Company: People observing the pens of famous people ]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>9</unitid>
+						<unittitle>D. C. Paschke</unittitle>
+						<unitdate label="Date">1947</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[D.C. Paschke: Caption: Mums by Pashke. Cars parked on the side of the road, people picking up mums.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[D.C. Paschke: People gathered around mums. Sign that reads "Fulton Lewis, Jr. The New Chrysanthemum"]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Photos by Schubeck North East, Penna.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>10</unitid>
+						<unittitle>Pawling, New York (Frances Graber) [includes photographs of Lowell Thomas]</unittitle>
+						<unitdate label="Date">circa 1939</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Pawling, New York (Frances Graber): Men standing together, Lowell Thomas center]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Pawling, New York (Frances Graber):]Carroll Vacation 1939; Aug 5 - '39</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Carroll Vacation 1939; Aug 5 - '39</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Pawling, New York (Frances Graber): Three men standing together. Police officer at left, Lowell Thomas at right]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Pawling, New York (Frances Grabler): Group of men together on a baseball field for a picture]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note[PDF]: [letter to Mrs. Hogan from Francis Graber</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>11</unitid>
+						<unittitle>Edward Payne</unittitle>
+						<unitdate label="Date">1943</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Edward Payne: Looking out of a window]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Edward Payne: Dogs on snowy lawn]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>12</unitid>
+						<unittitle>Harry Raymond Pierce</unittitle>
+						<unitdate label="Date">1952</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Harry Raymond Pierce:]Caption: Scene on Ford Quadrangle</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>13</unitid>
+						<unittitle>Olive Nagel Porter</unittitle>
+						<unitdate label="Date">1963</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Olive Nagel Porter:]Caption: Rufus Porter; Old[?] Nagel Porter [sign: Yonder is Cripple Creek]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>14</unitid>
+						<unittitle>The Potter School [color photographs]</unittitle>
+						<unitdate label="Date">1963</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[The Potter School (color photo): Lowell Thomas on skiis with a woman]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[The Potter School (color photo): People on skiis]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>15</unitid>
+						<unittitle>Robert W. Pottschmidt [color photograph]</unittitle>
+						<unitdate label="Date">1980</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Robert W. Pottschmidt (color photo): Close-up of a man]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>16</unitid>
+						<unittitle>R. P. Probasco</unittitle>
+						<unitdate label="Date">1938</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[R.P. Probasco: Profile of man in hat and glasses]"Old Pro" 7/5/88</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: "Old Pro" 7/5/88 [38?]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>17</unitid>
+						<unittitle>Private James Norman Richardson</unittitle>
+						<unitdate label="Date">circa 1945</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Pvt. James Norman Richardson; CoE - 87th Mt. Inf.; A.P.O. 309 Fort Lewis; Tacoma Washington</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Pvt. James Norman Richardson; CoE - 87th Mt. Inf.; A.P.O. 309 Fort Lewis; Tacoma Washington</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>18</unitid>
+						<unittitle>M. Ritu Rana</unittitle>
+						<unitdate label="Date">1968</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[M. Ritu Rana: People walking around a city]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Andhra Bank</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[M. Ritu Rana: Palace (?)]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: (Audhra Pradesh) Assembly</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from M. Ritu Rana]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from M. Ritu Rana]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note[PDF]: [Page 3 of letter to Lowell Thomas from M. Ritu Rana]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>19</unitid>
+						<unittitle>Walter Orr Roberts</unittitle>
+						<unitdate label="Date">1965</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from Walter Orr Roberts]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from Walter Orr Roberts]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Walter Orr Roberts: Aerial view of land][Nov 29 1965]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Nov 29 1965</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Walter Orr Roberts: Aerial view of land][Nov 29 1965]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4-verso</unitid>
+							<unittitle>Verso: Nov 29 1965</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Walter Orr Roberts: Rolling hills][Nov 29 1965]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5-verso</unitid>
+							<unittitle>Verso: Nov 29 1965</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Walter Orr Roberts: Aerial view of land - mountains, large estate][Nov 29 1965]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6-verso</unitid>
+							<unittitle>Verso: Nov 29 1965</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>20</unitid>
+						<unittitle>Fred R. Robinson</unittitle>
+						<unitdate label="Date">1955</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Fred R. Robinson: Man holding shot deer]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Fred R. Robinson]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>21</unitid>
+						<unittitle>Nelson Rockefeller</unittitle>
+						<unitdate label="Date">1973</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Nelson Rockefeller: Lady on skiis]Caption: [semi-legible]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>22</unitid>
+						<unittitle>Louis A. Romanet, "Kabluk of the Eskimo"</unittitle>
+						<unitdate label="Date">1944</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Louis A. Romanet:]A lady from the land where people never grow old. - This is Mrs. Kabluk Romanov[?] of whom you speak in the book "Kabbuk of the Eskimo." She is 54 in the [?] this spring. 7 kids, married 37 years and a real add to the [?] and Kabluk's fair treatment</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: A lady from the land where people never grow old. - This is Mrs. Kabluk Romanov[?] of whom you speak in the book "Kabbuk of the Eskimo." She is 54 in the [?] this spring. 7 kids, married 37 years and a real add to the [?] and Kabluk's fair treatment</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Louis A. Romanet:]Kabluk at 64, and not over the hill yet. May/10/44</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Kabluk at 64, and not over the hill yet. May/10/44</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>23</unitid>
+						<unittitle>Harold Salisbury</unittitle>
+						<unitdate label="Date">1966</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Harold Salisbury: Three women and one man standing on sidewalk]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of First letter to Lowell Thomas from Harold Salisbury]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of First letter to Lowell Thomas from Harold Salisbury]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 1 of Second letter to Lowell Thomas from Harold Salisbury]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note[PDF]: [Page 2 of Second letter to Lowell Thomas from Harold Salisbury]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Note[PDF]: [Page 3 of Second letter to Lowell Thomas from Harold Salisbury]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Note[PDF]: [Page 4 of Second letter to Lowell Thomas from Harold Salisbury]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>Note[PDF]: [Page 5 of Second letter to Lowell Thomas from Harold Salisbury]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>Note[PDF]: [Page 6 of Second letter to Lowell Thomas from Harold Salisbury]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>24</unitid>
+						<unittitle>John R. Samuelson [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1952</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from John R. Samuelson]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from John R. Samuelson]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[John R. Samuelson:][Portrait of L.T. with picture of Washington Monument]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>25</unitid>
+						<unittitle>John Sandison [color photographs]</unittitle>
+						<unitdate label="Date">1979</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[John Sandison:]J. S., Patti Sandison, Debbie Boone, Pat Boone</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: J. S., Patti Sandison, Debbie Boone, Pat Boone</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[John Sandison:]Bob Hope, J. S.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Bob Hope, J. S.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from John Sandison]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>26</unitid>
+						<unittitle>Albert Sarber [color photograph]</unittitle>
+						<unitdate label="Date">1972</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Albert Sarber (color photo): A book on Lowell Thomas and a photo of Lowell Thomas sitting on an end table]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter and newspaper clipping sent to L.T. from Albert F. Sarber]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>27</unitid>
+						<unittitle>A. Schaefflin</unittitle>
+						<unitdate label="Date">1968</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Postcard] July 28/68 Dear Lowell- Spending 10 days in MK walking the Giant Area. Hope we can ski the great Bowls together next winter. Very Best Wishes, A[?] Schaefflin</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: July 28/68 Dear Lowell- Spending 10 days in MK walking the Giant Area. Hope we can ski the great Bowls together next winter. Very Best Wishes, A[?] Schaefflin</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>28</unitid>
+						<unittitle>Albert Schenlin</unittitle>
+						<unitdate label="Date">1957</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Albert Schenlin: Dog sitting in yard][Feb 1954]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Feb 1954</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>29</unitid>
+						<unittitle>A. H. Scott</unittitle>
+						<unitdate label="Date">1944</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Mr. + Mrs. A.H. Scott of Coleraine, Minn., with part of their Doll hobby - dolls that they make, and dress in costumes of people of other countries</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Mr. + Mrs. A.H. Scott of Coleraine, Minn., with part of their Doll hobby - dolls that they make, and dress in costumes of people of other countries</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>30</unitid>
+						<unittitle>Henry L. Scott Concerts</unittitle>
+						<unitdate label="Date">1953</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Henry L. Scott Concerts: Body of water and hills]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from Henry L. Scott]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from Henry L. Scott]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>31</unitid>
+						<unittitle>Harrison L. Scullion</unittitle>
+						<unitdate label="Date">1964</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Harrison L. Scullion: (written)]picture at right Turkish German + Austrian medal with from Cross Sphinx Tuskish Star + Cresent rising sun German field gun desert oldest ruins in the world at Ballbeck Syria under pillars is sacred [?] of Egypt Turkish German + Austrian coat of arms + 1916</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: picture at right Turkish German + Austrian medal with from Cross Sphinx Tuskish Star + Cresent rising sun German field gun desert oldest ruins in the world at Ballbeck Syria under pillars is sacred [?] of Egypt Turkish German + Austrian coat of arms + 1916</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Harrison L. Scullion]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>32</unitid>
+						<unittitle>Ed Seiler [color photographs]</unittitle>
+						<unitdate label="Date">1968 - circa 1971</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Ed Seiler (color photo): Body of water, pine trees, snowcapped mountains]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Ed Seiler (color photo): Body of water, pine trees, snowcapped mountains]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Aerial view of Enchanted Lake Lodge from the northwest (showing the main building and guest house. The road leads downhill to the plane dock and guarters for the help.) E.W. Seiler</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3-verso</unitid>
+							<unittitle>Verso: Aerial view of Enchanted Lake Lodge from the northwest (showing the main building and guest house. The road leads downhill to the plane dock and guarters for the help.) E.W. Seiler</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>33</unitid>
+						<unittitle>Bob Sheehan [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Bob Sheehan and Lowell Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: [letter to Lowell Thomas from Bob Sheehan]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>34</unitid>
+						<unittitle>Sasha Siemel</unittitle>
+						<unitdate label="Date">1950</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Jaguar] Dear Lowell, We again returned to the land of the big pussy-cats, but this time we intend to capture as many as possible alife and bring them back to U.S. Zoos next spring. Sincerely, Sasha Siemel</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Dear Lowell, We again returned to the land of the big pussy-cats, but this time we intend to capture as many as possible alife and bring them back to U.S. Zoos next spring. Sincerely, Sasha Siemel</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>35</unitid>
+						<unittitle>Edith and Howard Smith</unittitle>
+						<unitdate label="Date">1961</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Edith and Howard Smith]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>36</unitid>
+						<unittitle>Harry L. Smith [plane crash photographs]</unittitle>
+						<unitdate label="Date">1975 March</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Harry L. Smith]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Harry L. Smith: Wrecked airplane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>[Harry L. Smith: People standing by wrecked airplane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>[Harry L. Smith: Wrecked airplane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>[Harry L. Smith: Wrecked airplane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>[Harry L. Smith: Wrecked airplane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>[Harry L. Smith: Wrecked airplane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>8</unitid>
+							<unittitle>[Harry L. Smith: Wrecked airplane]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>9</unitid>
+							<unittitle>[Harry L. Smith: Wrecked airplane]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>37</unitid>
+						<unittitle>Frank Springer-Miller</unittitle>
+						<unitdate label="Date">1956</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Conveyed your hello to [?] who sends regards. Am making a tour of a half-dozen resorts. So far only fun, spring skiing, but suddenly cold today. Going to [?] Valley next, it looks like they are getting the [?] for 1960alright. Best Regards, Frank Springer-Miller</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso[PDF]: Conveyed your hello to [?] who sends regards. Am making a tour of a half-dozen resorts. So far only fun, spring skiing, but suddenly cold today. Going to [?] Valley next, it looks like they are getting the [?] for 1960alright. Best Regards, Frank Springer-Miller</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>38</unitid>
+						<unittitle>Glen M. Stadler</unittitle>
+						<unitdate label="Date">circa 1973</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>No - This isn't me, but ut us my station. When do you plan to visit these parts?</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: No - This isn't me, but ut us my station. When do you plan to visit these parts?</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>39</unitid>
+						<unittitle>Joanie Stadler [color photograph]</unittitle>
+						<unitdate label="Date">1980</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: The Stadlers have gone hog wild in wishing you a Happy Valentine's Day; Verso: Happiness is over a week of Colorado skiing - with only bruises! We were in Vail with old friends&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso[PDF]: Happiness is over a week of Colorado skiing - with only bruises! We were in Vail with old friends&amp;</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>40</unitid>
+						<unittitle>Yvonne H. Stevenson</unittitle>
+						<unitdate label="Date">1964</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Yvonne H. Stevenson: Woman looking at papers]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from Yvonne H. Stevenson]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from Yvonne H. Stevenson]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>41</unitid>
+						<unittitle>A. E. Strecker [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1952</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[A.E. Strecker:]From left to right: Maj. Howell, Maj Wible, Capt Crowley, Lt. Willon, Capt. Bradley, Lt. Michels, unidentified O.W.I. Man, Capt Leigh, Capt. Sandborn, Capt. Ruder. Maj. Strecker, and Lowell Thomas. Hotel Miramar Fedela. Fr. M. North Africa Apr-May 1945</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: From left to right: Maj. Howell, Maj Wible, Capt Crowley, Lt. Willon, Capt. Bradley, Lt. Michels, unidentified O.W.I. Man, Capt Leigh, Capt. Sandborn, Capt. Ruder. Maj. Strecker, and Lowell Thomas. Hotel Miramar Fedela. Fr. M. North Africa Apr-May 1945</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from A. T. [E.?] Strecker]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>42</unitid>
+						<unittitle>Kenneth Strumm [color photograph]</unittitle>
+						<unitdate label="Date">1978</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Kenneth Strumm (color photo): Framed picture of ship on water]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>43</unitid>
+						<unittitle>Mrs. John J. Sweeney</unittitle>
+						<unitdate label="Date">1945</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Mrs. John J. Sweeney:]Jack 11/19/43; F/O John J. Sweeney, Jr. T-7370. 7701 West Chester Pike Upper Darby, Pa.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Jack 11/19/43; F/O John J. Sweeney, Jr. T-7370. 7701 West Chester Pike Upper Darby, Pa.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: Mrs. John J. Sweeney: [Page 1 of letter to Lowell Thomas from Anne C. Sweeney]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: Mrs. John J. Sweeney: [Page 2-3 of letter to Lowell Thomas from Anne C. Sweeney]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: Mrs. John J. Sweeney: [Page 4 of letter to Lowell Thomas from Anne C. Sweeney]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>44</unitid>
+						<unittitle>S - Miscellaneous</unittitle>
+						<unitdate label="Date">circa 1938</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[S -Miscellaneous:]Caption: Butch [Boy sitting on bench, reading]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>45</unitid>
+						<unittitle>Nick J. Terzakis [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1949</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Nick proudly present the newly king of air crator Mr Thomas Lowell stanging [standing] in the Royal car of Queen Marie Prince Paul, Prince Carl and King Peter, Princess T Brahim of Cairo. This snap took place at Drake- Hotel photo by Nick J. Terzakis official April 1949</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Nick proudly present the newly king of air crator Mr Thomas Lowell stanging [standing] in the Royal car of Queen Marie Prince Paul, Prince Carl and King Peter, Princess T Brahim of Cairo. This snap took place at Drake- Hotel photo by Nick J. Terzakis official April 1949</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: Nick J. Terzakis: [back of postcard and envelope]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: Nick J. Terzakis: [front of postcard and back of envelope]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>46</unitid>
+						<unittitle>Tey Manufacturing Corporation</unittitle>
+						<unitdate label="Date">1950</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: Tey Manufacturing Corporation: [letter to Lowell Thomas from Art Hunt]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Tey Manufacturing Corporation: My two children, Judy and Artie, playing in the snow.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note: Tey Manufacturing Corporation: My two children, Judy and Artie, playing in the snow.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Tey Manufacturing Corporation: Skiis Taken with flashbulb soon after the maching was turned on.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>5</unitid>
+							<unittitle>Note: Tey Manufacturing Corporation: Taken with flashbulb soon after the maching was turned on.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>6</unitid>
+							<unittitle>Tey Manufacturing Corporation: Taken after few hours of running.</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>7</unitid>
+							<unittitle>Note: Tey Manufacturing Corporation: Taken after few hours of running.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>47</unitid>
+						<unittitle>Earl M. Thacker [color photograph]</unittitle>
+						<unitdate label="Date">1957</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Directions &amp; mileage to Earl Thacker &amp; Dickey Thacker's, Diamond T-Bar Ranch on Koko Crater-Oahu, Hawaii</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Directions &amp; mileage to Earl Thacker &amp; Dickey Thacker's, Diamond T-Bar Ranch on Koko Crater-Oahu, Hawaii</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Earl M. Thacker]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>48</unitid>
+						<unittitle>Henry A. Thomas [color photographs]</unittitle>
+						<unitdate label="Date">circa 1975</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Henry A. Thomas (color photo):]For Mr T. This is my new house. And the new car in the front, The Swimming Pool in the Rear. 3 Bedrooms, 2 stone Rooms, closets galore - HAT</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: For Mr T. This is my new house. And the new car in the front, The Swimming Pool in the Rear. 3 Bedrooms, 2 stone Rooms, closets galore - HAT</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Henry A. Thomas (color photo):]This is even better then my retreat at Lake g[G]regory 30 miles from here - HAT 12-11-74 [House]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: This is even better then my retreat at Lake gregory 30 miles from here - HAT 12-11-74</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [Page 1 of letter to Lowell Thomas from H. A. Thomas]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>4</unitid>
+							<unittitle>Note[PDF]: [Page 2 of letter to Lowell Thomas from H. A. Thomas]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>49</unitid>
+						<unittitle>Captain L. R. Thomas [color photograph]</unittitle>
+						<unitdate label="Date">circa 1970</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Captain L.R. Thomas (color photo):]Caption: Seasons Greetings from Okinawa; Tamara, Lowell II, Lowell + Lynn Thomas</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note: [address] Cpt. &amp; Mrs. L. R. Thomas</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>50</unitid>
+						<unittitle>Raymond Thornburg</unittitle>
+						<unitdate label="Date">1961</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from Raymond Thornberg [Thornburg?]]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Raymond Thornburg: Portrait of a man in glasses (Raymond Thornburg?)]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>51</unitid>
+						<unittitle>David H. Tilley</unittitle>
+						<unitdate label="Date">1978</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[David H. Tilley:]Home in Victor, Colorado, 1959</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from David. H. Tilley]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>52</unitid>
+						<unittitle>Ina and Sandy Treat [color photograph]</unittitle>
+						<unitdate label="Date">circa 1979</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Ina and Sandy Treat (color photo): Man holding a framed painting]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: Ina and Sandy Treat: [Page 1 of letter to Lowell Thomas from Sandy Treat, Sr.]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: Ina and Sandy Treat: [Page 2 of letter to Lowell Thomas from Sandy Treat, Sr.]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>53</unitid>
+						<unittitle>The Treats [color photograph]</unittitle>
+						<unitdate label="Date">1968</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Merry Christmas - Happy New Year - The Treats</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from the Treats]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>54</unitid>
+						<unittitle>J. David Truby</unittitle>
+						<unitdate label="Date">1973</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[J. David Truby:]Caption: Ground Lewis gun [Man holding a gun]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from J. David Truby]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>55</unitid>
+						<unittitle>Tyree [color photograph]</unittitle>
+						<unitdate label="Date">circa 1980</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Tyree (color photo):][photography that was attached to card]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Tyree (color photo)]Note: Merry Christmas and Happy New Year!</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>56</unitid>
+						<unittitle>T - Miscellaneous</unittitle>
+						<unitdate label="Date">circa 1950</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[T -miscellaneous:]Greetings! [?] and Happy Returns</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [T -miscellaneous:] [Page 1 of 2] Greetings! [?] and Happy Returns [Chrystine and Dick Trace?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>3</unitid>
+							<unittitle>Note[PDF]: [T -miscellaneous:] [Page 2 of 2] Greetings! [?] and Happy Returns [Chrystine and Dick Trace?]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>57</unitid>
+						<unittitle>James Van Nierkerk</unittitle>
+						<unitdate label="Date">circa 1965</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[James Van Nierkerk: Man holding a shot crocodile:]This croc was just shot</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: This croc was just shot</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>58</unitid>
+						<unittitle>Char Vincent [includes photograph of Lowell Thomas] [color photograph]</unittitle>
+						<unitdate label="Date">1957</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Char Vicnent (color photo): Three men sitting on a boat on land, Lowell Thomas center][Lowe] &amp;ll Thomas; &amp;ndro Limey; Canaima Lake 10/5/59</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: [Lowe] &amp;ll Thomas; &amp;ndro Limey; Canaima Lake 10/5/59</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Char. Vincent</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2-verso</unitid>
+							<unittitle>Verso: Char. Vincent</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>59</unitid>
+						<unittitle>Allen Wallis [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1972</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Allen Wallis:]Lowell Thomas with a couple of his renegade pals</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from W. Allen Wallis, Chancellor of The University of Rochester]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>60</unitid>
+						<unittitle>Charles Perry Weimar [color photograph]</unittitle>
+						<unitdate label="Date">1978</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Charles Perry Wiemar:]Dear Lowell: Don't hear much of you lately. Wrote a month or so back and informed you of my double pneumonia and it's results and Marcia's Double Pass. And this January . She fell on white decerative stine at a Dog Hospital and broke her hip&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>1-verso</unitid>
+							<unittitle>Verso: Dear Lowell: Don't hear much of you lately. Wrote a month or so back and informed you of my double pneumonia and it's results and Marcia's Double Pass. And this January . She fell on white decerative stine at a Dog Hospital and broke her hip&amp;</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[Charles Perry Wiemar:]Note: [envelope]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>61</unitid>
+						<unittitle>Elbert and Uma Wickes [color photograph]</unittitle>
+						<unitdate label="Date">1975</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Caption: Merry Christmas, Our house to your house; Elbert and Una Wickes</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>Verso: Christmas, 1974</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>62</unitid>
+						<unittitle>C. Bruce Wright [includes photograph of Lowell Thomas]</unittitle>
+						<unitdate label="Date">1970</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>Note[PDF]: [letter to Lowell Thomas from C. Bruce Wright]</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>2</unitid>
+							<unittitle>[C. Bruce Wright: Crowd of people]</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="File">
+					<did>
+						<unitid>63</unitid>
+						<unittitle>Takashi Yoshimoto</unittitle>
+						<unitdate label="Date">1962</unitdate>
+						<container id="1618" type="box">1618</container>
+					</did>
+					<c03 level="item">
+						<did>
+							<unitid>1</unitid>
+							<unittitle>[Takashi Yoshimoto]</unittitle>
+						</did>
+					</c03>
+				</c02>
+
+			</c01>
+			<!-- End 1618 -->
+		</dsc>
+	</archdesc>
+</ead>

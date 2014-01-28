@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.2.xsl"?>
+ 
+<ead>
+
+<!-- Header Portion of EAD --> 
+	
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">MMM</eadid>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Nichols Slides</titleproper>
+			<author>Marist Archives and Special Collections</author>
+		</titlestmt>	
+		
+		<publicationstmt> 
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601 </addressline>
+				</address>
+		</publicationstmt>
+	</filedesc>
+</eadheader>
+
+<!-- Archival Description portion of EAD -->
+
+<archdesc level="subseries">
+	<did>
+		<unitid countrycode="us" repositorycode="MMM">2.1.2.4.28</unitid>
+		<unittitle>Nichols Slides</unittitle>
+		<unitdate type="inclusive"> 	</unitdate>
+		<physdesc>
+			<extent></extent>
+		</physdesc>
+		<repository>
+			<corpname>Marist College</corpname>
+		</repository>
+		<abstract level="abstract">MMM</abstract>
+		<langmaterial>
+			<language langcode="eng">English</language>
+		</langmaterial>
+	</did>
+	<scopecontent>
+	<p>MMM</p>
+	</scopecontent>
+	
+	<accessrestrict>
+	<p>MMM</p>
+	</accessrestrict>
+			
+	<userestrict>
+	<p>MMM</p>
+	</userestrict>
+	
+<!-- Components Description of EAD -->
+	<dsc type="combined">
+	<!-- Box 1411 -->
+<c01>
+<note>Box 1411</note>
+<did>
+<unitid>2.1.2.4.28</unitid>
+<unittitle>Nichols Slides</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 37	
+</unitid>
+<unittitle>Railroad tracks en route from Tacoma to Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1411" type="box">1411</container>
+<materialspec label="index">42	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 38	
+</unitid>
+<unittitle>On the road to the National Park Inn, Mount Rainier National Park, Washington State 	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1411" type="box">1411</container>
+<materialspec label="index">44	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1411 -->
+<!-- Box 1412 -->
+<c01>
+<note>Box 1412</note>
+<did>
+<unitid>2.1.2.4.28</unitid>
+<unittitle>Nichols Slides</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>National Park Inn, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">45	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Club house, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">46	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>Interior of club house, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">47	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Leaving the inn for the Camp of the Clouds, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">50	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>On Paradise Road below glacier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">51	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Below Nisqually Glacier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">52	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Group picture at Nisqually Glacier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">53	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Government Road, Ricksecker Point, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">54	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Mount Rainier from Ricksecker Point, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">55	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Ghost trees and Mount Rainier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">58	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Paradise Park from upper point of road, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">60	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>Avalanche lilies, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">61	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Avalanche lilies, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">62	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Camp of the Clouds, Heather Slope, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">63	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Wild heliotrope, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">65	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Mount Rainier framed, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">66	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Camp of the Clouds and Mount Rainier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">67	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Shooting stars, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">68	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Coasting, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">69	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 20	
+</unitid>
+<unittitle>Paradise Glacier above falls, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">70	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 21	
+</unitid>
+<unittitle>Stevens Glacier and east end of Tatoosh Range, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">71	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 22	
+</unitid>
+<unittitle>Altavista and Tatoosh, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">72	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 23	
+</unitid>
+<unittitle>East side of Mount Rainier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">75	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 24	
+</unitid>
+<unittitle>Nisqually Glacier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">76	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 25	
+</unitid>
+<unittitle>Crevasse in Nisqually Glacier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">77	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 26	
+</unitid>
+<unittitle>Cascades in Nisqually Glacier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">78	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 27	
+</unitid>
+<unittitle>In a crevasse, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">80	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 28	
+</unitid>
+<unittitle>Measuring the flow, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">81	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 29	
+</unitid>
+<unittitle>Climbing the Gibraltar Chute, Mount Rainier National Park, Washington State 	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">82	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 30	
+</unitid>
+<unittitle>Nearing the summit, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">83	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 31	
+</unitid>
+<unittitle>Inside the crater, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">84	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 32	
+</unitid>
+<unittitle>Indian basket grass, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">85	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 33	
+</unitid>
+<unittitle>Climbing Unicorn Peak in Tatoosh, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">86	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 34	
+</unitid>
+<unittitle>On the trail to Van Trump Park, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">87	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 35	
+</unitid>
+<unittitle>Comet Falls, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">89	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 36	
+</unitid>
+<unittitle>Philemon Beecher Van Trump, first to climb Mount Rainier	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1412" type="box">1412</container>
+<materialspec label="index">90	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1412 -->
+<!-- Box 1413 -->
+<c01>
+<note>Box 1413</note>
+<did>
+<unitid>2.1.2.4.28</unitid>
+<unittitle>Nichols Slides</unittitle>
+</did>
+
+<c02 level="item">
+<did>
+<unitid> 1	
+</unitid>
+<unittitle>Crevasse in Tahoma Glacier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">93	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 2	
+</unitid>
+<unittitle>Indian Henry’s Trail, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">94	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 3	
+</unitid>
+<unittitle>White rhododendrons, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">95	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 4	
+</unitid>
+<unittitle>Indian Henry’s hunting ground, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">96	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 5	
+</unitid>
+<unittitle>Mount Rainier from Indian Henry’s, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">97	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 6	
+</unitid>
+<unittitle>Tent Hotel at Indian Henry’s, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">98	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 7	
+</unitid>
+<unittitle>Sunset at Indian Henry’s, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">99	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 8	
+</unitid>
+<unittitle>Sierra Club campfire, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 9	
+</unitid>
+<unittitle>Mount Rainier, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 10	
+</unitid>
+<unittitle>Mount Rainier, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 11	
+</unitid>
+<unittitle>Mount Rainier, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 12	
+</unitid>
+<unittitle>View from ridge, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 13	
+</unitid>
+<unittitle>Stevens Glacier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 14	
+</unitid>
+<unittitle>Sierra Club on Nisqually Glacier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 15	
+</unitid>
+<unittitle>Tahoma Glacier, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 16	
+</unitid>
+<unittitle>Registering at park entrance, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 17	
+</unitid>
+<unittitle>Horseshoe Curve, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 18	
+</unitid>
+<unittitle>Resting on slope in Van Trump Park, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+<c02 level="item">
+<did>
+<unitid> 19	
+</unitid>
+<unittitle>Indian basket grass, Mount Rainier National Park, Washington State	
+</unittitle>
+<unitdate label="Date">circa early 1900s	
+</unitdate>
+<container id="1413" type="box">1413</container>
+<materialspec label="index">	
+</materialspec>
+<physdesc>
+<extent unit="inches">3x4	
+</extent>
+<physfacet type="color">color</physfacet>
+</physdesc>
+</did>
+</c02>
+
+
+</c01>
+<!-- End 1413 -->
+
+	</dsc>
+	</archdesc>
+	</ead>	

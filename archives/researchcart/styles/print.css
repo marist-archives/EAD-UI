@@ -1,0 +1,40 @@
+#cartTablePad {
+	visibility: visible;
+	text-align: center;
+	margin-top: 20px;
+}
+
+table#cartItemsPad {
+	
+	border: 1px solid;
+}
+
+
+
+table#cartItemsPad td {
+
+	border: 1px solid;
+}
+
+table#cartItemsPad th {
+
+	border: 1px solid;
+}
+
+
+.noScreen {
+	visibility: visible;
+	width: 100%;
+	text-align: justify;
+}
+
+#cartHeadingPad {
+	text-align: center;
+	white-space: nowrap;
+}
+
+#header, #menu, #cart, #alternateOption, #backDrop, #copyButton, #printButton {
+	display: none;	
+}
+
+

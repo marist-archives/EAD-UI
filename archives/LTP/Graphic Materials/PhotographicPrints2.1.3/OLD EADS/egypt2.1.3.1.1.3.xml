@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/style2.1.3.xsl"?>
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid countrycode="us" mainagencycode="MMM" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Graphic%20Materials/PhotographicPrints2.1.3/egypt2.1.3.1.1.3.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Egypt</titleproper>
+<author>Marist Archives and Special Collections</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Marist Archives and Special Collections</publisher>
+<address>
+<addressline>3399 North Road</addressline>
+<addressline>Poughkeepsie, New York - 12601 </addressline>
+</address>
+</publicationstmt>
+</filedesc>
+</eadheader>
+<!-- Archival Description portion of EAD -->
+<archdesc level="subseries">
+<did>
+<unitid countrycode="us" repositorycode="MMM">2.1.3.1.1.3</unitid>
+<unittitle>Egypt</unittitle>
+<unitdate type="inclusive"></unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+<repository>
+<corpname>Marist College</corpname>
+</repository>
+<abstract level="abstract">MMM</abstract>
+<langmaterial>
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<scopecontent>
+<p>MMM</p>
+</scopecontent>
+<accessrestrict>
+<p>MMM</p>
+</accessrestrict>
+<userestrict>
+<p>MMM</p>
+</userestrict>
+<!-- Components Description of EAD -->
+<dsc type="combined">
+
+<!-- Box 1496 -->
+<c01>
+<note>Box 1496</note>
+<did>
+<unitid>2.1.3.1.1.3</unitid>
+<unittitle>Egypt</unittitle>
+</did>
+
+<c02 level="File">
+<did>
+<unitid>1</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British soldier on donkey at Sphinx with Great Pyramid of Giza in background	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>2</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Man standing at Sphinx and Great Pyr5amid of Giza at sunset, smaller pyramid in background	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>3</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Airplane and corner of Cairo from air [aerial view]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>4</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Heliopolis, close-up, best view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>5</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas on camel paying Egyptian in front of Sphinx, Great Pyramid of Giza in background	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>6</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas on camel in front of Sphinx with hat pushed back, Great Pyramid of Giza in background	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>7</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Cheops pyramid from airplane (aerial view)	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Note: The Great Pyramid from an airplane. In With Allenby in Palestine at the Tremont Temple, Lowell Thomas takes his audiences by airplane from Egypt to Palestine. It took the Israelites 40 years but Lowell Thomas flew across the Wilderness of Sinai in 40 minutes	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>8</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Cheops pyramid from the airplane [aerial view]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>9</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Hotel at Heliopolis, Royal Air Force headquarters	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>10</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Sphinx and Great Pyramid of Giza with crowd in front	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>11</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Pyramid, palm trees and men sitting in the foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>12</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Pyramid and double palm trees in center	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>13</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Three Great Pyramids of Giza and two palm trees on left	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>14</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas and two officers in front of Sphinx, Great Pyramid of Giza in background	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>[no description]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>15</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas and two officers in front of Sphinx, Great Pyramid of Giza in background	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>16</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Pyramids, trolley line, men on donkeys at sunset	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>17</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Veiled woman of Arabia [With Lawrence in Arabia caption:  Types of city head-dress for women]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>18</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Four little Armenian children	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>19</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Cross looking little Armenian girl with scraggly hair	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>20</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Two Armenian men and old woman	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>21</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Old Armenian	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>22</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Two Australian soldiers watch Armenian women sew at a refugee camp	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>23</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Model ships	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>24</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Ship models	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>25</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Indians eating on street lined with tents	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>26</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Indian in profile wearing headdress	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>27</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Indian camp street, ship in background	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>28</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Sailboat in Suez Canal at sunset, best view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>29</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Well of Moses, Harry Chase and two others standing near edge	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>30</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Three soldiers in desert trench near Well of Moses	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>31</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Well of Moses, Lowell Thomas and three soldiers eating lunch	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>32</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Well of Moses, distant view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>33</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Winding trench, soldier in center	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>34</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Soldiers sitting at table in front of Y.M.C.A. tent, woman standing at center, Suez, close-up	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>35</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Pyramid, double palm tree, no people	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>36</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>British soldier putting head through palm fronds	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>37</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Second Black Watch at Ismalia	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>38</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Saladin's citadel, Cairo	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>39</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Captain Guy Smith wearing costume of the Maldives Islands where he was held captive	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>40</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Lowell Thomas and donkey, palace of governor in Khartown	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Note: L.T. on a jack-ass riding forth from the gat of His Majesty, the Governor-General of the Sudan	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>41</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Governor's carriage in front of Khartown mosque	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>42</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Sudan, holy man	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>43</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Sudanese soldier saluting	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>44</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Men sitting on street, man standing with basket on head	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>45</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Statue of Charles George Gordon on camel	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>2</unitid>
+<unittitle>Note: The famous statue of General Charles "Chinese" Gordon, hero of the War with the Sudanese, in which Gordon lost his head. This statue stands in the city of Khartoum	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>46</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>A Sudan train	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>47</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>View from airplane of Port Said [?] (aerial view)	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>48</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Sudan sandstorm [With Lawrence in Arabia caption:  sand storm rolling down on Khartoum]	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso: Lawer: The approach of a sandstorm. Above= The city of Port Said + the northern end of the Suez Canal	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>49</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Port Said entrance to canal, view from top of lighthouse	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>50</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Port Said entrance to canal, view from top of lighthouse (same as 3-106, but not as good)	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>51</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Egyptian soldier approaching statue of Ferdinand de Lesseps in distances, best view	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>52</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Statue of Ferdinand de Lesseps, child approaching camera in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>53</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Statue of Ferdinand de Lesseps, side view of Egyptian policeman in foreground	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>54</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Statue of Ferdinand de Lesseps, Egyptian policeman in foreground looking at camera	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>55</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Statue of Ferdinand de Lesseps, close-up, best picture	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>56</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918 February 2	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Airplane on ground with pilot in front cockpit and Lowell Thomas operating a Graphlex camera standing in the rear cockpit	
+</unittitle>
+</did>
+</c03>
+<c03 level="item">
+<did>
+<unitid>1-verso</unitid>
+<unittitle>Verso: Leaving the aerodrome at Heliopolis, Egypt for a flight over the Pyramids, Nile and Cairo. British aeroplane piloted by Capt. Emmet of South Africa. It made a speed of 85 miles per hour - we were up for an hour - the engine was a 140 horse power type - ready to film a spinning nose dive over the Pyramids	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>57</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Sailboat on the Suez Canal [?]	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>58</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1918	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Tents of troops arriving from India, Suez	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02 level="File">
+<did>
+<unitid>59</unitid>
+<unittitle>Egypt	
+</unittitle>
+<unitdate label="Date">1921	
+</unitdate>
+<container id="1496" type="box">1496</container>
+</did>
+<c03 level="item">
+<did>
+<unitid>1</unitid>
+<unittitle>Winston Churchill, Gertrude Bell, T. E. Lawrence and others sit on camels before the Sphinx and the Great Pyramids of Giza	
+</unittitle>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+<!-- End 1496 -->
+</dsc>
+</archdesc>
+</ead>
